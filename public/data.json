@@ -1,0 +1,27 @@
+{
+  "_note": "Illustrative placeholder data. Replace scoreRankTable and colleges below with real published figures. See README.md.",
+  "scoreRankTable": [
+    [720, 1], [710, 60], [700, 220], [690, 500], [680, 950],
+    [670, 1600], [660, 2600], [650, 3900], [640, 5600], [630, 7700],
+    [620, 10300], [610, 13500], [600, 17400], [590, 22000], [580, 27600],
+    [570, 34200], [560, 42000], [550, 51000], [540, 61500], [530, 73500],
+    [520, 87200], [510, 102500], [500, 120000], [490, 139000], [480, 160000],
+    [470, 183000], [460, 208000], [450, 236000], [440, 266000], [430, 299000],
+    [420, 335000], [410, 374000], [400, 416000], [390, 461000], [380, 510000],
+    [370, 562000], [360, 618000], [350, 678000], [340, 742000], [330, 810000],
+    [320, 882000], [310, 958000], [300, 1038000], [280, 1200000], [260, 1370000],
+    [240, 1550000], [220, 1740000], [200, 1940000], [0, 2100000]
+  ],
+  "colleges": [
+    { "name": "AIIMS, New Delhi", "quota": "AIQ", "state": null, "cutoffs": { "General": 80, "EWS": 120, "OBC": 150, "SC": 600, "ST": 900, "PwD": 1200 } },
+    { "name": "Maulana Azad Medical College, Delhi", "quota": "AIQ", "state": null, "cutoffs": { "General": 150, "EWS": 250, "OBC": 300, "SC": 1200, "ST": 2000, "PwD": 2600 } },
+    { "name": "Lady Hardinge Medical College, Delhi", "quota": "AIQ", "state": null, "cutoffs": { "General": 500, "EWS": 800, "OBC": 950, "SC": 3200, "ST": 5200, "PwD": 6000 } },
+    { "name": "King George's Medical University, Lucknow", "quota": "State", "state": "Uttar Pradesh", "cutoffs": { "General": 2500, "EWS": 4200, "OBC": 5800, "SC": 22000, "ST": 38000, "PwD": 9000 } },
+    { "name": "Grant Government Medical College, Mumbai", "quota": "State", "state": "Maharashtra", "cutoffs": { "General": 1800, "EWS": 3200, "OBC": 4600, "SC": 19000, "ST": 33000, "PwD": 7000 } },
+    { "name": "Bangalore Medical College & RI", "quota": "State", "state": "Karnataka", "cutoffs": { "General": 2200, "EWS": 3800, "OBC": 5200, "SC": 21000, "ST": 36000, "PwD": 8500 } },
+    { "name": "Government Medical College, Kozhikode", "quota": "State", "state": "Kerala", "cutoffs": { "General": 2600, "EWS": 4400, "OBC": 6000, "SC": 24000, "ST": 40000, "PwD": 9500 } },
+    { "name": "Stanley Medical College, Chennai", "quota": "State", "state": "Tamil Nadu", "cutoffs": { "General": 3000, "EWS": 5000, "OBC": 7000, "SC": 26000, "ST": 42000, "PwD": 10000 } },
+    { "name": "Government Medical College, Patiala", "quota": "State", "state": "Punjab", "cutoffs": { "General": 3500, "EWS": 5800, "OBC": 8000, "SC": 28000, "ST": 45000, "PwD": 11000 } },
+    { "name": "Netaji Subhas Chandra Bose Medical College, Jabalpur", "quota": "State", "state": "Madhya Pradesh", "cutoffs": { "General": 4200, "EWS": 6800, "OBC": 9200, "SC": 31000, "ST": 48000, "PwD": 12500 } }
+  ]
+}
