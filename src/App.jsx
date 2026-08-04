@@ -1,5 +1,5 @@
-import { useState, useRef, useEffect, useCallback } from "react";
-import { Send, RotateCcw, Info, X, ShieldCheck, Check } from "lucide-react";
+import { useState, useRef, useEffect, useCallback, useMemo } from "react";
+import { Send, RotateCcw, Info, X, ShieldCheck, Check, Search, Share2, Download, Copy } from "lucide-react";
 
 /* ============================================================
    DATA
@@ -170,18 +170,46 @@ function EmptyResultState() {
   );
 }
 
-function RankCard({ score, category, stateSel, air, matches, revealed }) {
+function RankCard({ score, category, stateSel, air, allMatches, revealed, onShare, onDownload, shareState }) {
   const count = useCountUp(air, revealed);
+  const [query, setQuery] = useState("");
+
+  const filtered = useMemo(() => {
+    const q = query.trim().toLowerCase();
+    const base = q ? allMatches : allMatches.slice(0, 7);
+    return q ? base.filter((c) => c.name.toLowerCase().includes(q)) : base;
+  }, [query, allMatches]);
+
   return (
     <div className={`card card--result ${revealed ? "card--revealed" : ""}`}>
       <div className="card__header">
         <span className="t-eyebrow">Estimated rank card</span>
-        <span className="seal" aria-hidden="true">
-          <svg viewBox="0 0 60 60" className="seal__ring">
-            <circle cx="30" cy="30" r="27" />
-          </svg>
-          <ShieldCheck size={16} strokeWidth={1.75} />
-        </span>
+        <div className="card__header-actions">
+          <button
+            type="button"
+            className="icon-btn icon-btn--light"
+            onClick={onShare}
+            aria-label="Copy shareable link"
+            title="Copy shareable link"
+          >
+            {shareState === "copied" ? <Check size={15} /> : <Share2 size={15} />}
+          </button>
+          <button
+            type="button"
+            className="icon-btn icon-btn--light"
+            onClick={onDownload}
+            aria-label="Download result as text"
+            title="Download result"
+          >
+            <Download size={15} />
+          </button>
+          <span className="seal" aria-hidden="true">
+            <svg viewBox="0 0 60 60" className="seal__ring">
+              <circle cx="30" cy="30" r="27" />
+            </svg>
+            <ShieldCheck size={16} strokeWidth={1.75} />
+          </span>
+        </div>
       </div>
 
       <div className="card__body">
@@ -205,9 +233,29 @@ function RankCard({ score, category, stateSel, air, matches, revealed }) {
 
         <div className="divider" />
 
-        <span className="t-caption card__section-label">Colleges within reach</span>
+        <div className="college-list-header">
+          <span className="t-caption card__section-label">
+            Colleges within reach {allMatches.length > 7 ? `(${allMatches.length} total)` : ""}
+          </span>
+          <div className="search-field">
+            <Search size={13} className="search-field__icon" aria-hidden="true" />
+            <input
+              type="text"
+              value={query}
+              onChange={(e) => setQuery(e.target.value)}
+              placeholder="Search colleges…"
+              aria-label="Search colleges"
+            />
+          </div>
+        </div>
+
         <ul className="college-list">
-          {matches.map((c, i) => (
+          {filtered.length === 0 && (
+            <li className="college-row college-row--empty">
+              <span className="t-body" style={{ margin: 0 }}>No colleges match "{query}".</span>
+            </li>
+          )}
+          {filtered.map((c, i) => (
             <li key={c.name} className="college-row" style={{ animationDelay: `${140 + i * 55}ms` }}>
               <div className="college-row__main">
                 <span className="college-row__name">{c.name}</span>
@@ -275,20 +323,50 @@ export default function App() {
   const [air, setAir] = useState(null);
   const [showInfo, setShowInfo] = useState(false);
   const [loaded, setLoaded] = useState(false);
+  const [shareState, setShareState] = useState("idle");
 
   const scrollRef = useRef(null);
   const resultRef = useRef(null);
 
   useEffect(() => {
+    let loadedData = FALLBACK_DATA;
     fetch(DATA_URL)
       .then((r) => (r.ok ? r.json() : Promise.reject(new Error(`${r.status}`))))
-      .then((json) => setData(json))
+      .then((json) => {
+        loadedData = json;
+        setData(json);
+      })
       .catch(() => setData(FALLBACK_DATA))
       .finally(() => {
-        setMessages([
-          { from: "bot", text: "Namaste! I'll estimate your NEET All-India Rank and colleges within reach." },
-          { from: "bot", text: "What score did you get, out of 720?" },
-        ]);
+        // Shared-link support: if the URL carries ?score=&category=&state=,
+        // skip straight to a filled-in result instead of the chat flow.
+        const params = new URLSearchParams(window.location.search);
+        const sharedScore = Number(params.get("score"));
+        const sharedCategory = params.get("category");
+        const sharedState = params.get("state");
+        const validShare =
+          sharedScore && !Number.isNaN(sharedScore) && sharedScore >= 0 && sharedScore <= 720 &&
+          CATEGORIES.includes(sharedCategory) &&
+          STATES.includes(sharedState);
+
+        if (validShare) {
+          setScore(sharedScore);
+          setCategory(sharedCategory);
+          setStateSel(sharedState);
+          setAir(estimateRank(sharedScore, loadedData.scoreRankTable));
+          setMessages([
+            { from: "bot", text: "Namaste! Loaded a shared rank estimate." },
+            { from: "user", text: `${sharedScore} / 720` },
+            { from: "user", text: sharedCategory },
+            { from: "user", text: sharedState },
+          ]);
+          setStep("done");
+        } else {
+          setMessages([
+            { from: "bot", text: "Namaste! I'll estimate your NEET All-India Rank and colleges within reach." },
+            { from: "bot", text: "What score did you get, out of 720?" },
+          ]);
+        }
         requestAnimationFrame(() => setLoaded(true));
       });
   }, []);
@@ -341,6 +419,7 @@ export default function App() {
   }
 
   function restart() {
+    window.history.replaceState({}, "", window.location.pathname);
     setMessages([{ from: "bot", text: "New estimate — what score did you get, out of 720?" }]);
     setStep("score");
     setScoreText("");
@@ -349,6 +428,7 @@ export default function App() {
     setCategory(null);
     setStateSel(null);
     setAir(null);
+    setShareState("idle");
   }
 
   if (!data) {
@@ -360,14 +440,54 @@ export default function App() {
     );
   }
 
-  const matches =
+  const allMatches =
     step === "done"
       ? data.colleges
           .filter((c) => c.quota === "AIQ" || c.state === stateSel)
           .map((c) => ({ ...c, cutoff: c.cutoffs[category], like: likelihood(air, c.cutoffs[category]) }))
           .sort((a, b) => a.cutoff - b.cutoff)
-          .slice(0, 7)
       : [];
+
+  function handleShare() {
+    const url = new URL(window.location.href);
+    url.search = new URLSearchParams({ score: String(score), category, state: stateSel }).toString();
+    const shareUrl = url.toString();
+    window.history.replaceState({}, "", shareUrl);
+    const copy = () => {
+      setShareState("copied");
+      setTimeout(() => setShareState("idle"), 1800);
+    };
+    if (navigator.clipboard?.writeText) {
+      navigator.clipboard.writeText(shareUrl).then(copy).catch(copy);
+    } else {
+      copy();
+    }
+  }
+
+  function handleDownload() {
+    const lines = [
+      "NEET Rank Estimator — Result (Unofficial)",
+      "==========================================",
+      `Score: ${score}/720`,
+      `Category: ${category}`,
+      `Domicile: ${stateSel}`,
+      `Estimated All-India Rank: ~${fmt(air)}`,
+      "",
+      "Colleges within reach:",
+      ...allMatches.map((c) => `  - ${c.name} (${c.quota}) — cutoff ~${fmt(c.cutoff)} — ${c.like.label}`),
+      "",
+      "Note: illustrative placeholder data, not official NTA/MCC figures.",
+    ];
+    const blob = new Blob([lines.join("\n")], { type: "text/plain" });
+    const url = URL.createObjectURL(blob);
+    const a = document.createElement("a");
+    a.href = url;
+    a.download = `neet-rank-estimate-${score}.txt`;
+    document.body.appendChild(a);
+    a.click();
+    a.remove();
+    URL.revokeObjectURL(url);
+  }
 
   return (
     <div className={`neet-app ${loaded ? "is-loaded" : ""}`}>
@@ -475,8 +595,11 @@ export default function App() {
               category={category}
               stateSel={stateSel}
               air={air}
-              matches={matches}
+              allMatches={allMatches}
               revealed={step === "done"}
+              onShare={handleShare}
+              onDownload={handleDownload}
+              shareState={shareState}
             />
           )}
         </section>
@@ -571,6 +694,17 @@ function GlobalStyle() {
       .layout { max-width: 1040px; margin: 0 auto; padding: 24px; display: grid; grid-template-columns: 1fr; gap: 20px; }
       @media (min-width: 880px) { .layout { grid-template-columns: 1fr 1.05fr; align-items: start; } }
 
+      @media (max-width: 480px) {
+        .layout { padding: 14px; gap: 14px; }
+        .app-header__inner { padding: 16px 16px 12px; }
+        .card--chat { height: 62vh; min-height: 380px; }
+        .search-field input { width: 110px; }
+        .search-field input:focus { width: 140px; }
+        .college-list-header { flex-direction: column; align-items: flex-start; }
+        .search-field { align-self: stretch; }
+        .search-field input { width: 100%; }
+      }
+
       /* Card base */
       .card { background: var(--surface); border: 1px solid var(--line); border-radius: var(--radius-lg); box-shadow: var(--shadow-sm); }
 
@@ -632,7 +766,18 @@ function GlobalStyle() {
       .card--result { overflow: hidden; }
       .card__header { display: flex; align-items: center; justify-content: space-between; padding: 14px 20px; background: var(--ink-900); }
       .card__header .t-eyebrow { color: rgba(255,255,255,.65); }
+      .card__header-actions { display: flex; align-items: center; gap: 4px; }
+      .icon-btn--light { color: rgba(255,255,255,.65); }
+      .icon-btn--light:hover { background: rgba(255,255,255,.12); color: #fff; }
       .card__body { padding: 22px 20px; }
+
+      .college-list-header { display: flex; align-items: center; justify-content: space-between; gap: 10px; margin-bottom: 10px; flex-wrap: wrap; }
+      .college-list-header .card__section-label { margin-bottom: 0; }
+      .search-field { position: relative; flex-shrink: 0; }
+      .search-field__icon { position: absolute; left: 9px; top: 50%; transform: translateY(-50%); color: var(--ink-400); pointer-events: none; }
+      .search-field input { width: 150px; font-size: 12.5px; padding: 6px 10px 6px 28px; border: 1.5px solid var(--line-strong); border-radius: var(--radius-full); background: var(--surface); color: var(--ink-900); transition: border-color var(--d2) var(--ease-out), width var(--d2) var(--ease-out); }
+      .search-field input:focus { outline: none; border-color: var(--ink-900); width: 190px; }
+      .college-row--empty { justify-content: center; padding: 16px 12px; opacity: 1; animation: none; }
 
       .seal { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; color: #fff; position: relative; }
       .seal__ring { position: absolute; inset: 0; width: 100%; height: 100%; }
@@ -648,7 +793,9 @@ function GlobalStyle() {
 
       .card__section-label { margin-bottom: 10px; }
 
-      .college-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 7px; }
+      .college-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 7px; max-height: 340px; overflow-y: auto; }
+      .college-list::-webkit-scrollbar { width: 6px; }
+      .college-list::-webkit-scrollbar-thumb { background: var(--line-strong); border-radius: 4px; }
       .college-row { display: flex; align-items: center; justify-content: space-between; gap: 10px; padding: 10px 12px; background: var(--surface-sunken); border-radius: var(--radius-sm); opacity: 0; animation: rowIn var(--d3) var(--ease-out) forwards; transition: background var(--d2); }
       .college-row:hover { background: var(--line); }
       @keyframes rowIn { from { opacity: 0; transform: translateX(-4px); } to { opacity: 1; transform: translateX(0); } }
