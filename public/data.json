@@ -1,5 +1,5 @@
 {
-  "_note": "Illustrative placeholder data. Replace scoreRankTable and colleges below with real published figures. See README.md.",
+  "_note": "Illustrative placeholder data. College names/states are real and comprehensive (one flagship government medical college per state/UT with a medical college). Cutoff numbers below are still placeholders — replace them with real published figures via scripts/parse_cutoff_pdf.py + build_data_json.py. See scripts/README.md.",
   "scoreRankTable": [
     [720, 1], [710, 60], [700, 220], [690, 500], [680, 950],
     [670, 1600], [660, 2600], [650, 3900], [640, 5600], [630, 7700],
@@ -13,15 +13,40 @@
     [240, 1550000], [220, 1740000], [200, 1940000], [0, 2100000]
   ],
   "colleges": [
-    { "name": "AIIMS, New Delhi", "quota": "AIQ", "state": null, "cutoffs": { "General": 80, "EWS": 120, "OBC": 150, "SC": 600, "ST": 900, "PwD": 1200 } },
-    { "name": "Maulana Azad Medical College, Delhi", "quota": "AIQ", "state": null, "cutoffs": { "General": 150, "EWS": 250, "OBC": 300, "SC": 1200, "ST": 2000, "PwD": 2600 } },
-    { "name": "Lady Hardinge Medical College, Delhi", "quota": "AIQ", "state": null, "cutoffs": { "General": 500, "EWS": 800, "OBC": 950, "SC": 3200, "ST": 5200, "PwD": 6000 } },
+    { "name": "AIIMS, New Delhi", "quota": "AIQ", "state": "Delhi", "cutoffs": { "General": 80, "EWS": 120, "OBC": 150, "SC": 600, "ST": 900, "PwD": 1200 } },
+    { "name": "Maulana Azad Medical College, Delhi", "quota": "AIQ", "state": "Delhi", "cutoffs": { "General": 150, "EWS": 250, "OBC": 300, "SC": 1200, "ST": 2000, "PwD": 2600 } },
+    { "name": "Lady Hardinge Medical College, Delhi", "quota": "AIQ", "state": "Delhi", "cutoffs": { "General": 500, "EWS": 800, "OBC": 950, "SC": 3200, "ST": 5200, "PwD": 6000 } },
     { "name": "King George's Medical University, Lucknow", "quota": "State", "state": "Uttar Pradesh", "cutoffs": { "General": 2500, "EWS": 4200, "OBC": 5800, "SC": 22000, "ST": 38000, "PwD": 9000 } },
     { "name": "Grant Government Medical College, Mumbai", "quota": "State", "state": "Maharashtra", "cutoffs": { "General": 1800, "EWS": 3200, "OBC": 4600, "SC": 19000, "ST": 33000, "PwD": 7000 } },
     { "name": "Bangalore Medical College & RI", "quota": "State", "state": "Karnataka", "cutoffs": { "General": 2200, "EWS": 3800, "OBC": 5200, "SC": 21000, "ST": 36000, "PwD": 8500 } },
     { "name": "Government Medical College, Kozhikode", "quota": "State", "state": "Kerala", "cutoffs": { "General": 2600, "EWS": 4400, "OBC": 6000, "SC": 24000, "ST": 40000, "PwD": 9500 } },
     { "name": "Stanley Medical College, Chennai", "quota": "State", "state": "Tamil Nadu", "cutoffs": { "General": 3000, "EWS": 5000, "OBC": 7000, "SC": 26000, "ST": 42000, "PwD": 10000 } },
     { "name": "Government Medical College, Patiala", "quota": "State", "state": "Punjab", "cutoffs": { "General": 3500, "EWS": 5800, "OBC": 8000, "SC": 28000, "ST": 45000, "PwD": 11000 } },
-    { "name": "Netaji Subhas Chandra Bose Medical College, Jabalpur", "quota": "State", "state": "Madhya Pradesh", "cutoffs": { "General": 4200, "EWS": 6800, "OBC": 9200, "SC": 31000, "ST": 48000, "PwD": 12500 } }
+    { "name": "Netaji Subhash Chandra Bose Medical College, Jabalpur", "quota": "State", "state": "Madhya Pradesh", "cutoffs": { "General": 4200, "EWS": 6800, "OBC": 9200, "SC": 31000, "ST": 48000, "PwD": 12500 } },
+    { "name": "Andhra Medical College, Visakhapatnam", "quota": "State", "state": "Andhra Pradesh", "cutoffs": { "General": 3800, "EWS": 6200, "OBC": 8600, "SC": 29000, "ST": 46000, "PwD": 11800 } },
+    { "name": "Tomo Riba Institute of Health & Medical Sciences, Naharlagun", "quota": "State", "state": "Arunachal Pradesh", "cutoffs": { "General": 30000, "EWS": 45000, "OBC": 55000, "SC": 90000, "ST": 60000, "PwD": 70000 } },
+    { "name": "Assam Medical College, Dibrugarh", "quota": "State", "state": "Assam", "cutoffs": { "General": 6000, "EWS": 9500, "OBC": 13000, "SC": 40000, "ST": 55000, "PwD": 16000 } },
+    { "name": "Patna Medical College, Patna", "quota": "State", "state": "Bihar", "cutoffs": { "General": 5000, "EWS": 8200, "OBC": 11000, "SC": 35000, "ST": 50000, "PwD": 14000 } },
+    { "name": "Pt. Jawaharlal Nehru Memorial Medical College, Raipur", "quota": "State", "state": "Chhattisgarh", "cutoffs": { "General": 7000, "EWS": 11000, "OBC": 15000, "SC": 42000, "ST": 30000, "PwD": 17000 } },
+    { "name": "Goa Medical College, Panaji", "quota": "State", "state": "Goa", "cutoffs": { "General": 8500, "EWS": 13000, "OBC": 17500, "SC": 46000, "ST": 62000, "PwD": 19000 } },
+    { "name": "B.J. Medical College, Ahmedabad", "quota": "State", "state": "Gujarat", "cutoffs": { "General": 3200, "EWS": 5400, "OBC": 7400, "SC": 27000, "ST": 43000, "PwD": 10800 } },
+    { "name": "Pt. B.D. Sharma PGIMS, Rohtak", "quota": "State", "state": "Haryana", "cutoffs": { "General": 4000, "EWS": 6600, "OBC": 9000, "SC": 30000, "ST": 47000, "PwD": 12200 } },
+    { "name": "Indira Gandhi Medical College, Shimla", "quota": "State", "state": "Himachal Pradesh", "cutoffs": { "General": 6500, "EWS": 10200, "OBC": 14000, "SC": 41000, "ST": 52000, "PwD": 16500 } },
+    { "name": "Rajendra Institute of Medical Sciences, Ranchi", "quota": "State", "state": "Jharkhand", "cutoffs": { "General": 7200, "EWS": 11500, "OBC": 15800, "SC": 43000, "ST": 34000, "PwD": 17500 } },
+    { "name": "Regional Institute of Medical Sciences, Imphal", "quota": "State", "state": "Manipur", "cutoffs": { "General": 25000, "EWS": 38000, "OBC": 48000, "SC": 80000, "ST": 40000, "PwD": 60000 } },
+    { "name": "North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences, Shillong", "quota": "State", "state": "Meghalaya", "cutoffs": { "General": 28000, "EWS": 42000, "OBC": 52000, "SC": 85000, "ST": 35000, "PwD": 65000 } },
+    { "name": "Zoram Medical College, Falkawn", "quota": "State", "state": "Mizoram", "cutoffs": { "General": 32000, "EWS": 47000, "OBC": 58000, "SC": 92000, "ST": 25000, "PwD": 72000 } },
+    { "name": "Nagaland Institute of Medical Sciences and Research, Kohima", "quota": "State", "state": "Nagaland", "cutoffs": { "General": 34000, "EWS": 49000, "OBC": 60000, "SC": 95000, "ST": 27000, "PwD": 74000 } },
+    { "name": "SCB Medical College, Cuttack", "quota": "State", "state": "Odisha", "cutoffs": { "General": 5500, "EWS": 8800, "OBC": 12000, "SC": 37000, "ST": 44000, "PwD": 15000 } },
+    { "name": "Sawai Man Singh Medical College, Jaipur", "quota": "State", "state": "Rajasthan", "cutoffs": { "General": 3600, "EWS": 6000, "OBC": 8200, "SC": 28500, "ST": 44500, "PwD": 11200 } },
+    { "name": "Sikkim Manipal Institute of Medical Sciences, Gangtok", "quota": "State", "state": "Sikkim", "cutoffs": { "General": 22000, "EWS": 34000, "OBC": 44000, "SC": 75000, "ST": 55000, "PwD": 58000 } },
+    { "name": "Osmania Medical College, Hyderabad", "quota": "State", "state": "Telangana", "cutoffs": { "General": 2400, "EWS": 4000, "OBC": 5500, "SC": 20000, "ST": 35000, "PwD": 8200 } },
+    { "name": "Agartala Government Medical College", "quota": "State", "state": "Tripura", "cutoffs": { "General": 20000, "EWS": 31000, "OBC": 41000, "SC": 70000, "ST": 33000, "PwD": 56000 } },
+    { "name": "Government Doon Medical College, Dehradun", "quota": "State", "state": "Uttarakhand", "cutoffs": { "General": 7800, "EWS": 12200, "OBC": 16500, "SC": 44500, "ST": 53000, "PwD": 18200 } },
+    { "name": "Calcutta National Medical College, Kolkata", "quota": "State", "state": "West Bengal", "cutoffs": { "General": 4400, "EWS": 7200, "OBC": 9800, "SC": 32000, "ST": 49000, "PwD": 13200 } },
+    { "name": "Andaman and Nicobar Islands Institute of Medical Sciences, Port Blair", "quota": "State", "state": "Andaman and Nicobar Islands", "cutoffs": { "General": 26000, "EWS": 39000, "OBC": 49000, "SC": 82000, "ST": 63000, "PwD": 61000 } },
+    { "name": "Government Medical College and Hospital, Chandigarh", "quota": "State", "state": "Chandigarh", "cutoffs": { "General": 4600, "EWS": 7400, "OBC": 10200, "SC": 33000, "ST": 51000, "PwD": 13800 } },
+    { "name": "Government Medical College, Srinagar", "quota": "State", "state": "Jammu and Kashmir", "cutoffs": { "General": 9000, "EWS": 14000, "OBC": 19000, "SC": 47000, "ST": 57000, "PwD": 20000 } },
+    { "name": "Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Puducherry", "quota": "AIQ", "state": "Puducherry", "cutoffs": { "General": 400, "EWS": 650, "OBC": 850, "SC": 2600, "ST": 4200, "PwD": 4800 } }
   ]
 }
