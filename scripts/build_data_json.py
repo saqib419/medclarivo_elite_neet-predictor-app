@@ -49,6 +49,10 @@ def load_csv_rows(path):
                 "institute": r["institute"].strip(),
                 "category": category,
                 "closing_rank": int(r["closing_rank"]),
+                # Physical state of the college, if the CSV has it (added by
+                # parse_cutoff_pdf.py's address scan). Not the same thing as
+                # --state, which is domicile eligibility for State-quota CSVs.
+                "college_state": (r.get("state") or "").strip() or None,
             })
     return rows
 
@@ -80,16 +84,24 @@ def main():
     for row in rows:
         key = norm_name(row["institute"])
         college = by_name.get(key)
+        # Prefer the domicile --state for State-quota runs (that's the
+        # state the seat is reserved for); otherwise use the physical
+        # state detected from the college's own address, if we have one.
+        resolved_state = args.state if args.quota == "State" else row["college_state"]
         if college is None:
             college = {
                 "name": row["institute"],
                 "quota": args.quota,
-                "state": args.state if args.quota == "State" else None,
+                "state": resolved_state,
                 "cutoffs": {},
             }
             colleges.append(college)
             by_name[key] = college
             added += 1
+        elif college.get("state") is None and resolved_state:
+            # Backfill state on an existing college that didn't have one yet
+            # (e.g. it was added by an earlier AIQ run before this fix).
+            college["state"] = resolved_state
         college["cutoffs"][row["category"]] = row["closing_rank"]
         updated += 1
 

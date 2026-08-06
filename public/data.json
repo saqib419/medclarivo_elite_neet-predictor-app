@@ -1,5 +1,5 @@
 {
-  "_note": "Illustrative placeholder data. College names/states are real and comprehensive (one flagship government medical college per state/UT with a medical college). Cutoff numbers below are still placeholders \u2014 replace them with real published figures via scripts/parse_cutoff_pdf.py + build_data_json.py. See scripts/README.md.",
+  "_note": "Illustrative placeholder data. College names/states are real and comprehensive (one flagship government medical college per state/UT with a medical college). Cutoff numbers below are still placeholders — replace them with real published figures via scripts/parse_cutoff_pdf.py + build_data_json.py. See scripts/README.md.",
   "scoreRankTable": [
     [
       720,
@@ -2263,6 +2263,2726 @@
           "desc": "Attached to a major teaching hospital with high patient volume."
         }
       ]
+    },
+    {
+      "name": "ACS Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 734672
+      }
+    },
+    {
+      "name": "ACSR Govt Medical College",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 1021236
+      }
+    },
+    {
+      "name": "AGARTALA GOVT. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tripura",
+      "cutoffs": {
+        "General": 27007
+      }
+    },
+    {
+      "name": "AIIMS",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 61580
+      }
+    },
+    {
+      "name": "AIIMS Bathinda",
+      "quota": "AIQ",
+      "state": "Punjab",
+      "cutoffs": {
+        "General": 2482
+      }
+    },
+    {
+      "name": "AIIMS Bilaspur Changar Palasiyan",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": {
+        "General": 30304
+      }
+    },
+    {
+      "name": "AIIMS Guwahati",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 31499
+      }
+    },
+    {
+      "name": "AIIMS Jammu",
+      "quota": "AIQ",
+      "state": "Jammu and Kashmir",
+      "cutoffs": {
+        "General": 51471
+      }
+    },
+    {
+      "name": "AIIMS Rajkot",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "General": 53569
+      }
+    },
+    {
+      "name": "ANUGRAH NARAYAN MAGADH MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 119132
+      }
+    },
+    {
+      "name": "ASSAM MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 119562
+      }
+    },
+    {
+      "name": "ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 749341
+      }
+    },
+    {
+      "name": "Aarupadai Veedu Medical College and Hospt.",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 755831
+      }
+    },
+    {
+      "name": "Amrita School of Medicine Faridabad",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 363996
+      }
+    },
+    {
+      "name": "Andaman and Nicobar Islands Institute of Medical S",
+      "quota": "AIQ",
+      "state": "Andaman and Nicobar Islands",
+      "cutoffs": {
+        "General": 24492
+      }
+    },
+    {
+      "name": "Andhra Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 7539
+      }
+    },
+    {
+      "name": "Atal Bihari Vajpayee Institute of Medical Sciences & DR RML HOSPITAL",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 149223
+      }
+    },
+    {
+      "name": "Autonomous State Medical Collage",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 109637
+      }
+    },
+    {
+      "name": "Autonomous State Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 1190424
+      }
+    },
+    {
+      "name": "Autonomous State Medical College Society",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 19879
+      }
+    },
+    {
+      "name": "Autonomous State Medical college Society Hardoi",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 106101
+      }
+    },
+    {
+      "name": "B.J. Government Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 105614
+      }
+    },
+    {
+      "name": "B.J. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "General": 73018
+      }
+    },
+    {
+      "name": "B.L.D.E University",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 302710
+      }
+    },
+    {
+      "name": "B.R.D. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 104924
+      }
+    },
+    {
+      "name": "B.Sc. Nursing",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 627606
+      }
+    },
+    {
+      "name": "BANKURA SAMMILANI MED COLL",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 140230
+      }
+    },
+    {
+      "name": "BELGAUM INST. OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 122194
+      }
+    },
+    {
+      "name": "BHAARATH MEDICAL COLLEGE AND HOSPITAL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 820797
+      }
+    },
+    {
+      "name": "BIDAR INSTITUTE OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 138880
+      }
+    },
+    {
+      "name": "BPS Govt. Med. College",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 122410
+      }
+    },
+    {
+      "name": "BUNDELKHAND MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 105466
+      }
+    },
+    {
+      "name": "BURDWAN MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 999414
+      }
+    },
+    {
+      "name": "BV Deemed Uni. Med. College and Hos.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 664912
+      }
+    },
+    {
+      "name": "Baba Kinaram Autonomous State Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 114454
+      }
+    },
+    {
+      "name": "Bangalore Medical College and Research Institute",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 42980
+      }
+    },
+    {
+      "name": "Barasat Government Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 122842
+      }
+    },
+    {
+      "name": "Bharati Vidyapeeth DU Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 592172
+      }
+    },
+    {
+      "name": "C. Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 26879
+      }
+    },
+    {
+      "name": "CALCUTTA NATIONAL MED COLL",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 117345
+      }
+    },
+    {
+      "name": "CHENGALPATTU MEDICAL COLL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 145518
+      }
+    },
+    {
+      "name": "CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 91700
+      }
+    },
+    {
+      "name": "CHIKKABALLAPURA INSTITUTE OF MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 130768
+      }
+    },
+    {
+      "name": "COIMBATORE MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 142895
+      }
+    },
+    {
+      "name": "COLLEGE OF MEDICINE and JNM HOSPITAL",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 129596
+      }
+    },
+    {
+      "name": "Chandulal Chandrakar Memorial Government Medical College",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 138082
+      }
+    },
+    {
+      "name": "Chettinad Hos. and Res. Inst.",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 766810
+      }
+    },
+    {
+      "name": "Chhindwara Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 116688
+      }
+    },
+    {
+      "name": "Chikkamagaluru Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 150485
+      }
+    },
+    {
+      "name": "Chitradurga Medical College and Research Institute",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 24884
+      }
+    },
+    {
+      "name": "College Government Medical College Alwar",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 91240
+      }
+    },
+    {
+      "name": "DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 638084
+      }
+    },
+    {
+      "name": "DR. VAISHAMPAYAM MEMORIAL M.C.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 108671
+      }
+    },
+    {
+      "name": "DR.RAJENDRA PRASAD MC",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 8273
+      }
+    },
+    {
+      "name": "DR.S.C.GOVT MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 144418
+      }
+    },
+    {
+      "name": "DR.S.N. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 74989
+      }
+    },
+    {
+      "name": "DY Patil University School of Medicine",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 661567
+      }
+    },
+    {
+      "name": "Darbhanga Medical College",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 119066
+      }
+    },
+    {
+      "name": "Deben Mahata Government Medical College & Hospital",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 148191
+      }
+    },
+    {
+      "name": "Diamond Harbour Govt Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 139466
+      }
+    },
+    {
+      "name": "Did not fill up fresh choices.",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1315471
+      }
+    },
+    {
+      "name": "Did not opt for Upgradation.",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1315566
+      }
+    },
+    {
+      "name": "Dr Ram Manohar Lohia Inst. of Med. Sce.",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 42380
+      }
+    },
+    {
+      "name": "Dr. B.R. Ambedkar State Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Punjab",
+      "cutoffs": {
+        "General": 17802
+      }
+    },
+    {
+      "name": "Dr. B.S.A. Medical College",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 49964
+      }
+    },
+    {
+      "name": "Dr. DY Patil Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 529224
+      }
+    },
+    {
+      "name": "Dr. DY Patil Medical College and Hospt.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 518398
+      }
+    },
+    {
+      "name": "Dr. DYP Edu. Soc. Deemed Uni.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 553148
+      }
+    },
+    {
+      "name": "Dr. YS Parmar Govt. Medical College",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": {
+        "General": 112774
+      }
+    },
+    {
+      "name": "Dr.Radhakrishnan Government Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 695650
+      }
+    },
+    {
+      "name": "ESI-MC&PGIMS&R",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 468396
+      }
+    },
+    {
+      "name": "ESIC",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 430839
+      }
+    },
+    {
+      "name": "ESIC MEDICAL COLLEGE & HOSPITAL",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 530778
+      }
+    },
+    {
+      "name": "ESIC MEDICAL COLLEGE AND HOSPITAL",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 451088
+      }
+    },
+    {
+      "name": "ESIC MEDICAL COLLEGE NARODA",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 463423
+      }
+    },
+    {
+      "name": "ESIC Medical College",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 505423
+      }
+    },
+    {
+      "name": "ESIC Medical College AND PGIMSR",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 201923
+      }
+    },
+    {
+      "name": "ESIC Medical College and Hospital Varanasi",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 954114
+      }
+    },
+    {
+      "name": "ESIC PGIMSR",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 108358
+      }
+    },
+    {
+      "name": "Employees State Insurance Corporation Medical College",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 146901
+      }
+    },
+    {
+      "name": "Fakhruddin Ali Ahmed Medical College",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 25558
+      }
+    },
+    {
+      "name": "Fresh Allotted in 3nd Round",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1252244
+      }
+    },
+    {
+      "name": "Fresh Allotted in 3nd Round( NRI Priority : 1 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1288903
+      }
+    },
+    {
+      "name": "Fresh Allotted in 3nd Round( NRI Priority : 2 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1317215
+      }
+    },
+    {
+      "name": "G.S.V.M. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 65169
+      }
+    },
+    {
+      "name": "GAJRA RAJA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 84131
+      }
+    },
+    {
+      "name": "GANDHI MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 92870
+      }
+    },
+    {
+      "name": "GITAM Institue of Med. Sce. and Res.",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 571747
+      }
+    },
+    {
+      "name": "GMC",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 121735
+      }
+    },
+    {
+      "name": "GMC DAUSA RAJASTHAN",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 91995
+      }
+    },
+    {
+      "name": "GMC Jangaon",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 151942
+      }
+    },
+    {
+      "name": "GMC KARAULI",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 104061
+      }
+    },
+    {
+      "name": "GMC Kamareddy",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 26296
+      }
+    },
+    {
+      "name": "GMERS Medical College",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "General": 1037462
+      }
+    },
+    {
+      "name": "GOA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Goa",
+      "cutoffs": {
+        "General": 101960
+      }
+    },
+    {
+      "name": "GOVERMENT MEDICAL COLLEGE NANDURBAR MAHARARASTRA",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 114763
+      }
+    },
+    {
+      "name": "GOVERNMENT MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 18921
+      }
+    },
+    {
+      "name": "GOVERNMENT MEDICAL COLLEGE AND GENERAL HOSPITAL",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 130363
+      }
+    },
+    {
+      "name": "GOVERNMENT MEDICAL COLLEGE Karimnagar Telangana",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 149808
+      }
+    },
+    {
+      "name": "GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 24868
+      }
+    },
+    {
+      "name": "GOVERNMENT MEDICAL COLLEGE NANDYAL",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 128615
+      }
+    },
+    {
+      "name": "GOVERNMENT MEDICAL COLLEGE PURNEA",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 136153
+      }
+    },
+    {
+      "name": "GOVT MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 154537
+      }
+    },
+    {
+      "name": "GOVT. DHARAMAPURI MED COLL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 27761
+      }
+    },
+    {
+      "name": "GOVT. KILPAUK MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 119660
+      }
+    },
+    {
+      "name": "GOVT. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 946638
+      }
+    },
+    {
+      "name": "GOVT. MOHAN KUMARAMANGALAM M.C.",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 13573
+      }
+    },
+    {
+      "name": "GOVT. VELLORE MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 25925
+      }
+    },
+    {
+      "name": "GOVT.MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 115572
+      }
+    },
+    {
+      "name": "GRANT MEDICAL COLL & SIR J.J.HOSP",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 90836
+      }
+    },
+    {
+      "name": "GTMC",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 19584
+      }
+    },
+    {
+      "name": "GUNTUR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 22094
+      }
+    },
+    {
+      "name": "GURU GOVIND SINGH MED COLL",
+      "quota": "AIQ",
+      "state": "Punjab",
+      "cutoffs": {
+        "General": 17173
+      }
+    },
+    {
+      "name": "GUWAHATI MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 88005
+      }
+    },
+    {
+      "name": "GVMC",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 1098028
+      }
+    },
+    {
+      "name": "Gadag Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 123145
+      }
+    },
+    {
+      "name": "Gandhi Medical College Musheerabad Secunderabad",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 7253
+      }
+    },
+    {
+      "name": "Goverment Medical College",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 130821
+      }
+    },
+    {
+      "name": "Goverment Medical College And Hospital Jalgaon",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 23014
+      }
+    },
+    {
+      "name": "Goverment Medical College Sheopur",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 21070
+      }
+    },
+    {
+      "name": "Government Doon Medcial College",
+      "quota": "AIQ",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "General": 875148
+      }
+    },
+    {
+      "name": "Government Medcial College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 22001
+      }
+    },
+    {
+      "name": "Government Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 831158
+      }
+    },
+    {
+      "name": "Government Medical College Chittorgarh",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 76041
+      }
+    },
+    {
+      "name": "Government Medical College Mahasamund Chhattisgarh",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 145338
+      }
+    },
+    {
+      "name": "Government Medical College Nirmal",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 28202
+      }
+    },
+    {
+      "name": "Government Medical College Satna",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 121022
+      }
+    },
+    {
+      "name": "Government Medical College Siddipet",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 143103
+      }
+    },
+    {
+      "name": "Government Medical College Suryapet",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 123668
+      }
+    },
+    {
+      "name": "Government Medical College and District General Hospital",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 123553
+      }
+    },
+    {
+      "name": "Government Medical College and ESIC Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 525616
+      }
+    },
+    {
+      "name": "Government Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 115037
+      }
+    },
+    {
+      "name": "Govt Medical College Badaun",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 100028
+      }
+    },
+    {
+      "name": "Govt Medical College Baramati",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 120996
+      }
+    },
+    {
+      "name": "Govt Medical College Barmer Rajasthan",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 100855
+      }
+    },
+    {
+      "name": "Govt Medical College Basti",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 116051
+      }
+    },
+    {
+      "name": "Govt Medical College Faizabad",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 107947
+      }
+    },
+    {
+      "name": "Govt Medical College Firozabad",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 112116
+      }
+    },
+    {
+      "name": "Govt Medical College Kannur",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": {
+        "General": 137232
+      }
+    },
+    {
+      "name": "Govt Medical College Nalgonda",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 121043
+      }
+    },
+    {
+      "name": "Govt Medical College Ratlam",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 91920
+      }
+    },
+    {
+      "name": "Govt Medical College Shahdol",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 110702
+      }
+    },
+    {
+      "name": "Govt Medical College Vikarabad",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 28771
+      }
+    },
+    {
+      "name": "Govt Medical college Shivpuri",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 111337
+      }
+    },
+    {
+      "name": "Govt institute of Medcial Sciences",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 9270
+      }
+    },
+    {
+      "name": "Govt. Medical College Jayashankar Bhupalpally",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 132267
+      }
+    },
+    {
+      "name": "Govt. Medical College Karur",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 16740
+      }
+    },
+    {
+      "name": "Govt. Medical College Rajanna Sircilla",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 28079
+      }
+    },
+    {
+      "name": "Govt. Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 133088
+      }
+    },
+    {
+      "name": "Govt. Pudukkottai Medical College Hopt.",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 18973
+      }
+    },
+    {
+      "name": "Govt. Sivgangai M. C. Sivagangai",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 19303
+      }
+    },
+    {
+      "name": "Graphic Era Institute Of Medical Science",
+      "quota": "AIQ",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "General": 576685
+      }
+    },
+    {
+      "name": "Gulbarga Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 129845
+      }
+    },
+    {
+      "name": "HASSAN INST. MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 133599
+      }
+    },
+    {
+      "name": "Haveri Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 152565
+      }
+    },
+    {
+      "name": "Hinduhridayasamrat Balasaheb Thackeray Medical College and Dr. R. N. Cooper Municipal General Hospital",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 102783
+      }
+    },
+    {
+      "name": "INDIRA GANDHI GOVT.MEDICAL COLL.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 109255
+      }
+    },
+    {
+      "name": "INDIRA GANDHI MEDICAL COLL.",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": {
+        "General": 7698
+      }
+    },
+    {
+      "name": "INST OF PG MED EDU & RESEARCH",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 71259
+      }
+    },
+    {
+      "name": "INST.OF MED.SCIENCES",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 20606
+      }
+    },
+    {
+      "name": "IRT Perundurai Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 125728
+      }
+    },
+    {
+      "name": "Indira Gandhi Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 96049
+      }
+    },
+    {
+      "name": "Indira Gandhi Medical College & RI",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 127289
+      }
+    },
+    {
+      "name": "Institute of Medical Sciences & SUM Hospital",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 396950
+      }
+    },
+    {
+      "name": "Institute of Medical Sciences and SUM Host.",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 398720
+      }
+    },
+    {
+      "name": "JAWAHAR LAL NEHRU MEDICAL",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 60827
+      }
+    },
+    {
+      "name": "JHALAWAR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 76687
+      }
+    },
+    {
+      "name": "JIPMER KARAIKAL",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 71488
+      }
+    },
+    {
+      "name": "JIPMER PUDUCHERRY",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 126024
+      }
+    },
+    {
+      "name": "JLN IMS",
+      "quota": "AIQ",
+      "state": "Manipur",
+      "cutoffs": {
+        "General": 140433
+      }
+    },
+    {
+      "name": "JLN Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 587084
+      }
+    },
+    {
+      "name": "JSS Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 167972
+      }
+    },
+    {
+      "name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirma th Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 394117
+      }
+    },
+    {
+      "name": "Jawahar Lal Nehru Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 195073
+      }
+    },
+    {
+      "name": "Jawaharlal Nehru Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 111142
+      }
+    },
+    {
+      "name": "Jhargram Government Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 149018
+      }
+    },
+    {
+      "name": "Jorhat Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 131902
+      }
+    },
+    {
+      "name": "K.A.P. VISWANATHAM Govt Medical College",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 14942
+      }
+    },
+    {
+      "name": "K.S Hegde Medical Academy",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 137517
+      }
+    },
+    {
+      "name": "KANYAKUMARI GOVT. MED. COLL.",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1180453
+      }
+    },
+    {
+      "name": "KARNATAK INST. OF MEDICAL SC.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 100347
+      }
+    },
+    {
+      "name": "KGMC",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 63833
+      }
+    },
+    {
+      "name": "KURNOOL MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 22480
+      }
+    },
+    {
+      "name": "Kakatiya Medical College Warangal",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 1018550
+      }
+    },
+    {
+      "name": "Kalinga Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 202084
+      }
+    },
+    {
+      "name": "Kalpana Chawla Govt. Medical College",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 10661
+      }
+    },
+    {
+      "name": "Kalyan Singh Government Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 104956
+      }
+    },
+    {
+      "name": "Karwar Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 126484
+      }
+    },
+    {
+      "name": "Kasturba Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 41533
+      }
+    },
+    {
+      "name": "Kodagu Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 1093495
+      }
+    },
+    {
+      "name": "Kokrajhar Medical College & Hospital Rangalikhata",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 24347
+      }
+    },
+    {
+      "name": "Koppal Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 128737
+      }
+    },
+    {
+      "name": "Krishna Inst. of Med. Scie.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 609275
+      }
+    },
+    {
+      "name": "L.L.R.M. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 9650
+      }
+    },
+    {
+      "name": "LOKMANYA TILAK MUNICIPAL M C",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 109648
+      }
+    },
+    {
+      "name": "Lady Hardinge Medical College",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 15212
+      }
+    },
+    {
+      "name": "Lakhimpur Medical College",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 154315
+      }
+    },
+    {
+      "name": "Lt. B R K Government Medical College",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 1060971
+      }
+    },
+    {
+      "name": "Lt. L A M Govt. Medical College",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 116700
+      }
+    },
+    {
+      "name": "M.G.M. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 112712
+      }
+    },
+    {
+      "name": "M.P. SHAH MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "General": 89872
+      }
+    },
+    {
+      "name": "MADRAS MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 6861
+      }
+    },
+    {
+      "name": "MADURAI MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 123915
+      }
+    },
+    {
+      "name": "MAHARAJA K.C. GAJAPATI M.C.",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 129391
+      }
+    },
+    {
+      "name": "MAHARANI LAXMI BAI MEDICAL COLL",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 95992
+      }
+    },
+    {
+      "name": "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 105293
+      }
+    },
+    {
+      "name": "MALDA MED. COLLEGE",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 23295
+      }
+    },
+    {
+      "name": "MANDYA INST. OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 111130
+      }
+    },
+    {
+      "name": "MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "General": 525315
+      }
+    },
+    {
+      "name": "MG Inst. of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 875780
+      }
+    },
+    {
+      "name": "MGM Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 297942
+      }
+    },
+    {
+      "name": "MIDNAPORE MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 122611
+      }
+    },
+    {
+      "name": "MM Inst. Med. and Research",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 476335
+      }
+    },
+    {
+      "name": "MOTI LAL NEHRU MEDICAL COLL",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 80403
+      }
+    },
+    {
+      "name": "MRA MEDICAL COLLEGE AMBEDKAR NAGAR",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 101608
+      }
+    },
+    {
+      "name": "MYSORE MED.& RESEARCH INST. MYSORE",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 15375
+      }
+    },
+    {
+      "name": "Maharaja Jitendra Narayan Medical College and Hospital Coochbehar",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 24204
+      }
+    },
+    {
+      "name": "Maharishi Chyawan Medical College",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 1039159
+      }
+    },
+    {
+      "name": "Mahatma Gandhi Medical College",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 808791
+      }
+    },
+    {
+      "name": "Mahatma Gandhi Mission Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 373553
+      }
+    },
+    {
+      "name": "Mahatma Gandhi Missions Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 624436
+      }
+    },
+    {
+      "name": "Mahatma Vidur Autonomous State Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 102420
+      }
+    },
+    {
+      "name": "Malla Reddy Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 451856
+      }
+    },
+    {
+      "name": "Malla Reddy Medical College for Women",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 541861
+      }
+    },
+    {
+      "name": "Maulana Azad Medical College",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 138067
+      }
+    },
+    {
+      "name": "Medinirai Medical College (previously Known as Palamu Medical College)",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 135357
+      }
+    },
+    {
+      "name": "Meenakshi Medical College Hospital and Research Institute",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 657379
+      }
+    },
+    {
+      "name": "Mursidabad M C & Hospital",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 747846
+      }
+    },
+    {
+      "name": "NALANDA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 112881
+      }
+    },
+    {
+      "name": "NAMO Medical Education & Research Institute",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 85166
+      }
+    },
+    {
+      "name": "NDMC Medical College",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 5106
+      }
+    },
+    {
+      "name": "NEIGRIHMS",
+      "quota": "AIQ",
+      "state": "Meghalaya",
+      "cutoffs": {
+        "General": 16601
+      }
+    },
+    {
+      "name": "NETAJI SUBHASH CHANDRA BOSE MC",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 100004
+      }
+    },
+    {
+      "name": "NILRATAN SIRKAR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 1238539
+      }
+    },
+    {
+      "name": "NORTH BENGAL MED.COLL",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 133959
+      }
+    },
+    {
+      "name": "Nalbari Medical College & Hospital Dakhingaon",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 25960
+      }
+    },
+    {
+      "name": "No Upgradation",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1260223
+      }
+    },
+    {
+      "name": "Not Allotted.",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1296691
+      }
+    },
+    {
+      "name": "Osmania Medical College Koti",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 8757
+      }
+    },
+    {
+      "name": "PABITRA MOHAN PRADHAN MEDICAL COLLEGE & HOSPITAL",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 27610
+      }
+    },
+    {
+      "name": "PATNA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 6393
+      }
+    },
+    {
+      "name": "PRAGJYOTISHPUR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 23549
+      }
+    },
+    {
+      "name": "PT NEKI RAM SHARMA GOVT MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 100838
+      }
+    },
+    {
+      "name": "PT. B.D. SHARMA PGIMS",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 9920
+      }
+    },
+    {
+      "name": "Phulo Jhano Medical College",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 136565
+      }
+    },
+    {
+      "name": "Prafulla Chandra Sen Government Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 23090
+      }
+    },
+    {
+      "name": "Pt. D.D.U MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "General": 79136
+      }
+    },
+    {
+      "name": "Pt. J N M MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 16069
+      }
+    },
+    {
+      "name": "Pt. Jawahar Lal Nehru Govt. Med. College",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": {
+        "General": 113394
+      }
+    },
+    {
+      "name": "Pt. Raghunath Murmu Med. College",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 146965
+      }
+    },
+    {
+      "name": "R.G. KAR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 15156
+      }
+    },
+    {
+      "name": "R.N.T. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 55836
+      }
+    },
+    {
+      "name": "RAICHUR INST. OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 896492
+      }
+    },
+    {
+      "name": "RAJENDRA INST. OF MED. SCI.",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 89481
+      }
+    },
+    {
+      "name": "RAJIV GANDHI INSTITUTE OF MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 147831
+      }
+    },
+    {
+      "name": "RAJIV GANDHI MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 108496
+      }
+    },
+    {
+      "name": "RAMPURHAT GOVT MEDICAL COLLEGE RAMPURHAT",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 24310
+      }
+    },
+    {
+      "name": "REGIONAL INST OF MEDICAL SCI",
+      "quota": "AIQ",
+      "state": "Manipur",
+      "cutoffs": {
+        "General": 22377
+      }
+    },
+    {
+      "name": "RIMS",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 27619
+      }
+    },
+    {
+      "name": "RIMS Srikakulam",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 118517
+      }
+    },
+    {
+      "name": "RUHS College of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 49630
+      }
+    },
+    {
+      "name": "Raiganj Government Medical College",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 127876
+      }
+    },
+    {
+      "name": "Raja Rajeswari Medical College Bengaluru",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 526412
+      }
+    },
+    {
+      "name": "Rajah Muthiah Medical College",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 132020
+      }
+    },
+    {
+      "name": "Rajarshee Chhatrapati Shahu Maharaj Government Medical College Kolhapur",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 109831
+      }
+    },
+    {
+      "name": "Rajiv Gandhi Institute Medical Sce of Adilabad",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 121285
+      }
+    },
+    {
+      "name": "Rajkiya Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 114568
+      }
+    },
+    {
+      "name": "Rajmata shrimati devendra kumari singhdeo government medical college",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 25218
+      }
+    },
+    {
+      "name": "Rangaraya Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 139038
+      }
+    },
+    {
+      "name": "Rani Durgavati Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 114515
+      }
+    },
+    {
+      "name": "Rural Medical College and PIMS",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 139826
+      }
+    },
+    {
+      "name": "S.M.S. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 2531
+      }
+    },
+    {
+      "name": "S.N. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 89243
+      }
+    },
+    {
+      "name": "S.S. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 107096
+      }
+    },
+    {
+      "name": "SARDAR PATEL MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 44219
+      }
+    },
+    {
+      "name": "SBKS Med. Inst. and Res. Centre",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "General": 704085
+      }
+    },
+    {
+      "name": "SDU Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 217863
+      }
+    },
+    {
+      "name": "SETH G.S. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 85260
+      }
+    },
+    {
+      "name": "SH VASANT RAO NAIK GOVT.M.C.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 867744
+      }
+    },
+    {
+      "name": "SHEIKH BHIKHARI MEDICAL COLLEGE & HOSPITAL",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 20884
+      }
+    },
+    {
+      "name": "SHILONG MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Meghalaya",
+      "cutoffs": {
+        "General": 1102815
+      }
+    },
+    {
+      "name": "SHIMOGA INST. OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 122634
+      }
+    },
+    {
+      "name": "SHKM GMC",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 101613
+      }
+    },
+    {
+      "name": "SHRI ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 95309
+      }
+    },
+    {
+      "name": "SHRI BHAUSAHEB HIRE GOVT. M.C.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 125396
+      }
+    },
+    {
+      "name": "SHRI KALYAN GOVT MEDICAL COLLEGE SIKAR",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 77081
+      }
+    },
+    {
+      "name": "SILCHAR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 150604
+      }
+    },
+    {
+      "name": "SJP Medical College",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 90864
+      }
+    },
+    {
+      "name": "SKIMS Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 92831
+      }
+    },
+    {
+      "name": "SLBS Govt. Medical College",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": {
+        "General": 86092
+      }
+    },
+    {
+      "name": "SOBAN SINGH JEENA GOVERNMENT INSTITUTE OF MEDICAL SCIENCE & RESEARCH",
+      "quota": "AIQ",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "General": 122242
+      }
+    },
+    {
+      "name": "SRI KRISHNA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 110205
+      }
+    },
+    {
+      "name": "SRM Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 701594
+      }
+    },
+    {
+      "name": "STANLEY MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 70325
+      }
+    },
+    {
+      "name": "SUH Maulana Mahmood Hasan Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 111624
+      }
+    },
+    {
+      "name": "SVIMS - Sri Padmavathi Medical College for Women",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 150701
+      }
+    },
+    {
+      "name": "SWAMI RAMANAND TiRTH RURAL M.C",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 122369
+      }
+    },
+    {
+      "name": "Sagar Dutta Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 127811
+      }
+    },
+    {
+      "name": "Saheed Laxman Nayak Med. College and Hos.",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 24138
+      }
+    },
+    {
+      "name": "Santosh Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 588923
+      }
+    },
+    {
+      "name": "Sarat Chandra Chattopadhyay Govt. Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 23387
+      }
+    },
+    {
+      "name": "Saveetha Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 509812
+      }
+    },
+    {
+      "name": "Shaheed Nirmal Mahto Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 19694
+      }
+    },
+    {
+      "name": "Shri Atal Bihari Vajpayee Medical College & Research Institute",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 702132
+      }
+    },
+    {
+      "name": "Shri Sathya Sai Medical College and Research Institute",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 811496
+      }
+    },
+    {
+      "name": "Siddartha Medical College",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 137271
+      }
+    },
+    {
+      "name": "Sree Balaji Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 819763
+      }
+    },
+    {
+      "name": "Sri Jagannath Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 83692
+      }
+    },
+    {
+      "name": "Sri Lakshmi Narayana Inst. of Med. Scien.",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 811714
+      }
+    },
+    {
+      "name": "Sri Ramachandra Med. College and Res. Inst.",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 333238
+      }
+    },
+    {
+      "name": "Sri Siddhartha Academy T Begur",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 510662
+      }
+    },
+    {
+      "name": "Sri Siddhartha Medical College DU",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 402063
+      }
+    },
+    {
+      "name": "Sri Venkateswara Medical College",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 137215
+      }
+    },
+    {
+      "name": "Sundarlal patwa Govt medical College mandsaur",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 20010
+      }
+    },
+    {
+      "name": "T.D. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": {
+        "General": 27979
+      }
+    },
+    {
+      "name": "THANJAVUR MEDICAL COLL.",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 26199
+      }
+    },
+    {
+      "name": "THENI GOVT. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 14826
+      }
+    },
+    {
+      "name": "THOOTHUKUDI MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 17296
+      }
+    },
+    {
+      "name": "TOPIWALA NATIONAL MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 106595
+      }
+    },
+    {
+      "name": "Tezpur Medical College",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 25090
+      }
+    },
+    {
+      "name": "Thiruvannamalai MC",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 19808
+      }
+    },
+    {
+      "name": "Tinsukia Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 27130
+      }
+    },
+    {
+      "name": "Tomo Riba Institute Health and Medical Sciences",
+      "quota": "AIQ",
+      "state": "Arunachal Pradesh",
+      "cutoffs": {
+        "General": 23450
+      }
+    },
+    {
+      "name": "UNS AUTONOMOUS STATE MEDICAL COLLEGES",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 126062
+      }
+    },
+    {
+      "name": "UTTARANCHAL F HOSP TRUST MC",
+      "quota": "AIQ",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "General": 10904
+      }
+    },
+    {
+      "name": "University College of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 14605
+      }
+    },
+    {
+      "name": "Upgraded( NRI Priority : 1 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 500150
+      }
+    },
+    {
+      "name": "Upgraded( NRI Priority : 2 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1077971
+      }
+    },
+    {
+      "name": "Uttar Pradesh University of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 89842
+      }
+    },
+    {
+      "name": "V.S.S. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 143763
+      }
+    },
+    {
+      "name": "VARDHMAN INSTITUTE OF MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 117034
+      }
+    },
+    {
+      "name": "VELS MEDICAL COLLEGE & HOSPITAL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 603600
+      }
+    },
+    {
+      "name": "VIJAYNAGAR INST OF MED. SC",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 115750
+      }
+    },
+    {
+      "name": "VMKV Medical College and Hospital",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 656654
+      }
+    },
+    {
+      "name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 116381
+      }
+    },
+    {
+      "name": "Veer Chandra Singh Garhwali Govt. Institute of Medical Science & Research",
+      "quota": "AIQ",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "General": 101978
+      }
+    },
+    {
+      "name": "Vinayaka Missions Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 693547
+      }
+    },
+    {
+      "name": "Virendra Kumar Sakhlecha Government Medical College",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 108149
+      }
+    },
+    {
+      "name": "YADGIRI INSTITUTE OF MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 24321
+      }
+    },
+    {
+      "name": "Yenepoya Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 404110
+      }
     }
   ]
 }
