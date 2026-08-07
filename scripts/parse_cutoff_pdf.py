@@ -39,6 +39,19 @@ import pdfplumber
 
 BLANK_MARKERS = {"", "-", "--"}
 
+# Tokens used for the "Candidate Category" column in clean single-round
+# PDFs (e.g. Round 1's format). If we see one of these while scanning
+# right-to-left before we reach the institute name, that's the real
+# category for this candidate — much more useful than defaulting
+# everything to General.
+CATEGORY_TOKENS = {
+    "GENERAL": "General", "GEN": "General", "OPEN": "General", "UR": "General",
+    "OBC": "OBC", "OBC-NCL": "OBC", "BC": "OBC",
+    "SC": "SC", "ST": "ST",
+    "EWS": "EWS",
+    "PWD": "PwD",
+}
+
 # Indian states + UTs, used to pull the physical state out of the address
 # text that trails the institute name in these PDF cells. Ordered longest
 # first so e.g. "Uttar Pradesh" matches before a shorter substring could.
@@ -128,6 +141,7 @@ def extract_rows(pdf_path, course_filter=None):
                     final_institute = None
                     final_course = None
                     final_state = None
+                    final_category = None
                     remaining = list(range(rank_col + 1, min(ncols, len(r))))
                     for idx in reversed(remaining):
                         cell = r[idx] if idx < len(r) else None
@@ -136,6 +150,17 @@ def extract_rows(pdf_path, course_filter=None):
                         text = cell.strip()
                         if text.upper() in {"MBBS", "BDS", "B.SC NURSING", "BSC NURSING"}:
                             final_course = text.upper()
+                            continue
+                        if final_category is None and text.upper() in CATEGORY_TOKENS:
+                            # In clean single-round PDFs (e.g. Round 1), this
+                            # is the real "Candidate Category" column — a
+                            # short token sitting to the right of the
+                            # institute name. Take the FIRST one we hit
+                            # scanning right-to-left (closest to Remarks),
+                            # since layout is ...Institute, Course, Alloted
+                            # Category, Candidate Category, Remarks — the
+                            # candidate's own category is the rightmost.
+                            final_category = CATEGORY_TOKENS[text.upper()]
                             continue
                         if len(text) > 8 and re.search(r"[A-Za-z]{4,}", text):
                             # Institute cells often contain the full mailing
@@ -160,6 +185,7 @@ def extract_rows(pdf_path, course_filter=None):
                         "institute": re.sub(r"\s+", " ", final_institute).strip(),
                         "course": final_course or "",
                         "state": final_state,
+                        "category": final_category,  # None if not a clean-format PDF
                         "page": page_num,
                     })
 
@@ -175,12 +201,18 @@ def extract_rows(pdf_path, course_filter=None):
 
 
 def aggregate(rows):
-    """Closing rank per institute = the worst (max) rank seen there, category-blind.
-    State = the most frequently seen state for that institute name (a college
-    should always resolve to one state; this guards against a stray bad match)."""
+    """Closing rank per (institute, category) = the worst (max) rank seen
+    for candidates of that category who landed at that institute. Rows
+    with no detected category (e.g. Round 3's multi-round tracker format,
+    which doesn't reliably expose per-candidate category) fall back to
+    'General' as a placeholder.
+    State = the most frequently seen state for that institute name (a
+    college should always resolve to one state; this guards against a
+    stray bad match)."""
     agg = defaultdict(lambda: {"closing_rank": 0, "count": 0, "states": defaultdict(int)})
     for r in rows:
-        key = r["institute"]
+        category = r.get("category") or "General"
+        key = (r["institute"], category)
         agg[key]["closing_rank"] = max(agg[key]["closing_rank"], r["rank"])
         agg[key]["count"] += 1
         if r.get("state"):
@@ -205,21 +237,32 @@ def main():
         print("Nothing extracted — see warnings above. No CSV written.", file=sys.stderr)
         sys.exit(1)
 
+    categorized = sum(1 for r in rows if r.get("category"))
     agg = aggregate(rows)
 
     with open(args.out, "w", newline="", encoding="utf-8") as f:
         writer = csv.writer(f)
         writer.writerow(["institute", "quota", "category", "closing_rank", "candidates_seen", "state"])
-        for institute, vals in sorted(agg.items()):
-            writer.writerow([institute, "AIQ", "General", vals["closing_rank"], vals["count"], vals["state"]])
+        for (institute, category), vals in sorted(agg.items()):
+            writer.writerow([institute, "AIQ", category, vals["closing_rank"], vals["count"], vals["state"]])
 
-    print(f"\nWrote {len(agg)} college rows to {args.out}", file=sys.stderr)
-    print(
-        "\nNOTE: category is set to 'General' for every row as a placeholder — "
-        "this PDF format doesn't reliably expose per-category cutoffs. "
-        "Sanity-check a few rows against the PDF, then run build_data_json.py.",
-        file=sys.stderr,
-    )
+    print(f"\nWrote {len(agg)} (college, category) rows to {args.out}", file=sys.stderr)
+    if categorized:
+        pct = 100 * categorized // len(rows)
+        print(
+            f"\n{categorized}/{len(rows)} rows ({pct}%) had a real detected candidate "
+            "category — those get accurate per-category cutoffs. Rows without "
+            "one fell back to 'General' as a placeholder. Sanity-check a few "
+            "rows against the PDF, then run build_data_json.py.",
+            file=sys.stderr,
+        )
+    else:
+        print(
+            "\nNOTE: no candidate-category column was detected in this PDF — "
+            "every row used 'General' as a placeholder. Sanity-check a few "
+            "rows against the PDF, then run build_data_json.py.",
+            file=sys.stderr,
+        )
 
 
 if __name__ == "__main__":

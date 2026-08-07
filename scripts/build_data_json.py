@@ -63,6 +63,7 @@ def main():
     ap.add_argument("--quota", required=True, choices=["AIQ", "State"], help="Quota type for every row in this CSV")
     ap.add_argument("--state", default=None, help='Domicile state, required if --quota State (e.g. "Uttar Pradesh")')
     ap.add_argument("--data", default="public/data.json", help="Path to data.json (default: public/data.json)")
+    ap.add_argument("--fill-missing-only", action="store_true", help="Only add a cutoff if not already set; never overwrite an existing value.")
     args = ap.parse_args()
 
     if args.quota == "State" and not args.state:
@@ -102,6 +103,8 @@ def main():
             # Backfill state on an existing college that didn't have one yet
             # (e.g. it was added by an earlier AIQ run before this fix).
             college["state"] = resolved_state
+        if args.fill_missing_only and row["category"] in college["cutoffs"]:
+            continue
         college["cutoffs"][row["category"]] = row["closing_rank"]
         updated += 1
 

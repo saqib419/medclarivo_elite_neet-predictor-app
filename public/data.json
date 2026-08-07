@@ -2269,7 +2269,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 734672
+        "General": 734672,
+        "EWS": 23652,
+        "OBC": 23871,
+        "SC": 23786,
+        "ST": 23803
       }
     },
     {
@@ -2277,7 +2281,11 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 1021236
+        "General": 1021236,
+        "EWS": 9104,
+        "OBC": 7293,
+        "SC": 11985,
+        "ST": 13830
       }
     },
     {
@@ -2285,7 +2293,11 @@
       "quota": "AIQ",
       "state": "Tripura",
       "cutoffs": {
-        "General": 27007
+        "General": 27007,
+        "EWS": 9499,
+        "OBC": 9107,
+        "SC": 13411,
+        "ST": 14016
       }
     },
     {
@@ -2293,7 +2305,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 61580
+        "General": 61580,
+        "EWS": 4573,
+        "OBC": 3743,
+        "SC": 10342,
+        "ST": 11562
       }
     },
     {
@@ -2301,7 +2317,11 @@
       "quota": "AIQ",
       "state": "Punjab",
       "cutoffs": {
-        "General": 2482
+        "General": 2482,
+        "EWS": 2677,
+        "OBC": 2166,
+        "SC": 8859,
+        "ST": 10515
       }
     },
     {
@@ -2309,7 +2329,11 @@
       "quota": "AIQ",
       "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 30304
+        "General": 30304,
+        "EWS": 3127,
+        "OBC": 2643,
+        "SC": 9196,
+        "ST": 10825
       }
     },
     {
@@ -2317,7 +2341,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 31499
+        "General": 31499,
+        "EWS": 4066,
+        "OBC": 3411,
+        "SC": 10088,
+        "ST": 11525
       }
     },
     {
@@ -2325,7 +2353,11 @@
       "quota": "AIQ",
       "state": "Jammu and Kashmir",
       "cutoffs": {
-        "General": 51471
+        "General": 51471,
+        "EWS": 3733,
+        "OBC": 3426,
+        "SC": 10216,
+        "ST": 10957
       }
     },
     {
@@ -2333,7 +2365,11 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 53569
+        "General": 53569,
+        "EWS": 2848,
+        "OBC": 2676,
+        "SC": 9335,
+        "ST": 10771
       }
     },
     {
@@ -2341,7 +2377,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 119132
+        "General": 119132,
+        "EWS": 6362,
+        "OBC": 6565,
+        "SC": 12532,
+        "ST": 13401
       }
     },
     {
@@ -2349,7 +2389,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 119562
+        "General": 119562,
+        "EWS": 8038,
+        "OBC": 7631,
+        "SC": 12575,
+        "ST": 12104
       }
     },
     {
@@ -2357,7 +2401,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 749341
+        "General": 749341,
+        "EWS": 6186,
+        "OBC": 5957,
+        "SC": 11467,
+        "ST": 12458
       }
     },
     {
@@ -2365,7 +2413,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 755831
+        "General": 755831,
+        "EWS": 12734,
+        "OBC": 23963,
+        "SC": 23950,
+        "ST": 22795
       }
     },
     {
@@ -2373,7 +2425,9 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 363996
+        "General": 363996,
+        "OBC": 18370,
+        "SC": 18250
       }
     },
     {
@@ -2381,15 +2435,23 @@
       "quota": "AIQ",
       "state": "Andaman and Nicobar Islands",
       "cutoffs": {
-        "General": 24492
+        "General": 24492,
+        "EWS": 9370,
+        "OBC": 9021,
+        "SC": 13549,
+        "ST": 14275
       }
     },
     {
       "name": "Andhra Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 7539
+        "General": 7539,
+        "EWS": 4836,
+        "OBC": 3974,
+        "SC": 10810,
+        "ST": 11640
       }
     },
     {
@@ -2397,7 +2459,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 149223
+        "General": 149223,
+        "EWS": 4051,
+        "OBC": 4708,
+        "SC": 11653,
+        "ST": 14587
       }
     },
     {
@@ -2405,7 +2471,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 109637
+        "General": 109637,
+        "EWS": 7768,
+        "OBC": 8028,
+        "SC": 12517
       }
     },
     {
@@ -2413,7 +2482,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 1190424
+        "General": 1190424,
+        "EWS": 8667,
+        "OBC": 8453,
+        "SC": 13171,
+        "ST": 13966
       }
     },
     {
@@ -2421,7 +2494,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 19879
+        "General": 19879,
+        "EWS": 8285,
+        "OBC": 7848,
+        "SC": 12932,
+        "ST": 13807
       }
     },
     {
@@ -2429,7 +2506,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 106101
+        "General": 106101,
+        "EWS": 7437,
+        "OBC": 7845,
+        "SC": 12846,
+        "ST": 13691
       }
     },
     {
@@ -2437,7 +2518,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 105614
+        "General": 105614,
+        "EWS": 4120,
+        "OBC": 3730,
+        "SC": 9448,
+        "ST": 11832
       }
     },
     {
@@ -2445,7 +2530,11 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 73018
+        "General": 73018,
+        "EWS": 2418,
+        "OBC": 2747,
+        "SC": 8094,
+        "ST": 11564
       }
     },
     {
@@ -2453,15 +2542,22 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 302710
+        "General": 302710,
+        "EWS": 16568,
+        "OBC": 16579,
+        "SC": 16556
       }
     },
     {
       "name": "B.R.D. MEDICAL COLLEGE",
       "quota": "AIQ",
-      "state": null,
+      "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 104924
+        "General": 104924,
+        "EWS": 5093,
+        "OBC": 4983,
+        "SC": 11375,
+        "ST": 12204
       }
     },
     {
@@ -2469,7 +2565,11 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 627606
+        "General": 627606,
+        "EWS": 16352,
+        "OBC": 15628,
+        "SC": 19619,
+        "ST": 26025
       }
     },
     {
@@ -2477,7 +2577,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 140230
+        "General": 140230,
+        "EWS": 8043,
+        "OBC": 7343,
+        "SC": 12462,
+        "ST": 13981
       }
     },
     {
@@ -2485,7 +2589,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 122194
+        "General": 122194,
+        "EWS": 6842,
+        "OBC": 6318,
+        "SC": 12326,
+        "ST": 11943
       }
     },
     {
@@ -2493,7 +2601,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 820797
+        "General": 820797,
+        "EWS": 24275,
+        "OBC": 24738,
+        "SC": 24757,
+        "ST": 24427
       }
     },
     {
@@ -2501,7 +2613,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 138880
+        "General": 138880,
+        "EWS": 8758,
+        "OBC": 7408,
+        "SC": 12681,
+        "ST": 13149
       }
     },
     {
@@ -2509,7 +2625,11 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 122410
+        "General": 122410,
+        "EWS": 6572,
+        "OBC": 5900,
+        "SC": 12269,
+        "ST": 13233
       }
     },
     {
@@ -2517,7 +2637,11 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 105466
+        "General": 105466,
+        "EWS": 6847,
+        "OBC": 6250,
+        "SC": 12182,
+        "ST": 13198
       }
     },
     {
@@ -2525,7 +2649,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 999414
+        "General": 999414,
+        "EWS": 6863,
+        "OBC": 6780,
+        "SC": 12019,
+        "ST": 13482
       }
     },
     {
@@ -2533,7 +2661,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 664912
+        "General": 664912,
+        "EWS": 21626,
+        "OBC": 21676,
+        "SC": 21643,
+        "ST": 21172
       }
     },
     {
@@ -2541,7 +2673,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 114454
+        "General": 114454,
+        "EWS": 8587,
+        "OBC": 8448,
+        "SC": 13113,
+        "ST": 14124
       }
     },
     {
@@ -2549,7 +2685,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 42980
+        "General": 42980,
+        "EWS": 3676,
+        "OBC": 2708,
+        "SC": 9567,
+        "ST": 10789
       }
     },
     {
@@ -2557,7 +2697,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 122842
+        "General": 122842,
+        "EWS": 8751,
+        "OBC": 8202,
+        "SC": 12235,
+        "ST": 13982
       }
     },
     {
@@ -2565,7 +2709,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 592172
+        "General": 592172,
+        "EWS": 19038,
+        "OBC": 20177,
+        "SC": 19451
       }
     },
     {
@@ -2573,7 +2720,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 26879
+        "General": 26879,
+        "EWS": 9438,
+        "OBC": 7883,
+        "SC": 12771,
+        "ST": 13546
       }
     },
     {
@@ -2581,7 +2732,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 117345
+        "General": 117345,
+        "EWS": 5725,
+        "OBC": 5281,
+        "SC": 11024,
+        "ST": 12895
       }
     },
     {
@@ -2589,7 +2744,10 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 145518
+        "General": 145518,
+        "EWS": 8263,
+        "OBC": 3515,
+        "SC": 9234
       }
     },
     {
@@ -2597,7 +2755,11 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 91700
+        "General": 91700,
+        "EWS": 6483,
+        "OBC": 6501,
+        "SC": 12147,
+        "ST": 13315
       }
     },
     {
@@ -2605,7 +2767,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 130768
+        "General": 130768,
+        "EWS": 9410,
+        "OBC": 7578,
+        "SC": 12923,
+        "ST": 13804
       }
     },
     {
@@ -2613,15 +2779,22 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 142895
+        "General": 142895,
+        "EWS": 7884,
+        "OBC": 3246,
+        "SC": 9594,
+        "ST": 13506
       }
     },
     {
       "name": "COLLEGE OF MEDICINE and JNM HOSPITAL",
       "quota": "AIQ",
-      "state": null,
+      "state": "West Bengal",
       "cutoffs": {
-        "General": 129596
+        "General": 129596,
+        "EWS": 6768,
+        "OBC": 6961,
+        "SC": 12139
       }
     },
     {
@@ -2629,23 +2802,35 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 138082
+        "General": 138082,
+        "EWS": 9000,
+        "OBC": 8527,
+        "SC": 13312,
+        "ST": 14177
       }
     },
     {
       "name": "Chettinad Hos. and Res. Inst.",
       "quota": "AIQ",
-      "state": null,
+      "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 766810
+        "General": 766810,
+        "EWS": 18883,
+        "OBC": 24051,
+        "SC": 24020,
+        "ST": 23146
       }
     },
     {
       "name": "Chhindwara Institute of Medical Sciences",
       "quota": "AIQ",
-      "state": null,
+      "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 116688
+        "General": 116688,
+        "EWS": 7647,
+        "OBC": 7385,
+        "SC": 12888,
+        "ST": 13283
       }
     },
     {
@@ -2653,7 +2838,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 150485
+        "General": 150485,
+        "EWS": 9505,
+        "OBC": 8111,
+        "SC": 13358,
+        "ST": 14191
       }
     },
     {
@@ -2661,7 +2850,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 24884
+        "General": 24884,
+        "EWS": 9446,
+        "OBC": 8307,
+        "SC": 13447,
+        "ST": 14210
       }
     },
     {
@@ -2669,7 +2862,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 91240
+        "General": 91240,
+        "EWS": 5681,
+        "OBC": 5621,
+        "SC": 11368,
+        "ST": 12172
       }
     },
     {
@@ -2677,7 +2874,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 638084
+        "General": 638084,
+        "EWS": 20753,
+        "OBC": 20793,
+        "SC": 20645,
+        "ST": 19065
       }
     },
     {
@@ -2685,15 +2886,23 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 108671
+        "General": 108671,
+        "EWS": 6771,
+        "OBC": 6615,
+        "SC": 12371,
+        "ST": 13478
       }
     },
     {
       "name": "DR.RAJENDRA PRASAD MC",
       "quota": "AIQ",
-      "state": null,
+      "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 8273
+        "General": 8273,
+        "EWS": 3811,
+        "OBC": 4232,
+        "SC": 10701,
+        "ST": 11374
       }
     },
     {
@@ -2701,7 +2910,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 144418
+        "General": 144418,
+        "OBC": 6951,
+        "SC": 12487,
+        "ST": 13644
       }
     },
     {
@@ -2709,7 +2921,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 74989
+        "General": 74989,
+        "EWS": 3898,
+        "OBC": 3317,
+        "SC": 10319,
+        "ST": 11262
       }
     },
     {
@@ -2725,23 +2941,35 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 119066
+        "General": 119066,
+        "EWS": 5570,
+        "OBC": 5536,
+        "SC": 11912,
+        "ST": 13225
       }
     },
     {
       "name": "Deben Mahata Government Medical College & Hospital",
       "quota": "AIQ",
-      "state": null,
+      "state": "West Bengal",
       "cutoffs": {
-        "General": 148191
+        "General": 148191,
+        "EWS": 8949,
+        "OBC": 8943,
+        "SC": 13075,
+        "ST": 14346
       }
     },
     {
       "name": "Diamond Harbour Govt Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "West Bengal",
       "cutoffs": {
-        "General": 139466
+        "General": 139466,
+        "EWS": 6684,
+        "OBC": 6785,
+        "SC": 12521,
+        "ST": 13716
       }
     },
     {
@@ -2765,7 +2993,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 42380
+        "General": 42380,
+        "EWS": 3235,
+        "OBC": 3542,
+        "SC": 10183,
+        "ST": 11597
       }
     },
     {
@@ -2773,7 +3005,11 @@
       "quota": "AIQ",
       "state": "Punjab",
       "cutoffs": {
-        "General": 17802
+        "General": 17802,
+        "EWS": 4937,
+        "OBC": 4100,
+        "SC": 11442,
+        "ST": 12122
       }
     },
     {
@@ -2781,7 +3017,11 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 49964
+        "General": 49964,
+        "EWS": 2387,
+        "OBC": 2275,
+        "SC": 7792,
+        "ST": 7231
       }
     },
     {
@@ -2789,7 +3029,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 529224
+        "General": 529224,
+        "EWS": 17615,
+        "OBC": 21078,
+        "SC": 21207
       }
     },
     {
@@ -2797,7 +3040,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 518398
+        "General": 518398,
+        "EWS": 19341,
+        "OBC": 20840,
+        "SC": 20729
       }
     },
     {
@@ -2805,7 +3051,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 553148
+        "General": 553148,
+        "EWS": 19210,
+        "OBC": 19231,
+        "SC": 18988,
+        "ST": 19295
       }
     },
     {
@@ -2813,15 +3063,23 @@
       "quota": "AIQ",
       "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 112774
+        "General": 112774,
+        "EWS": 5312,
+        "OBC": 5690,
+        "SC": 11717,
+        "ST": 12834
       }
     },
     {
       "name": "Dr.Radhakrishnan Government Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 695650
+        "General": 695650,
+        "EWS": 5408,
+        "OBC": 5822,
+        "SC": 11707,
+        "ST": 11725
       }
     },
     {
@@ -2829,7 +3087,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 468396
+        "General": 468396,
+        "EWS": 9819,
+        "OBC": 9885,
+        "SC": 15193,
+        "ST": 20758
       }
     },
     {
@@ -2869,15 +3131,23 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 505423
+        "General": 505423,
+        "EWS": 10630,
+        "OBC": 10441,
+        "SC": 15992,
+        "ST": 21524
       }
     },
     {
       "name": "ESIC Medical College AND PGIMSR",
       "quota": "AIQ",
-      "state": null,
+      "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 201923
+        "General": 201923,
+        "EWS": 10767,
+        "OBC": 9915,
+        "SC": 15001,
+        "ST": 22214
       }
     },
     {
@@ -2891,9 +3161,13 @@
     {
       "name": "ESIC PGIMSR",
       "quota": "AIQ",
-      "state": null,
+      "state": "West Bengal",
       "cutoffs": {
-        "General": 108358
+        "General": 108358,
+        "EWS": 10683,
+        "OBC": 10477,
+        "SC": 16128,
+        "ST": 22117
       }
     },
     {
@@ -2901,7 +3175,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 146901
+        "General": 146901,
+        "EWS": 8335,
+        "OBC": 8409,
+        "SC": 14060,
+        "ST": 18103
       }
     },
     {
@@ -2909,7 +3187,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 25558
+        "General": 25558,
+        "EWS": 9306,
+        "OBC": 9105,
+        "SC": 13540,
+        "ST": 13593
       }
     },
     {
@@ -2941,7 +3223,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 65169
+        "General": 65169,
+        "EWS": 4183,
+        "OBC": 4136,
+        "SC": 10711,
+        "ST": 11809
       }
     },
     {
@@ -2949,7 +3235,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 84131
+        "General": 84131,
+        "EWS": 5410,
+        "OBC": 4871,
+        "SC": 11528,
+        "ST": 12004
       }
     },
     {
@@ -2957,7 +3247,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 92870
+        "General": 92870,
+        "EWS": 5050,
+        "OBC": 4635,
+        "SC": 11274,
+        "ST": 11964
       }
     },
     {
@@ -2965,7 +3259,10 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 571747
+        "General": 571747,
+        "EWS": 20268,
+        "OBC": 21598,
+        "SC": 20980
       }
     },
     {
@@ -2973,7 +3270,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 121735
+        "General": 121735,
+        "EWS": 9568,
+        "OBC": 8942,
+        "SC": 12744,
+        "ST": 14079
       }
     },
     {
@@ -2981,7 +3282,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 91995
+        "General": 91995,
+        "EWS": 5771,
+        "OBC": 6167,
+        "SC": 11748,
+        "ST": 12572
       }
     },
     {
@@ -2989,7 +3294,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 151942
+        "General": 151942,
+        "EWS": 9248,
+        "OBC": 9024,
+        "SC": 13379,
+        "ST": 14316
       }
     },
     {
@@ -2997,7 +3306,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 104061
+        "General": 104061,
+        "EWS": 6909,
+        "OBC": 6741,
+        "SC": 12391,
+        "ST": 13168
       }
     },
     {
@@ -3005,7 +3318,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 26296
+        "General": 26296,
+        "EWS": 9607,
+        "OBC": 9134,
+        "SC": 13525,
+        "ST": 13853
       }
     },
     {
@@ -3013,7 +3330,11 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 1037462
+        "General": 1037462,
+        "EWS": 9224,
+        "OBC": 9055,
+        "SC": 13263,
+        "ST": 14547
       }
     },
     {
@@ -3021,7 +3342,11 @@
       "quota": "AIQ",
       "state": "Goa",
       "cutoffs": {
-        "General": 101960
+        "General": 101960,
+        "EWS": 6578,
+        "OBC": 6052,
+        "SC": 11792,
+        "ST": 12851
       }
     },
     {
@@ -3029,7 +3354,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 114763
+        "General": 114763,
+        "EWS": 8309,
+        "OBC": 8017,
+        "SC": 13246,
+        "ST": 13920
       }
     },
     {
@@ -3037,7 +3366,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 18921
+        "General": 18921,
+        "EWS": 9466,
+        "OBC": 9132,
+        "SC": 13628,
+        "ST": 14253
       }
     },
     {
@@ -3045,7 +3378,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 130363
+        "General": 130363,
+        "EWS": 8702,
+        "OBC": 7738,
+        "SC": 13090,
+        "ST": 14122
       }
     },
     {
@@ -3053,23 +3390,35 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 149808
+        "General": 149808,
+        "EWS": 9331,
+        "OBC": 8963,
+        "SC": 13068,
+        "ST": 14565
       }
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM",
       "quota": "AIQ",
-      "state": null,
+      "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 24868
+        "General": 24868,
+        "EWS": 9601,
+        "OBC": 9065,
+        "SC": 12803,
+        "ST": 14614
       }
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE NANDYAL",
       "quota": "AIQ",
-      "state": null,
+      "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 128615
+        "General": 128615,
+        "EWS": 9619,
+        "OBC": 9011,
+        "SC": 13119,
+        "ST": 14088
       }
     },
     {
@@ -3077,7 +3426,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 136153
+        "General": 136153,
+        "EWS": 7893,
+        "OBC": 8191,
+        "SC": 13203,
+        "ST": 13997
       }
     },
     {
@@ -3085,7 +3438,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 154537
+        "General": 154537,
+        "EWS": 9618,
+        "OBC": 9253,
+        "SC": 13722,
+        "ST": 14526
       }
     },
     {
@@ -3093,7 +3450,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 27761
+        "General": 27761,
+        "EWS": 9407,
+        "OBC": 5722,
+        "SC": 11248,
+        "ST": 14185
       }
     },
     {
@@ -3101,7 +3462,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 119660
+        "General": 119660,
+        "EWS": 7603,
+        "OBC": 2177,
+        "SC": 8608,
+        "ST": 12034
       }
     },
     {
@@ -3109,7 +3474,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 946638
+        "General": 946638,
+        "EWS": 9261,
+        "OBC": 5887,
+        "SC": 11540,
+        "ST": 14084
       }
     },
     {
@@ -3117,7 +3486,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 13573
+        "General": 13573,
+        "EWS": 9363,
+        "OBC": 4215,
+        "SC": 10000,
+        "ST": 13712
       }
     },
     {
@@ -3125,7 +3498,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 25925
+        "General": 25925,
+        "EWS": 6629,
+        "OBC": 4047,
+        "SC": 10260,
+        "ST": 13054
       }
     },
     {
@@ -3133,7 +3510,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 115572
+        "General": 115572,
+        "EWS": 6541,
+        "OBC": 5564,
+        "SC": 11433,
+        "ST": 13426
       }
     },
     {
@@ -3141,7 +3522,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 90836
+        "General": 90836,
+        "EWS": 4018,
+        "OBC": 3636,
+        "SC": 9656,
+        "ST": 11771
       }
     },
     {
@@ -3149,7 +3534,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 19584
+        "General": 19584,
+        "EWS": 9645,
+        "OBC": 6312,
+        "SC": 11833,
+        "ST": 14778
       }
     },
     {
@@ -3157,7 +3546,11 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 22094
+        "General": 22094,
+        "EWS": 5635,
+        "OBC": 5139,
+        "SC": 10960,
+        "ST": 12158
       }
     },
     {
@@ -3165,7 +3558,11 @@
       "quota": "AIQ",
       "state": "Punjab",
       "cutoffs": {
-        "General": 17173
+        "General": 17173,
+        "EWS": 6461,
+        "OBC": 5769,
+        "SC": 11619,
+        "ST": 13231
       }
     },
     {
@@ -3173,7 +3570,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 88005
+        "General": 88005,
+        "EWS": 6090,
+        "OBC": 5934,
+        "SC": 10922,
+        "ST": 11783
       }
     },
     {
@@ -3181,7 +3582,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 1098028
+        "General": 1098028,
+        "EWS": 9588,
+        "OBC": 5530,
+        "SC": 10526,
+        "ST": 13543
       }
     },
     {
@@ -3189,7 +3594,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 123145
+        "General": 123145,
+        "EWS": 9122,
+        "OBC": 7823,
+        "SC": 13319,
+        "ST": 13126
       }
     },
     {
@@ -3197,7 +3606,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 7253
+        "General": 7253,
+        "EWS": 3918,
+        "OBC": 3075,
+        "SC": 10316,
+        "ST": 11275
       }
     },
     {
@@ -3205,7 +3618,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 130821
+        "General": 130821,
+        "EWS": 8851,
+        "OBC": 8848,
+        "SC": 13325,
+        "ST": 14287
       }
     },
     {
@@ -3213,7 +3630,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 23014
+        "General": 23014,
+        "EWS": 8332,
+        "OBC": 7906,
+        "SC": 13019,
+        "ST": 13916
       }
     },
     {
@@ -3229,7 +3650,11 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 875148
+        "General": 875148,
+        "EWS": 4997,
+        "OBC": 4826,
+        "SC": 11471,
+        "ST": 12551
       }
     },
     {
@@ -3237,7 +3662,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 22001
+        "General": 22001,
+        "EWS": 8654,
+        "OBC": 8050,
+        "SC": 13155,
+        "ST": 14044
       }
     },
     {
@@ -3245,7 +3674,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 831158
+        "General": 831158,
+        "EWS": 9388,
+        "OBC": 8767,
+        "SC": 13275,
+        "ST": 14514
       }
     },
     {
@@ -3253,7 +3686,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 76041
+        "General": 76041,
+        "EWS": 6857,
+        "OBC": 5972,
+        "SC": 11723,
+        "ST": 12613
       }
     },
     {
@@ -3261,7 +3698,11 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 145338
+        "General": 145338,
+        "EWS": 9003,
+        "OBC": 8636,
+        "SC": 13047,
+        "ST": 14248
       }
     },
     {
@@ -3269,7 +3710,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 28202
+        "General": 28202,
+        "EWS": 9660,
+        "OBC": 9268,
+        "SC": 13177,
+        "ST": 13701
       }
     },
     {
@@ -3277,7 +3722,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 121022
+        "General": 121022,
+        "EWS": 8181,
+        "OBC": 7646,
+        "SC": 12839,
+        "ST": 13692
       }
     },
     {
@@ -3285,7 +3734,10 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 143103
+        "General": 143103,
+        "EWS": 9146,
+        "OBC": 8699,
+        "SC": 13044
       }
     },
     {
@@ -3293,7 +3745,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 123668
+        "General": 123668,
+        "EWS": 9456,
+        "OBC": 8705,
+        "SC": 13345,
+        "ST": 13821
       }
     },
     {
@@ -3301,7 +3757,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 123553
+        "General": 123553,
+        "EWS": 8513,
+        "OBC": 8045,
+        "SC": 13232,
+        "ST": 14119
       }
     },
     {
@@ -3309,7 +3769,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 525616
+        "General": 525616,
+        "EWS": 10791,
+        "OBC": 9739,
+        "SC": 13152,
+        "ST": 16402
       }
     },
     {
@@ -3317,7 +3781,11 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 115037
+        "General": 115037,
+        "EWS": 1805,
+        "OBC": 2337,
+        "SC": 7345,
+        "ST": 9765
       }
     },
     {
@@ -3325,7 +3793,11 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 100028
+        "General": 100028,
+        "EWS": 7122,
+        "OBC": 6905,
+        "SC": 12534,
+        "ST": 13307
       }
     },
     {
@@ -3333,7 +3805,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 120996
+        "General": 120996,
+        "EWS": 6222,
+        "OBC": 6047,
+        "SC": 11128,
+        "ST": 12001
       }
     },
     {
@@ -3341,7 +3817,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 100855
+        "General": 100855,
+        "EWS": 6191,
+        "OBC": 5881,
+        "SC": 11764,
+        "ST": 12784
       }
     },
     {
@@ -3349,7 +3829,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 116051
+        "General": 116051,
+        "EWS": 7460,
+        "OBC": 6950,
+        "SC": 12831,
+        "ST": 13213
       }
     },
     {
@@ -3357,7 +3841,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 107947
+        "General": 107947,
+        "EWS": 7247,
+        "OBC": 6701,
+        "SC": 12513,
+        "ST": 13125
       }
     },
     {
@@ -3365,7 +3853,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 112116
+        "General": 112116,
+        "EWS": 6888,
+        "OBC": 6823,
+        "SC": 12153
       }
     },
     {
@@ -3373,7 +3864,11 @@
       "quota": "AIQ",
       "state": "Kerala",
       "cutoffs": {
-        "General": 137232
+        "General": 137232,
+        "EWS": 8690,
+        "OBC": 3827,
+        "SC": 12030,
+        "ST": 13922
       }
     },
     {
@@ -3381,7 +3876,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 121043
+        "General": 121043,
+        "EWS": 9405,
+        "OBC": 8815,
+        "SC": 13252,
+        "ST": 13851
       }
     },
     {
@@ -3389,7 +3888,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 91920
+        "General": 91920,
+        "EWS": 7164,
+        "OBC": 6429,
+        "SC": 12383,
+        "ST": 13142
       }
     },
     {
@@ -3397,7 +3900,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 110702
+        "General": 110702,
+        "EWS": 7093,
+        "OBC": 7310,
+        "SC": 12580,
+        "ST": 13331
       }
     },
     {
@@ -3405,7 +3912,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 28771
+        "General": 28771,
+        "EWS": 9662,
+        "OBC": 9249,
+        "SC": 13704,
+        "ST": 14301
       }
     },
     {
@@ -3413,7 +3924,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 111337
+        "General": 111337,
+        "EWS": 7265,
+        "OBC": 6832,
+        "SC": 12461,
+        "ST": 13082
       }
     },
     {
@@ -3421,7 +3936,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 9270
+        "General": 9270,
+        "EWS": 4155,
+        "OBC": 3810,
+        "SC": 10835,
+        "ST": 12308
       }
     },
     {
@@ -3429,7 +3948,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 132267
+        "General": 132267,
+        "EWS": 9636,
+        "OBC": 9293,
+        "SC": 13696,
+        "ST": 14681
       }
     },
     {
@@ -3437,7 +3960,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 16740
+        "General": 16740,
+        "EWS": 9695,
+        "OBC": 5936,
+        "SC": 11881,
+        "ST": 14659
       }
     },
     {
@@ -3445,7 +3972,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 28079
+        "General": 28079,
+        "EWS": 9349,
+        "OBC": 8773,
+        "SC": 13298,
+        "ST": 11877
       }
     },
     {
@@ -3453,7 +3984,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 133088
+        "General": 133088,
+        "EWS": 8342,
+        "OBC": 7858,
+        "SC": 13012,
+        "ST": 13463
       }
     },
     {
@@ -3461,7 +3996,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 18973
+        "General": 18973,
+        "EWS": 9696,
+        "OBC": 6467,
+        "SC": 11887,
+        "ST": 14712
       }
     },
     {
@@ -3469,7 +4008,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 19303
+        "General": 19303,
+        "EWS": 9369,
+        "OBC": 6532,
+        "SC": 11882,
+        "ST": 14854
       }
     },
     {
@@ -3477,7 +4020,9 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 576685
+        "General": 576685,
+        "OBC": 21644,
+        "ST": 21650
       }
     },
     {
@@ -3485,7 +4030,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 129845
+        "General": 129845,
+        "EWS": 8682,
+        "OBC": 7144,
+        "SC": 12599,
+        "ST": 13686
       }
     },
     {
@@ -3493,7 +4042,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 133599
+        "General": 133599,
+        "EWS": 8204,
+        "OBC": 6340,
+        "SC": 11982,
+        "ST": 12589
       }
     },
     {
@@ -3501,7 +4054,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 152565
+        "General": 152565,
+        "EWS": 9460,
+        "OBC": 8246,
+        "SC": 13363,
+        "ST": 14286
       }
     },
     {
@@ -3509,7 +4066,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 102783
+        "General": 102783,
+        "EWS": 5370,
+        "OBC": 4489,
+        "SC": 10985,
+        "ST": 12821
       }
     },
     {
@@ -3517,7 +4078,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 109255
+        "General": 109255,
+        "EWS": 4898,
+        "OBC": 5249,
+        "SC": 11085,
+        "ST": 12669
       }
     },
     {
@@ -3525,7 +4090,11 @@
       "quota": "AIQ",
       "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 7698
+        "General": 7698,
+        "EWS": 3231,
+        "OBC": 3342,
+        "SC": 9805,
+        "ST": 11574
       }
     },
     {
@@ -3533,23 +4102,35 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 71259
+        "General": 71259,
+        "EWS": 3821,
+        "OBC": 3816,
+        "SC": 9481,
+        "ST": 12276
       }
     },
     {
       "name": "INST.OF MED.SCIENCES",
       "quota": "AIQ",
-      "state": null,
+      "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 20606
+        "General": 20606,
+        "EWS": 2030,
+        "OBC": 1702,
+        "SC": 7644,
+        "ST": 9757
       }
     },
     {
       "name": "IRT Perundurai Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 125728
+        "General": 125728,
+        "EWS": 9542,
+        "OBC": 5693,
+        "SC": 11398,
+        "ST": 13576
       }
     },
     {
@@ -3557,7 +4138,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 96049
+        "General": 96049,
+        "EWS": 4145,
+        "OBC": 4010,
+        "SC": 11253,
+        "ST": 12511
       }
     },
     {
@@ -3565,7 +4150,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 127289
+        "General": 127289,
+        "EWS": 8029,
+        "OBC": 6670,
+        "SC": 11844,
+        "ST": 13326
       }
     },
     {
@@ -3573,7 +4162,10 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 396950
+        "General": 396950,
+        "EWS": 15260,
+        "OBC": 15698,
+        "SC": 16002
       }
     },
     {
@@ -3581,7 +4173,11 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 398720
+        "General": 398720,
+        "EWS": 17120,
+        "OBC": 17268,
+        "SC": 17026,
+        "ST": 17093
       }
     },
     {
@@ -3589,7 +4185,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 60827
+        "General": 60827,
+        "EWS": 4304,
+        "OBC": 3650,
+        "SC": 10532,
+        "ST": 11481
       }
     },
     {
@@ -3597,7 +4197,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 76687
+        "General": 76687,
+        "EWS": 5155,
+        "OBC": 4643,
+        "SC": 11206,
+        "ST": 11706
       }
     },
     {
@@ -3605,7 +4209,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 71488
+        "General": 71488,
+        "EWS": 21828,
+        "OBC": 11325,
+        "SC": 14397,
+        "ST": 11153
       }
     },
     {
@@ -3613,7 +4221,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 126024
+        "General": 126024,
+        "EWS": 19939,
+        "OBC": 10860,
+        "SC": 14278,
+        "ST": 24043
       }
     },
     {
@@ -3621,7 +4233,11 @@
       "quota": "AIQ",
       "state": "Manipur",
       "cutoffs": {
-        "General": 140433
+        "General": 140433,
+        "EWS": 9442,
+        "OBC": 9143,
+        "SC": 12588,
+        "ST": 13607
       }
     },
     {
@@ -3629,7 +4245,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 587084
+        "General": 587084,
+        "EWS": 21198,
+        "OBC": 21191,
+        "SC": 21010,
+        "ST": 21110
       }
     },
     {
@@ -3637,7 +4257,8 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 167972
+        "General": 167972,
+        "OBC": 13989
       }
     },
     {
@@ -3661,7 +4282,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 111142
+        "General": 111142,
+        "EWS": 6564,
+        "OBC": 8567,
+        "SC": 12296,
+        "ST": 13346
       }
     },
     {
@@ -3669,7 +4294,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 149018
+        "General": 149018,
+        "EWS": 9180,
+        "OBC": 8984,
+        "SC": 12987,
+        "ST": 14277
       }
     },
     {
@@ -3677,7 +4306,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 131902
+        "General": 131902,
+        "EWS": 8844,
+        "OBC": 8749,
+        "SC": 13450,
+        "ST": 12907
       }
     },
     {
@@ -3685,7 +4318,10 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 14942
+        "General": 14942,
+        "EWS": 9074,
+        "OBC": 4731,
+        "SC": 10196
       }
     },
     {
@@ -3693,15 +4329,21 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 137517
+        "General": 137517,
+        "EWS": 13604,
+        "OBC": 13585
       }
     },
     {
       "name": "KANYAKUMARI GOVT. MED. COLL.",
       "quota": "AIQ",
-      "state": null,
+      "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 1180453
+        "General": 1180453,
+        "EWS": 9500,
+        "OBC": 5040,
+        "SC": 11720,
+        "ST": 14537
       }
     },
     {
@@ -3709,7 +4351,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 100347
+        "General": 100347,
+        "EWS": 6769,
+        "OBC": 5385,
+        "SC": 11079,
+        "ST": 10568
       }
     },
     {
@@ -3717,7 +4363,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 63833
+        "General": 63833,
+        "EWS": 2539,
+        "OBC": 2758,
+        "SC": 7895,
+        "ST": 11179
       }
     },
     {
@@ -3725,7 +4375,11 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 22480
+        "General": 22480,
+        "EWS": 5228,
+        "OBC": 6514,
+        "SC": 10307,
+        "ST": 12652
       }
     },
     {
@@ -3733,7 +4387,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 1018550
+        "General": 1018550,
+        "EWS": 7233,
+        "OBC": 6560,
+        "SC": 11580,
+        "ST": 11397
       }
     },
     {
@@ -3741,7 +4399,9 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 202084
+        "General": 202084,
+        "EWS": 14624,
+        "OBC": 14979
       }
     },
     {
@@ -3749,15 +4409,22 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 10661
+        "General": 10661,
+        "EWS": 5117,
+        "OBC": 4619,
+        "SC": 10673
       }
     },
     {
       "name": "Kalyan Singh Government Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 104956
+        "General": 104956,
+        "EWS": 7015,
+        "OBC": 6886,
+        "SC": 12523,
+        "ST": 13564
       }
     },
     {
@@ -3765,7 +4432,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 126484
+        "General": 126484,
+        "EWS": 9312,
+        "OBC": 7659,
+        "SC": 13130,
+        "ST": 14158
       }
     },
     {
@@ -3773,7 +4444,9 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 41533
+        "General": 41533,
+        "EWS": 11364,
+        "OBC": 11436
       }
     },
     {
@@ -3781,7 +4454,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 1093495
+        "General": 1093495,
+        "EWS": 9207,
+        "OBC": 7467,
+        "SC": 12889,
+        "ST": 13092
       }
     },
     {
@@ -3789,7 +4466,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 24347
+        "General": 24347,
+        "EWS": 9663,
+        "OBC": 9341,
+        "SC": 13603,
+        "ST": 14283
       }
     },
     {
@@ -3797,7 +4478,10 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 128737
+        "General": 128737,
+        "EWS": 9266,
+        "OBC": 7968,
+        "SC": 13095
       }
     },
     {
@@ -3805,7 +4489,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 609275
+        "General": 609275,
+        "EWS": 20865,
+        "OBC": 20844,
+        "SC": 20235
       }
     },
     {
@@ -3813,7 +4500,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 9650
+        "General": 9650,
+        "EWS": 5091,
+        "OBC": 4268,
+        "SC": 11037,
+        "ST": 12060
       }
     },
     {
@@ -3821,7 +4512,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 109648
+        "General": 109648,
+        "EWS": 4629,
+        "OBC": 4194,
+        "SC": 10367,
+        "ST": 12566
       }
     },
     {
@@ -3829,7 +4524,11 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 15212
+        "General": 15212,
+        "EWS": 7507,
+        "OBC": 7096,
+        "SC": 12381,
+        "ST": 15516
       }
     },
     {
@@ -3837,7 +4536,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 154315
+        "General": 154315,
+        "EWS": 8707,
+        "OBC": 9321,
+        "SC": 13730,
+        "ST": 14485
       }
     },
     {
@@ -3845,7 +4548,11 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 1060971
+        "General": 1060971,
+        "EWS": 8665,
+        "OBC": 8065,
+        "SC": 12927,
+        "ST": 13813
       }
     },
     {
@@ -3853,7 +4560,11 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 116700
+        "General": 116700,
+        "EWS": 8303,
+        "OBC": 7732,
+        "SC": 12794,
+        "ST": 13773
       }
     },
     {
@@ -3861,7 +4572,11 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 112712
+        "General": 112712,
+        "EWS": 5975,
+        "OBC": 5490,
+        "SC": 12003,
+        "ST": 12315
       }
     },
     {
@@ -3869,7 +4584,11 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 89872
+        "General": 89872,
+        "EWS": 5061,
+        "OBC": 4807,
+        "SC": 11425,
+        "ST": 12149
       }
     },
     {
@@ -3877,7 +4596,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 6861
+        "General": 6861,
+        "EWS": 2812,
+        "OBC": 904,
+        "SC": 4594,
+        "ST": 11342
       }
     },
     {
@@ -3885,7 +4608,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 123915
+        "General": 123915,
+        "EWS": 8185,
+        "OBC": 2928,
+        "SC": 8657,
+        "ST": 13500
       }
     },
     {
@@ -3893,7 +4620,11 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 129391
+        "General": 129391,
+        "EWS": 5233,
+        "OBC": 5499,
+        "SC": 11358,
+        "ST": 13067
       }
     },
     {
@@ -3901,15 +4632,22 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 95992
+        "General": 95992,
+        "EWS": 5512,
+        "OBC": 5195,
+        "SC": 11791,
+        "ST": 12749
       }
     },
     {
       "name": "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE",
       "quota": "AIQ",
-      "state": null,
+      "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 105293
+        "General": 105293,
+        "EWS": 5992,
+        "OBC": 7638,
+        "ST": 13667
       }
     },
     {
@@ -3917,7 +4655,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 23295
+        "General": 23295,
+        "EWS": 8898,
+        "OBC": 7954,
+        "SC": 12941,
+        "ST": 14206
       }
     },
     {
@@ -3925,7 +4667,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 111130
+        "General": 111130,
+        "EWS": 7771,
+        "OBC": 6120,
+        "SC": 11949,
+        "ST": 12608
       }
     },
     {
@@ -3933,7 +4679,11 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 525315
+        "General": 525315,
+        "EWS": 5239,
+        "OBC": 4988,
+        "SC": 11610,
+        "ST": 12320
       }
     },
     {
@@ -3941,7 +4691,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 875780
+        "General": 875780,
+        "EWS": 7834,
+        "OBC": 7449,
+        "SC": 12550,
+        "ST": 13481
       }
     },
     {
@@ -3949,7 +4703,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 297942
+        "General": 297942,
+        "EWS": 16236,
+        "OBC": 16495,
+        "SC": 16550
       }
     },
     {
@@ -3957,7 +4714,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 122611
+        "General": 122611,
+        "EWS": 8282,
+        "OBC": 7891,
+        "SC": 12878,
+        "ST": 14268
       }
     },
     {
@@ -3965,23 +4726,34 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 476335
+        "General": 476335,
+        "EWS": 18178,
+        "OBC": 18167,
+        "SC": 18198
       }
     },
     {
       "name": "MOTI LAL NEHRU MEDICAL COLL",
       "quota": "AIQ",
-      "state": null,
+      "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 80403
+        "General": 80403,
+        "EWS": 4834,
+        "OBC": 4454,
+        "SC": 11040,
+        "ST": 12201
       }
     },
     {
       "name": "MRA MEDICAL COLLEGE AMBEDKAR NAGAR",
       "quota": "AIQ",
-      "state": null,
+      "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 101608
+        "General": 101608,
+        "EWS": 6293,
+        "OBC": 6115,
+        "SC": 12051,
+        "ST": 12897
       }
     },
     {
@@ -3989,7 +4761,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 15375
+        "General": 15375,
+        "EWS": 4908,
+        "OBC": 4192,
+        "SC": 11064,
+        "ST": 10890
       }
     },
     {
@@ -3997,7 +4773,10 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 24204
+        "General": 24204,
+        "EWS": 9061,
+        "OBC": 8803,
+        "SC": 13273
       }
     },
     {
@@ -4013,7 +4792,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 808791
+        "General": 808791,
+        "EWS": 22717,
+        "OBC": 23781,
+        "SC": 23535,
+        "ST": 23484
       }
     },
     {
@@ -4021,7 +4804,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 373553
+        "General": 373553,
+        "EWS": 17433,
+        "OBC": 17645,
+        "SC": 17367
       }
     },
     {
@@ -4037,7 +4823,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 102420
+        "General": 102420,
+        "EWS": 7856,
+        "OBC": 7791,
+        "SC": 12578,
+        "ST": 13926
       }
     },
     {
@@ -4045,7 +4835,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 451856
+        "General": 451856,
+        "EWS": 19427,
+        "OBC": 19440,
+        "SC": 19334,
+        "ST": 19374
       }
     },
     {
@@ -4053,7 +4847,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 541861
+        "General": 541861,
+        "EWS": 19770,
+        "OBC": 19825,
+        "SC": 19719,
+        "ST": 19370
       }
     },
     {
@@ -4061,7 +4859,11 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 138067
+        "General": 138067,
+        "EWS": 1556,
+        "OBC": 4186,
+        "SC": 11222,
+        "ST": 14336
       }
     },
     {
@@ -4069,7 +4871,11 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 135357
+        "General": 135357,
+        "EWS": 8882,
+        "OBC": 8488,
+        "SC": 13366,
+        "ST": 14169
       }
     },
     {
@@ -4077,15 +4883,23 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 657379
+        "General": 657379,
+        "EWS": 23415,
+        "OBC": 23485,
+        "SC": 23304,
+        "ST": 23235
       }
     },
     {
       "name": "Mursidabad M C & Hospital",
       "quota": "AIQ",
-      "state": null,
+      "state": "West Bengal",
       "cutoffs": {
-        "General": 747846
+        "General": 747846,
+        "EWS": 8626,
+        "OBC": 8312,
+        "SC": 12870,
+        "ST": 14337
       }
     },
     {
@@ -4093,7 +4907,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 112881
+        "General": 112881,
+        "EWS": 4685,
+        "OBC": 4914,
+        "SC": 11631,
+        "ST": 12651
       }
     },
     {
@@ -4101,7 +4919,11 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 85166
+        "General": 85166,
+        "EWS": 6600,
+        "OBC": 5996,
+        "SC": 12195,
+        "ST": 11899
       }
     },
     {
@@ -4109,7 +4931,10 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 5106
+        "General": 5106,
+        "EWS": 2167,
+        "OBC": 2423,
+        "SC": 7902
       }
     },
     {
@@ -4117,15 +4942,20 @@
       "quota": "AIQ",
       "state": "Meghalaya",
       "cutoffs": {
-        "General": 16601
+        "General": 16601,
+        "OBC": 5163
       }
     },
     {
       "name": "NETAJI SUBHASH CHANDRA BOSE MC",
       "quota": "AIQ",
-      "state": null,
+      "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 100004
+        "General": 100004,
+        "EWS": 5632,
+        "OBC": 5356,
+        "SC": 11609,
+        "ST": 12425
       }
     },
     {
@@ -4133,15 +4963,23 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 1238539
+        "General": 1238539,
+        "EWS": 5600,
+        "OBC": 5052,
+        "SC": 10129,
+        "ST": 12598
       }
     },
     {
       "name": "NORTH BENGAL MED.COLL",
       "quota": "AIQ",
-      "state": null,
+      "state": "West Bengal",
       "cutoffs": {
-        "General": 133959
+        "General": 133959,
+        "EWS": 7605,
+        "OBC": 7001,
+        "SC": 12281,
+        "ST": 13406
       }
     },
     {
@@ -4149,7 +4987,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 25960
+        "General": 25960,
+        "EWS": 9633,
+        "OBC": 9325,
+        "SC": 13079,
+        "ST": 14193
       }
     },
     {
@@ -4173,7 +5015,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 8757
+        "General": 8757,
+        "EWS": 4634,
+        "OBC": 3568,
+        "SC": 10431,
+        "ST": 11156
       }
     },
     {
@@ -4189,7 +5035,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 6393
+        "General": 6393,
+        "EWS": 4040,
+        "OBC": 3528,
+        "SC": 10870,
+        "ST": 12142
       }
     },
     {
@@ -4213,7 +5063,11 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 9920
+        "General": 9920,
+        "EWS": 4189,
+        "OBC": 3724,
+        "SC": 10493,
+        "ST": 12140
       }
     },
     {
@@ -4221,7 +5075,11 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 136565
+        "General": 136565,
+        "EWS": 8515,
+        "OBC": 8301,
+        "SC": 13359,
+        "ST": 13467
       }
     },
     {
@@ -4229,7 +5087,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 23090
+        "General": 23090,
+        "EWS": 9274,
+        "OBC": 8962,
+        "SC": 13096,
+        "ST": 13750
       }
     },
     {
@@ -4237,7 +5099,11 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 79136
+        "General": 79136,
+        "EWS": 4671,
+        "OBC": 4566,
+        "SC": 11116,
+        "ST": 12306
       }
     },
     {
@@ -4245,7 +5111,11 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 16069
+        "General": 16069,
+        "EWS": 6379,
+        "OBC": 5875,
+        "SC": 11355,
+        "ST": 12972
       }
     },
     {
@@ -4253,7 +5123,11 @@
       "quota": "AIQ",
       "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 113394
+        "General": 113394,
+        "EWS": 5938,
+        "OBC": 5727,
+        "SC": 11825,
+        "ST": 11911
       }
     },
     {
@@ -4261,7 +5135,11 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 146965
+        "General": 146965,
+        "EWS": 7849,
+        "OBC": 7877,
+        "SC": 12181,
+        "ST": 14412
       }
     },
     {
@@ -4269,7 +5147,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 15156
+        "General": 15156,
+        "EWS": 5399,
+        "OBC": 5675,
+        "SC": 11458,
+        "ST": 13001
       }
     },
     {
@@ -4277,7 +5159,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 55836
+        "General": 55836,
+        "EWS": 3931,
+        "OBC": 3497,
+        "SC": 10350,
+        "ST": 11077
       }
     },
     {
@@ -4285,7 +5171,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 896492
+        "General": 896492,
+        "EWS": 7699,
+        "OBC": 7614,
+        "SC": 13073,
+        "ST": 13975
       }
     },
     {
@@ -4293,15 +5183,23 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 89481
+        "General": 89481,
+        "EWS": 4639,
+        "OBC": 4069,
+        "SC": 11762,
+        "ST": 12662
       }
     },
     {
       "name": "RAJIV GANDHI INSTITUTE OF MEDICAL SCIENCES",
       "quota": "AIQ",
-      "state": null,
+      "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 147831
+        "General": 147831,
+        "EWS": 9461,
+        "OBC": 8425,
+        "SC": 12675,
+        "ST": 14245
       }
     },
     {
@@ -4309,7 +5207,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 108496
+        "General": 108496,
+        "EWS": 5659,
+        "OBC": 5119,
+        "SC": 11060,
+        "ST": 12647
       }
     },
     {
@@ -4317,7 +5219,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 24310
+        "General": 24310,
+        "EWS": 9023,
+        "OBC": 8612,
+        "SC": 12961,
+        "ST": 14160
       }
     },
     {
@@ -4325,7 +5231,11 @@
       "quota": "AIQ",
       "state": "Manipur",
       "cutoffs": {
-        "General": 22377
+        "General": 22377,
+        "EWS": 9036,
+        "OBC": 7672,
+        "SC": 11929,
+        "ST": 11767
       }
     },
     {
@@ -4333,7 +5243,11 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 27619
+        "General": 27619,
+        "EWS": 9423,
+        "OBC": 8376,
+        "SC": 12400,
+        "ST": 13711
       }
     },
     {
@@ -4341,7 +5255,11 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 118517
+        "General": 118517,
+        "EWS": 9526,
+        "OBC": 8656,
+        "SC": 12712,
+        "ST": 14262
       }
     },
     {
@@ -4349,7 +5267,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 49630
+        "General": 49630,
+        "EWS": 3290,
+        "OBC": 2915,
+        "SC": 10065,
+        "ST": 10916
       }
     },
     {
@@ -4357,7 +5279,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 127876
+        "General": 127876,
+        "EWS": 9150,
+        "OBC": 8539,
+        "SC": 13237,
+        "ST": 14466
       }
     },
     {
@@ -4365,7 +5291,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 526412
+        "General": 526412,
+        "EWS": 18852,
+        "OBC": 18869,
+        "SC": 18900,
+        "ST": 18466
       }
     },
     {
@@ -4373,7 +5303,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 132020
+        "General": 132020,
+        "EWS": 9599,
+        "OBC": 6207,
+        "SC": 11657,
+        "ST": 14220
       }
     },
     {
@@ -4381,7 +5315,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 109831
+        "General": 109831,
+        "EWS": 6987,
+        "OBC": 7035,
+        "SC": 12705,
+        "ST": 13602
       }
     },
     {
@@ -4389,7 +5327,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 121285
+        "General": 121285,
+        "EWS": 8985,
+        "OBC": 7967,
+        "SC": 12057,
+        "ST": 12092
       }
     },
     {
@@ -4397,7 +5339,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 114568
+        "General": 114568,
+        "EWS": 7348,
+        "OBC": 6498,
+        "SC": 12434,
+        "ST": 13302
       }
     },
     {
@@ -4405,7 +5351,11 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 25218
+        "General": 25218,
+        "EWS": 8936,
+        "OBC": 8703,
+        "SC": 13145,
+        "ST": 14143
       }
     },
     {
@@ -4413,15 +5363,23 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 139038
+        "General": 139038,
+        "EWS": 6458,
+        "OBC": 5806,
+        "SC": 11182,
+        "ST": 13400
       }
     },
     {
       "name": "Rani Durgavati Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 114515
+        "General": 114515,
+        "EWS": 7508,
+        "OBC": 6574,
+        "SC": 12711,
+        "ST": 12867
       }
     },
     {
@@ -4429,7 +5387,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 139826
+        "General": 139826,
+        "EWS": 14082,
+        "OBC": 14254
       }
     },
     {
@@ -4437,7 +5397,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 2531
+        "General": 2531,
+        "EWS": 1773,
+        "OBC": 1570,
+        "SC": 7278,
+        "ST": 6975
       }
     },
     {
@@ -4445,7 +5409,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 89243
+        "General": 89243,
+        "EWS": 4817,
+        "OBC": 4540,
+        "SC": 10990,
+        "ST": 11992
       }
     },
     {
@@ -4453,7 +5421,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 107096
+        "General": 107096,
+        "EWS": 5998,
+        "OBC": 6001,
+        "SC": 12055,
+        "ST": 12725
       }
     },
     {
@@ -4461,7 +5433,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 44219
+        "General": 44219,
+        "EWS": 3649,
+        "OBC": 3148,
+        "SC": 10049,
+        "ST": 10953
       }
     },
     {
@@ -4469,7 +5445,10 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 704085
+        "General": 704085,
+        "EWS": 24544,
+        "OBC": 24354,
+        "SC": 18836
       }
     },
     {
@@ -4477,7 +5456,10 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 217863
+        "General": 217863,
+        "EWS": 15765,
+        "OBC": 15827,
+        "SC": 15637
       }
     },
     {
@@ -4485,7 +5467,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 85260
+        "General": 85260,
+        "EWS": 3468,
+        "OBC": 2787,
+        "SC": 7058,
+        "ST": 11314
       }
     },
     {
@@ -4493,7 +5479,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 867744
+        "General": 867744,
+        "EWS": 7897,
+        "OBC": 7675,
+        "SC": 12828,
+        "ST": 13752
       }
     },
     {
@@ -4501,7 +5491,11 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 20884
+        "General": 20884,
+        "EWS": 7322,
+        "OBC": 7078,
+        "SC": 12663,
+        "ST": 13632
       }
     },
     {
@@ -4517,7 +5511,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 122634
+        "General": 122634,
+        "EWS": 8540,
+        "OBC": 6935,
+        "SC": 12615,
+        "ST": 12782
       }
     },
     {
@@ -4525,7 +5523,11 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 101613
+        "General": 101613,
+        "EWS": 6607,
+        "OBC": 6403,
+        "SC": 12351,
+        "ST": 13352
       }
     },
     {
@@ -4533,7 +5535,11 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 95309
+        "General": 95309,
+        "EWS": 6086,
+        "OBC": 5878,
+        "SC": 11162,
+        "ST": 12439
       }
     },
     {
@@ -4541,7 +5547,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 125396
+        "General": 125396,
+        "EWS": 8064,
+        "OBC": 7502,
+        "SC": 12703,
+        "ST": 13785
       }
     },
     {
@@ -4549,7 +5559,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 77081
+        "General": 77081,
+        "EWS": 5421,
+        "OBC": 4305,
+        "SC": 11012,
+        "ST": 11794
       }
     },
     {
@@ -4557,7 +5571,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 150604
+        "General": 150604,
+        "EWS": 8085,
+        "OBC": 8327,
+        "SC": 12658,
+        "ST": 12643
       }
     },
     {
@@ -4565,15 +5583,23 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 90864
+        "General": 90864,
+        "EWS": 6113,
+        "OBC": 5267,
+        "SC": 11695,
+        "ST": 12536
       }
     },
     {
       "name": "SKIMS Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Jammu and Kashmir",
       "cutoffs": {
-        "General": 92831
+        "General": 92831,
+        "EWS": 6877,
+        "OBC": 6931,
+        "SC": 12360,
+        "ST": 11286
       }
     },
     {
@@ -4581,7 +5607,11 @@
       "quota": "AIQ",
       "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 86092
+        "General": 86092,
+        "EWS": 9386,
+        "OBC": 9382,
+        "SC": 14946,
+        "ST": 21689
       }
     },
     {
@@ -4589,7 +5619,11 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 122242
+        "General": 122242,
+        "EWS": 7083,
+        "OBC": 7342,
+        "SC": 12471,
+        "ST": 13208
       }
     },
     {
@@ -4597,7 +5631,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 110205
+        "General": 110205,
+        "EWS": 6528,
+        "OBC": 6338,
+        "SC": 12393,
+        "ST": 13388
       }
     },
     {
@@ -4605,7 +5643,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 701594
+        "General": 701594,
+        "EWS": 22441,
+        "OBC": 22560,
+        "SC": 22263,
+        "ST": 22462
       }
     },
     {
@@ -4613,23 +5655,34 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 70325
+        "General": 70325,
+        "EWS": 5427,
+        "OBC": 1637,
+        "SC": 6418,
+        "ST": 11892
       }
     },
     {
       "name": "SUH Maulana Mahmood Hasan Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 111624
+        "General": 111624,
+        "EWS": 6171,
+        "OBC": 6254,
+        "SC": 12329
       }
     },
     {
       "name": "SVIMS - Sri Padmavathi Medical College for Women",
       "quota": "AIQ",
-      "state": null,
+      "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 150701
+        "General": 150701,
+        "EWS": 9210,
+        "OBC": 7418,
+        "SC": 12353,
+        "ST": 14076
       }
     },
     {
@@ -4637,7 +5690,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 122369
+        "General": 122369,
+        "EWS": 8090,
+        "OBC": 7388,
+        "SC": 12862,
+        "ST": 13638
       }
     },
     {
@@ -4645,7 +5702,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 127811
+        "General": 127811,
+        "EWS": 6066,
+        "OBC": 5865,
+        "SC": 11522,
+        "ST": 13448
       }
     },
     {
@@ -4653,7 +5714,11 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 24138
+        "General": 24138,
+        "EWS": 9178,
+        "OBC": 8526,
+        "SC": 12145,
+        "ST": 14359
       }
     },
     {
@@ -4661,7 +5726,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 588923
+        "General": 588923,
+        "EWS": 22346,
+        "OBC": 22646,
+        "SC": 22505
       }
     },
     {
@@ -4669,15 +5737,21 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 23387
+        "General": 23387,
+        "EWS": 8877,
+        "OBC": 8914,
+        "SC": 12710,
+        "ST": 14241
       }
     },
     {
       "name": "Saveetha Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 509812
+        "General": 509812,
+        "OBC": 21534,
+        "SC": 21134
       }
     },
     {
@@ -4685,7 +5759,11 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 19694
+        "General": 19694,
+        "EWS": 6351,
+        "OBC": 6273,
+        "SC": 12160,
+        "ST": 12811
       }
     },
     {
@@ -4693,7 +5771,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 702132
+        "General": 702132,
+        "EWS": 5153,
+        "OBC": 4452,
+        "SC": 10317,
+        "ST": 10904
       }
     },
     {
@@ -4701,15 +5783,23 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 811496
+        "General": 811496,
+        "EWS": 24344,
+        "OBC": 24557,
+        "SC": 24438,
+        "ST": 24068
       }
     },
     {
       "name": "Siddartha Medical College",
       "quota": "AIQ",
-      "state": null,
+      "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 137271
+        "General": 137271,
+        "EWS": 7152,
+        "OBC": 7156,
+        "SC": 10562,
+        "ST": 13031
       }
     },
     {
@@ -4717,7 +5807,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 819763
+        "General": 819763,
+        "EWS": 24840,
+        "OBC": 25306,
+        "SC": 25097,
+        "ST": 25186
       }
     },
     {
@@ -4725,7 +5819,11 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 83692
+        "General": 83692,
+        "EWS": 7484,
+        "OBC": 6758,
+        "SC": 11740,
+        "ST": 13106
       }
     },
     {
@@ -4733,7 +5831,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 811714
+        "General": 811714,
+        "EWS": 25386,
+        "OBC": 25551,
+        "SC": 25553,
+        "ST": 25476
       }
     },
     {
@@ -4741,7 +5843,9 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 333238
+        "General": 333238,
+        "OBC": 17851,
+        "SC": 17847
       }
     },
     {
@@ -4749,7 +5853,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 510662
+        "General": 510662,
+        "EWS": 17722,
+        "OBC": 17664,
+        "SC": 17709,
+        "ST": 17610
       }
     },
     {
@@ -4757,7 +5865,10 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 402063
+        "General": 402063,
+        "EWS": 16649,
+        "OBC": 16807,
+        "SC": 16405
       }
     },
     {
@@ -4765,7 +5876,11 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 137215
+        "General": 137215,
+        "EWS": 6356,
+        "OBC": 6743,
+        "SC": 11663,
+        "ST": 13111
       }
     },
     {
@@ -4773,7 +5888,11 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 20010
+        "General": 20010,
+        "EWS": 7718,
+        "OBC": 7749,
+        "SC": 12909,
+        "ST": 13659
       }
     },
     {
@@ -4781,7 +5900,11 @@
       "quota": "AIQ",
       "state": "Kerala",
       "cutoffs": {
-        "General": 27979
+        "General": 27979,
+        "EWS": 7662,
+        "OBC": 3337,
+        "SC": 11410,
+        "ST": 13877
       }
     },
     {
@@ -4789,7 +5912,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 26199
+        "General": 26199,
+        "EWS": 8971,
+        "OBC": 3954,
+        "SC": 9720,
+        "ST": 13666
       }
     },
     {
@@ -4797,7 +5924,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 14826
+        "General": 14826,
+        "EWS": 9543,
+        "OBC": 4875,
+        "SC": 10934,
+        "ST": 14113
       }
     },
     {
@@ -4805,7 +5936,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 17296
+        "General": 17296,
+        "EWS": 9582,
+        "OBC": 5516,
+        "SC": 11662,
+        "ST": 14401
       }
     },
     {
@@ -4813,7 +5948,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 106595
+        "General": 106595,
+        "EWS": 4525,
+        "OBC": 4272,
+        "SC": 10729,
+        "ST": 12429
       }
     },
     {
@@ -4821,7 +5960,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 25090
+        "General": 25090,
+        "EWS": 9348,
+        "OBC": 9127,
+        "SC": 13594,
+        "ST": 13410
       }
     },
     {
@@ -4829,7 +5972,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 19808
+        "General": 19808,
+        "EWS": 9504,
+        "OBC": 6016,
+        "SC": 10982,
+        "ST": 14434
       }
     },
     {
@@ -4837,7 +5984,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 27130
+        "General": 27130,
+        "EWS": 9637,
+        "OBC": 9360,
+        "SC": 13672,
+        "ST": 12446
       }
     },
     {
@@ -4845,7 +5996,11 @@
       "quota": "AIQ",
       "state": "Arunachal Pradesh",
       "cutoffs": {
-        "General": 23450
+        "General": 23450,
+        "EWS": 9328,
+        "OBC": 9329,
+        "SC": 12920,
+        "ST": 13729
       }
     },
     {
@@ -4853,7 +6008,10 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 126062
+        "General": 126062,
+        "EWS": 7820,
+        "OBC": 7875,
+        "SC": 12979
       }
     },
     {
@@ -4861,7 +6019,11 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 10904
+        "General": 10904,
+        "EWS": 5437,
+        "OBC": 5599,
+        "SC": 11850,
+        "ST": 12971
       }
     },
     {
@@ -4869,7 +6031,11 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 14605
+        "General": 14605,
+        "EWS": 4797,
+        "OBC": 5350,
+        "SC": 11997,
+        "ST": 15276
       }
     },
     {
@@ -4893,7 +6059,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 89842
+        "General": 89842,
+        "EWS": 5968,
+        "OBC": 5559,
+        "SC": 11675,
+        "ST": 12884
       }
     },
     {
@@ -4901,7 +6071,11 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 143763
+        "General": 143763,
+        "EWS": 5391,
+        "OBC": 6128,
+        "SC": 11252,
+        "ST": 13453
       }
     },
     {
@@ -4909,7 +6083,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 117034
+        "General": 117034,
+        "EWS": 6228,
+        "OBC": 5847,
+        "SC": 12256,
+        "ST": 12537
       }
     },
     {
@@ -4917,7 +6095,10 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 603600
+        "General": 603600,
+        "EWS": 20680,
+        "OBC": 21367,
+        "SC": 21396
       }
     },
     {
@@ -4925,15 +6106,22 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 115750
+        "General": 115750,
+        "EWS": 8126,
+        "OBC": 7070,
+        "SC": 12354,
+        "ST": 13103
       }
     },
     {
       "name": "VMKV Medical College and Hospital",
       "quota": "AIQ",
-      "state": null,
+      "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 656654
+        "General": 656654,
+        "EWS": 23072,
+        "OBC": 23323,
+        "SC": 23090
       }
     },
     {
@@ -4941,7 +6129,11 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 116381
+        "General": 116381,
+        "EWS": 3223,
+        "OBC": 3341,
+        "SC": 10339,
+        "ST": 13843
       }
     },
     {
@@ -4949,7 +6141,11 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 101978
+        "General": 101978,
+        "EWS": 6894,
+        "OBC": 6836,
+        "SC": 11475,
+        "ST": 13076
       }
     },
     {
@@ -4957,7 +6153,10 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 693547
+        "General": 693547,
+        "EWS": 22388,
+        "OBC": 22524,
+        "SC": 22321
       }
     },
     {
@@ -4965,7 +6164,11 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 108149
+        "General": 108149,
+        "EWS": 7874,
+        "OBC": 7876,
+        "SC": 12754,
+        "ST": 13427
       }
     },
     {
@@ -4973,7 +6176,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 24321
+        "General": 24321,
+        "EWS": 9155,
+        "OBC": 8415,
+        "SC": 13428,
+        "ST": 14351
       }
     },
     {
@@ -4981,7 +6188,618 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 404110
+        "General": 404110,
+        "EWS": 17827,
+        "OBC": 19256,
+        "SC": 17020,
+        "ST": 17990
+      }
+    },
+    {
+      "name": "AIIMS Mangalagiri",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "EWS": 3590,
+        "General": 24441,
+        "OBC": 2290,
+        "SC": 7814,
+        "ST": 10105
+      }
+    },
+    {
+      "name": "AIIMS-Bhopal",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "EWS": 1504,
+        "General": 24514,
+        "OBC": 1106,
+        "SC": 4811,
+        "ST": 6561
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 1 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 26484
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 10 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 14607
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 11 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 15150
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 12 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 15437
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 13 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 15800
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 132 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 13041
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 14 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 16357
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 149 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 14756
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 163 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 16222
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 17 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 20799
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 171 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 17508
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 174 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 18133
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 178 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 18755
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 18 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 22507
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 19 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 22521
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 193 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 21356
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 194 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 21449
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 20 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 23869
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 204 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 24076
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 207 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 24927
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 21 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 23902
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 22 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 24201
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 23 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 24800
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 24 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 25346
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 27 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 25942
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 274 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 16001
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 282 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 17605
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 283 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 17810
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 29 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 26289
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 290 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 18737
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 293 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 20087
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 3 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 17656
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 302 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 23978
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 305 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 25705
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 33 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 22125
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 4 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 18205
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 58 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 4231
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 7 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 9490
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 70 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 6720
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 72 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 7366
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 73 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 7523
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 8 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 12318
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 9 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 12852
+      }
+    },
+    {
+      "name": "Allotted( NRI Priority : 1 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 26593
+      }
+    },
+    {
+      "name": "Allotted( NRI Priority : 2 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 26605
+      }
+    },
+    {
+      "name": "Amrita Institute of Medical Science",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": {
+        "EWS": 16791,
+        "General": 17273,
+        "OBC": 17140
+      }
+    },
+    {
+      "name": "Bhima Bhoi Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "EWS": 9160,
+        "General": 6806,
+        "OBC": 8047,
+        "SC": 11760,
+        "ST": 14350
+      }
+    },
+    {
+      "name": "Dhubri Medical College",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "EWS": 9476,
+        "General": 26595,
+        "OBC": 9222,
+        "SC": 13529,
+        "ST": 14405
+      }
+    },
+    {
+      "name": "Diphu Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "EWS": 9452,
+        "General": 9151,
+        "OBC": 9216,
+        "SC": 13373,
+        "ST": 13993
+      }
+    },
+    {
+      "name": "GOVT MEDICAL COLLEGE VIZIANAGARAM",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "EWS": 9590,
+        "General": 8755,
+        "OBC": 9102,
+        "SC": 13034,
+        "ST": 14099
+      }
+    },
+    {
+      "name": "General PwD",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 26579
+      }
+    },
+    {
+      "name": "Government Medical College Narsampet",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "EWS": 9487,
+        "General": 7505,
+        "OBC": 9057,
+        "SC": 13556
+      }
+    },
+    {
+      "name": "Government of Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "EWS": 7101,
+        "General": 6534,
+        "OBC": 7045,
+        "SC": 11860,
+        "ST": 14676
+      }
+    },
+    {
+      "name": "J R MEDICAL COLLEGE AND HOSPITAL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 25549,
+        "OBC": 25561,
+        "SC": 25523,
+        "ST": 25103
+      }
+    },
+    {
+      "name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "EWS": 16332,
+        "General": 16368,
+        "OBC": 16340,
+        "SC": 15729
+      }
+    },
+    {
+      "name": "Jannayak Karpoori Thakur Medical college and Hospital",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "EWS": 8316,
+        "General": 25169,
+        "OBC": 7750,
+        "SC": 13105,
+        "ST": 13859
+      }
+    },
+    {
+      "name": "Manipal Tata Medical College",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "EWS": 11858,
+        "General": 11849,
+        "OBC": 11836
+      }
+    },
+    {
+      "name": "NAGALAND INSTITUTE OF MEDICAL SCIENCE AND RESEARCH PHIREBAGIE",
+      "quota": "AIQ",
+      "state": "Nagaland",
+      "cutoffs": {
+        "EWS": 9680,
+        "General": 9318,
+        "OBC": 9353,
+        "SC": 13768,
+        "ST": 14573
+      }
+    },
+    {
+      "name": "Nagaon Medical college",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "EWS": 9584,
+        "General": 26577,
+        "OBC": 9351,
+        "SC": 13741
+      }
+    },
+    {
+      "name": "S.C.B. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "EWS": 3909,
+        "General": 2372,
+        "OBC": 3871,
+        "SC": 10432,
+        "ST": 13011
+      }
+    },
+    {
+      "name": "SRI LALITHAMBIGAI MEDICAL COLLEGE & HOSPITAL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 18653,
+        "OBC": 18605,
+        "SC": 18613
+      }
+    },
+    {
+      "name": "SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "EWS": 11170,
+        "General": 11193,
+        "OBC": 11164
+      }
+    },
+    {
+      "name": "Saheed Rendo Majhi Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "EWS": 9112,
+        "General": 26012,
+        "OBC": 8895,
+        "SC": 12789,
+        "ST": 14564
+      }
+    },
+    {
+      "name": "Tamralipto Government Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "EWS": 9332,
+        "General": 8762,
+        "OBC": 8981,
+        "SC": 13444,
+        "ST": 14500
+      }
+    },
+    {
+      "name": "ZORAM MEDICAL COLLEGE Falkawn",
+      "quota": "AIQ",
+      "state": "Mizoram",
+      "cutoffs": {
+        "EWS": 9709,
+        "General": 26314,
+        "OBC": 9338,
+        "SC": 13508
       }
     }
   ]
