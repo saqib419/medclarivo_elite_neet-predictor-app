@@ -17,7 +17,7 @@ export default function MatchingColleges() {
   const initial =
     location.state ||
     (qp.get("score")
-      ? { score: Number(qp.get("score")), category: qp.get("category"), state: qp.get("state") }
+      ? { score: Number(qp.get("score")), category: qp.get("category"), state: qp.get("state"), quota: qp.get("quota") }
       : null);
 
   const [params] = useState(initial);
@@ -28,7 +28,7 @@ export default function MatchingColleges() {
   useEffect(() => {
     if (!params) return;
     (async () => {
-      const r = await predict({ score: params.score, category, state: params.state });
+      const r = await predict({ score: params.score, category, state: params.state, quota: params.quota });
       setResult(r);
     })();
   }, [params, category]);

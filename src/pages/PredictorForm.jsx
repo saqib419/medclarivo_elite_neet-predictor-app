@@ -63,9 +63,8 @@ export default function PredictorForm() {
       return;
     }
     setSubmitting(true);
-    const effectiveState = quota === "All India Quota" ? "All-India only" : stateSel;
-    const result = await predict({ score: Number(score), category, state: effectiveState });
-    const entry = { score: Number(score), category, state: effectiveState, quota, rank: result.rank };
+    const result = await predict({ score: Number(score), category, state: stateSel, quota });
+    const entry = { score: Number(score), category, state: stateSel, quota, rank: result.rank };
     setLastPrediction(entry);
     addRecentSearch(entry);
     setSubmitting(false);

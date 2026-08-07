@@ -51,9 +51,13 @@ export function cleanColleges(colleges) {
  * Aggregates chances across all eligible colleges without exposing
  * individual college names — just counts per tier plus a headline.
  */
-export function computeChanceSummary(colleges, rank, category, state) {
+export function computeChanceSummary(colleges, rank, category, state, quota = "Both") {
   const eligible = cleanColleges(colleges)
-    .filter((c) => c.quota === "AIQ" || c.state === state)
+    .filter((c) => {
+      if (quota === "All India Quota") return c.quota === "AIQ";
+      if (quota === "State Quota") return c.quota === "State" && c.state === state;
+      return c.quota === "AIQ" || (c.quota === "State" && c.state === state);
+    })
     .filter((c) => c.cutoffs[category] != null);
 
   const counts = { High: 0, Likely: 0, Moderate: 0, Low: 0 };

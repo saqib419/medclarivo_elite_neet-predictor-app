@@ -53,16 +53,16 @@ export async function fetchCollegeBySlug(slug) {
   return college ? { ...college, slug: slugify(college.name) } : null;
 }
 
-export async function predict({ score, category, state }) {
+export async function predict({ score, category, state, quota }) {
   const viaApi = await tryApi("/api/predict", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ score, category, state }),
+    body: JSON.stringify({ score, category, state, quota }),
   });
   if (viaApi) return viaApi;
 
   const data = await loadLocalData();
   const rank = estimateRank(Number(score), data.scoreRankTable);
-  const summary = computeChanceSummary(data.colleges, rank, category, state);
-  return { score: Number(score), category, state: state || null, rank, ...summary };
+  const summary = computeChanceSummary(data.colleges, rank, category, state, quota);
+  return { score: Number(score), category, state: state || null, quota: quota || null, rank, ...summary };
 }
