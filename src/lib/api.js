@@ -1,4 +1,4 @@
-import { estimateRank, computeMatches, slugify } from "./predictor.js";
+import { estimateRank, computeChanceSummary, slugify } from "./predictor.js";
 
 let cachedData = null;
 async function loadLocalData() {
@@ -28,7 +28,6 @@ export async function fetchColleges({ state, category, q } = {}) {
   const viaApi = await tryApi(`/api/colleges${qs ? `?${qs}` : ""}`);
   if (viaApi) return viaApi.colleges;
 
-  // Fallback: compute locally from the static data file.
   const data = await loadLocalData();
   let colleges = data.colleges.map((c) => ({ ...c, slug: slugify(c.name) }));
   if (state) colleges = colleges.filter((c) => c.quota === "AIQ" || c.state === state);
@@ -62,12 +61,8 @@ export async function predict({ score, category, state }) {
   });
   if (viaApi) return viaApi;
 
-  // Fallback: compute locally with the same logic the API uses.
   const data = await loadLocalData();
   const rank = estimateRank(Number(score), data.scoreRankTable);
-  const matches = computeMatches(data.colleges, rank, category, state).map((c) => ({
-    ...c,
-    slug: slugify(c.name),
-  }));
-  return { score: Number(score), category, state: state || null, rank, matchCount: matches.length, matches };
+  const summary = computeChanceSummary(data.colleges, rank, category, state);
+  return { score: Number(score), category, state: state || null, rank, ...summary };
 }

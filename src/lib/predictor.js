@@ -40,19 +40,41 @@ export function fmt(n) {
   return Number(n).toLocaleString("en-IN");
 }
 
+// Leftover counselling-status strings that got scraped in as if they were colleges.
+const JUNK_NAME_PATTERN = /^(did not|not allotted|no upgradation|upgraded\s*\(|fresh allotted)/i;
+
+export function cleanColleges(colleges) {
+  return colleges.filter((c) => !JUNK_NAME_PATTERN.test(c.name.trim()));
+}
+
 /**
- * Computes the sorted list of matching colleges for a rank/category/state.
- * `state` may be "All-India only" or empty to mean AIQ-only.
+ * Aggregates chances across all eligible colleges without exposing
+ * individual college names — just counts per tier plus a headline.
  */
-export function computeMatches(colleges, rank, category, state) {
-  return colleges
+export function computeChanceSummary(colleges, rank, category, state) {
+  const eligible = cleanColleges(colleges)
     .filter((c) => c.quota === "AIQ" || c.state === state)
-    .map((c) => ({
-      ...c,
-      cutoff: c.cutoffs[category],
-      like: likelihood(rank, c.cutoffs[category]),
-    }))
-    .sort((a, b) => a.cutoff - b.cutoff);
+    .filter((c) => c.cutoffs[category] != null);
+
+  const counts = { High: 0, Likely: 0, Moderate: 0, Low: 0 };
+  for (const c of eligible) {
+    counts[likelihood(rank, c.cutoffs[category]).label] += 1;
+  }
+
+  const inReach = counts.High + counts.Likely + counts.Moderate;
+  const strongRatio = eligible.length > 0 ? (counts.High + counts.Likely) / eligible.length : 0;
+  const reachRatio = eligible.length > 0 ? inReach / eligible.length : 0;
+
+  const headline =
+    strongRatio >= 0.5
+      ? "Strong chance of a seat"
+      : reachRatio >= 0.5
+      ? "Moderate chance of a seat"
+      : inReach > 0
+      ? "Low chance of a seat"
+      : "Very low chance with current filters";
+
+  return { totalColleges: eligible.length, counts, inReach, headline };
 }
 
 export function slugify(name) {
