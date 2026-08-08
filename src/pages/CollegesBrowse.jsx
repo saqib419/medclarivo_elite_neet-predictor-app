@@ -18,16 +18,25 @@ export default function CollegesBrowse() {
 
   useEffect(() => {
     let cancelled = false;
+
     if (isMatchMode) {
       fetchMatches({ score: qp.score, category: qp.category, state: qp.state, quota: qp.quota }).then((res) => {
         if (!cancelled) setColleges(res);
       });
-    } else {
+      return () => { cancelled = true; };
+    }
+
+    // Debounce free-text search so we don't fire a request on every keystroke.
+    const timer = setTimeout(() => {
       fetchColleges({ q: query || undefined }).then((res) => {
         if (!cancelled) setColleges(res);
       });
-    }
-    return () => { cancelled = true; };
+    }, 300);
+
+    return () => {
+      cancelled = true;
+      clearTimeout(timer);
+    };
   }, [query, isMatchMode, qp.score, qp.category, qp.state, qp.quota]);
 
   return (
