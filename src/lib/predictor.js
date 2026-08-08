@@ -105,6 +105,28 @@ export function computeChanceSummary(colleges, rank, category, state, quota = "B
   return { totalColleges: eligible.length, counts, inReach, headline };
 }
 
+/**
+ * Returns the sorted list of individual matching colleges (with cutoff +
+ * likelihood attached), using the same eligibility rules as computeChanceSummary.
+ */
+export function computeMatches(colleges, rank, category, state, quota = "Both") {
+  const eligible = cleanColleges(colleges)
+    .filter((c) => {
+      if (quota === "All India Quota") return c.quota === "AIQ";
+      if (quota === "State Quota") return c.quota === "State" && c.state === state;
+      return c.quota === "AIQ" || (c.quota === "State" && c.state === state);
+    })
+    .filter((c) => c.cutoffs[category] != null);
+
+  return eligible
+    .map((c) => ({
+      ...c,
+      cutoff: c.cutoffs[category],
+      like: likelihood(rank, c.cutoffs[category]),
+    }))
+    .sort((a, b) => a.cutoff - b.cutoff);
+}
+
 export function slugify(name) {
   return name
     .toLowerCase()

@@ -1,4 +1,4 @@
-import { estimateRank, estimateRankRange, computeChanceSummary, slugify } from "./predictor.js";
+import { estimateRank, estimateRankRange, computeChanceSummary, computeMatches, slugify } from "./predictor.js";
 
 let cachedData = null;
 async function loadLocalData() {
@@ -42,6 +42,15 @@ export async function fetchColleges({ state, category, q } = {}) {
       .sort((a, b) => a.cutoff - b.cutoff);
   }
   return colleges;
+}
+
+export async function fetchMatches({ score, category, state, quota }) {
+  const data = await loadLocalData();
+  const rank = estimateRank(Number(score), data.scoreRankTable);
+  return computeMatches(data.colleges, rank, category, state, quota).map((c) => ({
+    ...c,
+    slug: slugify(c.name),
+  }));
 }
 
 export async function fetchCollegeBySlug(slug) {

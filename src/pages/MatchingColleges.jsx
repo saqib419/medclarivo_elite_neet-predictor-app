@@ -109,6 +109,14 @@ export default function MatchingColleges() {
               Out of {result.totalColleges} colleges matching your category and state filter,{" "}
               <span className="font-semibold text-on-surface">{result.inReach}</span> are within reach.
             </p>
+            <button
+              onClick={() => navigate(
+                `/colleges?score=${params.score}&category=${category}&state=${encodeURIComponent(params.state || "")}&quota=${encodeURIComponent(params.quota || "")}`
+              )}
+              className="mt-3 w-full py-2.5 rounded bg-primary text-on-primary font-semibold text-[13.5px] hover:brightness-110 transition"
+            >
+              View Matching Colleges
+            </button>
           </div>
 
           <div className="grid grid-cols-2 gap-3">
