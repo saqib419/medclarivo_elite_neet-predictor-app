@@ -1,4 +1,4 @@
-import data from "../../public/data.json";
+import data from "../../public/data.json" with { type: "json" };
 import { slugify } from "../../src/lib/predictor.js";
 
 // GET /api/colleges/:slug

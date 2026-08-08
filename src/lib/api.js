@@ -33,7 +33,9 @@ export async function fetchColleges({ state, category, q } = {}) {
   if (state) colleges = colleges.filter((c) => c.quota === "AIQ" || c.state === state);
   if (q) {
     const needle = q.toLowerCase();
-    colleges = colleges.filter((c) => c.name.toLowerCase().includes(needle));
+    colleges = colleges.filter((c) =>
+      c.name.toLowerCase().includes(needle) || (c.state || "").toLowerCase().includes(needle)
+    );
   }
   if (category) {
     colleges = colleges

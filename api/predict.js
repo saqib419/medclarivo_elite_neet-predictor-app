@@ -1,4 +1,4 @@
-import data from "../public/data.json";
+import data from "../public/data.json" with { type: "json" };
 import { estimateRank, estimateRankRange, computeChanceSummary, CATEGORIES } from "../src/lib/predictor.js";
 
 // POST /api/predict  { score: number, category: string, state?: string }

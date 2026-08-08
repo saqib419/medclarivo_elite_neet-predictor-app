@@ -1,4 +1,4 @@
-import data from "../public/data.json";
+import data from "../public/data.json" with { type: "json" };
 import { slugify } from "../src/lib/predictor.js";
 
 // GET /api/colleges
@@ -18,7 +18,9 @@ export default function handler(req, res) {
   }
   if (q) {
     const needle = String(q).toLowerCase();
-    colleges = colleges.filter((c) => c.name.toLowerCase().includes(needle));
+    colleges = colleges.filter((c) =>
+      c.name.toLowerCase().includes(needle) || (c.state || "").toLowerCase().includes(needle)
+    );
   }
   if (category) {
     colleges = colleges
