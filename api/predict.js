@@ -1,5 +1,5 @@
 import data from "../public/data.json";
-import { estimateRank, computeChanceSummary, CATEGORIES } from "../src/lib/predictor.js";
+import { estimateRank, estimateRankRange, computeChanceSummary, CATEGORIES } from "../src/lib/predictor.js";
 
 // POST /api/predict  { score: number, category: string, state?: string }
 // -> { rank, totalColleges, counts, inReach, headline }
@@ -10,7 +10,7 @@ export default function handler(req, res) {
   }
 
   const body = typeof req.body === "string" ? safeParse(req.body) : req.body || {};
-  const { score, category, state } = body;
+  const { score, category, state, quota } = body;
 
   const numScore = Number(score);
   if (!Number.isFinite(numScore) || numScore < 0 || numScore > 720) {
@@ -21,13 +21,16 @@ export default function handler(req, res) {
   }
 
   const rank = estimateRank(numScore, data.scoreRankTable);
-  const summary = computeChanceSummary(data.colleges, rank, category, state);
+  const rankRange = estimateRankRange(numScore, data.scoreRankTable);
+  const summary = computeChanceSummary(data.colleges, rank, category, state, quota);
 
   return res.status(200).json({
     score: numScore,
     category,
     state: state || null,
+    quota: quota || null,
     rank,
+    rankRange,
     ...summary,
   });
 }
