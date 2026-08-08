@@ -92,9 +92,15 @@ export default function MatchingColleges() {
         <div className="mt-6 space-y-4">
           <div className="rounded-2xl border border-outline-variant p-5 text-center">
             <p className="text-sm text-on-surface-variant">Estimated rank</p>
-            <p className="text-3xl font-display font-semibold text-on-surface mt-1">
-              {result.rank.toLocaleString("en-IN")}
-            </p>
+            {result.rankRange ? (
+              <p className="text-3xl font-display font-semibold text-on-surface mt-1">
+                ~{result.rankRange.low.toLocaleString("en-IN")} &ndash; {result.rankRange.high.toLocaleString("en-IN")}
+              </p>
+            ) : (
+              <p className="text-3xl font-display font-semibold text-on-surface mt-1">
+                {result.rank.toLocaleString("en-IN")}
+              </p>
+            )}
           </div>
 
           <div className="rounded-2xl border border-outline-variant p-5">

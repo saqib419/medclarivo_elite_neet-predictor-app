@@ -29,6 +29,30 @@ export function estimateRank(score, table) {
   return table[table.length - 1][1];
 }
 
+// Rounds to a "sensible" precision so the UI never implies false precision.
+function roundToSensible(n) {
+  const abs = Math.abs(n);
+  let step;
+  if (abs < 1000) step = 50;
+  else if (abs < 10000) step = 100;
+  else if (abs < 100000) step = 500;
+  else if (abs < 1000000) step = 5000;
+  else step = 10000;
+  return Math.round(n / step) * step;
+}
+
+/**
+ * Returns an approximate rank as a range, not a single exact number.
+ * marginPct widens the band around the point estimate -- 0.15 means
+ * "give or take ~15%", covering normal interpolation error.
+ */
+export function estimateRankRange(score, table, marginPct = 0.15) {
+  const mid = estimateRank(score, table);
+  const low = roundToSensible(Math.max(1, mid * (1 - marginPct)));
+  const high = roundToSensible(mid * (1 + marginPct));
+  return { low, mid: roundToSensible(mid), high };
+}
+
 export function likelihood(rank, cutoff) {
   if (rank <= cutoff * 0.7) return { label: "High", tone: "high" };
   if (rank <= cutoff) return { label: "Likely", tone: "high" };

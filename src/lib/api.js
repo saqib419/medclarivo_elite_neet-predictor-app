@@ -1,4 +1,4 @@
-import { estimateRank, computeChanceSummary, slugify } from "./predictor.js";
+import { estimateRank, estimateRankRange, computeChanceSummary, slugify } from "./predictor.js";
 
 let cachedData = null;
 async function loadLocalData() {
@@ -63,6 +63,7 @@ export async function predict({ score, category, state, quota }) {
 
   const data = await loadLocalData();
   const rank = estimateRank(Number(score), data.scoreRankTable);
+  const rankRange = estimateRankRange(Number(score), data.scoreRankTable);
   const summary = computeChanceSummary(data.colleges, rank, category, state, quota);
-  return { score: Number(score), category, state: state || null, quota: quota || null, rank, ...summary };
+  return { score: Number(score), category, state: state || null, quota: quota || null, rank, rankRange, ...summary };
 }
