@@ -64,7 +64,7 @@ export default function PredictorForm() {
     }
     setSubmitting(true);
     const result = await predict({ score: Number(score), category, state: stateSel, quota });
-    const entry = { score: Number(score), category, state: stateSel, quota, rank: result.rank };
+    const entry = { score: Number(score), category, state: stateSel, quota, rank: result.rank, rankRange: result.rankRange };
     setLastPrediction(entry);
     addRecentSearch(entry);
     setSubmitting(false);

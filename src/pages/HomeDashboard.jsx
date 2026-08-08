@@ -94,8 +94,19 @@ export default function HomeDashboard() {
           </div>
           <RankRing rank={last.rank} />
           <div className="text-center mt-1">
-            <div className="font-display font-bold text-xl text-on-surface tabular-nums">{fmt(last.rank)}</div>
-            <div className="text-[10.5px] font-semibold uppercase tracking-wide text-on-surface-variant">All India Rank</div>
+            {last.rankRange ? (
+              <>
+                <div className="font-display font-bold text-xl text-on-surface tabular-nums">
+                  ~{fmt(last.rankRange.low)} &ndash; {fmt(last.rankRange.high)}
+                </div>
+                <div className="text-[10.5px] font-semibold uppercase tracking-wide text-on-surface-variant">Estimated All India Rank</div>
+              </>
+            ) : (
+              <>
+                <div className="font-display font-bold text-xl text-on-surface tabular-nums">{fmt(last.rank)}</div>
+                <div className="text-[10.5px] font-semibold uppercase tracking-wide text-on-surface-variant">All India Rank</div>
+              </>
+            )}
           </div>
         </div>
       )}
