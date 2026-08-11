@@ -96,7 +96,16 @@ def main():
             entry = {"year": args.year}
             trends.append(entry)
             trends.sort(key=lambda t: -t["year"])
-        entry[args.round] = row["closing_rank"]
+        # The UI only renders two columns: round1 and round2 — it doesn't
+        # know about round3/stray/etc. Regardless of which actual round
+        # this PDF was, write into whichever of those two display slots
+        # is still empty for this year, so the number actually shows up.
+        if "round1" not in entry or entry["round1"] is None:
+            entry["round1"] = row["closing_rank"]
+        elif "round2" not in entry or entry["round2"] is None:
+            entry["round2"] = row["closing_rank"]
+        else:
+            entry["round1"] = row["closing_rank"]  # overwrite as last resort
         updated_colleges += 1
 
     with open(data_path, "w", encoding="utf-8") as f:
