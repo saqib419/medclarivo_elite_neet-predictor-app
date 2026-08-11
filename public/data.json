@@ -2274,7 +2274,17 @@
         "OBC": 23871,
         "SC": 23786,
         "ST": 23803
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 734672
+        },
+        {
+          "year": 2024,
+          "round1": 25020
+        }
+      ]
     },
     {
       "name": "ACSR Govt Medical College",
@@ -2286,7 +2296,17 @@
         "OBC": 7293,
         "SC": 11985,
         "ST": 13830
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1021236
+        },
+        {
+          "year": 2024,
+          "round1": 25948
+        }
+      ]
     },
     {
       "name": "AGARTALA GOVT. MEDICAL COLLEGE",
@@ -2298,7 +2318,17 @@
         "OBC": 9107,
         "SC": 13411,
         "ST": 14016
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 27007
+        },
+        {
+          "year": 2024,
+          "round1": 26093
+        }
+      ]
     },
     {
       "name": "AIIMS",
@@ -2310,7 +2340,17 @@
         "OBC": 3743,
         "SC": 10342,
         "ST": 11562
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 61580
+        },
+        {
+          "year": 2024,
+          "round1": 23922
+        }
+      ]
     },
     {
       "name": "AIIMS Bathinda",
@@ -2322,7 +2362,17 @@
         "OBC": 2166,
         "SC": 8859,
         "ST": 10515
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 2482
+        },
+        {
+          "year": 2024,
+          "round1": 23597
+        }
+      ]
     },
     {
       "name": "AIIMS Bilaspur Changar Palasiyan",
@@ -2334,7 +2384,17 @@
         "OBC": 2643,
         "SC": 9196,
         "ST": 10825
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 30304
+        },
+        {
+          "year": 2024,
+          "round1": 18785
+        }
+      ]
     },
     {
       "name": "AIIMS Guwahati",
@@ -2346,7 +2406,17 @@
         "OBC": 3411,
         "SC": 10088,
         "ST": 11525
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 31499
+        },
+        {
+          "year": 2024,
+          "round1": 21531
+        }
+      ]
     },
     {
       "name": "AIIMS Jammu",
@@ -2358,7 +2428,17 @@
         "OBC": 3426,
         "SC": 10216,
         "ST": 10957
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 51471
+        },
+        {
+          "year": 2024,
+          "round1": 21427
+        }
+      ]
     },
     {
       "name": "AIIMS Rajkot",
@@ -2370,7 +2450,17 @@
         "OBC": 2676,
         "SC": 9335,
         "ST": 10771
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 53569
+        },
+        {
+          "year": 2024,
+          "round1": 16170
+        }
+      ]
     },
     {
       "name": "ANUGRAH NARAYAN MAGADH MEDICAL COLLEGE",
@@ -2382,7 +2472,17 @@
         "OBC": 6565,
         "SC": 12532,
         "ST": 13401
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 119132
+        },
+        {
+          "year": 2024,
+          "round1": 21368
+        }
+      ]
     },
     {
       "name": "ASSAM MEDICAL COLLEGE",
@@ -2394,7 +2494,17 @@
         "OBC": 7631,
         "SC": 12575,
         "ST": 12104
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 119562
+        },
+        {
+          "year": 2024,
+          "round1": 6513
+        }
+      ]
     },
     {
       "name": "ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE",
@@ -2406,7 +2516,17 @@
         "OBC": 5957,
         "SC": 11467,
         "ST": 12458
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 749341
+        },
+        {
+          "year": 2024,
+          "round1": 4656
+        }
+      ]
     },
     {
       "name": "Aarupadai Veedu Medical College and Hospt.",
@@ -2418,7 +2538,17 @@
         "OBC": 23963,
         "SC": 23950,
         "ST": 22795
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 755831
+        },
+        {
+          "year": 2024,
+          "round1": 25114
+        }
+      ]
     },
     {
       "name": "Amrita School of Medicine Faridabad",
@@ -2428,7 +2558,17 @@
         "General": 363996,
         "OBC": 18370,
         "SC": 18250
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 363996
+        },
+        {
+          "year": 2024,
+          "round1": 25642
+        }
+      ]
     },
     {
       "name": "Andaman and Nicobar Islands Institute of Medical S",
@@ -2440,7 +2580,17 @@
         "OBC": 9021,
         "SC": 13549,
         "ST": 14275
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 24492
+        },
+        {
+          "year": 2024,
+          "round1": 23936
+        }
+      ]
     },
     {
       "name": "Andhra Medical College",
@@ -2452,7 +2602,17 @@
         "OBC": 3974,
         "SC": 10810,
         "ST": 11640
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 7539
+        },
+        {
+          "year": 2024,
+          "round1": 22334
+        }
+      ]
     },
     {
       "name": "Atal Bihari Vajpayee Institute of Medical Sciences & DR RML HOSPITAL",
@@ -2464,7 +2624,17 @@
         "OBC": 4708,
         "SC": 11653,
         "ST": 14587
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 149223
+        },
+        {
+          "year": 2024,
+          "round1": 2016
+        }
+      ]
     },
     {
       "name": "Autonomous State Medical Collage",
@@ -2475,7 +2645,17 @@
         "EWS": 7768,
         "OBC": 8028,
         "SC": 12517
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 109637
+        },
+        {
+          "year": 2024,
+          "round1": 6696
+        }
+      ]
     },
     {
       "name": "Autonomous State Medical College",
@@ -2487,7 +2667,17 @@
         "OBC": 8453,
         "SC": 13171,
         "ST": 13966
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1190424
+        },
+        {
+          "year": 2024,
+          "round1": 25250
+        }
+      ]
     },
     {
       "name": "Autonomous State Medical College Society",
@@ -2499,7 +2689,17 @@
         "OBC": 7848,
         "SC": 12932,
         "ST": 13807
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 19879
+        },
+        {
+          "year": 2024,
+          "round1": 6903
+        }
+      ]
     },
     {
       "name": "Autonomous State Medical college Society Hardoi",
@@ -2511,7 +2711,17 @@
         "OBC": 7845,
         "SC": 12846,
         "ST": 13691
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 106101
+        },
+        {
+          "year": 2024,
+          "round1": 6671
+        }
+      ]
     },
     {
       "name": "B.J. Government Medical College",
@@ -2523,7 +2733,17 @@
         "OBC": 3730,
         "SC": 9448,
         "ST": 11832
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 105614
+        },
+        {
+          "year": 2024,
+          "round1": 17582
+        }
+      ]
     },
     {
       "name": "B.J. MEDICAL COLLEGE",
@@ -2535,7 +2755,17 @@
         "OBC": 2747,
         "SC": 8094,
         "ST": 11564
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 73018
+        },
+        {
+          "year": 2024,
+          "round1": 18965
+        }
+      ]
     },
     {
       "name": "B.L.D.E University",
@@ -2546,7 +2776,17 @@
         "EWS": 16568,
         "OBC": 16579,
         "SC": 16556
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 302710
+        },
+        {
+          "year": 2024,
+          "round1": 25586
+        }
+      ]
     },
     {
       "name": "B.R.D. MEDICAL COLLEGE",
@@ -2558,7 +2798,17 @@
         "OBC": 4983,
         "SC": 11375,
         "ST": 12204
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 104924
+        },
+        {
+          "year": 2024,
+          "round1": 4231
+        }
+      ]
     },
     {
       "name": "B.Sc. Nursing",
@@ -2570,7 +2820,17 @@
         "OBC": 15628,
         "SC": 19619,
         "ST": 26025
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 627606
+        },
+        {
+          "year": 2024,
+          "round1": 14261
+        }
+      ]
     },
     {
       "name": "BANKURA SAMMILANI MED COLL",
@@ -2582,7 +2842,17 @@
         "OBC": 7343,
         "SC": 12462,
         "ST": 13981
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 140230
+        },
+        {
+          "year": 2024,
+          "round1": 23126
+        }
+      ]
     },
     {
       "name": "BELGAUM INST. OF MEDICAL SCI.",
@@ -2594,7 +2864,17 @@
         "OBC": 6318,
         "SC": 12326,
         "ST": 11943
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 122194
+        },
+        {
+          "year": 2024,
+          "round1": 4241
+        }
+      ]
     },
     {
       "name": "BHAARATH MEDICAL COLLEGE AND HOSPITAL",
@@ -2606,7 +2886,17 @@
         "OBC": 24738,
         "SC": 24757,
         "ST": 24427
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 820797
+        },
+        {
+          "year": 2024,
+          "round1": 25271
+        }
+      ]
     },
     {
       "name": "BIDAR INSTITUTE OF MEDICAL SCI.",
@@ -2618,7 +2908,17 @@
         "OBC": 7408,
         "SC": 12681,
         "ST": 13149
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 138880
+        },
+        {
+          "year": 2024,
+          "round1": 6666
+        }
+      ]
     },
     {
       "name": "BPS Govt. Med. College",
@@ -2630,7 +2930,17 @@
         "OBC": 5900,
         "SC": 12269,
         "ST": 13233
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 122410
+        },
+        {
+          "year": 2024,
+          "round1": 20100
+        }
+      ]
     },
     {
       "name": "BUNDELKHAND MEDICAL COLLEGE",
@@ -2642,7 +2952,17 @@
         "OBC": 6250,
         "SC": 12182,
         "ST": 13198
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 105466
+        },
+        {
+          "year": 2024,
+          "round1": 23545
+        }
+      ]
     },
     {
       "name": "BURDWAN MEDICAL COLLEGE",
@@ -2654,7 +2974,17 @@
         "OBC": 6780,
         "SC": 12019,
         "ST": 13482
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 999414
+        },
+        {
+          "year": 2024,
+          "round1": 24737
+        }
+      ]
     },
     {
       "name": "BV Deemed Uni. Med. College and Hos.",
@@ -2666,7 +2996,17 @@
         "OBC": 21676,
         "SC": 21643,
         "ST": 21172
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 664912
+        },
+        {
+          "year": 2024,
+          "round1": 25666
+        }
+      ]
     },
     {
       "name": "Baba Kinaram Autonomous State Medical College",
@@ -2678,7 +3018,13 @@
         "OBC": 8448,
         "SC": 13113,
         "ST": 14124
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 114454
+        }
+      ]
     },
     {
       "name": "Bangalore Medical College and Research Institute",
@@ -2690,7 +3036,17 @@
         "OBC": 2708,
         "SC": 9567,
         "ST": 10789
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 42980
+        },
+        {
+          "year": 2024,
+          "round1": 17984
+        }
+      ]
     },
     {
       "name": "Barasat Government Medical College & Hospital",
@@ -2702,7 +3058,17 @@
         "OBC": 8202,
         "SC": 12235,
         "ST": 13982
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 122842
+        },
+        {
+          "year": 2024,
+          "round1": 6884
+        }
+      ]
     },
     {
       "name": "Bharati Vidyapeeth DU Medical College",
@@ -2713,7 +3079,17 @@
         "EWS": 19038,
         "OBC": 20177,
         "SC": 19451
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 592172
+        },
+        {
+          "year": 2024,
+          "round1": 24509
+        }
+      ]
     },
     {
       "name": "C. Institute of Medical Sciences",
@@ -2725,7 +3101,17 @@
         "OBC": 7883,
         "SC": 12771,
         "ST": 13546
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 26879
+        },
+        {
+          "year": 2024,
+          "round1": 7541
+        }
+      ]
     },
     {
       "name": "CALCUTTA NATIONAL MED COLL",
@@ -2737,7 +3123,17 @@
         "OBC": 5281,
         "SC": 11024,
         "ST": 12895
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 117345
+        },
+        {
+          "year": 2024,
+          "round1": 20477
+        }
+      ]
     },
     {
       "name": "CHENGALPATTU MEDICAL COLL",
@@ -2748,7 +3144,17 @@
         "EWS": 8263,
         "OBC": 3515,
         "SC": 9234
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 145518
+        },
+        {
+          "year": 2024,
+          "round1": 3645
+        }
+      ]
     },
     {
       "name": "CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES",
@@ -2760,7 +3166,17 @@
         "OBC": 6501,
         "SC": 12147,
         "ST": 13315
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 91700
+        },
+        {
+          "year": 2024,
+          "round1": 25749
+        }
+      ]
     },
     {
       "name": "CHIKKABALLAPURA INSTITUTE OF MEDICAL SCIENCES",
@@ -2772,7 +3188,17 @@
         "OBC": 7578,
         "SC": 12923,
         "ST": 13804
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 130768
+        },
+        {
+          "year": 2024,
+          "round1": 24169
+        }
+      ]
     },
     {
       "name": "COIMBATORE MEDICAL COLLEGE",
@@ -2784,7 +3210,17 @@
         "OBC": 3246,
         "SC": 9594,
         "ST": 13506
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 142895
+        },
+        {
+          "year": 2024,
+          "round1": 24133
+        }
+      ]
     },
     {
       "name": "COLLEGE OF MEDICINE and JNM HOSPITAL",
@@ -2795,7 +3231,17 @@
         "EWS": 6768,
         "OBC": 6961,
         "SC": 12139
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 129596
+        },
+        {
+          "year": 2024,
+          "round1": 21626
+        }
+      ]
     },
     {
       "name": "Chandulal Chandrakar Memorial Government Medical College",
@@ -2807,7 +3253,17 @@
         "OBC": 8527,
         "SC": 13312,
         "ST": 14177
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 138082
+        },
+        {
+          "year": 2024,
+          "round1": 25399
+        }
+      ]
     },
     {
       "name": "Chettinad Hos. and Res. Inst.",
@@ -2819,7 +3275,17 @@
         "OBC": 24051,
         "SC": 24020,
         "ST": 23146
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 766810
+        },
+        {
+          "year": 2024,
+          "round1": 23602
+        }
+      ]
     },
     {
       "name": "Chhindwara Institute of Medical Sciences",
@@ -2831,7 +3297,17 @@
         "OBC": 7385,
         "SC": 12888,
         "ST": 13283
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 116688
+        },
+        {
+          "year": 2024,
+          "round1": 6687
+        }
+      ]
     },
     {
       "name": "Chikkamagaluru Institute of Medical Sciences",
@@ -2843,7 +3319,17 @@
         "OBC": 8111,
         "SC": 13358,
         "ST": 14191
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 150485
+        },
+        {
+          "year": 2024,
+          "round1": 25793
+        }
+      ]
     },
     {
       "name": "Chitradurga Medical College and Research Institute",
@@ -2855,7 +3341,17 @@
         "OBC": 8307,
         "SC": 13447,
         "ST": 14210
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 24884
+        },
+        {
+          "year": 2024,
+          "round1": 7978
+        }
+      ]
     },
     {
       "name": "College Government Medical College Alwar",
@@ -2867,7 +3363,17 @@
         "OBC": 5621,
         "SC": 11368,
         "ST": 12172
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 91240
+        },
+        {
+          "year": 2024,
+          "round1": 5052
+        }
+      ]
     },
     {
       "name": "DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR",
@@ -2879,7 +3385,17 @@
         "OBC": 20793,
         "SC": 20645,
         "ST": 19065
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 638084
+        },
+        {
+          "year": 2024,
+          "round1": 24865
+        }
+      ]
     },
     {
       "name": "DR. VAISHAMPAYAM MEMORIAL M.C.",
@@ -2891,7 +3407,17 @@
         "OBC": 6615,
         "SC": 12371,
         "ST": 13478
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 108671
+        },
+        {
+          "year": 2024,
+          "round1": 20119
+        }
+      ]
     },
     {
       "name": "DR.RAJENDRA PRASAD MC",
@@ -2903,7 +3429,17 @@
         "OBC": 4232,
         "SC": 10701,
         "ST": 11374
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 8273
+        },
+        {
+          "year": 2024,
+          "round1": 3533
+        }
+      ]
     },
     {
       "name": "DR.S.C.GOVT MEDICAL COLLEGE",
@@ -2914,7 +3450,17 @@
         "OBC": 6951,
         "SC": 12487,
         "ST": 13644
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 144418
+        },
+        {
+          "year": 2024,
+          "round1": 6281
+        }
+      ]
     },
     {
       "name": "DR.S.N. MEDICAL COLLEGE",
@@ -2926,7 +3472,17 @@
         "OBC": 3317,
         "SC": 10319,
         "ST": 11262
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 74989
+        },
+        {
+          "year": 2024,
+          "round1": 20377
+        }
+      ]
     },
     {
       "name": "DY Patil University School of Medicine",
@@ -2934,7 +3490,13 @@
       "state": null,
       "cutoffs": {
         "General": 661567
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 661567
+        }
+      ]
     },
     {
       "name": "Darbhanga Medical College",
@@ -2946,7 +3508,17 @@
         "OBC": 5536,
         "SC": 11912,
         "ST": 13225
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 119066
+        },
+        {
+          "year": 2024,
+          "round1": 19601
+        }
+      ]
     },
     {
       "name": "Deben Mahata Government Medical College & Hospital",
@@ -2958,7 +3530,17 @@
         "OBC": 8943,
         "SC": 13075,
         "ST": 14346
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 148191
+        },
+        {
+          "year": 2024,
+          "round1": 23830
+        }
+      ]
     },
     {
       "name": "Diamond Harbour Govt Medical College",
@@ -2970,7 +3552,17 @@
         "OBC": 6785,
         "SC": 12521,
         "ST": 13716
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 139466
+        },
+        {
+          "year": 2024,
+          "round1": 6480
+        }
+      ]
     },
     {
       "name": "Did not fill up fresh choices.",
@@ -2978,7 +3570,13 @@
       "state": null,
       "cutoffs": {
         "General": 1315471
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1315471
+        }
+      ]
     },
     {
       "name": "Did not opt for Upgradation.",
@@ -2986,7 +3584,13 @@
       "state": null,
       "cutoffs": {
         "General": 1315566
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1315566
+        }
+      ]
     },
     {
       "name": "Dr Ram Manohar Lohia Inst. of Med. Sce.",
@@ -2998,7 +3602,17 @@
         "OBC": 3542,
         "SC": 10183,
         "ST": 11597
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 42380
+        },
+        {
+          "year": 2024,
+          "round1": 18177
+        }
+      ]
     },
     {
       "name": "Dr. B.R. Ambedkar State Institute of Medical Sciences",
@@ -3010,7 +3624,17 @@
         "OBC": 4100,
         "SC": 11442,
         "ST": 12122
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 17802
+        },
+        {
+          "year": 2024,
+          "round1": 3038
+        }
+      ]
     },
     {
       "name": "Dr. B.S.A. Medical College",
@@ -3022,7 +3646,17 @@
         "OBC": 2275,
         "SC": 7792,
         "ST": 7231
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 49964
+        },
+        {
+          "year": 2024,
+          "round1": 1162
+        }
+      ]
     },
     {
       "name": "Dr. DY Patil Medical College",
@@ -3033,7 +3667,17 @@
         "EWS": 17615,
         "OBC": 21078,
         "SC": 21207
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 529224
+        },
+        {
+          "year": 2024,
+          "round1": 25739
+        }
+      ]
     },
     {
       "name": "Dr. DY Patil Medical College and Hospt.",
@@ -3044,7 +3688,17 @@
         "EWS": 19341,
         "OBC": 20840,
         "SC": 20729
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 518398
+        },
+        {
+          "year": 2024,
+          "round1": 25712
+        }
+      ]
     },
     {
       "name": "Dr. DYP Edu. Soc. Deemed Uni.",
@@ -3056,7 +3710,17 @@
         "OBC": 19231,
         "SC": 18988,
         "ST": 19295
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 553148
+        },
+        {
+          "year": 2024,
+          "round1": 25172
+        }
+      ]
     },
     {
       "name": "Dr. YS Parmar Govt. Medical College",
@@ -3068,7 +3732,17 @@
         "OBC": 5690,
         "SC": 11717,
         "ST": 12834
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 112774
+        },
+        {
+          "year": 2024,
+          "round1": 4635
+        }
+      ]
     },
     {
       "name": "Dr.Radhakrishnan Government Medical College",
@@ -3080,7 +3754,17 @@
         "OBC": 5822,
         "SC": 11707,
         "ST": 11725
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 695650
+        },
+        {
+          "year": 2024,
+          "round1": 4998
+        }
+      ]
     },
     {
       "name": "ESI-MC&PGIMS&R",
@@ -3092,7 +3776,17 @@
         "OBC": 9885,
         "SC": 15193,
         "ST": 20758
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 468396
+        },
+        {
+          "year": 2024,
+          "round1": 24746
+        }
+      ]
     },
     {
       "name": "ESIC",
@@ -3100,7 +3794,13 @@
       "state": null,
       "cutoffs": {
         "General": 430839
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 430839
+        }
+      ]
     },
     {
       "name": "ESIC MEDICAL COLLEGE & HOSPITAL",
@@ -3108,7 +3808,17 @@
       "state": "Bihar",
       "cutoffs": {
         "General": 530778
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 530778
+        },
+        {
+          "year": 2024,
+          "round1": 10108
+        }
+      ]
     },
     {
       "name": "ESIC MEDICAL COLLEGE AND HOSPITAL",
@@ -3116,7 +3826,13 @@
       "state": "Delhi",
       "cutoffs": {
         "General": 451088
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 451088
+        }
+      ]
     },
     {
       "name": "ESIC MEDICAL COLLEGE NARODA",
@@ -3124,7 +3840,13 @@
       "state": null,
       "cutoffs": {
         "General": 463423
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 463423
+        }
+      ]
     },
     {
       "name": "ESIC Medical College",
@@ -3136,7 +3858,17 @@
         "OBC": 10441,
         "SC": 15992,
         "ST": 21524
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 505423
+        },
+        {
+          "year": 2024,
+          "round1": 22925
+        }
+      ]
     },
     {
       "name": "ESIC Medical College AND PGIMSR",
@@ -3148,7 +3880,17 @@
         "OBC": 9915,
         "SC": 15001,
         "ST": 22214
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 201923
+        },
+        {
+          "year": 2024,
+          "round1": 9628
+        }
+      ]
     },
     {
       "name": "ESIC Medical College and Hospital Varanasi",
@@ -3156,7 +3898,13 @@
       "state": null,
       "cutoffs": {
         "General": 954114
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 954114
+        }
+      ]
     },
     {
       "name": "ESIC PGIMSR",
@@ -3168,7 +3916,17 @@
         "OBC": 10477,
         "SC": 16128,
         "ST": 22117
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 108358
+        },
+        {
+          "year": 2024,
+          "round1": 10835
+        }
+      ]
     },
     {
       "name": "Employees State Insurance Corporation Medical College",
@@ -3180,7 +3938,17 @@
         "OBC": 8409,
         "SC": 14060,
         "ST": 18103
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 146901
+        },
+        {
+          "year": 2024,
+          "round1": 8452
+        }
+      ]
     },
     {
       "name": "Fakhruddin Ali Ahmed Medical College",
@@ -3192,7 +3960,17 @@
         "OBC": 9105,
         "SC": 13540,
         "ST": 13593
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 25558
+        },
+        {
+          "year": 2024,
+          "round1": 23684
+        }
+      ]
     },
     {
       "name": "Fresh Allotted in 3nd Round",
@@ -3200,7 +3978,13 @@
       "state": null,
       "cutoffs": {
         "General": 1252244
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1252244
+        }
+      ]
     },
     {
       "name": "Fresh Allotted in 3nd Round( NRI Priority : 1 )",
@@ -3208,7 +3992,13 @@
       "state": null,
       "cutoffs": {
         "General": 1288903
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1288903
+        }
+      ]
     },
     {
       "name": "Fresh Allotted in 3nd Round( NRI Priority : 2 )",
@@ -3216,7 +4006,13 @@
       "state": null,
       "cutoffs": {
         "General": 1317215
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1317215
+        }
+      ]
     },
     {
       "name": "G.S.V.M. MEDICAL COLLEGE",
@@ -3228,7 +4024,17 @@
         "OBC": 4136,
         "SC": 10711,
         "ST": 11809
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 65169
+        },
+        {
+          "year": 2024,
+          "round1": 3213
+        }
+      ]
     },
     {
       "name": "GAJRA RAJA MEDICAL COLLEGE",
@@ -3240,7 +4046,17 @@
         "OBC": 4871,
         "SC": 11528,
         "ST": 12004
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 84131
+        },
+        {
+          "year": 2024,
+          "round1": 4167
+        }
+      ]
     },
     {
       "name": "GANDHI MEDICAL COLLEGE",
@@ -3252,7 +4068,17 @@
         "OBC": 4635,
         "SC": 11274,
         "ST": 11964
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 92870
+        },
+        {
+          "year": 2024,
+          "round1": 3689
+        }
+      ]
     },
     {
       "name": "GITAM Institue of Med. Sce. and Res.",
@@ -3263,7 +4089,17 @@
         "EWS": 20268,
         "OBC": 21598,
         "SC": 20980
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 571747
+        },
+        {
+          "year": 2024,
+          "round1": 24022
+        }
+      ]
     },
     {
       "name": "GMC",
@@ -3275,7 +4111,17 @@
         "OBC": 8942,
         "SC": 12744,
         "ST": 14079
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 121735
+        },
+        {
+          "year": 2024,
+          "round1": 6669
+        }
+      ]
     },
     {
       "name": "GMC DAUSA RAJASTHAN",
@@ -3287,7 +4133,17 @@
         "OBC": 6167,
         "SC": 11748,
         "ST": 12572
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 91995
+        },
+        {
+          "year": 2024,
+          "round1": 5482
+        }
+      ]
     },
     {
       "name": "GMC Jangaon",
@@ -3299,7 +4155,17 @@
         "OBC": 9024,
         "SC": 13379,
         "ST": 14316
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 151942
+        },
+        {
+          "year": 2024,
+          "round1": 8184
+        }
+      ]
     },
     {
       "name": "GMC KARAULI",
@@ -3311,7 +4177,17 @@
         "OBC": 6741,
         "SC": 12391,
         "ST": 13168
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 104061
+        },
+        {
+          "year": 2024,
+          "round1": 24343
+        }
+      ]
     },
     {
       "name": "GMC Kamareddy",
@@ -3323,7 +4199,17 @@
         "OBC": 9134,
         "SC": 13525,
         "ST": 13853
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 26296
+        },
+        {
+          "year": 2024,
+          "round1": 8543
+        }
+      ]
     },
     {
       "name": "GMERS Medical College",
@@ -3335,7 +4221,17 @@
         "OBC": 9055,
         "SC": 13263,
         "ST": 14547
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1037462
+        },
+        {
+          "year": 2024,
+          "round1": 26065
+        }
+      ]
     },
     {
       "name": "GOA MEDICAL COLLEGE",
@@ -3347,7 +4243,17 @@
         "OBC": 6052,
         "SC": 11792,
         "ST": 12851
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 101960
+        },
+        {
+          "year": 2024,
+          "round1": 22709
+        }
+      ]
     },
     {
       "name": "GOVERMENT MEDICAL COLLEGE NANDURBAR MAHARARASTRA",
@@ -3359,7 +4265,17 @@
         "OBC": 8017,
         "SC": 13246,
         "ST": 13920
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 114763
+        },
+        {
+          "year": 2024,
+          "round1": 7128
+        }
+      ]
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE",
@@ -3371,7 +4287,17 @@
         "OBC": 9132,
         "SC": 13628,
         "ST": 14253
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 18921
+        },
+        {
+          "year": 2024,
+          "round1": 25853
+        }
+      ]
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE AND GENERAL HOSPITAL",
@@ -3383,7 +4309,17 @@
         "OBC": 7738,
         "SC": 13090,
         "ST": 14122
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 130363
+        },
+        {
+          "year": 2024,
+          "round1": 24084
+        }
+      ]
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE Karimnagar Telangana",
@@ -3395,7 +4331,17 @@
         "OBC": 8963,
         "SC": 13068,
         "ST": 14565
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 149808
+        },
+        {
+          "year": 2024,
+          "round1": 7848
+        }
+      ]
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM",
@@ -3407,7 +4353,17 @@
         "OBC": 9065,
         "SC": 12803,
         "ST": 14614
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 24868
+        },
+        {
+          "year": 2024,
+          "round1": 24681
+        }
+      ]
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE NANDYAL",
@@ -3419,7 +4375,17 @@
         "OBC": 9011,
         "SC": 13119,
         "ST": 14088
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 128615
+        },
+        {
+          "year": 2024,
+          "round1": 25825
+        }
+      ]
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE PURNEA",
@@ -3431,7 +4397,17 @@
         "OBC": 8191,
         "SC": 13203,
         "ST": 13997
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 136153
+        },
+        {
+          "year": 2024,
+          "round1": 7321
+        }
+      ]
     },
     {
       "name": "GOVT MEDICAL COLLEGE",
@@ -3443,7 +4419,17 @@
         "OBC": 9253,
         "SC": 13722,
         "ST": 14526
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 154537
+        },
+        {
+          "year": 2024,
+          "round1": 25277
+        }
+      ]
     },
     {
       "name": "GOVT. DHARAMAPURI MED COLL",
@@ -3455,7 +4441,17 @@
         "OBC": 5722,
         "SC": 11248,
         "ST": 14185
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 27761
+        },
+        {
+          "year": 2024,
+          "round1": 5465
+        }
+      ]
     },
     {
       "name": "GOVT. KILPAUK MEDICAL COLLEGE",
@@ -3467,7 +4463,17 @@
         "OBC": 2177,
         "SC": 8608,
         "ST": 12034
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 119660
+        },
+        {
+          "year": 2024,
+          "round1": 2486
+        }
+      ]
     },
     {
       "name": "GOVT. MEDICAL COLLEGE",
@@ -3479,7 +4485,17 @@
         "OBC": 5887,
         "SC": 11540,
         "ST": 14084
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 946638
+        },
+        {
+          "year": 2024,
+          "round1": 25378
+        }
+      ]
     },
     {
       "name": "GOVT. MOHAN KUMARAMANGALAM M.C.",
@@ -3491,7 +4507,17 @@
         "OBC": 4215,
         "SC": 10000,
         "ST": 13712
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 13573
+        },
+        {
+          "year": 2024,
+          "round1": 26024
+        }
+      ]
     },
     {
       "name": "GOVT. VELLORE MEDICAL COLLEGE",
@@ -3503,7 +4529,17 @@
         "OBC": 4047,
         "SC": 10260,
         "ST": 13054
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 25925
+        },
+        {
+          "year": 2024,
+          "round1": 21393
+        }
+      ]
     },
     {
       "name": "GOVT.MEDICAL COLLEGE",
@@ -3515,7 +4551,17 @@
         "OBC": 5564,
         "SC": 11433,
         "ST": 13426
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 115572
+        },
+        {
+          "year": 2024,
+          "round1": 26070
+        }
+      ]
     },
     {
       "name": "GRANT MEDICAL COLL & SIR J.J.HOSP",
@@ -3527,7 +4573,17 @@
         "OBC": 3636,
         "SC": 9656,
         "ST": 11771
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 90836
+        },
+        {
+          "year": 2024,
+          "round1": 18760
+        }
+      ]
     },
     {
       "name": "GTMC",
@@ -3539,7 +4595,17 @@
         "OBC": 6312,
         "SC": 11833,
         "ST": 14778
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 19584
+        },
+        {
+          "year": 2024,
+          "round1": 6234
+        }
+      ]
     },
     {
       "name": "GUNTUR MEDICAL COLLEGE",
@@ -3551,7 +4617,17 @@
         "OBC": 5139,
         "SC": 10960,
         "ST": 12158
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 22094
+        },
+        {
+          "year": 2024,
+          "round1": 4389
+        }
+      ]
     },
     {
       "name": "GURU GOVIND SINGH MED COLL",
@@ -3563,7 +4639,17 @@
         "OBC": 5769,
         "SC": 11619,
         "ST": 13231
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 17173
+        },
+        {
+          "year": 2024,
+          "round1": 4313
+        }
+      ]
     },
     {
       "name": "GUWAHATI MEDICAL COLLEGE",
@@ -3575,7 +4661,17 @@
         "OBC": 5934,
         "SC": 10922,
         "ST": 11783
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 88005
+        },
+        {
+          "year": 2024,
+          "round1": 4239
+        }
+      ]
     },
     {
       "name": "GVMC",
@@ -3587,7 +4683,17 @@
         "OBC": 5530,
         "SC": 10526,
         "ST": 13543
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1098028
+        },
+        {
+          "year": 2024,
+          "round1": 5536
+        }
+      ]
     },
     {
       "name": "Gadag Institute of Medical Sciences",
@@ -3599,7 +4705,17 @@
         "OBC": 7823,
         "SC": 13319,
         "ST": 13126
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 123145
+        },
+        {
+          "year": 2024,
+          "round1": 7373
+        }
+      ]
     },
     {
       "name": "Gandhi Medical College Musheerabad Secunderabad",
@@ -3611,7 +4727,17 @@
         "OBC": 3075,
         "SC": 10316,
         "ST": 11275
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 7253
+        },
+        {
+          "year": 2024,
+          "round1": 19547
+        }
+      ]
     },
     {
       "name": "Goverment Medical College",
@@ -3623,7 +4749,17 @@
         "OBC": 8848,
         "SC": 13325,
         "ST": 14287
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 130821
+        },
+        {
+          "year": 2024,
+          "round1": 6593
+        }
+      ]
     },
     {
       "name": "Goverment Medical College And Hospital Jalgaon",
@@ -3635,7 +4771,17 @@
         "OBC": 7906,
         "SC": 13019,
         "ST": 13916
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 23014
+        },
+        {
+          "year": 2024,
+          "round1": 7070
+        }
+      ]
     },
     {
       "name": "Goverment Medical College Sheopur",
@@ -3643,7 +4789,13 @@
       "state": null,
       "cutoffs": {
         "General": 21070
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 21070
+        }
+      ]
     },
     {
       "name": "Government Doon Medcial College",
@@ -3655,7 +4807,17 @@
         "OBC": 4826,
         "SC": 11471,
         "ST": 12551
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 875148
+        },
+        {
+          "year": 2024,
+          "round1": 3828
+        }
+      ]
     },
     {
       "name": "Government Medcial College",
@@ -3667,7 +4829,17 @@
         "OBC": 8050,
         "SC": 13155,
         "ST": 14044
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 22001
+        },
+        {
+          "year": 2024,
+          "round1": 25856
+        }
+      ]
     },
     {
       "name": "Government Medical College & Hospital",
@@ -3679,7 +4851,17 @@
         "OBC": 8767,
         "SC": 13275,
         "ST": 14514
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 831158
+        },
+        {
+          "year": 2024,
+          "round1": 7803
+        }
+      ]
     },
     {
       "name": "Government Medical College Chittorgarh",
@@ -3691,7 +4873,17 @@
         "OBC": 5972,
         "SC": 11723,
         "ST": 12613
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 76041
+        },
+        {
+          "year": 2024,
+          "round1": 5506
+        }
+      ]
     },
     {
       "name": "Government Medical College Mahasamund Chhattisgarh",
@@ -3703,7 +4895,17 @@
         "OBC": 8636,
         "SC": 13047,
         "ST": 14248
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 145338
+        },
+        {
+          "year": 2024,
+          "round1": 26099
+        }
+      ]
     },
     {
       "name": "Government Medical College Nirmal",
@@ -3715,7 +4917,17 @@
         "OBC": 9268,
         "SC": 13177,
         "ST": 13701
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 28202
+        },
+        {
+          "year": 2024,
+          "round1": 25033
+        }
+      ]
     },
     {
       "name": "Government Medical College Satna",
@@ -3727,7 +4939,17 @@
         "OBC": 7646,
         "SC": 12839,
         "ST": 13692
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 121022
+        },
+        {
+          "year": 2024,
+          "round1": 7019
+        }
+      ]
     },
     {
       "name": "Government Medical College Siddipet",
@@ -3738,7 +4960,17 @@
         "EWS": 9146,
         "OBC": 8699,
         "SC": 13044
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 143103
+        },
+        {
+          "year": 2024,
+          "round1": 24162
+        }
+      ]
     },
     {
       "name": "Government Medical College Suryapet",
@@ -3750,7 +4982,17 @@
         "OBC": 8705,
         "SC": 13345,
         "ST": 13821
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 123668
+        },
+        {
+          "year": 2024,
+          "round1": 8161
+        }
+      ]
     },
     {
       "name": "Government Medical College and District General Hospital",
@@ -3762,7 +5004,17 @@
         "OBC": 8045,
         "SC": 13232,
         "ST": 14119
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 123553
+        },
+        {
+          "year": 2024,
+          "round1": 7447
+        }
+      ]
     },
     {
       "name": "Government Medical College and ESIC Hospital",
@@ -3774,7 +5026,17 @@
         "OBC": 9739,
         "SC": 13152,
         "ST": 16402
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 525616
+        },
+        {
+          "year": 2024,
+          "round1": 9080
+        }
+      ]
     },
     {
       "name": "Government Medical College and Hospital",
@@ -3786,7 +5048,17 @@
         "OBC": 2337,
         "SC": 7345,
         "ST": 9765
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 115037
+        },
+        {
+          "year": 2024,
+          "round1": 24778
+        }
+      ]
     },
     {
       "name": "Govt Medical College Badaun",
@@ -3798,7 +5070,17 @@
         "OBC": 6905,
         "SC": 12534,
         "ST": 13307
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 100028
+        },
+        {
+          "year": 2024,
+          "round1": 5827
+        }
+      ]
     },
     {
       "name": "Govt Medical College Baramati",
@@ -3810,7 +5092,17 @@
         "OBC": 6047,
         "SC": 11128,
         "ST": 12001
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 120996
+        },
+        {
+          "year": 2024,
+          "round1": 22585
+        }
+      ]
     },
     {
       "name": "Govt Medical College Barmer Rajasthan",
@@ -3822,7 +5114,17 @@
         "OBC": 5881,
         "SC": 11764,
         "ST": 12784
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 100855
+        },
+        {
+          "year": 2024,
+          "round1": 5355
+        }
+      ]
     },
     {
       "name": "Govt Medical College Basti",
@@ -3834,7 +5136,17 @@
         "OBC": 6950,
         "SC": 12831,
         "ST": 13213
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 116051
+        },
+        {
+          "year": 2024,
+          "round1": 23587
+        }
+      ]
     },
     {
       "name": "Govt Medical College Faizabad",
@@ -3846,7 +5158,17 @@
         "OBC": 6701,
         "SC": 12513,
         "ST": 13125
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 107947
+        },
+        {
+          "year": 2024,
+          "round1": 5838
+        }
+      ]
     },
     {
       "name": "Govt Medical College Firozabad",
@@ -3857,7 +5179,17 @@
         "EWS": 6888,
         "OBC": 6823,
         "SC": 12153
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 112116
+        },
+        {
+          "year": 2024,
+          "round1": 5902
+        }
+      ]
     },
     {
       "name": "Govt Medical College Kannur",
@@ -3869,7 +5201,17 @@
         "OBC": 3827,
         "SC": 12030,
         "ST": 13922
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 137232
+        },
+        {
+          "year": 2024,
+          "round1": 3730
+        }
+      ]
     },
     {
       "name": "Govt Medical College Nalgonda",
@@ -3881,7 +5223,17 @@
         "OBC": 8815,
         "SC": 13252,
         "ST": 13851
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 121043
+        },
+        {
+          "year": 2024,
+          "round1": 8142
+        }
+      ]
     },
     {
       "name": "Govt Medical College Ratlam",
@@ -3893,7 +5245,17 @@
         "OBC": 6429,
         "SC": 12383,
         "ST": 13142
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 91920
+        },
+        {
+          "year": 2024,
+          "round1": 23086
+        }
+      ]
     },
     {
       "name": "Govt Medical College Shahdol",
@@ -3905,7 +5267,17 @@
         "OBC": 7310,
         "SC": 12580,
         "ST": 13331
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 110702
+        },
+        {
+          "year": 2024,
+          "round1": 25213
+        }
+      ]
     },
     {
       "name": "Govt Medical College Vikarabad",
@@ -3917,7 +5289,17 @@
         "OBC": 9249,
         "SC": 13704,
         "ST": 14301
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 28771
+        },
+        {
+          "year": 2024,
+          "round1": 8654
+        }
+      ]
     },
     {
       "name": "Govt Medical college Shivpuri",
@@ -3929,7 +5311,17 @@
         "OBC": 6832,
         "SC": 12461,
         "ST": 13082
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 111337
+        },
+        {
+          "year": 2024,
+          "round1": 24112
+        }
+      ]
     },
     {
       "name": "Govt institute of Medcial Sciences",
@@ -3941,7 +5333,17 @@
         "OBC": 3810,
         "SC": 10835,
         "ST": 12308
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 9270
+        },
+        {
+          "year": 2024,
+          "round1": 3267
+        }
+      ]
     },
     {
       "name": "Govt. Medical College Jayashankar Bhupalpally",
@@ -3953,7 +5355,17 @@
         "OBC": 9293,
         "SC": 13696,
         "ST": 14681
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 132267
+        },
+        {
+          "year": 2024,
+          "round1": 8750
+        }
+      ]
     },
     {
       "name": "Govt. Medical College Karur",
@@ -3965,7 +5377,17 @@
         "OBC": 5936,
         "SC": 11881,
         "ST": 14659
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 16740
+        },
+        {
+          "year": 2024,
+          "round1": 6020
+        }
+      ]
     },
     {
       "name": "Govt. Medical College Rajanna Sircilla",
@@ -3977,7 +5399,17 @@
         "OBC": 8773,
         "SC": 13298,
         "ST": 11877
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 28079
+        },
+        {
+          "year": 2024,
+          "round1": 7870
+        }
+      ]
     },
     {
       "name": "Govt. Medical College and Hospital",
@@ -3989,7 +5421,17 @@
         "OBC": 7858,
         "SC": 13012,
         "ST": 13463
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 133088
+        },
+        {
+          "year": 2024,
+          "round1": 22144
+        }
+      ]
     },
     {
       "name": "Govt. Pudukkottai Medical College Hopt.",
@@ -4001,7 +5443,17 @@
         "OBC": 6467,
         "SC": 11887,
         "ST": 14712
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 18973
+        },
+        {
+          "year": 2024,
+          "round1": 6253
+        }
+      ]
     },
     {
       "name": "Govt. Sivgangai M. C. Sivagangai",
@@ -4013,7 +5465,17 @@
         "OBC": 6532,
         "SC": 11882,
         "ST": 14854
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 19303
+        },
+        {
+          "year": 2024,
+          "round1": 23006
+        }
+      ]
     },
     {
       "name": "Graphic Era Institute Of Medical Science",
@@ -4023,7 +5485,17 @@
         "General": 576685,
         "OBC": 21644,
         "ST": 21650
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 576685
+        },
+        {
+          "year": 2024,
+          "round1": 21035
+        }
+      ]
     },
     {
       "name": "Gulbarga Institute of Medical Sciences",
@@ -4035,7 +5507,17 @@
         "OBC": 7144,
         "SC": 12599,
         "ST": 13686
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 129845
+        },
+        {
+          "year": 2024,
+          "round1": 6135
+        }
+      ]
     },
     {
       "name": "HASSAN INST. MEDICAL SCIENCES",
@@ -4047,7 +5529,17 @@
         "OBC": 6340,
         "SC": 11982,
         "ST": 12589
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 133599
+        },
+        {
+          "year": 2024,
+          "round1": 25564
+        }
+      ]
     },
     {
       "name": "Haveri Institute of Medical Sciences",
@@ -4059,7 +5551,17 @@
         "OBC": 8246,
         "SC": 13363,
         "ST": 14286
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 152565
+        },
+        {
+          "year": 2024,
+          "round1": 24792
+        }
+      ]
     },
     {
       "name": "Hinduhridayasamrat Balasaheb Thackeray Medical College and Dr. R. N. Cooper Municipal General Hospital",
@@ -4071,7 +5573,17 @@
         "OBC": 4489,
         "SC": 10985,
         "ST": 12821
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 102783
+        },
+        {
+          "year": 2024,
+          "round1": 2999
+        }
+      ]
     },
     {
       "name": "INDIRA GANDHI GOVT.MEDICAL COLL.",
@@ -4083,7 +5595,17 @@
         "OBC": 5249,
         "SC": 11085,
         "ST": 12669
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 109255
+        },
+        {
+          "year": 2024,
+          "round1": 17073
+        }
+      ]
     },
     {
       "name": "INDIRA GANDHI MEDICAL COLL.",
@@ -4095,7 +5617,17 @@
         "OBC": 3342,
         "SC": 9805,
         "ST": 11574
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 7698
+        },
+        {
+          "year": 2024,
+          "round1": 18490
+        }
+      ]
     },
     {
       "name": "INST OF PG MED EDU & RESEARCH",
@@ -4107,7 +5639,17 @@
         "OBC": 3816,
         "SC": 9481,
         "ST": 12276
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 71259
+        },
+        {
+          "year": 2024,
+          "round1": 19291
+        }
+      ]
     },
     {
       "name": "INST.OF MED.SCIENCES",
@@ -4119,7 +5661,17 @@
         "OBC": 1702,
         "SC": 7644,
         "ST": 9757
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 20606
+        },
+        {
+          "year": 2024,
+          "round1": 24341
+        }
+      ]
     },
     {
       "name": "IRT Perundurai Medical College",
@@ -4131,7 +5683,17 @@
         "OBC": 5693,
         "SC": 11398,
         "ST": 13576
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 125728
+        },
+        {
+          "year": 2024,
+          "round1": 5415
+        }
+      ]
     },
     {
       "name": "Indira Gandhi Institute of Medical Sciences",
@@ -4143,7 +5705,17 @@
         "OBC": 4010,
         "SC": 11253,
         "ST": 12511
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 96049
+        },
+        {
+          "year": 2024,
+          "round1": 21615
+        }
+      ]
     },
     {
       "name": "Indira Gandhi Medical College & RI",
@@ -4155,7 +5727,17 @@
         "OBC": 6670,
         "SC": 11844,
         "ST": 13326
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 127289
+        },
+        {
+          "year": 2024,
+          "round1": 5424
+        }
+      ]
     },
     {
       "name": "Institute of Medical Sciences & SUM Hospital",
@@ -4166,7 +5748,17 @@
         "EWS": 15260,
         "OBC": 15698,
         "SC": 16002
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 396950
+        },
+        {
+          "year": 2024,
+          "round1": 24240
+        }
+      ]
     },
     {
       "name": "Institute of Medical Sciences and SUM Host.",
@@ -4178,7 +5770,17 @@
         "OBC": 17268,
         "SC": 17026,
         "ST": 17093
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 398720
+        },
+        {
+          "year": 2024,
+          "round1": 25673
+        }
+      ]
     },
     {
       "name": "JAWAHAR LAL NEHRU MEDICAL",
@@ -4190,7 +5792,17 @@
         "OBC": 3650,
         "SC": 10532,
         "ST": 11481
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 60827
+        },
+        {
+          "year": 2024,
+          "round1": 24466
+        }
+      ]
     },
     {
       "name": "JHALAWAR MEDICAL COLLEGE",
@@ -4202,7 +5814,17 @@
         "OBC": 4643,
         "SC": 11206,
         "ST": 11706
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 76687
+        },
+        {
+          "year": 2024,
+          "round1": 25766
+        }
+      ]
     },
     {
       "name": "JIPMER KARAIKAL",
@@ -4214,7 +5836,17 @@
         "OBC": 11325,
         "SC": 14397,
         "ST": 11153
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 71488
+        },
+        {
+          "year": 2024,
+          "round1": 19061
+        }
+      ]
     },
     {
       "name": "JIPMER PUDUCHERRY",
@@ -4226,7 +5858,17 @@
         "OBC": 10860,
         "SC": 14278,
         "ST": 24043
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 126024
+        },
+        {
+          "year": 2024,
+          "round1": 20214
+        }
+      ]
     },
     {
       "name": "JLN IMS",
@@ -4238,7 +5880,17 @@
         "OBC": 9143,
         "SC": 12588,
         "ST": 13607
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 140433
+        },
+        {
+          "year": 2024,
+          "round1": 25938
+        }
+      ]
     },
     {
       "name": "JLN Medical College",
@@ -4250,7 +5902,17 @@
         "OBC": 21191,
         "SC": 21010,
         "ST": 21110
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 587084
+        },
+        {
+          "year": 2024,
+          "round1": 25038
+        }
+      ]
     },
     {
       "name": "JSS Medical College",
@@ -4259,7 +5921,17 @@
       "cutoffs": {
         "General": 167972,
         "OBC": 13989
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 167972
+        },
+        {
+          "year": 2024,
+          "round1": 23974
+        }
+      ]
     },
     {
       "name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirma th Medical College",
@@ -4267,7 +5939,13 @@
       "state": "Karnataka",
       "cutoffs": {
         "General": 394117
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 394117
+        }
+      ]
     },
     {
       "name": "Jawahar Lal Nehru Medical College",
@@ -4275,7 +5953,17 @@
       "state": "Karnataka",
       "cutoffs": {
         "General": 195073
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 195073
+        },
+        {
+          "year": 2024,
+          "round1": 23971
+        }
+      ]
     },
     {
       "name": "Jawaharlal Nehru Medical College",
@@ -4287,7 +5975,17 @@
         "OBC": 8567,
         "SC": 12296,
         "ST": 13346
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 111142
+        },
+        {
+          "year": 2024,
+          "round1": 22135
+        }
+      ]
     },
     {
       "name": "Jhargram Government Medical College and Hospital",
@@ -4299,7 +5997,17 @@
         "OBC": 8984,
         "SC": 12987,
         "ST": 14277
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 149018
+        },
+        {
+          "year": 2024,
+          "round1": 8088
+        }
+      ]
     },
     {
       "name": "Jorhat Medical College and Hospital",
@@ -4311,7 +6019,17 @@
         "OBC": 8749,
         "SC": 13450,
         "ST": 12907
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 131902
+        },
+        {
+          "year": 2024,
+          "round1": 19593
+        }
+      ]
     },
     {
       "name": "K.A.P. VISWANATHAM Govt Medical College",
@@ -4322,7 +6040,17 @@
         "EWS": 9074,
         "OBC": 4731,
         "SC": 10196
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 14942
+        },
+        {
+          "year": 2024,
+          "round1": 24035
+        }
+      ]
     },
     {
       "name": "K.S Hegde Medical Academy",
@@ -4332,7 +6060,17 @@
         "General": 137517,
         "EWS": 13604,
         "OBC": 13585
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 137517
+        },
+        {
+          "year": 2024,
+          "round1": 24409
+        }
+      ]
     },
     {
       "name": "KANYAKUMARI GOVT. MED. COLL.",
@@ -4344,7 +6082,17 @@
         "OBC": 5040,
         "SC": 11720,
         "ST": 14537
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1180453
+        },
+        {
+          "year": 2024,
+          "round1": 5180
+        }
+      ]
     },
     {
       "name": "KARNATAK INST. OF MEDICAL SC.",
@@ -4356,7 +6104,17 @@
         "OBC": 5385,
         "SC": 11079,
         "ST": 10568
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 100347
+        },
+        {
+          "year": 2024,
+          "round1": 3945
+        }
+      ]
     },
     {
       "name": "KGMC",
@@ -4368,7 +6126,17 @@
         "OBC": 2758,
         "SC": 7895,
         "ST": 11179
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 63833
+        },
+        {
+          "year": 2024,
+          "round1": 17239
+        }
+      ]
     },
     {
       "name": "KURNOOL MEDICAL COLLEGE",
@@ -4380,7 +6148,17 @@
         "OBC": 6514,
         "SC": 10307,
         "ST": 12652
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 22480
+        },
+        {
+          "year": 2024,
+          "round1": 20667
+        }
+      ]
     },
     {
       "name": "Kakatiya Medical College Warangal",
@@ -4392,7 +6170,17 @@
         "OBC": 6560,
         "SC": 11580,
         "ST": 11397
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1018550
+        },
+        {
+          "year": 2024,
+          "round1": 25051
+        }
+      ]
     },
     {
       "name": "Kalinga Institute of Medical Sciences",
@@ -4402,7 +6190,17 @@
         "General": 202084,
         "EWS": 14624,
         "OBC": 14979
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 202084
+        },
+        {
+          "year": 2024,
+          "round1": 25289
+        }
+      ]
     },
     {
       "name": "Kalpana Chawla Govt. Medical College",
@@ -4413,7 +6211,17 @@
         "EWS": 5117,
         "OBC": 4619,
         "SC": 10673
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 10661
+        },
+        {
+          "year": 2024,
+          "round1": 4539
+        }
+      ]
     },
     {
       "name": "Kalyan Singh Government Medical College",
@@ -4425,7 +6233,17 @@
         "OBC": 6886,
         "SC": 12523,
         "ST": 13564
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 104956
+        },
+        {
+          "year": 2024,
+          "round1": 22080
+        }
+      ]
     },
     {
       "name": "Karwar Institute of Medical Sciences",
@@ -4437,7 +6255,17 @@
         "OBC": 7659,
         "SC": 13130,
         "ST": 14158
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 126484
+        },
+        {
+          "year": 2024,
+          "round1": 24589
+        }
+      ]
     },
     {
       "name": "Kasturba Medical College",
@@ -4447,7 +6275,17 @@
         "General": 41533,
         "EWS": 11364,
         "OBC": 11436
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 41533
+        },
+        {
+          "year": 2024,
+          "round1": 19830
+        }
+      ]
     },
     {
       "name": "Kodagu Institute of Medical Sciences",
@@ -4459,7 +6297,17 @@
         "OBC": 7467,
         "SC": 12889,
         "ST": 13092
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1093495
+        },
+        {
+          "year": 2024,
+          "round1": 6762
+        }
+      ]
     },
     {
       "name": "Kokrajhar Medical College & Hospital Rangalikhata",
@@ -4471,7 +6319,17 @@
         "OBC": 9341,
         "SC": 13603,
         "ST": 14283
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 24347
+        },
+        {
+          "year": 2024,
+          "round1": 8638
+        }
+      ]
     },
     {
       "name": "Koppal Institute of Medical Sciences",
@@ -4482,7 +6340,17 @@
         "EWS": 9266,
         "OBC": 7968,
         "SC": 13095
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 128737
+        },
+        {
+          "year": 2024,
+          "round1": 7607
+        }
+      ]
     },
     {
       "name": "Krishna Inst. of Med. Scie.",
@@ -4493,7 +6361,17 @@
         "EWS": 20865,
         "OBC": 20844,
         "SC": 20235
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 609275
+        },
+        {
+          "year": 2024,
+          "round1": 25334
+        }
+      ]
     },
     {
       "name": "L.L.R.M. MEDICAL COLLEGE",
@@ -4505,7 +6383,17 @@
         "OBC": 4268,
         "SC": 11037,
         "ST": 12060
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 9650
+        },
+        {
+          "year": 2024,
+          "round1": 20674
+        }
+      ]
     },
     {
       "name": "LOKMANYA TILAK MUNICIPAL M C",
@@ -4517,7 +6405,17 @@
         "OBC": 4194,
         "SC": 10367,
         "ST": 12566
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 109648
+        },
+        {
+          "year": 2024,
+          "round1": 23758
+        }
+      ]
     },
     {
       "name": "Lady Hardinge Medical College",
@@ -4529,7 +6427,17 @@
         "OBC": 7096,
         "SC": 12381,
         "ST": 15516
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 15212
+        },
+        {
+          "year": 2024,
+          "round1": 21749
+        }
+      ]
     },
     {
       "name": "Lakhimpur Medical College",
@@ -4541,7 +6449,17 @@
         "OBC": 9321,
         "SC": 13730,
         "ST": 14485
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 154315
+        },
+        {
+          "year": 2024,
+          "round1": 8468
+        }
+      ]
     },
     {
       "name": "Lt. B R K Government Medical College",
@@ -4553,7 +6471,17 @@
         "OBC": 8065,
         "SC": 12927,
         "ST": 13813
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1060971
+        },
+        {
+          "year": 2024,
+          "round1": 23168
+        }
+      ]
     },
     {
       "name": "Lt. L A M Govt. Medical College",
@@ -4565,7 +6493,17 @@
         "OBC": 7732,
         "SC": 12794,
         "ST": 13773
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 116700
+        },
+        {
+          "year": 2024,
+          "round1": 6659
+        }
+      ]
     },
     {
       "name": "M.G.M. MEDICAL COLLEGE",
@@ -4577,7 +6515,17 @@
         "OBC": 5490,
         "SC": 12003,
         "ST": 12315
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 112712
+        },
+        {
+          "year": 2024,
+          "round1": 24987
+        }
+      ]
     },
     {
       "name": "M.P. SHAH MEDICAL COLLEGE",
@@ -4589,7 +6537,17 @@
         "OBC": 4807,
         "SC": 11425,
         "ST": 12149
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 89872
+        },
+        {
+          "year": 2024,
+          "round1": 23127
+        }
+      ]
     },
     {
       "name": "MADRAS MEDICAL COLLEGE",
@@ -4601,7 +6559,17 @@
         "OBC": 904,
         "SC": 4594,
         "ST": 11342
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 6861
+        },
+        {
+          "year": 2024,
+          "round1": 932
+        }
+      ]
     },
     {
       "name": "MADURAI MEDICAL COLLEGE",
@@ -4613,7 +6581,17 @@
         "OBC": 2928,
         "SC": 8657,
         "ST": 13500
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 123915
+        },
+        {
+          "year": 2024,
+          "round1": 24765
+        }
+      ]
     },
     {
       "name": "MAHARAJA K.C. GAJAPATI M.C.",
@@ -4625,7 +6603,17 @@
         "OBC": 5499,
         "SC": 11358,
         "ST": 13067
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 129391
+        },
+        {
+          "year": 2024,
+          "round1": 4044
+        }
+      ]
     },
     {
       "name": "MAHARANI LAXMI BAI MEDICAL COLL",
@@ -4637,7 +6625,17 @@
         "OBC": 5195,
         "SC": 11791,
         "ST": 12749
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 95992
+        },
+        {
+          "year": 2024,
+          "round1": 4128
+        }
+      ]
     },
     {
       "name": "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE",
@@ -4648,7 +6646,17 @@
         "EWS": 5992,
         "OBC": 7638,
         "ST": 13667
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 105293
+        },
+        {
+          "year": 2024,
+          "round1": 6441
+        }
+      ]
     },
     {
       "name": "MALDA MED. COLLEGE",
@@ -4660,7 +6668,17 @@
         "OBC": 7954,
         "SC": 12941,
         "ST": 14206
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 23295
+        },
+        {
+          "year": 2024,
+          "round1": 7152
+        }
+      ]
     },
     {
       "name": "MANDYA INST. OF MEDICAL SCI.",
@@ -4672,7 +6690,17 @@
         "OBC": 6120,
         "SC": 11949,
         "ST": 12608
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 111130
+        },
+        {
+          "year": 2024,
+          "round1": 5084
+        }
+      ]
     },
     {
       "name": "MEDICAL COLLEGE",
@@ -4684,7 +6712,17 @@
         "OBC": 4988,
         "SC": 11610,
         "ST": 12320
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 525315
+        },
+        {
+          "year": 2024,
+          "round1": 25441
+        }
+      ]
     },
     {
       "name": "MG Inst. of Medical Sciences",
@@ -4696,7 +6734,17 @@
         "OBC": 7449,
         "SC": 12550,
         "ST": 13481
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 875780
+        },
+        {
+          "year": 2024,
+          "round1": 23627
+        }
+      ]
     },
     {
       "name": "MGM Medical College",
@@ -4707,7 +6755,17 @@
         "EWS": 16236,
         "OBC": 16495,
         "SC": 16550
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 297942
+        },
+        {
+          "year": 2024,
+          "round1": 22999
+        }
+      ]
     },
     {
       "name": "MIDNAPORE MEDICAL COLLEGE",
@@ -4719,7 +6777,17 @@
         "OBC": 7891,
         "SC": 12878,
         "ST": 14268
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 122611
+        },
+        {
+          "year": 2024,
+          "round1": 24220
+        }
+      ]
     },
     {
       "name": "MM Inst. Med. and Research",
@@ -4730,7 +6798,17 @@
         "EWS": 18178,
         "OBC": 18167,
         "SC": 18198
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 476335
+        },
+        {
+          "year": 2024,
+          "round1": 25412
+        }
+      ]
     },
     {
       "name": "MOTI LAL NEHRU MEDICAL COLL",
@@ -4742,7 +6820,17 @@
         "OBC": 4454,
         "SC": 11040,
         "ST": 12201
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 80403
+        },
+        {
+          "year": 2024,
+          "round1": 19138
+        }
+      ]
     },
     {
       "name": "MRA MEDICAL COLLEGE AMBEDKAR NAGAR",
@@ -4754,7 +6842,17 @@
         "OBC": 6115,
         "SC": 12051,
         "ST": 12897
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 101608
+        },
+        {
+          "year": 2024,
+          "round1": 24314
+        }
+      ]
     },
     {
       "name": "MYSORE MED.& RESEARCH INST. MYSORE",
@@ -4766,7 +6864,17 @@
         "OBC": 4192,
         "SC": 11064,
         "ST": 10890
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 15375
+        },
+        {
+          "year": 2024,
+          "round1": 18117
+        }
+      ]
     },
     {
       "name": "Maharaja Jitendra Narayan Medical College and Hospital Coochbehar",
@@ -4777,7 +6885,17 @@
         "EWS": 9061,
         "OBC": 8803,
         "SC": 13273
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 24204
+        },
+        {
+          "year": 2024,
+          "round1": 7831
+        }
+      ]
     },
     {
       "name": "Maharishi Chyawan Medical College",
@@ -4785,7 +6903,13 @@
       "state": "Haryana",
       "cutoffs": {
         "General": 1039159
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1039159
+        }
+      ]
     },
     {
       "name": "Mahatma Gandhi Medical College",
@@ -4797,7 +6921,17 @@
         "OBC": 23781,
         "SC": 23535,
         "ST": 23484
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 808791
+        },
+        {
+          "year": 2024,
+          "round1": 24832
+        }
+      ]
     },
     {
       "name": "Mahatma Gandhi Mission Medical College",
@@ -4808,7 +6942,17 @@
         "EWS": 17433,
         "OBC": 17645,
         "SC": 17367
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 373553
+        },
+        {
+          "year": 2024,
+          "round1": 22963
+        }
+      ]
     },
     {
       "name": "Mahatma Gandhi Missions Medical College",
@@ -4816,7 +6960,13 @@
       "state": null,
       "cutoffs": {
         "General": 624436
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 624436
+        }
+      ]
     },
     {
       "name": "Mahatma Vidur Autonomous State Medical College",
@@ -4828,7 +6978,17 @@
         "OBC": 7791,
         "SC": 12578,
         "ST": 13926
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 102420
+        },
+        {
+          "year": 2024,
+          "round1": 22288
+        }
+      ]
     },
     {
       "name": "Malla Reddy Institute of Medical Sciences",
@@ -4840,7 +7000,13 @@
         "OBC": 19440,
         "SC": 19334,
         "ST": 19374
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 451856
+        }
+      ]
     },
     {
       "name": "Malla Reddy Medical College for Women",
@@ -4852,7 +7018,13 @@
         "OBC": 19825,
         "SC": 19719,
         "ST": 19370
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 541861
+        }
+      ]
     },
     {
       "name": "Maulana Azad Medical College",
@@ -4864,7 +7036,17 @@
         "OBC": 4186,
         "SC": 11222,
         "ST": 14336
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 138067
+        },
+        {
+          "year": 2024,
+          "round1": 23994
+        }
+      ]
     },
     {
       "name": "Medinirai Medical College (previously Known as Palamu Medical College)",
@@ -4876,7 +7058,17 @@
         "OBC": 8488,
         "SC": 13366,
         "ST": 14169
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 135357
+        },
+        {
+          "year": 2024,
+          "round1": 25760
+        }
+      ]
     },
     {
       "name": "Meenakshi Medical College Hospital and Research Institute",
@@ -4888,7 +7080,17 @@
         "OBC": 23485,
         "SC": 23304,
         "ST": 23235
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 657379
+        },
+        {
+          "year": 2024,
+          "round1": 24204
+        }
+      ]
     },
     {
       "name": "Mursidabad M C & Hospital",
@@ -4900,7 +7102,17 @@
         "OBC": 8312,
         "SC": 12870,
         "ST": 14337
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 747846
+        },
+        {
+          "year": 2024,
+          "round1": 7283
+        }
+      ]
     },
     {
       "name": "NALANDA MEDICAL COLLEGE",
@@ -4912,7 +7124,17 @@
         "OBC": 4914,
         "SC": 11631,
         "ST": 12651
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 112881
+        },
+        {
+          "year": 2024,
+          "round1": 4299
+        }
+      ]
     },
     {
       "name": "NAMO Medical Education & Research Institute",
@@ -4924,7 +7146,17 @@
         "OBC": 5996,
         "SC": 12195,
         "ST": 11899
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 85166
+        },
+        {
+          "year": 2024,
+          "round1": 5162
+        }
+      ]
     },
     {
       "name": "NDMC Medical College",
@@ -4935,7 +7167,17 @@
         "EWS": 2167,
         "OBC": 2423,
         "SC": 7902
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 5106
+        },
+        {
+          "year": 2024,
+          "round1": 1357
+        }
+      ]
     },
     {
       "name": "NEIGRIHMS",
@@ -4944,7 +7186,17 @@
       "cutoffs": {
         "General": 16601,
         "OBC": 5163
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 16601
+        },
+        {
+          "year": 2024,
+          "round1": 5829
+        }
+      ]
     },
     {
       "name": "NETAJI SUBHASH CHANDRA BOSE MC",
@@ -4956,7 +7208,17 @@
         "OBC": 5356,
         "SC": 11609,
         "ST": 12425
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 100004
+        },
+        {
+          "year": 2024,
+          "round1": 22560
+        }
+      ]
     },
     {
       "name": "NILRATAN SIRKAR MEDICAL COLLEGE",
@@ -4968,7 +7230,17 @@
         "OBC": 5052,
         "SC": 10129,
         "ST": 12598
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1238539
+        },
+        {
+          "year": 2024,
+          "round1": 3942
+        }
+      ]
     },
     {
       "name": "NORTH BENGAL MED.COLL",
@@ -4980,7 +7252,17 @@
         "OBC": 7001,
         "SC": 12281,
         "ST": 13406
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 133959
+        },
+        {
+          "year": 2024,
+          "round1": 23912
+        }
+      ]
     },
     {
       "name": "Nalbari Medical College & Hospital Dakhingaon",
@@ -4992,7 +7274,17 @@
         "OBC": 9325,
         "SC": 13079,
         "ST": 14193
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 25960
+        },
+        {
+          "year": 2024,
+          "round1": 8773
+        }
+      ]
     },
     {
       "name": "No Upgradation",
@@ -5000,7 +7292,13 @@
       "state": null,
       "cutoffs": {
         "General": 1260223
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1260223
+        }
+      ]
     },
     {
       "name": "Not Allotted.",
@@ -5008,7 +7306,13 @@
       "state": null,
       "cutoffs": {
         "General": 1296691
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1296691
+        }
+      ]
     },
     {
       "name": "Osmania Medical College Koti",
@@ -5020,7 +7324,17 @@
         "OBC": 3568,
         "SC": 10431,
         "ST": 11156
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 8757
+        },
+        {
+          "year": 2024,
+          "round1": 19552
+        }
+      ]
     },
     {
       "name": "PABITRA MOHAN PRADHAN MEDICAL COLLEGE & HOSPITAL",
@@ -5028,7 +7342,13 @@
       "state": "Odisha",
       "cutoffs": {
         "General": 27610
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 27610
+        }
+      ]
     },
     {
       "name": "PATNA MEDICAL COLLEGE",
@@ -5040,7 +7360,17 @@
         "OBC": 3528,
         "SC": 10870,
         "ST": 12142
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 6393
+        },
+        {
+          "year": 2024,
+          "round1": 19616
+        }
+      ]
     },
     {
       "name": "PRAGJYOTISHPUR MEDICAL COLLEGE",
@@ -5048,7 +7378,13 @@
       "state": null,
       "cutoffs": {
         "General": 23549
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 23549
+        }
+      ]
     },
     {
       "name": "PT NEKI RAM SHARMA GOVT MEDICAL COLLEGE",
@@ -5056,7 +7392,13 @@
       "state": null,
       "cutoffs": {
         "General": 100838
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 100838
+        }
+      ]
     },
     {
       "name": "PT. B.D. SHARMA PGIMS",
@@ -5068,7 +7410,17 @@
         "OBC": 3724,
         "SC": 10493,
         "ST": 12140
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 9920
+        },
+        {
+          "year": 2024,
+          "round1": 3197
+        }
+      ]
     },
     {
       "name": "Phulo Jhano Medical College",
@@ -5080,7 +7432,17 @@
         "OBC": 8301,
         "SC": 13359,
         "ST": 13467
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 136565
+        },
+        {
+          "year": 2024,
+          "round1": 22204
+        }
+      ]
     },
     {
       "name": "Prafulla Chandra Sen Government Medical College & Hospital",
@@ -5092,7 +7454,17 @@
         "OBC": 8962,
         "SC": 13096,
         "ST": 13750
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 23090
+        },
+        {
+          "year": 2024,
+          "round1": 8031
+        }
+      ]
     },
     {
       "name": "Pt. D.D.U MEDICAL COLLEGE",
@@ -5104,7 +7476,17 @@
         "OBC": 4566,
         "SC": 11116,
         "ST": 12306
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 79136
+        },
+        {
+          "year": 2024,
+          "round1": 25228
+        }
+      ]
     },
     {
       "name": "Pt. J N M MEDICAL COLLEGE",
@@ -5116,7 +7498,17 @@
         "OBC": 5875,
         "SC": 11355,
         "ST": 12972
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 16069
+        },
+        {
+          "year": 2024,
+          "round1": 4853
+        }
+      ]
     },
     {
       "name": "Pt. Jawahar Lal Nehru Govt. Med. College",
@@ -5128,7 +7520,17 @@
         "OBC": 5727,
         "SC": 11825,
         "ST": 11911
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 113394
+        },
+        {
+          "year": 2024,
+          "round1": 4739
+        }
+      ]
     },
     {
       "name": "Pt. Raghunath Murmu Med. College",
@@ -5140,7 +7542,17 @@
         "OBC": 7877,
         "SC": 12181,
         "ST": 14412
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 146965
+        },
+        {
+          "year": 2024,
+          "round1": 22616
+        }
+      ]
     },
     {
       "name": "R.G. KAR MEDICAL COLLEGE",
@@ -5152,7 +7564,17 @@
         "OBC": 5675,
         "SC": 11458,
         "ST": 13001
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 15156
+        },
+        {
+          "year": 2024,
+          "round1": 4862
+        }
+      ]
     },
     {
       "name": "R.N.T. MEDICAL COLLEGE",
@@ -5164,7 +7586,17 @@
         "OBC": 3497,
         "SC": 10350,
         "ST": 11077
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 55836
+        },
+        {
+          "year": 2024,
+          "round1": 3212
+        }
+      ]
     },
     {
       "name": "RAICHUR INST. OF MEDICAL SCI.",
@@ -5176,7 +7608,17 @@
         "OBC": 7614,
         "SC": 13073,
         "ST": 13975
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 896492
+        },
+        {
+          "year": 2024,
+          "round1": 7239
+        }
+      ]
     },
     {
       "name": "RAJENDRA INST. OF MED. SCI.",
@@ -5188,7 +7630,17 @@
         "OBC": 4069,
         "SC": 11762,
         "ST": 12662
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 89481
+        },
+        {
+          "year": 2024,
+          "round1": 3591
+        }
+      ]
     },
     {
       "name": "RAJIV GANDHI INSTITUTE OF MEDICAL SCIENCES",
@@ -5200,7 +7652,17 @@
         "OBC": 8425,
         "SC": 12675,
         "ST": 14245
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 147831
+        },
+        {
+          "year": 2024,
+          "round1": 7930
+        }
+      ]
     },
     {
       "name": "RAJIV GANDHI MEDICAL COLLEGE",
@@ -5212,7 +7674,17 @@
         "OBC": 5119,
         "SC": 11060,
         "ST": 12647
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 108496
+        },
+        {
+          "year": 2024,
+          "round1": 4009
+        }
+      ]
     },
     {
       "name": "RAMPURHAT GOVT MEDICAL COLLEGE RAMPURHAT",
@@ -5224,7 +7696,17 @@
         "OBC": 8612,
         "SC": 12961,
         "ST": 14160
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 24310
+        },
+        {
+          "year": 2024,
+          "round1": 25486
+        }
+      ]
     },
     {
       "name": "REGIONAL INST OF MEDICAL SCI",
@@ -5236,7 +7718,17 @@
         "OBC": 7672,
         "SC": 11929,
         "ST": 11767
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 22377
+        },
+        {
+          "year": 2024,
+          "round1": 7009
+        }
+      ]
     },
     {
       "name": "RIMS",
@@ -5248,7 +7740,17 @@
         "OBC": 8376,
         "SC": 12400,
         "ST": 13711
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 27619
+        },
+        {
+          "year": 2024,
+          "round1": 24818
+        }
+      ]
     },
     {
       "name": "RIMS Srikakulam",
@@ -5260,7 +7762,17 @@
         "OBC": 8656,
         "SC": 12712,
         "ST": 14262
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 118517
+        },
+        {
+          "year": 2024,
+          "round1": 22567
+        }
+      ]
     },
     {
       "name": "RUHS College of Medical Sciences",
@@ -5272,7 +7784,17 @@
         "OBC": 2915,
         "SC": 10065,
         "ST": 10916
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 49630
+        },
+        {
+          "year": 2024,
+          "round1": 20094
+        }
+      ]
     },
     {
       "name": "Raiganj Government Medical College",
@@ -5284,7 +7806,17 @@
         "OBC": 8539,
         "SC": 13237,
         "ST": 14466
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 127876
+        },
+        {
+          "year": 2024,
+          "round1": 25108
+        }
+      ]
     },
     {
       "name": "Raja Rajeswari Medical College Bengaluru",
@@ -5296,7 +7828,17 @@
         "OBC": 18869,
         "SC": 18900,
         "ST": 18466
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 526412
+        },
+        {
+          "year": 2024,
+          "round1": 25459
+        }
+      ]
     },
     {
       "name": "Rajah Muthiah Medical College",
@@ -5308,7 +7850,17 @@
         "OBC": 6207,
         "SC": 11657,
         "ST": 14220
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 132020
+        },
+        {
+          "year": 2024,
+          "round1": 6145
+        }
+      ]
     },
     {
       "name": "Rajarshee Chhatrapati Shahu Maharaj Government Medical College Kolhapur",
@@ -5320,7 +7872,17 @@
         "OBC": 7035,
         "SC": 12705,
         "ST": 13602
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 109831
+        },
+        {
+          "year": 2024,
+          "round1": 6017
+        }
+      ]
     },
     {
       "name": "Rajiv Gandhi Institute Medical Sce of Adilabad",
@@ -5332,7 +7894,17 @@
         "OBC": 7967,
         "SC": 12057,
         "ST": 12092
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 121285
+        },
+        {
+          "year": 2024,
+          "round1": 6631
+        }
+      ]
     },
     {
       "name": "Rajkiya Medical College",
@@ -5344,7 +7916,17 @@
         "OBC": 6498,
         "SC": 12434,
         "ST": 13302
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 114568
+        },
+        {
+          "year": 2024,
+          "round1": 21747
+        }
+      ]
     },
     {
       "name": "Rajmata shrimati devendra kumari singhdeo government medical college",
@@ -5356,7 +7938,17 @@
         "OBC": 8703,
         "SC": 13145,
         "ST": 14143
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 25218
+        },
+        {
+          "year": 2024,
+          "round1": 7711
+        }
+      ]
     },
     {
       "name": "Rangaraya Medical College",
@@ -5368,7 +7960,17 @@
         "OBC": 5806,
         "SC": 11182,
         "ST": 13400
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 139038
+        },
+        {
+          "year": 2024,
+          "round1": 19643
+        }
+      ]
     },
     {
       "name": "Rani Durgavati Medical College",
@@ -5380,7 +7982,17 @@
         "OBC": 6574,
         "SC": 12711,
         "ST": 12867
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 114515
+        },
+        {
+          "year": 2024,
+          "round1": 20365
+        }
+      ]
     },
     {
       "name": "Rural Medical College and PIMS",
@@ -5390,7 +8002,17 @@
         "General": 139826,
         "EWS": 14082,
         "OBC": 14254
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 139826
+        },
+        {
+          "year": 2024,
+          "round1": 24360
+        }
+      ]
     },
     {
       "name": "S.M.S. MEDICAL COLLEGE",
@@ -5402,7 +8024,17 @@
         "OBC": 1570,
         "SC": 7278,
         "ST": 6975
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 2531
+        },
+        {
+          "year": 2024,
+          "round1": 19148
+        }
+      ]
     },
     {
       "name": "S.N. MEDICAL COLLEGE",
@@ -5414,7 +8046,17 @@
         "OBC": 4540,
         "SC": 10990,
         "ST": 11992
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 89243
+        },
+        {
+          "year": 2024,
+          "round1": 19169
+        }
+      ]
     },
     {
       "name": "S.S. MEDICAL COLLEGE",
@@ -5426,7 +8068,17 @@
         "OBC": 6001,
         "SC": 12055,
         "ST": 12725
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 107096
+        },
+        {
+          "year": 2024,
+          "round1": 23236
+        }
+      ]
     },
     {
       "name": "SARDAR PATEL MEDICAL COLLEGE",
@@ -5438,7 +8090,17 @@
         "OBC": 3148,
         "SC": 10049,
         "ST": 10953
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 44219
+        },
+        {
+          "year": 2024,
+          "round1": 20107
+        }
+      ]
     },
     {
       "name": "SBKS Med. Inst. and Res. Centre",
@@ -5449,7 +8111,17 @@
         "EWS": 24544,
         "OBC": 24354,
         "SC": 18836
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 704085
+        },
+        {
+          "year": 2024,
+          "round1": 25566
+        }
+      ]
     },
     {
       "name": "SDU Medical College",
@@ -5460,7 +8132,17 @@
         "EWS": 15765,
         "OBC": 15827,
         "SC": 15637
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 217863
+        },
+        {
+          "year": 2024,
+          "round1": 25565
+        }
+      ]
     },
     {
       "name": "SETH G.S. MEDICAL COLLEGE",
@@ -5472,7 +8154,17 @@
         "OBC": 2787,
         "SC": 7058,
         "ST": 11314
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 85260
+        },
+        {
+          "year": 2024,
+          "round1": 15366
+        }
+      ]
     },
     {
       "name": "SH VASANT RAO NAIK GOVT.M.C.",
@@ -5484,7 +8176,17 @@
         "OBC": 7675,
         "SC": 12828,
         "ST": 13752
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 867744
+        },
+        {
+          "year": 2024,
+          "round1": 17805
+        }
+      ]
     },
     {
       "name": "SHEIKH BHIKHARI MEDICAL COLLEGE & HOSPITAL",
@@ -5496,7 +8198,17 @@
         "OBC": 7078,
         "SC": 12663,
         "ST": 13632
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 20884
+        },
+        {
+          "year": 2024,
+          "round1": 6291
+        }
+      ]
     },
     {
       "name": "SHILONG MEDICAL COLLEGE",
@@ -5504,7 +8216,13 @@
       "state": "Meghalaya",
       "cutoffs": {
         "General": 1102815
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1102815
+        }
+      ]
     },
     {
       "name": "SHIMOGA INST. OF MEDICAL SCI.",
@@ -5516,7 +8234,17 @@
         "OBC": 6935,
         "SC": 12615,
         "ST": 12782
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 122634
+        },
+        {
+          "year": 2024,
+          "round1": 24222
+        }
+      ]
     },
     {
       "name": "SHKM GMC",
@@ -5528,7 +8256,17 @@
         "OBC": 6403,
         "SC": 12351,
         "ST": 13352
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 101613
+        },
+        {
+          "year": 2024,
+          "round1": 22899
+        }
+      ]
     },
     {
       "name": "SHRI ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE",
@@ -5540,7 +8278,17 @@
         "OBC": 5878,
         "SC": 11162,
         "ST": 12439
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 95309
+        },
+        {
+          "year": 2024,
+          "round1": 5253
+        }
+      ]
     },
     {
       "name": "SHRI BHAUSAHEB HIRE GOVT. M.C.",
@@ -5552,7 +8300,17 @@
         "OBC": 7502,
         "SC": 12703,
         "ST": 13785
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 125396
+        },
+        {
+          "year": 2024,
+          "round1": 25071
+        }
+      ]
     },
     {
       "name": "SHRI KALYAN GOVT MEDICAL COLLEGE SIKAR",
@@ -5564,7 +8322,17 @@
         "OBC": 4305,
         "SC": 11012,
         "ST": 11794
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 77081
+        },
+        {
+          "year": 2024,
+          "round1": 21926
+        }
+      ]
     },
     {
       "name": "SILCHAR MEDICAL COLLEGE",
@@ -5576,7 +8344,17 @@
         "OBC": 8327,
         "SC": 12658,
         "ST": 12643
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 150604
+        },
+        {
+          "year": 2024,
+          "round1": 25876
+        }
+      ]
     },
     {
       "name": "SJP Medical College",
@@ -5588,7 +8366,17 @@
         "OBC": 5267,
         "SC": 11695,
         "ST": 12536
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 90864
+        },
+        {
+          "year": 2024,
+          "round1": 25778
+        }
+      ]
     },
     {
       "name": "SKIMS Medical College",
@@ -5600,7 +8388,17 @@
         "OBC": 6931,
         "SC": 12360,
         "ST": 11286
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 92831
+        },
+        {
+          "year": 2024,
+          "round1": 4480
+        }
+      ]
     },
     {
       "name": "SLBS Govt. Medical College",
@@ -5612,7 +8410,17 @@
         "OBC": 9382,
         "SC": 14946,
         "ST": 21689
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 86092
+        },
+        {
+          "year": 2024,
+          "round1": 9383
+        }
+      ]
     },
     {
       "name": "SOBAN SINGH JEENA GOVERNMENT INSTITUTE OF MEDICAL SCIENCE & RESEARCH",
@@ -5624,7 +8432,17 @@
         "OBC": 7342,
         "SC": 12471,
         "ST": 13208
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 122242
+        },
+        {
+          "year": 2024,
+          "round1": 6100
+        }
+      ]
     },
     {
       "name": "SRI KRISHNA MEDICAL COLLEGE",
@@ -5636,7 +8454,17 @@
         "OBC": 6338,
         "SC": 12393,
         "ST": 13388
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 110205
+        },
+        {
+          "year": 2024,
+          "round1": 21338
+        }
+      ]
     },
     {
       "name": "SRM Medical College and Hospital",
@@ -5648,7 +8476,17 @@
         "OBC": 22560,
         "SC": 22263,
         "ST": 22462
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 701594
+        },
+        {
+          "year": 2024,
+          "round1": 25301
+        }
+      ]
     },
     {
       "name": "STANLEY MEDICAL COLLEGE",
@@ -5660,7 +8498,17 @@
         "OBC": 1637,
         "SC": 6418,
         "ST": 11892
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 70325
+        },
+        {
+          "year": 2024,
+          "round1": 21197
+        }
+      ]
     },
     {
       "name": "SUH Maulana Mahmood Hasan Medical College",
@@ -5671,7 +8519,17 @@
         "EWS": 6171,
         "OBC": 6254,
         "SC": 12329
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 111624
+        },
+        {
+          "year": 2024,
+          "round1": 4756
+        }
+      ]
     },
     {
       "name": "SVIMS - Sri Padmavathi Medical College for Women",
@@ -5683,7 +8541,17 @@
         "OBC": 7418,
         "SC": 12353,
         "ST": 14076
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 150701
+        },
+        {
+          "year": 2024,
+          "round1": 23215
+        }
+      ]
     },
     {
       "name": "SWAMI RAMANAND TiRTH RURAL M.C",
@@ -5695,7 +8563,17 @@
         "OBC": 7388,
         "SC": 12862,
         "ST": 13638
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 122369
+        },
+        {
+          "year": 2024,
+          "round1": 23807
+        }
+      ]
     },
     {
       "name": "Sagar Dutta Medical College & Hospital",
@@ -5707,7 +8585,17 @@
         "OBC": 5865,
         "SC": 11522,
         "ST": 13448
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 127811
+        },
+        {
+          "year": 2024,
+          "round1": 22155
+        }
+      ]
     },
     {
       "name": "Saheed Laxman Nayak Med. College and Hos.",
@@ -5719,7 +8607,17 @@
         "OBC": 8526,
         "SC": 12145,
         "ST": 14359
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 24138
+        },
+        {
+          "year": 2024,
+          "round1": 7911
+        }
+      ]
     },
     {
       "name": "Santosh Medical College and Hospital",
@@ -5730,7 +8628,17 @@
         "EWS": 22346,
         "OBC": 22646,
         "SC": 22505
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 588923
+        },
+        {
+          "year": 2024,
+          "round1": 25656
+        }
+      ]
     },
     {
       "name": "Sarat Chandra Chattopadhyay Govt. Medical College & Hospital",
@@ -5742,7 +8650,17 @@
         "OBC": 8914,
         "SC": 12710,
         "ST": 14241
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 23387
+        },
+        {
+          "year": 2024,
+          "round1": 24701
+        }
+      ]
     },
     {
       "name": "Saveetha Medical College",
@@ -5752,7 +8670,17 @@
         "General": 509812,
         "OBC": 21534,
         "SC": 21134
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 509812
+        },
+        {
+          "year": 2024,
+          "round1": 21086
+        }
+      ]
     },
     {
       "name": "Shaheed Nirmal Mahto Medical College & Hospital",
@@ -5764,7 +8692,17 @@
         "OBC": 6273,
         "SC": 12160,
         "ST": 12811
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 19694
+        },
+        {
+          "year": 2024,
+          "round1": 21072
+        }
+      ]
     },
     {
       "name": "Shri Atal Bihari Vajpayee Medical College & Research Institute",
@@ -5776,7 +8714,17 @@
         "OBC": 4452,
         "SC": 10317,
         "ST": 10904
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 702132
+        },
+        {
+          "year": 2024,
+          "round1": 2972
+        }
+      ]
     },
     {
       "name": "Shri Sathya Sai Medical College and Research Institute",
@@ -5788,7 +8736,13 @@
         "OBC": 24557,
         "SC": 24438,
         "ST": 24068
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 811496
+        }
+      ]
     },
     {
       "name": "Siddartha Medical College",
@@ -5800,7 +8754,17 @@
         "OBC": 7156,
         "SC": 10562,
         "ST": 13031
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 137271
+        },
+        {
+          "year": 2024,
+          "round1": 6107
+        }
+      ]
     },
     {
       "name": "Sree Balaji Medical College and Hospital",
@@ -5812,7 +8776,17 @@
         "OBC": 25306,
         "SC": 25097,
         "ST": 25186
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 819763
+        },
+        {
+          "year": 2024,
+          "round1": 25477
+        }
+      ]
     },
     {
       "name": "Sri Jagannath Medical College & Hospital",
@@ -5824,7 +8798,17 @@
         "OBC": 6758,
         "SC": 11740,
         "ST": 13106
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 83692
+        },
+        {
+          "year": 2024,
+          "round1": 5111
+        }
+      ]
     },
     {
       "name": "Sri Lakshmi Narayana Inst. of Med. Scien.",
@@ -5836,7 +8820,17 @@
         "OBC": 25551,
         "SC": 25553,
         "ST": 25476
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 811714
+        },
+        {
+          "year": 2024,
+          "round1": 25731
+        }
+      ]
     },
     {
       "name": "Sri Ramachandra Med. College and Res. Inst.",
@@ -5846,7 +8840,17 @@
         "General": 333238,
         "OBC": 17851,
         "SC": 17847
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 333238
+        },
+        {
+          "year": 2024,
+          "round1": 25686
+        }
+      ]
     },
     {
       "name": "Sri Siddhartha Academy T Begur",
@@ -5858,7 +8862,17 @@
         "OBC": 17664,
         "SC": 17709,
         "ST": 17610
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 510662
+        },
+        {
+          "year": 2024,
+          "round1": 22800
+        }
+      ]
     },
     {
       "name": "Sri Siddhartha Medical College DU",
@@ -5869,7 +8883,17 @@
         "EWS": 16649,
         "OBC": 16807,
         "SC": 16405
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 402063
+        },
+        {
+          "year": 2024,
+          "round1": 25728
+        }
+      ]
     },
     {
       "name": "Sri Venkateswara Medical College",
@@ -5881,7 +8905,17 @@
         "OBC": 6743,
         "SC": 11663,
         "ST": 13111
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 137215
+        },
+        {
+          "year": 2024,
+          "round1": 25179
+        }
+      ]
     },
     {
       "name": "Sundarlal patwa Govt medical College mandsaur",
@@ -5893,7 +8927,17 @@
         "OBC": 7749,
         "SC": 12909,
         "ST": 13659
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 20010
+        },
+        {
+          "year": 2024,
+          "round1": 24849
+        }
+      ]
     },
     {
       "name": "T.D. MEDICAL COLLEGE",
@@ -5905,7 +8949,17 @@
         "OBC": 3337,
         "SC": 11410,
         "ST": 13877
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 27979
+        },
+        {
+          "year": 2024,
+          "round1": 19655
+        }
+      ]
     },
     {
       "name": "THANJAVUR MEDICAL COLL.",
@@ -5917,7 +8971,17 @@
         "OBC": 3954,
         "SC": 9720,
         "ST": 13666
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 26199
+        },
+        {
+          "year": 2024,
+          "round1": 4130
+        }
+      ]
     },
     {
       "name": "THENI GOVT. MEDICAL COLLEGE",
@@ -5929,7 +8993,17 @@
         "OBC": 4875,
         "SC": 10934,
         "ST": 14113
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 14826
+        },
+        {
+          "year": 2024,
+          "round1": 5153
+        }
+      ]
     },
     {
       "name": "THOOTHUKUDI MEDICAL COLLEGE",
@@ -5941,7 +9015,17 @@
         "OBC": 5516,
         "SC": 11662,
         "ST": 14401
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 17296
+        },
+        {
+          "year": 2024,
+          "round1": 23388
+        }
+      ]
     },
     {
       "name": "TOPIWALA NATIONAL MEDICAL COLLEGE",
@@ -5953,7 +9037,17 @@
         "OBC": 4272,
         "SC": 10729,
         "ST": 12429
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 106595
+        },
+        {
+          "year": 2024,
+          "round1": 2645
+        }
+      ]
     },
     {
       "name": "Tezpur Medical College",
@@ -5965,7 +9059,17 @@
         "OBC": 9127,
         "SC": 13594,
         "ST": 13410
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 25090
+        },
+        {
+          "year": 2024,
+          "round1": 8256
+        }
+      ]
     },
     {
       "name": "Thiruvannamalai MC",
@@ -5977,7 +9081,17 @@
         "OBC": 6016,
         "SC": 10982,
         "ST": 14434
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 19808
+        },
+        {
+          "year": 2024,
+          "round1": 5803
+        }
+      ]
     },
     {
       "name": "Tinsukia Medical College & Hospital",
@@ -5989,7 +9103,17 @@
         "OBC": 9360,
         "SC": 13672,
         "ST": 12446
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 27130
+        },
+        {
+          "year": 2024,
+          "round1": 25819
+        }
+      ]
     },
     {
       "name": "Tomo Riba Institute Health and Medical Sciences",
@@ -6001,7 +9125,17 @@
         "OBC": 9329,
         "SC": 12920,
         "ST": 13729
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 23450
+        },
+        {
+          "year": 2024,
+          "round1": 8268
+        }
+      ]
     },
     {
       "name": "UNS AUTONOMOUS STATE MEDICAL COLLEGES",
@@ -6012,7 +9146,17 @@
         "EWS": 7820,
         "OBC": 7875,
         "SC": 12979
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 126062
+        },
+        {
+          "year": 2024,
+          "round1": 22975
+        }
+      ]
     },
     {
       "name": "UTTARANCHAL F HOSP TRUST MC",
@@ -6024,7 +9168,17 @@
         "OBC": 5599,
         "SC": 11850,
         "ST": 12971
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 10904
+        },
+        {
+          "year": 2024,
+          "round1": 4559
+        }
+      ]
     },
     {
       "name": "University College of Medical Sciences",
@@ -6036,7 +9190,17 @@
         "OBC": 5350,
         "SC": 11997,
         "ST": 15276
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 14605
+        },
+        {
+          "year": 2024,
+          "round1": 24543
+        }
+      ]
     },
     {
       "name": "Upgraded( NRI Priority : 1 )",
@@ -6044,7 +9208,13 @@
       "state": null,
       "cutoffs": {
         "General": 500150
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 500150
+        }
+      ]
     },
     {
       "name": "Upgraded( NRI Priority : 2 )",
@@ -6052,7 +9222,13 @@
       "state": null,
       "cutoffs": {
         "General": 1077971
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 1077971
+        }
+      ]
     },
     {
       "name": "Uttar Pradesh University of Medical Sciences",
@@ -6064,7 +9240,17 @@
         "OBC": 5559,
         "SC": 11675,
         "ST": 12884
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 89842
+        },
+        {
+          "year": 2024,
+          "round1": 4584
+        }
+      ]
     },
     {
       "name": "V.S.S. MEDICAL COLLEGE",
@@ -6076,7 +9262,17 @@
         "OBC": 6128,
         "SC": 11252,
         "ST": 13453
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 143763
+        },
+        {
+          "year": 2024,
+          "round1": 21445
+        }
+      ]
     },
     {
       "name": "VARDHMAN INSTITUTE OF MEDICAL SCIENCES",
@@ -6088,7 +9284,17 @@
         "OBC": 5847,
         "SC": 12256,
         "ST": 12537
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 117034
+        },
+        {
+          "year": 2024,
+          "round1": 2925
+        }
+      ]
     },
     {
       "name": "VELS MEDICAL COLLEGE & HOSPITAL",
@@ -6099,7 +9305,17 @@
         "EWS": 20680,
         "OBC": 21367,
         "SC": 21396
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 603600
+        },
+        {
+          "year": 2024,
+          "round1": 25753
+        }
+      ]
     },
     {
       "name": "VIJAYNAGAR INST OF MED. SC",
@@ -6111,7 +9327,17 @@
         "OBC": 7070,
         "SC": 12354,
         "ST": 13103
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 115750
+        },
+        {
+          "year": 2024,
+          "round1": 21307
+        }
+      ]
     },
     {
       "name": "VMKV Medical College and Hospital",
@@ -6122,7 +9348,17 @@
         "EWS": 23072,
         "OBC": 23323,
         "SC": 23090
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 656654
+        },
+        {
+          "year": 2024,
+          "round1": 24885
+        }
+      ]
     },
     {
       "name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi",
@@ -6134,7 +9370,17 @@
         "OBC": 3341,
         "SC": 10339,
         "ST": 13843
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 116381
+        },
+        {
+          "year": 2024,
+          "round1": 25896
+        }
+      ]
     },
     {
       "name": "Veer Chandra Singh Garhwali Govt. Institute of Medical Science & Research",
@@ -6146,7 +9392,17 @@
         "OBC": 6836,
         "SC": 11475,
         "ST": 13076
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 101978
+        },
+        {
+          "year": 2024,
+          "round1": 23024
+        }
+      ]
     },
     {
       "name": "Vinayaka Missions Medical College and Hospital",
@@ -6157,7 +9413,17 @@
         "EWS": 22388,
         "OBC": 22524,
         "SC": 22321
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 693547
+        },
+        {
+          "year": 2024,
+          "round1": 24233
+        }
+      ]
     },
     {
       "name": "Virendra Kumar Sakhlecha Government Medical College",
@@ -6169,7 +9435,17 @@
         "OBC": 7876,
         "SC": 12754,
         "ST": 13427
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 108149
+        },
+        {
+          "year": 2024,
+          "round1": 7334
+        }
+      ]
     },
     {
       "name": "YADGIRI INSTITUTE OF MEDICAL SCIENCES",
@@ -6181,7 +9457,17 @@
         "OBC": 8415,
         "SC": 13428,
         "ST": 14351
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 24321
+        },
+        {
+          "year": 2024,
+          "round1": 8041
+        }
+      ]
     },
     {
       "name": "Yenepoya Medical College",
@@ -6193,7 +9479,17 @@
         "OBC": 19256,
         "SC": 17020,
         "ST": 17990
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round3": 404110
+        },
+        {
+          "year": 2024,
+          "round1": 25322
+        }
+      ]
     },
     {
       "name": "AIIMS Mangalagiri",
@@ -6205,7 +9501,13 @@
         "OBC": 2290,
         "SC": 7814,
         "ST": 10105
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 18745
+        }
+      ]
     },
     {
       "name": "AIIMS-Bhopal",
@@ -6217,7 +9519,13 @@
         "OBC": 1106,
         "SC": 4811,
         "ST": 6561
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 19211
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 1 )",
@@ -6225,7 +9533,13 @@
       "state": null,
       "cutoffs": {
         "General": 26484
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 19119
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 10 )",
@@ -6233,7 +9547,13 @@
       "state": null,
       "cutoffs": {
         "General": 14607
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 13314
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 11 )",
@@ -6241,7 +9561,13 @@
       "state": null,
       "cutoffs": {
         "General": 15150
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 15742
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 12 )",
@@ -6249,7 +9575,13 @@
       "state": null,
       "cutoffs": {
         "General": 15437
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 15972
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 13 )",
@@ -6257,7 +9589,13 @@
       "state": null,
       "cutoffs": {
         "General": 15800
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 17179
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 132 )",
@@ -6273,7 +9611,13 @@
       "state": null,
       "cutoffs": {
         "General": 16357
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 20345
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 149 )",
@@ -6297,7 +9641,13 @@
       "state": null,
       "cutoffs": {
         "General": 20799
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 11146
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 171 )",
@@ -6329,7 +9679,13 @@
       "state": null,
       "cutoffs": {
         "General": 22507
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 13687
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 19 )",
@@ -6337,7 +9693,13 @@
       "state": null,
       "cutoffs": {
         "General": 22521
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 14703
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 193 )",
@@ -6393,7 +9755,13 @@
       "state": null,
       "cutoffs": {
         "General": 24201
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 16961
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 23 )",
@@ -6401,7 +9769,13 @@
       "state": null,
       "cutoffs": {
         "General": 24800
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 18774
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 24 )",
@@ -6409,7 +9783,13 @@
       "state": null,
       "cutoffs": {
         "General": 25346
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 12970
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 27 )",
@@ -6449,7 +9829,13 @@
       "state": null,
       "cutoffs": {
         "General": 26289
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 21250
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 290 )",
@@ -6473,7 +9859,13 @@
       "state": null,
       "cutoffs": {
         "General": 17656
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 12891
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 302 )",
@@ -6505,7 +9897,13 @@
       "state": null,
       "cutoffs": {
         "General": 18205
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 16610
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 58 )",
@@ -6553,7 +9951,13 @@
       "state": null,
       "cutoffs": {
         "General": 12318
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 11939
+        }
+      ]
     },
     {
       "name": "Allotted( CW Rank : 9 )",
@@ -6561,7 +9965,13 @@
       "state": null,
       "cutoffs": {
         "General": 12852
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 12406
+        }
+      ]
     },
     {
       "name": "Allotted( NRI Priority : 1 )",
@@ -6587,7 +9997,13 @@
         "EWS": 16791,
         "General": 17273,
         "OBC": 17140
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 25181
+        }
+      ]
     },
     {
       "name": "Bhima Bhoi Medical College and Hospital",
@@ -6599,7 +10015,13 @@
         "OBC": 8047,
         "SC": 11760,
         "ST": 14350
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 7741
+        }
+      ]
     },
     {
       "name": "Dhubri Medical College",
@@ -6611,7 +10033,13 @@
         "OBC": 9222,
         "SC": 13529,
         "ST": 14405
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 24917
+        }
+      ]
     },
     {
       "name": "Diphu Medical College & Hospital",
@@ -6623,7 +10051,13 @@
         "OBC": 9216,
         "SC": 13373,
         "ST": 13993
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 8520
+        }
+      ]
     },
     {
       "name": "GOVT MEDICAL COLLEGE VIZIANAGARAM",
@@ -6635,7 +10069,13 @@
         "OBC": 9102,
         "SC": 13034,
         "ST": 14099
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 8517
+        }
+      ]
     },
     {
       "name": "General PwD",
@@ -6643,7 +10083,13 @@
       "state": null,
       "cutoffs": {
         "General": 26579
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 25874
+        }
+      ]
     },
     {
       "name": "Government Medical College Narsampet",
@@ -6654,7 +10100,13 @@
         "General": 7505,
         "OBC": 9057,
         "SC": 13556
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 8262
+        }
+      ]
     },
     {
       "name": "Government of Medical College and Hospital",
@@ -6666,7 +10118,13 @@
         "OBC": 7045,
         "SC": 11860,
         "ST": 14676
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 6695
+        }
+      ]
     },
     {
       "name": "J R MEDICAL COLLEGE AND HOSPITAL",
@@ -6677,7 +10135,13 @@
         "OBC": 25561,
         "SC": 25523,
         "ST": 25103
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 21290
+        }
+      ]
     },
     {
       "name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College",
@@ -6688,7 +10152,13 @@
         "General": 16368,
         "OBC": 16340,
         "SC": 15729
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 25694
+        }
+      ]
     },
     {
       "name": "Jannayak Karpoori Thakur Medical college and Hospital",
@@ -6700,7 +10170,13 @@
         "OBC": 7750,
         "SC": 13105,
         "ST": 13859
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 6895
+        }
+      ]
     },
     {
       "name": "Manipal Tata Medical College",
@@ -6710,7 +10186,13 @@
         "EWS": 11858,
         "General": 11849,
         "OBC": 11836
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 23243
+        }
+      ]
     },
     {
       "name": "NAGALAND INSTITUTE OF MEDICAL SCIENCE AND RESEARCH PHIREBAGIE",
@@ -6722,7 +10204,13 @@
         "OBC": 9353,
         "SC": 13768,
         "ST": 14573
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 8801
+        }
+      ]
     },
     {
       "name": "Nagaon Medical college",
@@ -6733,7 +10221,13 @@
         "General": 26577,
         "OBC": 9351,
         "SC": 13741
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 8742
+        }
+      ]
     },
     {
       "name": "S.C.B. MEDICAL COLLEGE",
@@ -6745,7 +10239,13 @@
         "OBC": 3871,
         "SC": 10432,
         "ST": 13011
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 22831
+        }
+      ]
     },
     {
       "name": "SRI LALITHAMBIGAI MEDICAL COLLEGE & HOSPITAL",
@@ -6755,7 +10255,13 @@
         "General": 18653,
         "OBC": 18605,
         "SC": 18613
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 21592
+        }
+      ]
     },
     {
       "name": "SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE",
@@ -6765,7 +10271,13 @@
         "EWS": 11170,
         "General": 11193,
         "OBC": 11164
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 22092
+        }
+      ]
     },
     {
       "name": "Saheed Rendo Majhi Medical College & Hospital",
@@ -6777,7 +10289,13 @@
         "OBC": 8895,
         "SC": 12789,
         "ST": 14564
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 8217
+        }
+      ]
     },
     {
       "name": "Tamralipto Government Medical College & Hospital",
@@ -6789,7 +10307,13 @@
         "OBC": 8981,
         "SC": 13444,
         "ST": 14500
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 8074
+        }
+      ]
     },
     {
       "name": "ZORAM MEDICAL COLLEGE Falkawn",
@@ -6800,7 +10324,13 @@
         "General": 26314,
         "OBC": 9338,
         "SC": 13508
-      }
+      },
+      "cutoffTrends": [
+        {
+          "year": 2024,
+          "round1": 24742
+        }
+      ]
     }
   ]
 }
