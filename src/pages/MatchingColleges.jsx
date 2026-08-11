@@ -1,13 +1,12 @@
-import { useEffect, useMemo, useState } from "react";
+import { useEffect, useState } from "react";
 import { useLocation, useNavigate } from "react-router-dom";
-import { SlidersHorizontal, X, ArrowUpDown, Search } from "lucide-react";
-import CollegeCard from "../components/CollegeCard.jsx";
+import { SlidersHorizontal } from "lucide-react";
 import { CATEGORIES } from "../lib/predictor.js";
 import { predict } from "../lib/api.js";
 
 function useQueryParams() {
   const { search } = useLocation();
-  return useMemo(() => Object.fromEntries(new URLSearchParams(search)), [search]);
+  return new URLSearchParams(search);
 }
 
 export default function MatchingColleges() {
@@ -15,20 +14,22 @@ export default function MatchingColleges() {
   const location = useLocation();
   const qp = useQueryParams();
 
-  const initial = location.state || (qp.score ? { score: Number(qp.score), category: qp.category, state: qp.state } : null);
+  const initial =
+    location.state ||
+    (qp.get("score")
+      ? { score: Number(qp.get("score")), category: qp.get("category"), state: qp.get("state"), quota: qp.get("quota") }
+      : null);
 
   const [params] = useState(initial);
-  const [matches, setMatches] = useState(null);
   const [category, setCategory] = useState(initial?.category);
   const [showFilter, setShowFilter] = useState(false);
-  const [sort, setSort] = useState("cutoff");
-  const [query, setQuery] = useState("");
+  const [result, setResult] = useState(null);
 
   useEffect(() => {
     if (!params) return;
     (async () => {
-      const result = await predict({ score: params.score, category, state: params.state });
-      setMatches(result.matches);
+      const r = await predict({ score: params.score, category, state: params.state, quota: params.quota });
+      setResult(r);
     })();
   }, [params, category]);
 
@@ -45,15 +46,6 @@ export default function MatchingColleges() {
       </div>
     );
   }
-
-  const displayed = (matches || [])
-    .filter((c) => (query ? c.name.toLowerCase().includes(query.toLowerCase()) : true))
-    .slice()
-    .sort((a, b) => {
-      if (sort === "cutoff") return a.cutoff - b.cutoff;
-      const rank = { High: 0, Likely: 1, Moderate: 2, Low: 3 };
-      return rank[a.like.label] - rank[b.like.label];
-    });
 
   return (
     <div className="max-w-app mx-auto px-4 sm:px-gutter py-6">
@@ -73,12 +65,6 @@ export default function MatchingColleges() {
         <span className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-full border border-outline-variant text-[13px] font-medium text-on-surface">
           State: {params.state}
         </span>
-        <button
-          onClick={() => setSort((s) => (s === "cutoff" ? "chance" : "cutoff"))}
-          className="inline-flex items-center gap-1.5 px-3.5 py-2 rounded-full border border-outline-variant text-[13px] font-medium text-on-surface hover:bg-surface-container-low transition"
-        >
-          <ArrowUpDown size={14} /> Sort: {sort === "cutoff" ? "Lowest Cutoff" : "Highest Chance"}
-        </button>
       </div>
 
       {showFilter && (
@@ -100,28 +86,57 @@ export default function MatchingColleges() {
         </div>
       )}
 
-      <div className="relative mt-4">
-        <Search size={15} className="absolute left-3 top-1/2 -translate-y-1/2 text-on-surface-variant" />
-        <input
-          value={query}
-          onChange={(e) => setQuery(e.target.value)}
-          placeholder="Search colleges…"
-          className="w-full pl-9 pr-8 py-2.5 rounded-full border border-outline-variant bg-surface-container-lowest text-[13.5px] focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 transition"
-        />
-        {query && (
-          <button onClick={() => setQuery("")} className="absolute right-3 top-1/2 -translate-y-1/2 text-on-surface-variant">
-            <X size={14} />
-          </button>
-        )}
-      </div>
+      {!result && <p className="mt-6 text-on-surface-variant text-sm">Calculating your chances…</p>}
 
-      <div className="mt-4 space-y-3">
-        {matches === null && <p className="text-on-surface-variant text-sm">Loading matches…</p>}
-        {matches !== null && displayed.length === 0 && (
-          <p className="text-on-surface-variant text-sm">No colleges match this search.</p>
-        )}
-        {displayed.map((c) => <CollegeCard key={c.slug} college={c} />)}
-      </div>
+      {result && (
+        <div className="mt-6 space-y-4">
+          <div className="rounded-2xl border border-outline-variant p-5 text-center">
+            <p className="text-sm text-on-surface-variant">Estimated rank</p>
+            {result.rankRange ? (
+              <p className="text-3xl font-display font-semibold text-on-surface mt-1">
+                ~{result.rankRange.low.toLocaleString("en-IN")} &ndash; {result.rankRange.high.toLocaleString("en-IN")}
+              </p>
+            ) : (
+              <p className="text-3xl font-display font-semibold text-on-surface mt-1">
+                {result.rank.toLocaleString("en-IN")}
+              </p>
+            )}
+          </div>
+
+          <div className="rounded-2xl border border-outline-variant p-5">
+            <p className="text-lg font-semibold text-on-surface">{result.headline}</p>
+            <p className="text-sm text-on-surface-variant mt-1">
+              Out of {result.totalColleges} colleges matching your category and state filter,{" "}
+              <span className="font-semibold text-on-surface">{result.inReach}</span> are within reach.
+            </p>
+            <button
+              onClick={() => navigate(
+                `/colleges?score=${params.score}&category=${category}&state=${encodeURIComponent(params.state || "")}&quota=${encodeURIComponent(params.quota || "")}`
+              )}
+              className="mt-3 w-full py-2.5 rounded bg-primary text-on-primary font-semibold text-[13.5px] hover:brightness-110 transition"
+            >
+              View Matching Colleges
+            </button>
+          </div>
+
+          <div className="grid grid-cols-2 gap-3">
+            <ChanceStat label="High chance" value={result.counts.High} tone="high" />
+            <ChanceStat label="Likely" value={result.counts.Likely} tone="high" />
+            <ChanceStat label="Moderate chance" value={result.counts.Moderate} tone="moderate" />
+            <ChanceStat label="Low chance" value={result.counts.Low} tone="low" />
+          </div>
+        </div>
+      )}
+    </div>
+  );
+}
+
+function ChanceStat({ label, value, tone }) {
+  const toneClass = tone === "high" ? "text-emerald-600" : tone === "moderate" ? "text-amber-600" : "text-rose-600";
+  return (
+    <div className="rounded-xl border border-outline-variant p-4 text-center">
+      <p className={`text-2xl font-semibold ${toneClass}`}>{value}</p>
+      <p className="text-xs text-on-surface-variant mt-1">{label}</p>
     </div>
   );
 }

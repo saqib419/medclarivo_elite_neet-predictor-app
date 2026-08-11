@@ -1,8 +1,8 @@
-import data from "../public/data.json";
-import { estimateRank, computeMatches, CATEGORIES, slugify } from "../src/lib/predictor.js";
+import data from "../public/data.json" with { type: "json" };
+import { estimateRank, estimateRankRange, computeChanceSummary, CATEGORIES } from "../src/lib/predictor.js";
 
 // POST /api/predict  { score: number, category: string, state?: string }
-// -> { rank, matches: [...] }
+// -> { rank, totalColleges, counts, inReach, headline }
 export default function handler(req, res) {
   if (req.method !== "POST") {
     res.setHeader("Allow", "POST");
@@ -10,7 +10,7 @@ export default function handler(req, res) {
   }
 
   const body = typeof req.body === "string" ? safeParse(req.body) : req.body || {};
-  const { score, category, state } = body;
+  const { score, category, state, quota } = body;
 
   const numScore = Number(score);
   if (!Number.isFinite(numScore) || numScore < 0 || numScore > 720) {
@@ -21,18 +21,17 @@ export default function handler(req, res) {
   }
 
   const rank = estimateRank(numScore, data.scoreRankTable);
-  const matches = computeMatches(data.colleges, rank, category, state).map((c) => ({
-    ...c,
-    slug: slugify(c.name),
-  }));
+  const rankRange = estimateRankRange(numScore, data.scoreRankTable);
+  const summary = computeChanceSummary(data.colleges, rank, category, state, quota);
 
   return res.status(200).json({
     score: numScore,
     category,
     state: state || null,
+    quota: quota || null,
     rank,
-    matchCount: matches.length,
-    matches,
+    rankRange,
+    ...summary,
   });
 }
 

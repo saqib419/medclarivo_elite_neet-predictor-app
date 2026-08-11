@@ -29,6 +29,30 @@ export function estimateRank(score, table) {
   return table[table.length - 1][1];
 }
 
+// Rounds to a "sensible" precision so the UI never implies false precision.
+function roundToSensible(n) {
+  const abs = Math.abs(n);
+  let step;
+  if (abs < 1000) step = 50;
+  else if (abs < 10000) step = 100;
+  else if (abs < 100000) step = 500;
+  else if (abs < 1000000) step = 5000;
+  else step = 10000;
+  return Math.round(n / step) * step;
+}
+
+/**
+ * Returns an approximate rank as a range, not a single exact number.
+ * marginPct widens the band around the point estimate -- 0.15 means
+ * "give or take ~15%", covering normal interpolation error.
+ */
+export function estimateRankRange(score, table, marginPct = 0.15) {
+  const mid = estimateRank(score, table);
+  const low = roundToSensible(Math.max(1, mid * (1 - marginPct)));
+  const high = roundToSensible(mid * (1 + marginPct));
+  return { low, mid: roundToSensible(mid), high };
+}
+
 export function likelihood(rank, cutoff) {
   if (rank <= cutoff * 0.7) return { label: "High", tone: "high" };
   if (rank <= cutoff) return { label: "Likely", tone: "high" };
@@ -40,13 +64,61 @@ export function fmt(n) {
   return Number(n).toLocaleString("en-IN");
 }
 
+// Leftover counselling-status strings that got scraped in as if they were colleges.
+const JUNK_NAME_PATTERN = /^(did not|not allotted|no upgradation|upgraded\s*\(|fresh allotted)/i;
+
+export function cleanColleges(colleges) {
+  return colleges.filter((c) => !JUNK_NAME_PATTERN.test(c.name.trim()));
+}
+
 /**
- * Computes the sorted list of matching colleges for a rank/category/state.
- * `state` may be "All-India only" or empty to mean AIQ-only.
+ * Aggregates chances across all eligible colleges without exposing
+ * individual college names — just counts per tier plus a headline.
  */
-export function computeMatches(colleges, rank, category, state) {
-  return colleges
-    .filter((c) => c.quota === "AIQ" || c.state === state)
+export function computeChanceSummary(colleges, rank, category, state, quota = "Both") {
+  const eligible = cleanColleges(colleges)
+    .filter((c) => {
+      if (quota === "All India Quota") return c.quota === "AIQ";
+      if (quota === "State Quota") return c.quota === "State" && c.state === state;
+      return c.quota === "AIQ" || (c.quota === "State" && c.state === state);
+    })
+    .filter((c) => c.cutoffs[category] != null);
+
+  const counts = { High: 0, Likely: 0, Moderate: 0, Low: 0 };
+  for (const c of eligible) {
+    counts[likelihood(rank, c.cutoffs[category]).label] += 1;
+  }
+
+  const inReach = counts.High + counts.Likely + counts.Moderate;
+  const strongRatio = eligible.length > 0 ? (counts.High + counts.Likely) / eligible.length : 0;
+  const reachRatio = eligible.length > 0 ? inReach / eligible.length : 0;
+
+  const headline =
+    strongRatio >= 0.5
+      ? "Strong chance of a seat"
+      : reachRatio >= 0.5
+      ? "Moderate chance of a seat"
+      : inReach > 0
+      ? "Low chance of a seat"
+      : "Very low chance with current filters";
+
+  return { totalColleges: eligible.length, counts, inReach, headline };
+}
+
+/**
+ * Returns the sorted list of individual matching colleges (with cutoff +
+ * likelihood attached), using the same eligibility rules as computeChanceSummary.
+ */
+export function computeMatches(colleges, rank, category, state, quota = "Both") {
+  const eligible = cleanColleges(colleges)
+    .filter((c) => {
+      if (quota === "All India Quota") return c.quota === "AIQ";
+      if (quota === "State Quota") return c.quota === "State" && c.state === state;
+      return c.quota === "AIQ" || (c.quota === "State" && c.state === state);
+    })
+    .filter((c) => c.cutoffs[category] != null);
+
+  return eligible
     .map((c) => ({
       ...c,
       cutoff: c.cutoffs[category],

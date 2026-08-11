@@ -1,0 +1,3918 @@
+Total colleges: 913
+Potential duplicate pairs: 979
+
+[1.00] (Delhi)
+   #1 "Maulana Azad Medical College, Delhi"  (real)
+   #259 "Maulana Azad Medical College"  (real)
+
+[1.00] (Delhi)
+   #2 "Lady Hardinge Medical College, Delhi"  (real)
+   #230 "Lady Hardinge Medical College"  (real)
+
+[1.00] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #53 "Autonomous State Medical College"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #54 "Autonomous State Medical College Society"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #55 "Autonomous State Medical college Society Hardoi"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #69 "Baba Kinaram Autonomous State Medical College"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #240 "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #256 "Mahatma Vidur Autonomous State Medical College"  (real)
+
+[1.00] (Uttar Pradesh)
+   #54 "Autonomous State Medical College Society"  (real)
+   #55 "Autonomous State Medical college Society Hardoi"  (real)
+
+[1.00] (Uttar Pradesh)
+   #97 "Dr Ram Manohar Lohia Inst. of Med. Sce."  (real)
+   #194 "INST.OF MED.SCIENCES"  (real)
+
+[1.00] (Maharashtra)
+   #100 "Dr. DY Patil Medical College"  (real)
+   #101 "Dr. DY Patil Medical College and Hospt."  (real)
+
+[1.00] (Karnataka)
+   #5 "Bangalore Medical College & RI"  (real)
+   #70 "Bangalore Medical College and Research Institute"  (real)
+
+[1.00] (Tamil Nadu)
+   #7 "Stanley Medical College, Chennai"  (real)
+   #328 "STANLEY MEDICAL COLLEGE"  (real)
+
+[1.00] (Tamil Nadu)
+   #111 "ESIC Medical College AND PGIMSR"  (real)
+   #165 "Government Medical College and ESIC Hospital"  (real)
+
+[1.00] (Andhra Pradesh)
+   #10 "Andhra Medical College, Visakhapatnam"  (real)
+   #50 "Andhra Medical College"  (real)
+
+[1.00] (Andhra Pradesh)
+   #293 "RIMS"  (real)
+   #294 "RIMS Srikakulam"  (real)
+
+[1.00] (Arunachal Pradesh)
+   #11 "Tomo Riba Institute of Health & Medical Sciences, Naharlagun"  (real)
+   #357 "Tomo Riba Institute Health and Medical Sciences"  (real)
+
+[1.00] (Assam)
+   #12 "Assam Medical College, Dibrugarh"  (real)
+   #45 "ASSAM MEDICAL COLLEGE"  (real)
+
+[1.00] (Assam)
+   #41 "AIIMS Guwahati"  (real)
+   #148 "GUWAHATI MEDICAL COLLEGE"  (real)
+
+[1.00] (Bihar)
+   #13 "Patna Medical College, Patna"  (real)
+   #275 "PATNA MEDICAL COLLEGE"  (real)
+
+[1.00] (Chhattisgarh)
+   #76 "CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES"  (real)
+   #159 "Government Medical College Mahasamund Chhattisgarh"  (real)
+
+[1.00] (Goa)
+   #15 "Goa Medical College, Panaji"  (real)
+   #129 "GOA MEDICAL COLLEGE"  (real)
+
+[1.00] (Gujarat)
+   #16 "B.J. Medical College, Ahmedabad"  (real)
+   #57 "B.J. MEDICAL COLLEGE"  (real)
+
+[1.00] (Haryana)
+   #17 "Pt. B.D. Sharma PGIMS, Rohtak"  (real)
+   #278 "PT. B.D. SHARMA PGIMS"  (real)
+
+[1.00] (Mizoram)
+   #22 "Zoram Medical College, Falkawn"  (real)
+   #441 "ZORAM MEDICAL COLLEGE Falkawn"  (real)
+
+[1.00] (Odisha)
+   #198 "Institute of Medical Sciences & SUM Hospital"  (real)
+   #199 "Institute of Medical Sciences and SUM Host."  (real)
+
+[1.00] (Telangana)
+   #257 "Malla Reddy Institute of Medical Sciences"  (real)
+   #258 "Malla Reddy Medical College for Women"  (real)
+
+[1.00] (Tripura)
+   #28 "Agartala Government Medical College"  (real)
+   #37 "AGARTALA GOVT. MEDICAL COLLEGE"  (real)
+
+[1.00] (Puducherry)
+   #34 "Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Puducherry"  (real)
+   #203 "JIPMER PUDUCHERRY"  (real)
+
+[1.00] (UNKNOWN)
+   #106 "ESIC"  (real)
+   #109 "ESIC MEDICAL COLLEGE NARODA"  (real)
+
+[1.00] (UNKNOWN)
+   #106 "ESIC"  (real)
+   #112 "ESIC Medical College and Hospital Varanasi"  (real)
+
+[1.00] (UNKNOWN)
+   #116 "Fresh Allotted in 3nd Round"  (real)
+   #117 "Fresh Allotted in 3nd Round( NRI Priority : 1 )"  (real)
+
+[1.00] (UNKNOWN)
+   #116 "Fresh Allotted in 3nd Round"  (real)
+   #118 "Fresh Allotted in 3nd Round( NRI Priority : 2 )"  (real)
+
+[1.00] (UNKNOWN)
+   #117 "Fresh Allotted in 3nd Round( NRI Priority : 1 )"  (real)
+   #420 "Allotted( NRI Priority : 1 )"  (real)
+
+[1.00] (UNKNOWN)
+   #118 "Fresh Allotted in 3nd Round( NRI Priority : 2 )"  (real)
+   #421 "Allotted( NRI Priority : 2 )"  (real)
+
+[0.89] (UNKNOWN)
+   #117 "Fresh Allotted in 3nd Round( NRI Priority : 1 )"  (real)
+   #118 "Fresh Allotted in 3nd Round( NRI Priority : 2 )"  (real)
+
+[0.80] (Madhya Pradesh)
+   #9 "Netaji Subhash Chandra Bose Medical College, Jabalpur"  (real)
+   #267 "NETAJI SUBHASH CHANDRA BOSE MC"  (real)
+
+[0.80] (UNKNOWN)
+   #117 "Fresh Allotted in 3nd Round( NRI Priority : 1 )"  (real)
+   #361 "Upgraded( NRI Priority : 1 )"  (real)
+
+[0.80] (UNKNOWN)
+   #117 "Fresh Allotted in 3nd Round( NRI Priority : 1 )"  (real)
+   #421 "Allotted( NRI Priority : 2 )"  (real)
+
+[0.80] (UNKNOWN)
+   #118 "Fresh Allotted in 3nd Round( NRI Priority : 2 )"  (real)
+   #362 "Upgraded( NRI Priority : 2 )"  (real)
+
+[0.80] (UNKNOWN)
+   #118 "Fresh Allotted in 3nd Round( NRI Priority : 2 )"  (real)
+   #420 "Allotted( NRI Priority : 1 )"  (real)
+
+[0.80] (UNKNOWN)
+   #361 "Upgraded( NRI Priority : 1 )"  (real)
+   #362 "Upgraded( NRI Priority : 2 )"  (real)
+
+[0.80] (UNKNOWN)
+   #361 "Upgraded( NRI Priority : 1 )"  (real)
+   #420 "Allotted( NRI Priority : 1 )"  (real)
+
+[0.80] (UNKNOWN)
+   #362 "Upgraded( NRI Priority : 2 )"  (real)
+   #421 "Allotted( NRI Priority : 2 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #378 "Allotted( CW Rank : 10 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #379 "Allotted( CW Rank : 11 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #380 "Allotted( CW Rank : 12 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #381 "Allotted( CW Rank : 13 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #382 "Allotted( CW Rank : 132 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #383 "Allotted( CW Rank : 14 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #384 "Allotted( CW Rank : 149 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #385 "Allotted( CW Rank : 163 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #386 "Allotted( CW Rank : 17 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #387 "Allotted( CW Rank : 171 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #388 "Allotted( CW Rank : 174 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #389 "Allotted( CW Rank : 178 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #390 "Allotted( CW Rank : 18 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #391 "Allotted( CW Rank : 19 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #392 "Allotted( CW Rank : 193 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #393 "Allotted( CW Rank : 194 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #394 "Allotted( CW Rank : 20 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #395 "Allotted( CW Rank : 204 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #396 "Allotted( CW Rank : 207 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #397 "Allotted( CW Rank : 21 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #398 "Allotted( CW Rank : 22 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #399 "Allotted( CW Rank : 23 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #400 "Allotted( CW Rank : 24 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #401 "Allotted( CW Rank : 27 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #402 "Allotted( CW Rank : 274 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #403 "Allotted( CW Rank : 282 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #404 "Allotted( CW Rank : 283 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #405 "Allotted( CW Rank : 29 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #406 "Allotted( CW Rank : 290 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #407 "Allotted( CW Rank : 293 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #408 "Allotted( CW Rank : 3 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #409 "Allotted( CW Rank : 302 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #410 "Allotted( CW Rank : 305 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+
+[0.80] (UNKNOWN)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #411 "Allotted( CW Rank : 33 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+
+[0.80] (UNKNOWN)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #412 "Allotted( CW Rank : 4 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+
+[0.80] (UNKNOWN)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #413 "Allotted( CW Rank : 58 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+
+[0.80] (UNKNOWN)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #414 "Allotted( CW Rank : 7 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+
+[0.80] (UNKNOWN)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #415 "Allotted( CW Rank : 70 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+
+[0.80] (UNKNOWN)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #416 "Allotted( CW Rank : 72 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+
+[0.80] (UNKNOWN)
+   #417 "Allotted( CW Rank : 73 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #418 "Allotted( CW Rank : 8 )"  (real)
+   #419 "Allotted( CW Rank : 9 )"  (real)
+
+[0.80] (UNKNOWN)
+   #420 "Allotted( NRI Priority : 1 )"  (real)
+   #421 "Allotted( NRI Priority : 2 )"  (real)
+
+[0.75] (Uttar Pradesh)
+   #69 "Baba Kinaram Autonomous State Medical College"  (real)
+   #240 "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE"  (real)
+
+[0.75] (Karnataka)
+   #207 "Jagadguru Gangadhar Mahaswamigalu Moorusavirma th Medical College"  (real)
+   #431 "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College"  (real)
+
+[0.75] (Andaman and Nicobar Islands)
+   #31 "Andaman and Nicobar Islands Institute of Medical Sciences, Port Blair"  (real)
+   #49 "Andaman and Nicobar Islands Institute of Medical S"  (real)
+
+[0.67] (Delhi)
+   #0 "AIIMS, New Delhi"  (real)
+   #369 "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #54 "Autonomous State Medical College Society"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #55 "Autonomous State Medical college Society Hardoi"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #69 "Baba Kinaram Autonomous State Medical College"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #240 "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #256 "Mahatma Vidur Autonomous State Medical College"  (real)
+
+[0.67] (Uttar Pradesh)
+   #54 "Autonomous State Medical College Society"  (real)
+   #69 "Baba Kinaram Autonomous State Medical College"  (real)
+
+[0.67] (Uttar Pradesh)
+   #54 "Autonomous State Medical College Society"  (real)
+   #240 "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE"  (real)
+
+[0.67] (Uttar Pradesh)
+   #54 "Autonomous State Medical College Society"  (real)
+   #256 "Mahatma Vidur Autonomous State Medical College"  (real)
+
+[0.67] (Maharashtra)
+   #87 "DR. VAISHAMPAYAM MEMORIAL M.C."  (real)
+   #89 "DR.S.C.GOVT MEDICAL COLLEGE"  (real)
+
+[0.67] (Karnataka)
+   #62 "BELGAUM INST. OF MEDICAL SCI."  (real)
+   #242 "MANDYA INST. OF MEDICAL SCI."  (real)
+
+[0.67] (Karnataka)
+   #62 "BELGAUM INST. OF MEDICAL SCI."  (real)
+   #287 "RAICHUR INST. OF MEDICAL SCI."  (real)
+
+[0.67] (Karnataka)
+   #62 "BELGAUM INST. OF MEDICAL SCI."  (real)
+   #316 "SHIMOGA INST. OF MEDICAL SCI."  (real)
+
+[0.67] (Karnataka)
+   #215 "KARNATAK INST. OF MEDICAL SC."  (real)
+   #367 "VIJAYNAGAR INST OF MED. SC"  (real)
+
+[0.67] (Karnataka)
+   #242 "MANDYA INST. OF MEDICAL SCI."  (real)
+   #287 "RAICHUR INST. OF MEDICAL SCI."  (real)
+
+[0.67] (Karnataka)
+   #242 "MANDYA INST. OF MEDICAL SCI."  (real)
+   #316 "SHIMOGA INST. OF MEDICAL SCI."  (real)
+
+[0.67] (Karnataka)
+   #250 "MYSORE MED.& RESEARCH INST. MYSORE"  (real)
+   #367 "VIJAYNAGAR INST OF MED. SC"  (real)
+
+[0.67] (Karnataka)
+   #287 "RAICHUR INST. OF MEDICAL SCI."  (real)
+   #316 "SHIMOGA INST. OF MEDICAL SCI."  (real)
+
+[0.67] (Karnataka)
+   #345 "Sri Siddhartha Academy T Begur"  (real)
+   #346 "Sri Siddhartha Medical College DU"  (real)
+
+[0.67] (Tamil Nadu)
+   #138 "GOVT. DHARAMAPURI MED COLL"  (real)
+   #214 "KANYAKUMARI GOVT. MED. COLL."  (real)
+
+[0.67] (Himachal Pradesh)
+   #18 "Indira Gandhi Medical College, Shimla"  (real)
+   #192 "INDIRA GANDHI MEDICAL COLL."  (real)
+
+[0.67] (West Bengal)
+   #30 "Calcutta National Medical College, Kolkata"  (real)
+   #74 "CALCUTTA NATIONAL MED COLL"  (real)
+
+[0.60] (UNKNOWN)
+   #117 "Fresh Allotted in 3nd Round( NRI Priority : 1 )"  (real)
+   #362 "Upgraded( NRI Priority : 2 )"  (real)
+
+[0.60] (UNKNOWN)
+   #117 "Fresh Allotted in 3nd Round( NRI Priority : 1 )"  (real)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+
+[0.60] (UNKNOWN)
+   #118 "Fresh Allotted in 3nd Round( NRI Priority : 2 )"  (real)
+   #361 "Upgraded( NRI Priority : 1 )"  (real)
+
+[0.60] (UNKNOWN)
+   #361 "Upgraded( NRI Priority : 1 )"  (real)
+   #421 "Allotted( NRI Priority : 2 )"  (real)
+
+[0.60] (UNKNOWN)
+   #362 "Upgraded( NRI Priority : 2 )"  (real)
+   #420 "Allotted( NRI Priority : 1 )"  (real)
+
+[0.60] (UNKNOWN)
+   #377 "Allotted( CW Rank : 1 )"  (real)
+   #420 "Allotted( NRI Priority : 1 )"  (real)

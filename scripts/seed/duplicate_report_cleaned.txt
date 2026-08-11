@@ -1,0 +1,238 @@
+Total colleges after cleanup: 863
+Potential duplicate pairs: 59
+
+[1.00] (Delhi)
+   #1 "Maulana Azad Medical College, Delhi"  (real)
+   #256 "Maulana Azad Medical College"  (real)
+
+[1.00] (Delhi)
+   #2 "Lady Hardinge Medical College, Delhi"  (real)
+   #227 "Lady Hardinge Medical College"  (real)
+
+[1.00] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #53 "Autonomous State Medical College"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #54 "Autonomous State Medical College Society"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #55 "Autonomous State Medical college Society Hardoi"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #69 "Baba Kinaram Autonomous State Medical College"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #237 "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE"  (real)
+
+[1.00] (Uttar Pradesh)
+   #53 "Autonomous State Medical College"  (real)
+   #253 "Mahatma Vidur Autonomous State Medical College"  (real)
+
+[1.00] (Uttar Pradesh)
+   #54 "Autonomous State Medical College Society"  (real)
+   #55 "Autonomous State Medical college Society Hardoi"  (real)
+
+[1.00] (Maharashtra)
+   #100 "Dr. DY Patil Medical College"  (real)
+   #101 "Dr. DY Patil Medical College and Hospt."  (real)
+
+[1.00] (Karnataka)
+   #5 "Bangalore Medical College & RI"  (real)
+   #70 "Bangalore Medical College and Research Institute"  (real)
+
+[1.00] (Karnataka)
+   #62 "BELGAUM INST. OF MEDICAL SCI."  (real)
+   #695 "Jawaharlal Nehru Medical College, Belgaum"  (estimated)
+
+[1.00] (Karnataka)
+   #247 "MYSORE MED.& RESEARCH INST. MYSORE"  (real)
+   #744 "Mysore Medical College and Research Instt. (Prev.name Government Medical College), Mysore"  (estimated)
+
+[1.00] (Karnataka)
+   #284 "RAICHUR INST. OF MEDICAL SCI."  (real)
+   #752 "Navodaya Medical College, Raichur"  (estimated)
+
+[1.00] (Karnataka)
+   #313 "SHIMOGA INST. OF MEDICAL SCI."  (real)
+   #841 "Subbaiah Institute of Medical Sciences, Shimoga, Karnataka"  (estimated)
+
+[1.00] (Tamil Nadu)
+   #7 "Stanley Medical College, Chennai"  (real)
+   #325 "STANLEY MEDICAL COLLEGE"  (real)
+
+[1.00] (Tamil Nadu)
+   #111 "ESIC Medical College AND PGIMSR"  (real)
+   #162 "Government Medical College and ESIC Hospital"  (real)
+
+[1.00] (Tamil Nadu)
+   #211 "KANYAKUMARI GOVT. MED. COLL."  (real)
+   #551 "KanyaKumari Government Medical College, Asaripallam"  (estimated)
+
+[1.00] (Tamil Nadu)
+   #211 "KANYAKUMARI GOVT. MED. COLL."  (real)
+   #707 "Kanyakumari Medical Mission Research Centre, Kanyakumari District"  (estimated)
+
+[1.00] (Tamil Nadu)
+   #211 "KANYAKUMARI GOVT. MED. COLL."  (real)
+   #829 "Sree Mookambika Institute of Medical Sciences, Kanyakumari"  (estimated)
+
+[1.00] (Madhya Pradesh)
+   #9 "Netaji Subhash Chandra Bose Medical College, Jabalpur"  (real)
+   #264 "NETAJI SUBHASH CHANDRA BOSE MC"  (real)
+
+[1.00] (Andhra Pradesh)
+   #10 "Andhra Medical College, Visakhapatnam"  (real)
+   #50 "Andhra Medical College"  (real)
+
+[1.00] (Andhra Pradesh)
+   #290 "RIMS"  (real)
+   #291 "RIMS Srikakulam"  (real)
+
+[1.00] (Arunachal Pradesh)
+   #11 "Tomo Riba Institute of Health & Medical Sciences, Naharlagun"  (real)
+   #354 "Tomo Riba Institute Health and Medical Sciences"  (real)
+
+[1.00] (Assam)
+   #12 "Assam Medical College, Dibrugarh"  (real)
+   #45 "ASSAM MEDICAL COLLEGE"  (real)
+
+[1.00] (Assam)
+   #41 "AIIMS Guwahati"  (real)
+   #145 "GUWAHATI MEDICAL COLLEGE"  (real)
+
+[1.00] (Bihar)
+   #13 "Patna Medical College, Patna"  (real)
+   #272 "PATNA MEDICAL COLLEGE"  (real)
+
+[1.00] (Chhattisgarh)
+   #76 "CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES"  (real)
+   #156 "Government Medical College Mahasamund Chhattisgarh"  (real)
+
+[1.00] (Goa)
+   #15 "Goa Medical College, Panaji"  (real)
+   #126 "GOA MEDICAL COLLEGE"  (real)
+
+[1.00] (Gujarat)
+   #16 "B.J. Medical College, Ahmedabad"  (real)
+   #57 "B.J. MEDICAL COLLEGE"  (real)
+
+[1.00] (Haryana)
+   #17 "Pt. B.D. Sharma PGIMS, Rohtak"  (real)
+   #275 "PT. B.D. SHARMA PGIMS"  (real)
+
+[1.00] (Haryana)
+   #65 "BPS Govt. Med. College"  (real)
+   #432 "BPS Government Medical College for Women, Sonepat"  (estimated)
+
+[1.00] (Himachal Pradesh)
+   #18 "Indira Gandhi Medical College, Shimla"  (real)
+   #189 "INDIRA GANDHI MEDICAL COLL."  (real)
+
+[1.00] (Jharkhand)
+   #19 "Rajendra Institute of Medical Sciences, Ranchi"  (real)
+   #285 "RAJENDRA INST. OF MED. SCI."  (real)
+
+[1.00] (Manipur)
+   #20 "Regional Institute of Medical Sciences, Imphal"  (real)
+   #289 "REGIONAL INST OF MEDICAL SCI"  (real)
+
+[1.00] (Mizoram)
+   #22 "Zoram Medical College, Falkawn"  (real)
+   #391 "ZORAM MEDICAL COLLEGE Falkawn"  (real)
+
+[1.00] (Odisha)
+   #195 "Institute of Medical Sciences & SUM Hospital"  (real)
+   #196 "Institute of Medical Sciences and SUM Host."  (real)
+
+[1.00] (Telangana)
+   #254 "Malla Reddy Institute of Medical Sciences"  (real)
+   #255 "Malla Reddy Medical College for Women"  (real)
+
+[1.00] (Tripura)
+   #28 "Agartala Government Medical College"  (real)
+   #37 "AGARTALA GOVT. MEDICAL COLLEGE"  (real)
+
+[1.00] (West Bengal)
+   #30 "Calcutta National Medical College, Kolkata"  (real)
+   #74 "CALCUTTA NATIONAL MED COLL"  (real)
+
+[1.00] (Puducherry)
+   #34 "Jawaharlal Institute of Postgraduate Medical Education & Research (JIPMER), Puducherry"  (real)
+   #200 "JIPMER PUDUCHERRY"  (real)
+
+[1.00] (UNKNOWN)
+   #106 "ESIC"  (real)
+   #109 "ESIC MEDICAL COLLEGE NARODA"  (real)
+
+[1.00] (UNKNOWN)
+   #106 "ESIC"  (real)
+   #112 "ESIC Medical College and Hospital Varanasi"  (real)
+
+[0.75] (Uttar Pradesh)
+   #69 "Baba Kinaram Autonomous State Medical College"  (real)
+   #237 "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE"  (real)
+
+[0.75] (Karnataka)
+   #204 "Jagadguru Gangadhar Mahaswamigalu Moorusavirma th Medical College"  (real)
+   #381 "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College"  (real)
+
+[0.75] (Andaman and Nicobar Islands)
+   #31 "Andaman and Nicobar Islands Institute of Medical Sciences, Port Blair"  (real)
+   #49 "Andaman and Nicobar Islands Institute of Medical S"  (real)
+
+[0.67] (Delhi)
+   #0 "AIIMS, New Delhi"  (real)
+   #364 "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #54 "Autonomous State Medical College Society"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #55 "Autonomous State Medical college Society Hardoi"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #69 "Baba Kinaram Autonomous State Medical College"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #237 "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE"  (real)
+
+[0.67] (Uttar Pradesh)
+   #52 "Autonomous State Medical Collage"  (real)
+   #253 "Mahatma Vidur Autonomous State Medical College"  (real)
+
+[0.67] (Uttar Pradesh)
+   #54 "Autonomous State Medical College Society"  (real)
+   #69 "Baba Kinaram Autonomous State Medical College"  (real)
+
+[0.67] (Uttar Pradesh)
+   #54 "Autonomous State Medical College Society"  (real)
+   #237 "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE"  (real)
+
+[0.67] (Uttar Pradesh)
+   #54 "Autonomous State Medical College Society"  (real)
+   #253 "Mahatma Vidur Autonomous State Medical College"  (real)
+
+[0.67] (Maharashtra)
+   #87 "DR. VAISHAMPAYAM MEMORIAL M.C."  (real)
+   #89 "DR.S.C.GOVT MEDICAL COLLEGE"  (real)
+
+[0.67] (Karnataka)
+   #342 "Sri Siddhartha Academy T Begur"  (real)
+   #343 "Sri Siddhartha Medical College DU"  (real)
+
+[0.67] (Gujarat)
+   #307 "SBKS Med. Inst. and Res. Centre"  (real)
+   #800 "SBKS Medical Instt. & Research Centre, Vadodra"  (estimated)
+
+[0.67] (Himachal Pradesh)
+   #88 "DR.RAJENDRA PRASAD MC"  (real)
+   #436 "Dr. Rajendar Prasad Government Medical College, Tanda"  (estimated)
