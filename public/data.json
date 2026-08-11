@@ -2486,28 +2486,6 @@
       ]
     },
     {
-      "name": "AIIMS",
-      "quota": "AIQ",
-      "state": "Uttar Pradesh",
-      "cutoffs": {
-        "General": 61580,
-        "EWS": 4573,
-        "OBC": 3743,
-        "SC": 10342,
-        "ST": 11562
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round3": 61580
-        },
-        {
-          "year": 2024,
-          "round1": 23922
-        }
-      ]
-    },
-    {
       "name": "AIIMS Bathinda",
       "quota": "AIQ",
       "state": "Punjab",
@@ -3809,20 +3787,6 @@
         {
           "year": 2024,
           "round1": 24746
-        }
-      ]
-    },
-    {
-      "name": "ESIC",
-      "quota": "AIQ",
-      "state": null,
-      "cutoffs": {
-        "General": 430839
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round3": 430839
         }
       ]
     },
