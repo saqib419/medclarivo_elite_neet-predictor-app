@@ -166,12 +166,23 @@ def extract_rows(pdf_path, course_filter=None):
                             # Institute cells often contain the full mailing
                             # address after the name (e.g. "Govt Medical
                             # College Barmer Rajasthan,NH-15, JAISALMER
-                            # ROAD, ..., 344001"). Keep only the text before
-                            # the first comma — that's consistently the
-                            # institute name across this PDF's rows. Pull
-                            # the physical state out of the FULL text
-                            # (name + address) before we discard the rest.
-                            final_institute = text.split(",")[0].strip()
+                            # ROAD, ..., 344001"). Truncating at the first
+                            # comma works for those — but some institutes'
+                            # REAL names contain a comma themselves (e.g.
+                            # "AIIMS, New Delhi", "AIIMS, Bhopal"), where
+                            # everything before the first comma alone is
+                            # too generic/ambiguous (many campuses share
+                            # "AIIMS"). Heuristic: if the text before the
+                            # first comma is short (<=8 chars, i.e. an
+                            # acronym like AIIMS/ESIC/PGIMER) AND is in
+                            # ALL CAPS, keep the next comma-segment too so
+                            # the city stays attached to the name.
+                            parts = text.split(",")
+                            first = parts[0].strip()
+                            if len(parts) > 1 and len(first) <= 8 and first.isupper():
+                                final_institute = f"{first}, {parts[1].strip()}"
+                            else:
+                                final_institute = first
                             final_state = find_state(text)
                             break
 

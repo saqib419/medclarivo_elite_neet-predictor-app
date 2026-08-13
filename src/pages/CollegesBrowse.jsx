@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from "react";
 import { useLocation } from "react-router-dom";
-import { Search, ArrowRight } from "lucide-react";
+import { Search } from "lucide-react";
 import CollegeRow from "../components/CollegeRow.jsx";
 import { fetchColleges, fetchMatches } from "../lib/api.js";
 
@@ -14,7 +14,6 @@ export default function CollegesBrowse() {
   const isMatchMode = Boolean(qp.score && qp.category);
 
   const [query, setQuery] = useState("");
-  const [submittedQuery, setSubmittedQuery] = useState("");
   const [colleges, setColleges] = useState(null);
 
   useEffect(() => {
@@ -27,16 +26,18 @@ export default function CollegesBrowse() {
       return () => { cancelled = true; };
     }
 
-    fetchColleges({ q: submittedQuery || undefined }).then((res) => {
-      if (!cancelled) setColleges(res);
-    });
+    // Debounce free-text search so we don't fire a request on every keystroke.
+    const timer = setTimeout(() => {
+      fetchColleges({ q: query || undefined }).then((res) => {
+        if (!cancelled) setColleges(res);
+      });
+    }, 300);
 
-    return () => { cancelled = true; };
-  }, [submittedQuery, isMatchMode, qp.score, qp.category, qp.state, qp.quota]);
-
-  function runSearch() {
-    setSubmittedQuery(query.trim());
-  }
+    return () => {
+      cancelled = true;
+      clearTimeout(timer);
+    };
+  }, [query, isMatchMode, qp.score, qp.category, qp.state, qp.quota]);
 
   return (
     <div className="max-w-app mx-auto px-4 sm:px-gutter py-6">
@@ -53,17 +54,9 @@ export default function CollegesBrowse() {
           <input
             value={query}
             onChange={(e) => setQuery(e.target.value)}
-            onKeyDown={(e) => { if (e.key === "Enter") runSearch(); }}
-            placeholder="Search by name or state…"
-            className="w-full pl-9 pr-11 py-2.5 rounded-full border border-outline-variant bg-surface-container-lowest text-[13.5px] focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 transition"
+            placeholder="Search by name…"
+            className="w-full pl-9 pr-3 py-2.5 rounded-full border border-outline-variant bg-surface-container-lowest text-[13.5px] focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 transition"
           />
-          <button
-            onClick={runSearch}
-            aria-label="Search"
-            className="absolute right-1.5 top-1/2 -translate-y-1/2 w-8 h-8 rounded-full bg-primary text-on-primary flex items-center justify-center hover:brightness-110 transition"
-          >
-            <ArrowRight size={15} />
-          </button>
         </div>
       )}
 
