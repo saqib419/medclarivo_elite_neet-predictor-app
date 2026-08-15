@@ -154,17 +154,21 @@ def extract_rows(pdf_path, course_filter=None):
                         if text.upper() in {"MBBS", "BDS", "B.SC NURSING", "BSC NURSING"}:
                             final_course = text.upper()
                             continue
-                        if final_category is None and text.upper() in CATEGORY_TOKENS:
-                            # In clean single-round PDFs (e.g. Round 1), this
-                            # is the real "Candidate Category" column — a
-                            # short token sitting to the right of the
-                            # institute name. Take the FIRST one we hit
-                            # scanning right-to-left (closest to Remarks),
-                            # since layout is ...Institute, Course, Alloted
-                            # Category, Candidate Category, Remarks — the
-                            # candidate's own category is the rightmost.
-                            final_category = CATEGORY_TOKENS[text.upper()]
-                            continue
+                        if final_category is None:
+                            # Category cells aren't always a single clean
+                            # token — PwD (disability) candidates get a
+                            # compound cell like "OBC\nPwD" or "OBC PwD"
+                            # (PwD is a horizontal quota stacked on a
+                            # vertical category, not a substitute for one).
+                            # Split on whitespace and match any token,
+                            # preferring the non-PwD one as the true
+                            # category.
+                            words = text.upper().replace("\n", " ").split()
+                            matches = [CATEGORY_TOKENS[w] for w in words if w in CATEGORY_TOKENS]
+                            if matches:
+                                non_pwd = [m for m in matches if m != "PwD"]
+                                final_category = non_pwd[0] if non_pwd else matches[0]
+                                continue
                         if len(text) > 8 and re.search(r"[A-Za-z]{4,}", text):
                             # Institute cells often contain the full mailing
                             # address after the name (e.g. "Govt Medical
@@ -216,16 +220,31 @@ def extract_rows(pdf_path, course_filter=None):
 
 def aggregate(rows):
     """Closing rank per (institute, category) = the worst (max) rank seen
-    for candidates of that category who landed at that institute. Rows
-    with no detected category (e.g. Round 3's multi-round tracker format,
-    which doesn't reliably expose per-candidate category) fall back to
-    'General' as a placeholder.
+    for candidates of that category who landed at that institute.
+
+    Rows with no detected category are only used as 'General' when an
+    institute has NO categorized rows at all in this PDF (true
+    category-blind PDFs, e.g. Round 3's multi-round tracker format). If an
+    institute DOES have real per-category rows elsewhere in this PDF, a
+    stray uncategorized row is dropped instead of being folded into
+    'General' — otherwise one uncategorized outlier can blow up General's
+    max() far past its real value.
+
     State = the most frequently seen state for that institute name (a
     college should always resolve to one state; this guards against a
     stray bad match)."""
+    has_category = defaultdict(bool)
+    for r in rows:
+        if r.get("category"):
+            has_category[r["institute"]] = True
+
     agg = defaultdict(lambda: {"closing_rank": 0, "count": 0, "states": defaultdict(int)})
     for r in rows:
-        category = r.get("category") or "General"
+        category = r.get("category")
+        if category is None:
+            if has_category[r["institute"]]:
+                continue
+            category = "General"
         key = (r["institute"], category)
         agg[key]["closing_rank"] = max(agg[key]["closing_rank"], r["rank"])
         agg[key]["count"] += 1
