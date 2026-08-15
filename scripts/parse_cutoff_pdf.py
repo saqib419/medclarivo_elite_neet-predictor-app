@@ -113,19 +113,22 @@ def extract_rows(pdf_path, course_filter=None):
                     continue
 
                 sample = table[1:6] if len(table) > 6 else table[1:]
-                rank_col = None
+                candidate_cols = []
                 for col_idx in range(len(table[0]) if table[0] else 0):
                     hits = 0
+                    values = []
                     for r in sample:
                         if col_idx < len(r) and r[col_idx] and re.match(r"^\d+$", r[col_idx].strip()):
                             hits += 1
+                            values.append(int(r[col_idx].strip()))
                     if sample and hits >= max(1, len(sample) - 1):
-                        rank_col = col_idx
-                        break
+                        candidate_cols.append((col_idx, sum(values) / len(values) if values else 0))
 
-                if rank_col is None:
+                if not candidate_cols:
                     skipped_tables += 1
                     continue
+
+                rank_col = max(candidate_cols, key=lambda c: c[1])[0]
 
                 readable_tables += 1
                 ncols = len(table[0]) if table[0] else 0

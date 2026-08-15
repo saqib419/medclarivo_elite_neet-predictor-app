@@ -440,7 +440,7 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 80,
+        "General": 999525,
         "EWS": 120,
         "OBC": 150,
         "SC": 600,
@@ -2446,11 +2446,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 734672,
+        "General": 661803,
         "EWS": 23652,
-        "OBC": 23871,
-        "SC": 23786,
-        "ST": 23803
+        "OBC": 650671,
+        "SC": 681665,
+        "ST": 855149
       },
       "cutoffTrends": [
         {
@@ -2502,7 +2502,7 @@
       "cutoffs": {
         "General": 30304,
         "EWS": 3127,
-        "OBC": 2643,
+        "OBC": 6483,
         "SC": 9196,
         "ST": 10825
       },
@@ -2518,11 +2518,11 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 31499,
-        "EWS": 4066,
-        "OBC": 3411,
+        "General": 7686,
+        "EWS": 7484,
+        "OBC": 14953,
         "SC": 10088,
-        "ST": 11525
+        "ST": 160051
       },
       "cutoffTrends": [
         {
@@ -2536,10 +2536,10 @@
       "quota": "AIQ",
       "state": "Jammu and Kashmir",
       "cutoffs": {
-        "General": 51471,
+        "General": 10215,
         "EWS": 3733,
         "OBC": 3426,
-        "SC": 10216,
+        "SC": 135568,
         "ST": 10957
       },
       "cutoffTrends": [
@@ -2554,9 +2554,9 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 53569,
+        "General": 7712,
         "EWS": 2848,
-        "OBC": 2676,
+        "OBC": 11574,
         "SC": 9335,
         "ST": 10771
       },
@@ -2576,7 +2576,7 @@
         "EWS": 6362,
         "OBC": 6565,
         "SC": 12532,
-        "ST": 13401
+        "ST": 150774
       },
       "cutoffTrends": [
         {
@@ -2590,10 +2590,10 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 749341,
+        "General": 26279,
         "EWS": 6186,
         "OBC": 5957,
-        "SC": 11467,
+        "SC": 136742,
         "ST": 12458
       },
       "cutoffTrends": [
@@ -2608,11 +2608,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 755831,
-        "EWS": 12734,
-        "OBC": 23963,
-        "SC": 23950,
-        "ST": 22795
+        "General": 459305,
+        "EWS": 331078,
+        "OBC": 471952,
+        "SC": 673276,
+        "ST": 405042
       },
       "cutoffTrends": [
         {
@@ -2626,9 +2626,9 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 363996,
+        "General": 418267,
         "OBC": 18370,
-        "SC": 18250
+        "SC": 388529
       },
       "cutoffTrends": [
         {
@@ -2663,7 +2663,7 @@
         "General": 109637,
         "EWS": 7768,
         "OBC": 8028,
-        "SC": 12517
+        "SC": 134195
       },
       "cutoffTrends": [
         {
@@ -2677,10 +2677,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 1190424,
+        "General": 26037,
         "EWS": 8667,
-        "OBC": 8453,
-        "SC": 13171,
+        "OBC": 26535,
+        "SC": 138523,
         "ST": 13966
       },
       "cutoffTrends": [
@@ -2698,7 +2698,7 @@
         "General": 19879,
         "EWS": 8285,
         "OBC": 7848,
-        "SC": 12932,
+        "SC": 137015,
         "ST": 13807
       },
       "cutoffTrends": [
@@ -2713,7 +2713,7 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 106101,
+        "General": 25374,
         "EWS": 7437,
         "OBC": 7845,
         "SC": 12846,
@@ -2731,9 +2731,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 105614,
+        "General": 7737,
         "EWS": 4120,
-        "OBC": 3730,
+        "OBC": 20548,
         "SC": 9448,
         "ST": 11832
       },
@@ -2749,10 +2749,10 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 302710,
-        "EWS": 16568,
-        "OBC": 16579,
-        "SC": 16556
+        "General": 133791,
+        "EWS": 145003,
+        "OBC": 1044963,
+        "SC": 889704
       },
       "cutoffTrends": [
         {
@@ -2766,7 +2766,7 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 104924,
+        "General": 19266,
         "EWS": 5093,
         "OBC": 4983,
         "SC": 11375,
@@ -2784,11 +2784,11 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 627606,
-        "EWS": 16352,
-        "OBC": 15628,
-        "SC": 19619,
-        "ST": 26025
+        "General": 227264,
+        "EWS": 112882,
+        "OBC": 254329,
+        "SC": 461616,
+        "ST": 967787
       },
       "cutoffTrends": [
         {
@@ -2803,9 +2803,9 @@
       "state": "West Bengal",
       "cutoffs": {
         "General": 140230,
-        "EWS": 8043,
+        "EWS": 26156,
         "OBC": 7343,
-        "SC": 12462,
+        "SC": 136970,
         "ST": 13981
       },
       "cutoffTrends": [
@@ -2820,11 +2820,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 122194,
+        "General": 26845,
         "EWS": 6842,
-        "OBC": 6318,
+        "OBC": 25076,
         "SC": 12326,
-        "ST": 11943
+        "ST": 165453
       },
       "cutoffTrends": [
         {
@@ -2838,11 +2838,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 820797,
+        "General": 752456,
         "EWS": 24275,
-        "OBC": 24738,
-        "SC": 24757,
-        "ST": 24427
+        "OBC": 870603,
+        "SC": 861260,
+        "ST": 344441
       },
       "cutoffTrends": [
         {
@@ -2858,7 +2858,7 @@
       "cutoffs": {
         "General": 138880,
         "EWS": 8758,
-        "OBC": 7408,
+        "OBC": 26959,
         "SC": 12681,
         "ST": 13149
       },
@@ -2895,7 +2895,7 @@
         "General": 105466,
         "EWS": 6847,
         "OBC": 6250,
-        "SC": 12182,
+        "SC": 118986,
         "ST": 13198
       },
       "cutoffTrends": [
@@ -2911,8 +2911,8 @@
       "state": "West Bengal",
       "cutoffs": {
         "General": 999414,
-        "EWS": 6863,
-        "OBC": 6780,
+        "EWS": 21294,
+        "OBC": 22029,
         "SC": 12019,
         "ST": 13482
       },
@@ -2928,10 +2928,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 664912,
-        "EWS": 21626,
-        "OBC": 21676,
-        "SC": 21643,
+        "General": 557218,
+        "EWS": 170098,
+        "OBC": 689192,
+        "SC": 661532,
         "ST": 21172
       },
       "cutoffTrends": [
@@ -2960,9 +2960,9 @@
       "state": "Karnataka",
       "cutoffs": {
         "General": 42980,
-        "EWS": 3676,
-        "OBC": 2708,
-        "SC": 9567,
+        "EWS": 30335,
+        "OBC": 15715,
+        "SC": 96416,
         "ST": 10789
       },
       "cutoffTrends": [
@@ -2979,7 +2979,7 @@
       "cutoffs": {
         "General": 122842,
         "EWS": 8751,
-        "OBC": 8202,
+        "OBC": 27192,
         "SC": 12235,
         "ST": 13982
       },
@@ -2995,9 +2995,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 592172,
+        "General": 716192,
         "EWS": 19038,
-        "OBC": 20177,
+        "OBC": 706689,
         "SC": 19451
       },
       "cutoffTrends": [
@@ -3012,7 +3012,7 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 26879,
+        "General": 26416,
         "EWS": 9438,
         "OBC": 7883,
         "SC": 12771,
@@ -3030,9 +3030,9 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 145518,
+        "General": 23328,
         "EWS": 8263,
-        "OBC": 3515,
+        "OBC": 26649,
         "SC": 9234
       },
       "cutoffTrends": [
@@ -3049,7 +3049,7 @@
       "cutoffs": {
         "General": 91700,
         "EWS": 6483,
-        "OBC": 6501,
+        "OBC": 21573,
         "SC": 12147,
         "ST": 13315
       },
@@ -3085,7 +3085,7 @@
       "cutoffs": {
         "General": 142895,
         "EWS": 7884,
-        "OBC": 3246,
+        "OBC": 19990,
         "SC": 9594,
         "ST": 13506
       },
@@ -3104,7 +3104,7 @@
         "General": 129596,
         "EWS": 6768,
         "OBC": 6961,
-        "SC": 12139
+        "SC": 135863
       },
       "cutoffTrends": [
         {
@@ -3136,10 +3136,10 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 766810,
+        "General": 416394,
         "EWS": 18883,
-        "OBC": 24051,
-        "SC": 24020,
+        "OBC": 372374,
+        "SC": 408495,
         "ST": 23146
       },
       "cutoffTrends": [
@@ -3154,10 +3154,10 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 116688,
+        "General": 22785,
         "EWS": 7647,
-        "OBC": 7385,
-        "SC": 12888,
+        "OBC": 19678,
+        "SC": 130922,
         "ST": 13283
       },
       "cutoffTrends": [
@@ -3174,8 +3174,8 @@
       "cutoffs": {
         "General": 150485,
         "EWS": 9505,
-        "OBC": 8111,
-        "SC": 13358,
+        "OBC": 24500,
+        "SC": 135475,
         "ST": 14191
       },
       "cutoffTrends": [
@@ -3190,9 +3190,9 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 24884,
-        "EWS": 9446,
-        "OBC": 8307,
+        "General": 26816,
+        "EWS": 26953,
+        "OBC": 26974,
         "SC": 13447,
         "ST": 14210
       },
@@ -3226,10 +3226,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 638084,
+        "General": 506739,
         "EWS": 20753,
-        "OBC": 20793,
-        "SC": 20645,
+        "OBC": 516772,
+        "SC": 450886,
         "ST": 19065
       },
       "cutoffTrends": [
@@ -3244,9 +3244,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 108671,
+        "General": 26597,
         "EWS": 6771,
-        "OBC": 6615,
+        "OBC": 26667,
         "SC": 12371,
         "ST": 13478
       },
@@ -3280,9 +3280,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 144418,
-        "OBC": 6951,
-        "SC": 12487,
+        "General": 27039,
+        "OBC": 26985,
+        "SC": 131964,
         "ST": 13644
       },
       "cutoffTrends": [
@@ -3299,7 +3299,7 @@
       "cutoffs": {
         "General": 74989,
         "EWS": 3898,
-        "OBC": 3317,
+        "OBC": 8841,
         "SC": 10319,
         "ST": 11262
       },
@@ -3315,7 +3315,8 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 661567
+        "General": 688741,
+        "OBC": 527570
       },
       "cutoffTrends": []
     },
@@ -3344,7 +3345,7 @@
       "cutoffs": {
         "General": 148191,
         "EWS": 8949,
-        "OBC": 8943,
+        "OBC": 25135,
         "SC": 13075,
         "ST": 14346
       },
@@ -3360,10 +3361,10 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 139466,
+        "General": 494413,
         "EWS": 6684,
-        "OBC": 6785,
-        "SC": 12521,
+        "OBC": 27214,
+        "SC": 137886,
         "ST": 13716
       },
       "cutoffTrends": [
@@ -3414,11 +3415,11 @@
       "quota": "AIQ",
       "state": "Punjab",
       "cutoffs": {
-        "General": 17802,
+        "General": 19679,
         "EWS": 4937,
-        "OBC": 4100,
+        "OBC": 20991,
         "SC": 11442,
-        "ST": 12122
+        "ST": 154775
       },
       "cutoffTrends": [
         {
@@ -3432,7 +3433,7 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 49964,
+        "General": 6924,
         "EWS": 2387,
         "OBC": 2275,
         "SC": 7792,
@@ -3450,7 +3451,7 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 529224,
+        "General": 548164,
         "EWS": 17615,
         "OBC": 21078,
         "SC": 21207
@@ -3468,8 +3469,8 @@
       "state": "Maharashtra",
       "cutoffs": {
         "General": 553148,
-        "EWS": 19210,
-        "OBC": 19231,
+        "EWS": 210521,
+        "OBC": 325260,
         "SC": 18988,
         "ST": 19295
       },
@@ -3485,7 +3486,7 @@
       "quota": "AIQ",
       "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 112774,
+        "General": 25290,
         "EWS": 5312,
         "OBC": 5690,
         "SC": 11717,
@@ -3503,10 +3504,10 @@
       "quota": "AIQ",
       "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 695650,
+        "General": 22005,
         "EWS": 5408,
         "OBC": 5822,
-        "SC": 11707,
+        "SC": 133589,
         "ST": 11725
       },
       "cutoffTrends": [
@@ -3521,10 +3522,10 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 468396,
+        "General": 23721,
         "EWS": 9819,
-        "OBC": 9885,
-        "SC": 15193,
+        "OBC": 14628,
+        "SC": 133204,
         "ST": 20758
       },
       "cutoffTrends": [
@@ -3539,7 +3540,10 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 530778
+        "General": 1112703,
+        "ST": 661333,
+        "OBC": 23800,
+        "SC": 238825
       },
       "cutoffTrends": [
         {
@@ -3553,7 +3557,9 @@
       "quota": "AIQ",
       "state": "Delhi",
       "cutoffs": {
-        "General": 451088
+        "General": 25862,
+        "OBC": 27419,
+        "SC": 135201
       },
       "cutoffTrends": []
     },
@@ -3571,9 +3577,9 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 505423,
+        "General": 32643,
         "EWS": 10630,
-        "OBC": 10441,
+        "OBC": 43190,
         "SC": 15992,
         "ST": 21524
       },
@@ -3589,9 +3595,9 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 201923,
-        "EWS": 10767,
-        "OBC": 9915,
+        "General": 25667,
+        "EWS": 30145,
+        "OBC": 21816,
         "SC": 15001,
         "ST": 22214
       },
@@ -3607,7 +3613,9 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 954114
+        "General": 954114,
+        "OBC": 26455,
+        "SC": 129085
       },
       "cutoffTrends": []
     },
@@ -3616,10 +3624,10 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 108358,
-        "EWS": 10683,
-        "OBC": 10477,
-        "SC": 16128,
+        "General": 26664,
+        "EWS": 38411,
+        "OBC": 26759,
+        "SC": 85125,
         "ST": 22117
       },
       "cutoffTrends": [
@@ -3635,9 +3643,9 @@
       "state": "Rajasthan",
       "cutoffs": {
         "General": 146901,
-        "EWS": 8335,
-        "OBC": 8409,
-        "SC": 14060,
+        "EWS": 18825,
+        "OBC": 25742,
+        "SC": 107694,
         "ST": 18103
       },
       "cutoffTrends": [
@@ -3670,9 +3678,9 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 65169,
+        "General": 12533,
         "EWS": 4183,
-        "OBC": 4136,
+        "OBC": 15265,
         "SC": 10711,
         "ST": 11809
       },
@@ -3688,7 +3696,7 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 84131,
+        "General": 18351,
         "EWS": 5410,
         "OBC": 4871,
         "SC": 11528,
@@ -3706,7 +3714,7 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 92870,
+        "General": 19356,
         "EWS": 5050,
         "OBC": 4635,
         "SC": 11274,
@@ -3724,9 +3732,9 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 571747,
-        "EWS": 20268,
-        "OBC": 21598,
+        "General": 56164,
+        "EWS": 346696,
+        "OBC": 475650,
         "SC": 20980
       },
       "cutoffTrends": [
@@ -3741,8 +3749,8 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 121735,
-        "EWS": 9568,
+        "General": 21642,
+        "EWS": 30293,
         "OBC": 8942,
         "SC": 12744,
         "ST": 14079
@@ -3761,7 +3769,7 @@
       "cutoffs": {
         "General": 91995,
         "EWS": 5771,
-        "OBC": 6167,
+        "OBC": 26219,
         "SC": 11748,
         "ST": 12572
       },
@@ -3777,8 +3785,8 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 151942,
-        "EWS": 9248,
+        "General": 24633,
+        "EWS": 28512,
         "OBC": 9024,
         "SC": 13379,
         "ST": 14316
@@ -3798,7 +3806,7 @@
         "General": 104061,
         "EWS": 6909,
         "OBC": 6741,
-        "SC": 12391,
+        "SC": 127188,
         "ST": 13168
       },
       "cutoffTrends": [
@@ -3816,8 +3824,8 @@
         "General": 26296,
         "EWS": 9607,
         "OBC": 9134,
-        "SC": 13525,
-        "ST": 13853
+        "SC": 136018,
+        "ST": 167546
       },
       "cutoffTrends": [
         {
@@ -3831,11 +3839,11 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 1037462,
-        "EWS": 9224,
-        "OBC": 9055,
-        "SC": 13263,
-        "ST": 14547
+        "General": 26540,
+        "EWS": 30862,
+        "OBC": 27023,
+        "SC": 137679,
+        "ST": 168888
       },
       "cutoffTrends": [
         {
@@ -3867,11 +3875,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 18921,
-        "EWS": 9466,
-        "OBC": 9132,
-        "SC": 13628,
-        "ST": 14253
+        "General": 20768,
+        "EWS": 30542,
+        "OBC": 27111,
+        "SC": 138811,
+        "ST": 164465
       },
       "cutoffTrends": [
         {
@@ -3887,8 +3895,8 @@
       "cutoffs": {
         "General": 130363,
         "EWS": 8702,
-        "OBC": 7738,
-        "SC": 13090,
+        "OBC": 27102,
+        "SC": 134802,
         "ST": 14122
       },
       "cutoffTrends": [
@@ -3903,11 +3911,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 149808,
+        "General": 1111410,
         "EWS": 9331,
         "OBC": 8963,
-        "SC": 13068,
-        "ST": 14565
+        "SC": 138713,
+        "ST": 166907
       },
       "cutoffTrends": [
         {
@@ -3923,8 +3931,8 @@
       "cutoffs": {
         "General": 24868,
         "EWS": 9601,
-        "OBC": 9065,
-        "SC": 12803,
+        "OBC": 24873,
+        "SC": 139193,
         "ST": 14614
       },
       "cutoffTrends": [
@@ -3975,10 +3983,10 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 154537,
-        "EWS": 9618,
-        "OBC": 9253,
-        "SC": 13722,
+        "General": 22319,
+        "EWS": 28717,
+        "OBC": 27235,
+        "SC": 138676,
         "ST": 14526
       },
       "cutoffTrends": [
@@ -4011,7 +4019,7 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 119660,
+        "General": 1182598,
         "EWS": 7603,
         "OBC": 2177,
         "SC": 8608,
@@ -4029,11 +4037,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 946638,
-        "EWS": 9261,
-        "OBC": 5887,
-        "SC": 11540,
-        "ST": 14084
+        "General": 22848,
+        "EWS": 28211,
+        "OBC": 26445,
+        "SC": 138385,
+        "ST": 150350
       },
       "cutoffTrends": [
         {
@@ -4047,9 +4055,9 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 13573,
+        "General": 25884,
         "EWS": 9363,
-        "OBC": 4215,
+        "OBC": 17778,
         "SC": 10000,
         "ST": 13712
       },
@@ -4067,7 +4075,7 @@
       "cutoffs": {
         "General": 25925,
         "EWS": 6629,
-        "OBC": 4047,
+        "OBC": 26659,
         "SC": 10260,
         "ST": 13054
       },
@@ -4083,11 +4091,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 115572,
-        "EWS": 6541,
-        "OBC": 5564,
-        "SC": 11433,
-        "ST": 13426
+        "General": 19964,
+        "EWS": 30746,
+        "OBC": 16071,
+        "SC": 136861,
+        "ST": 156695
       },
       "cutoffTrends": [
         {
@@ -4101,11 +4109,11 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 90836,
+        "General": 10798,
         "EWS": 4018,
-        "OBC": 3636,
-        "SC": 9656,
-        "ST": 11771
+        "OBC": 18049,
+        "SC": 112611,
+        "ST": 141245
       },
       "cutoffTrends": [
         {
@@ -4137,11 +4145,11 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 22094,
+        "General": 22516,
         "EWS": 5635,
-        "OBC": 5139,
-        "SC": 10960,
-        "ST": 12158
+        "OBC": 27169,
+        "SC": 134551,
+        "ST": 163502
       },
       "cutoffTrends": [
         {
@@ -4155,10 +4163,10 @@
       "quota": "AIQ",
       "state": "Punjab",
       "cutoffs": {
-        "General": 17173,
-        "EWS": 6461,
-        "OBC": 5769,
-        "SC": 11619,
+        "General": 26024,
+        "EWS": 30372,
+        "OBC": 26587,
+        "SC": 133637,
         "ST": 13231
       },
       "cutoffTrends": [
@@ -4174,8 +4182,8 @@
       "state": "Assam",
       "cutoffs": {
         "General": 88005,
-        "EWS": 6090,
-        "OBC": 5934,
+        "EWS": 30385,
+        "OBC": 26996,
         "SC": 10922,
         "ST": 11783
       },
@@ -4209,9 +4217,9 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 123145,
+        "General": 26904,
         "EWS": 9122,
-        "OBC": 7823,
+        "OBC": 27224,
         "SC": 13319,
         "ST": 13126
       },
@@ -4245,11 +4253,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 130821,
-        "EWS": 8851,
-        "OBC": 8848,
-        "SC": 13325,
-        "ST": 14287
+        "General": 18499,
+        "EWS": 30338,
+        "OBC": 27181,
+        "SC": 134173,
+        "ST": 167467
       },
       "cutoffTrends": [
         {
@@ -4265,7 +4273,7 @@
       "cutoffs": {
         "General": 23014,
         "EWS": 8332,
-        "OBC": 7906,
+        "OBC": 22132,
         "SC": 13019,
         "ST": 13916
       },
@@ -4290,11 +4298,11 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 875148,
+        "General": 14543,
         "EWS": 4997,
         "OBC": 4826,
-        "SC": 11471,
-        "ST": 12551
+        "SC": 123465,
+        "ST": 159643
       },
       "cutoffTrends": [
         {
@@ -4311,7 +4319,7 @@
         "General": 22001,
         "EWS": 8654,
         "OBC": 8050,
-        "SC": 13155,
+        "SC": 137809,
         "ST": 14044
       },
       "cutoffTrends": [
@@ -4326,9 +4334,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 831158,
+        "General": 25123,
         "EWS": 9388,
-        "OBC": 8767,
+        "OBC": 27175,
         "SC": 13275,
         "ST": 14514
       },
@@ -4347,7 +4355,7 @@
         "General": 76041,
         "EWS": 6857,
         "OBC": 5972,
-        "SC": 11723,
+        "SC": 133796,
         "ST": 12613
       },
       "cutoffTrends": [
@@ -4380,9 +4388,9 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 28202,
+        "General": 23948,
         "EWS": 9660,
-        "OBC": 9268,
+        "OBC": 24894,
         "SC": 13177,
         "ST": 13701
       },
@@ -4400,7 +4408,7 @@
       "cutoffs": {
         "General": 121022,
         "EWS": 8181,
-        "OBC": 7646,
+        "OBC": 26896,
         "SC": 12839,
         "ST": 13692
       },
@@ -4435,7 +4443,7 @@
       "cutoffs": {
         "General": 123668,
         "EWS": 9456,
-        "OBC": 8705,
+        "OBC": 26994,
         "SC": 13345,
         "ST": 13821
       },
@@ -4452,7 +4460,7 @@
       "state": "Maharashtra",
       "cutoffs": {
         "General": 123553,
-        "EWS": 8513,
+        "EWS": 26444,
         "OBC": 8045,
         "SC": 13232,
         "ST": 14119
@@ -4469,10 +4477,10 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 115037,
+        "General": 1052931,
         "EWS": 1805,
-        "OBC": 2337,
-        "SC": 7345,
+        "OBC": 11273,
+        "SC": 138619,
         "ST": 9765
       },
       "cutoffTrends": [
@@ -4487,7 +4495,7 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 100028,
+        "General": 24035,
         "EWS": 7122,
         "OBC": 6905,
         "SC": 12534,
@@ -4505,9 +4513,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 120996,
-        "EWS": 6222,
-        "OBC": 6047,
+        "General": 26497,
+        "EWS": 24245,
+        "OBC": 27005,
         "SC": 11128,
         "ST": 12001
       },
@@ -4525,7 +4533,7 @@
       "cutoffs": {
         "General": 100855,
         "EWS": 6191,
-        "OBC": 5881,
+        "OBC": 26323,
         "SC": 11764,
         "ST": 12784
       },
@@ -4541,9 +4549,9 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 116051,
+        "General": 26867,
         "EWS": 7460,
-        "OBC": 6950,
+        "OBC": 21726,
         "SC": 12831,
         "ST": 13213
       },
@@ -4559,9 +4567,9 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 107947,
+        "General": 26917,
         "EWS": 7247,
-        "OBC": 6701,
+        "OBC": 26742,
         "SC": 12513,
         "ST": 13125
       },
@@ -4577,7 +4585,7 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 112116,
+        "General": 26148,
         "EWS": 6888,
         "OBC": 6823,
         "SC": 12153
@@ -4648,7 +4656,7 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 110702,
+        "General": 26460,
         "EWS": 7093,
         "OBC": 7310,
         "SC": 12580,
@@ -4668,7 +4676,7 @@
       "cutoffs": {
         "General": 28771,
         "EWS": 9662,
-        "OBC": 9249,
+        "OBC": 27198,
         "SC": 13704,
         "ST": 14301
       },
@@ -4684,8 +4692,8 @@
       "quota": "AIQ",
       "state": "Madhya Pradesh",
       "cutoffs": {
-        "General": 111337,
-        "EWS": 7265,
+        "General": 18129,
+        "EWS": 30471,
         "OBC": 6832,
         "SC": 12461,
         "ST": 13082
@@ -4702,10 +4710,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 9270,
-        "EWS": 4155,
-        "OBC": 3810,
-        "SC": 10835,
+        "General": 17771,
+        "EWS": 21277,
+        "OBC": 17538,
+        "SC": 96076,
         "ST": 12308
       },
       "cutoffTrends": [
@@ -4720,7 +4728,7 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 132267,
+        "General": 24940,
         "EWS": 9636,
         "OBC": 9293,
         "SC": 13696,
@@ -4756,9 +4764,9 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 28079,
+        "General": 26728,
         "EWS": 9349,
-        "OBC": 8773,
+        "OBC": 24964,
         "SC": 13298,
         "ST": 11877
       },
@@ -4776,7 +4784,7 @@
       "cutoffs": {
         "General": 133088,
         "EWS": 8342,
-        "OBC": 7858,
+        "OBC": 27254,
         "SC": 13012,
         "ST": 13463
       },
@@ -4792,11 +4800,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 18973,
+        "General": 20551,
         "EWS": 9696,
         "OBC": 6467,
         "SC": 11887,
-        "ST": 14712
+        "ST": 164539
       },
       "cutoffTrends": [
         {
@@ -4814,7 +4822,7 @@
         "EWS": 9369,
         "OBC": 6532,
         "SC": 11882,
-        "ST": 14854
+        "ST": 164259
       },
       "cutoffTrends": [
         {
@@ -4828,9 +4836,10 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 576685,
-        "OBC": 21644,
-        "ST": 21650
+        "General": 639106,
+        "OBC": 652939,
+        "ST": 21650,
+        "SC": 445133
       },
       "cutoffTrends": [
         {
@@ -4864,7 +4873,7 @@
       "cutoffs": {
         "General": 133599,
         "EWS": 8204,
-        "OBC": 6340,
+        "OBC": 21315,
         "SC": 11982,
         "ST": 12589
       },
@@ -4880,7 +4889,7 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 152565,
+        "General": 24692,
         "EWS": 9460,
         "OBC": 8246,
         "SC": 13363,
@@ -4898,9 +4907,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 102783,
-        "EWS": 5370,
-        "OBC": 4489,
+        "General": 11430,
+        "EWS": 17607,
+        "OBC": 26340,
         "SC": 10985,
         "ST": 12821
       },
@@ -4916,10 +4925,10 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 109255,
+        "General": 24603,
         "EWS": 4898,
-        "OBC": 5249,
-        "SC": 11085,
+        "OBC": 16537,
+        "SC": 128809,
         "ST": 12669
       },
       "cutoffTrends": [
@@ -4934,9 +4943,9 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 71259,
+        "General": 16421,
         "EWS": 3821,
-        "OBC": 3816,
+        "OBC": 18783,
         "SC": 9481,
         "ST": 12276
       },
@@ -4955,7 +4964,7 @@
         "General": 20606,
         "EWS": 2030,
         "OBC": 1702,
-        "SC": 7644,
+        "SC": 48082,
         "ST": 9757
       },
       "cutoffTrends": [
@@ -4970,7 +4979,7 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 125728,
+        "General": 26262,
         "EWS": 9542,
         "OBC": 5693,
         "SC": 11398,
@@ -4989,9 +4998,9 @@
       "state": "Bihar",
       "cutoffs": {
         "General": 96049,
-        "EWS": 4145,
-        "OBC": 4010,
-        "SC": 11253,
+        "EWS": 9550,
+        "OBC": 9293,
+        "SC": 99466,
         "ST": 12511
       },
       "cutoffTrends": [
@@ -5006,11 +5015,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 127289,
-        "EWS": 8029,
-        "OBC": 6670,
-        "SC": 11844,
-        "ST": 13326
+        "General": 26475,
+        "EWS": 26471,
+        "OBC": 25167,
+        "SC": 139123,
+        "ST": 164804
       },
       "cutoffTrends": [
         {
@@ -5024,9 +5033,9 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 396950,
-        "EWS": 15260,
-        "OBC": 15698,
+        "General": 205571,
+        "EWS": 214563,
+        "OBC": 244376,
         "SC": 16002
       },
       "cutoffTrends": [
@@ -5041,10 +5050,10 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 60827,
+        "General": 12859,
         "EWS": 4304,
         "OBC": 3650,
-        "SC": 10532,
+        "SC": 82012,
         "ST": 11481
       },
       "cutoffTrends": [
@@ -5059,11 +5068,11 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 76687,
+        "General": 19935,
         "EWS": 5155,
-        "OBC": 4643,
-        "SC": 11206,
-        "ST": 11706
+        "OBC": 14853,
+        "SC": 114643,
+        "ST": 129004
       },
       "cutoffTrends": [
         {
@@ -5077,10 +5086,10 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 71488,
+        "General": 11154,
         "EWS": 21828,
-        "OBC": 11325,
-        "SC": 14397,
+        "OBC": 25087,
+        "SC": 120433,
         "ST": 11153
       },
       "cutoffTrends": [
@@ -5113,9 +5122,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 587084,
+        "General": 335812,
         "EWS": 21198,
-        "OBC": 21191,
+        "OBC": 380852,
         "SC": 21010,
         "ST": 21110
       },
@@ -5131,7 +5140,7 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 167972,
+        "General": 63111,
         "OBC": 13989
       },
       "cutoffTrends": [
@@ -5146,7 +5155,7 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 195073
+        "General": 115620
       },
       "cutoffTrends": [
         {
@@ -5160,11 +5169,11 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 111142,
+        "General": 12762,
         "EWS": 6564,
-        "OBC": 8567,
+        "OBC": 8082,
         "SC": 12296,
-        "ST": 13346
+        "ST": 163064
       },
       "cutoffTrends": [
         {
@@ -5180,8 +5189,8 @@
       "cutoffs": {
         "General": 149018,
         "EWS": 9180,
-        "OBC": 8984,
-        "SC": 12987,
+        "OBC": 27296,
+        "SC": 134894,
         "ST": 14277
       },
       "cutoffTrends": [
@@ -5199,7 +5208,7 @@
         "General": 131902,
         "EWS": 8844,
         "OBC": 8749,
-        "SC": 13450,
+        "SC": 135700,
         "ST": 12907
       },
       "cutoffTrends": [
@@ -5231,9 +5240,9 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 137517,
+        "General": 139006,
         "EWS": 13604,
-        "OBC": 13585
+        "OBC": 85179
       },
       "cutoffTrends": [
         {
@@ -5249,7 +5258,7 @@
       "cutoffs": {
         "General": 1180453,
         "EWS": 9500,
-        "OBC": 5040,
+        "OBC": 18953,
         "SC": 11720,
         "ST": 14537
       },
@@ -5267,7 +5276,7 @@
       "cutoffs": {
         "General": 100347,
         "EWS": 6769,
-        "OBC": 5385,
+        "OBC": 26909,
         "SC": 11079,
         "ST": 10568
       },
@@ -5303,7 +5312,7 @@
       "cutoffs": {
         "General": 22480,
         "EWS": 5228,
-        "OBC": 6514,
+        "OBC": 10283,
         "SC": 10307,
         "ST": 12652
       },
@@ -5319,7 +5328,7 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 1018550,
+        "General": 550063,
         "EWS": 7233,
         "OBC": 6560,
         "SC": 11580,
@@ -5337,7 +5346,7 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 202084,
+        "General": 119802,
         "EWS": 14624,
         "OBC": 14979
       },
@@ -5406,7 +5415,7 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 41533,
+        "General": 37269,
         "EWS": 11364,
         "OBC": 11436
       },
@@ -5424,7 +5433,7 @@
       "cutoffs": {
         "General": 1093495,
         "EWS": 9207,
-        "OBC": 7467,
+        "OBC": 26844,
         "SC": 12889,
         "ST": 13092
       },
@@ -5442,7 +5451,7 @@
       "cutoffs": {
         "General": 24347,
         "EWS": 9663,
-        "OBC": 9341,
+        "OBC": 25029,
         "SC": 13603,
         "ST": 14283
       },
@@ -5460,7 +5469,7 @@
       "cutoffs": {
         "General": 128737,
         "EWS": 9266,
-        "OBC": 7968,
+        "OBC": 23104,
         "SC": 13095
       },
       "cutoffTrends": [
@@ -5475,7 +5484,7 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 609275,
+        "General": 300127,
         "EWS": 20865,
         "OBC": 20844,
         "SC": 20235
@@ -5492,9 +5501,9 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 9650,
+        "General": 10896,
         "EWS": 5091,
-        "OBC": 4268,
+        "OBC": 16249,
         "SC": 11037,
         "ST": 12060
       },
@@ -5512,9 +5521,9 @@
       "cutoffs": {
         "General": 109648,
         "EWS": 4629,
-        "OBC": 4194,
-        "SC": 10367,
-        "ST": 12566
+        "OBC": 14252,
+        "SC": 116579,
+        "ST": 143796
       },
       "cutoffTrends": [
         {
@@ -5530,7 +5539,7 @@
       "cutoffs": {
         "General": 154315,
         "EWS": 8707,
-        "OBC": 9321,
+        "OBC": 27078,
         "SC": 13730,
         "ST": 14485
       },
@@ -5546,9 +5555,9 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 1060971,
-        "EWS": 8665,
-        "OBC": 8065,
+        "General": 22995,
+        "EWS": 26282,
+        "OBC": 27421,
         "SC": 12927,
         "ST": 13813
       },
@@ -5582,10 +5591,10 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 112712,
-        "EWS": 5975,
-        "OBC": 5490,
-        "SC": 12003,
+        "General": 27095,
+        "EWS": 18086,
+        "OBC": 20403,
+        "SC": 109133,
         "ST": 12315
       },
       "cutoffTrends": [
@@ -5600,10 +5609,10 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 89872,
+        "General": 15315,
         "EWS": 5061,
-        "OBC": 4807,
-        "SC": 11425,
+        "OBC": 14887,
+        "SC": 113976,
         "ST": 12149
       },
       "cutoffTrends": [
@@ -5638,7 +5647,7 @@
       "cutoffs": {
         "General": 123915,
         "EWS": 8185,
-        "OBC": 2928,
+        "OBC": 25889,
         "SC": 8657,
         "ST": 13500
       },
@@ -5656,7 +5665,7 @@
       "cutoffs": {
         "General": 129391,
         "EWS": 5233,
-        "OBC": 5499,
+        "OBC": 23342,
         "SC": 11358,
         "ST": 13067
       },
@@ -5672,10 +5681,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 95992,
+        "General": 15060,
         "EWS": 5512,
-        "OBC": 5195,
-        "SC": 11791,
+        "OBC": 18571,
+        "SC": 117426,
         "ST": 12749
       },
       "cutoffTrends": [
@@ -5692,7 +5701,7 @@
       "cutoffs": {
         "General": 105293,
         "EWS": 5992,
-        "OBC": 7638,
+        "OBC": 26984,
         "ST": 13667
       },
       "cutoffTrends": [
@@ -5707,7 +5716,7 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 23295,
+        "General": 22779,
         "EWS": 8898,
         "OBC": 7954,
         "SC": 12941,
@@ -5725,7 +5734,7 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 111130,
+        "General": 26836,
         "EWS": 7771,
         "OBC": 6120,
         "SC": 11949,
@@ -5743,11 +5752,11 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 525315,
-        "EWS": 5239,
-        "OBC": 4988,
-        "SC": 11610,
-        "ST": 12320
+        "General": 26692,
+        "EWS": 29913,
+        "OBC": 27335,
+        "SC": 123424,
+        "ST": 161923
       },
       "cutoffTrends": [
         {
@@ -5763,8 +5772,8 @@
       "cutoffs": {
         "General": 875780,
         "EWS": 7834,
-        "OBC": 7449,
-        "SC": 12550,
+        "OBC": 26922,
+        "SC": 137174,
         "ST": 13481
       },
       "cutoffTrends": [
@@ -5779,9 +5788,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 297942,
+        "General": 81297,
         "EWS": 16236,
-        "OBC": 16495,
+        "OBC": 89745,
         "SC": 16550
       },
       "cutoffTrends": [
@@ -5796,11 +5805,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 122611,
+        "General": 23116,
         "EWS": 8282,
-        "OBC": 7891,
+        "OBC": 23237,
         "SC": 12878,
-        "ST": 14268
+        "ST": 163366
       },
       "cutoffTrends": [
         {
@@ -5814,10 +5823,11 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 476335,
-        "EWS": 18178,
-        "OBC": 18167,
-        "SC": 18198
+        "General": 589850,
+        "EWS": 273882,
+        "OBC": 390463,
+        "SC": 18198,
+        "ST": 656309
       },
       "cutoffTrends": [
         {
@@ -5831,10 +5841,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 80403,
-        "EWS": 4834,
-        "OBC": 4454,
-        "SC": 11040,
+        "General": 17785,
+        "EWS": 30810,
+        "OBC": 21115,
+        "SC": 111463,
         "ST": 12201
       },
       "cutoffTrends": [
@@ -5849,9 +5859,9 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 101608,
+        "General": 26437,
         "EWS": 6293,
-        "OBC": 6115,
+        "OBC": 19700,
         "SC": 12051,
         "ST": 12897
       },
@@ -5867,10 +5877,10 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 15375,
+        "General": 23306,
         "EWS": 4908,
-        "OBC": 4192,
-        "SC": 11064,
+        "OBC": 26610,
+        "SC": 136854,
         "ST": 10890
       },
       "cutoffTrends": [
@@ -5886,7 +5896,7 @@
       "state": "West Bengal",
       "cutoffs": {
         "General": 24204,
-        "EWS": 9061,
+        "EWS": 22103,
         "OBC": 8803,
         "SC": 13273
       },
@@ -5902,7 +5912,8 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 1039159
+        "General": 25252,
+        "SC": 136602
       },
       "cutoffTrends": []
     },
@@ -5911,9 +5922,9 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 808791,
+        "General": 832060,
         "EWS": 22717,
-        "OBC": 23781,
+        "OBC": 676251,
         "SC": 23535,
         "ST": 23484
       },
@@ -5929,7 +5940,7 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 373553,
+        "General": 148116,
         "EWS": 17433,
         "OBC": 17645,
         "SC": 17367
@@ -5946,7 +5957,7 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 624436
+        "General": 407858
       },
       "cutoffTrends": []
     },
@@ -5955,9 +5966,9 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 102420,
+        "General": 26775,
         "EWS": 7856,
-        "OBC": 7791,
+        "OBC": 22647,
         "SC": 12578,
         "ST": 13926
       },
@@ -5973,10 +5984,10 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 451856,
+        "General": 107606,
         "EWS": 19427,
-        "OBC": 19440,
-        "SC": 19334,
+        "OBC": 155024,
+        "SC": 739602,
         "ST": 19374
       },
       "cutoffTrends": []
@@ -5986,11 +5997,11 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 541861,
-        "EWS": 19770,
-        "OBC": 19825,
-        "SC": 19719,
-        "ST": 19370
+        "General": 471792,
+        "EWS": 456826,
+        "OBC": 208702,
+        "SC": 360941,
+        "ST": 331787
       },
       "cutoffTrends": []
     },
@@ -6001,7 +6012,7 @@
       "cutoffs": {
         "General": 135357,
         "EWS": 8882,
-        "OBC": 8488,
+        "OBC": 23839,
         "SC": 13366,
         "ST": 14169
       },
@@ -6017,9 +6028,9 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 657379,
-        "EWS": 23415,
-        "OBC": 23485,
+        "General": 708126,
+        "EWS": 450525,
+        "OBC": 624797,
         "SC": 23304,
         "ST": 23235
       },
@@ -6035,8 +6046,8 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 747846,
-        "EWS": 8626,
+        "General": 23918,
+        "EWS": 30606,
         "OBC": 8312,
         "SC": 12870,
         "ST": 14337
@@ -6053,11 +6064,11 @@
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
-        "General": 112881,
-        "EWS": 4685,
-        "OBC": 4914,
+        "General": 11894,
+        "EWS": 22629,
+        "OBC": 11266,
         "SC": 11631,
-        "ST": 12651
+        "ST": 160161
       },
       "cutoffTrends": [
         {
@@ -6090,8 +6101,8 @@
       "state": "Delhi",
       "cutoffs": {
         "General": 5106,
-        "EWS": 2167,
-        "OBC": 2423,
+        "EWS": 14868,
+        "OBC": 12585,
         "SC": 7902
       },
       "cutoffTrends": [
@@ -6106,8 +6117,8 @@
       "quota": "AIQ",
       "state": "Meghalaya",
       "cutoffs": {
-        "General": 16601,
-        "OBC": 5163
+        "General": 24090,
+        "OBC": 27238
       },
       "cutoffTrends": [
         {
@@ -6124,7 +6135,7 @@
         "General": 1238539,
         "EWS": 5600,
         "OBC": 5052,
-        "SC": 10129,
+        "SC": 115319,
         "ST": 12598
       },
       "cutoffTrends": [
@@ -6139,11 +6150,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 133959,
+        "General": 26965,
         "EWS": 7605,
         "OBC": 7001,
-        "SC": 12281,
-        "ST": 13406
+        "SC": 137174,
+        "ST": 163931
       },
       "cutoffTrends": [
         {
@@ -6157,7 +6168,7 @@
       "quota": "AIQ",
       "state": "Assam",
       "cutoffs": {
-        "General": 25960,
+        "General": 27316,
         "EWS": 9633,
         "OBC": 9325,
         "SC": 13079,
@@ -6193,9 +6204,9 @@
       "quota": "AIQ",
       "state": "Telangana",
       "cutoffs": {
-        "General": 8757,
+        "General": 18913,
         "EWS": 4634,
-        "OBC": 3568,
+        "OBC": 19040,
         "SC": 10431,
         "ST": 11156
       },
@@ -6238,7 +6249,7 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 136565,
+        "General": 27259,
         "EWS": 8515,
         "OBC": 8301,
         "SC": 13359,
@@ -6274,9 +6285,9 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 79136,
+        "General": 21646,
         "EWS": 4671,
-        "OBC": 4566,
+        "OBC": 10596,
         "SC": 11116,
         "ST": 12306
       },
@@ -6292,9 +6303,9 @@
       "quota": "AIQ",
       "state": "Chhattisgarh",
       "cutoffs": {
-        "General": 16069,
+        "General": 25866,
         "EWS": 6379,
-        "OBC": 5875,
+        "OBC": 26284,
         "SC": 11355,
         "ST": 12972
       },
@@ -6310,10 +6321,10 @@
       "quota": "AIQ",
       "state": "Himachal Pradesh",
       "cutoffs": {
-        "General": 113394,
-        "EWS": 5938,
+        "General": 15425,
+        "EWS": 27413,
         "OBC": 5727,
-        "SC": 11825,
+        "SC": 130397,
         "ST": 11911
       },
       "cutoffTrends": [
@@ -6330,7 +6341,7 @@
       "cutoffs": {
         "General": 146965,
         "EWS": 7849,
-        "OBC": 7877,
+        "OBC": 27293,
         "SC": 12181,
         "ST": 14412
       },
@@ -6346,9 +6357,9 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 15156,
+        "General": 15973,
         "EWS": 5399,
-        "OBC": 5675,
+        "OBC": 17873,
         "SC": 11458,
         "ST": 13001
       },
@@ -6382,7 +6393,7 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 896492,
+        "General": 23962,
         "EWS": 7699,
         "OBC": 7614,
         "SC": 13073,
@@ -6403,7 +6414,7 @@
         "General": 147831,
         "EWS": 9461,
         "OBC": 8425,
-        "SC": 12675,
+        "SC": 136092,
         "ST": 14245
       },
       "cutoffTrends": [
@@ -6418,9 +6429,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 108496,
-        "EWS": 5659,
-        "OBC": 5119,
+        "General": 20822,
+        "EWS": 18918,
+        "OBC": 26122,
         "SC": 11060,
         "ST": 12647
       },
@@ -6436,9 +6447,9 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 24310,
+        "General": 23931,
         "EWS": 9023,
-        "OBC": 8612,
+        "OBC": 26665,
         "SC": 12961,
         "ST": 14160
       },
@@ -6472,10 +6483,10 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 118517,
+        "General": 1157620,
         "EWS": 9526,
-        "OBC": 8656,
-        "SC": 12712,
+        "OBC": 24716,
+        "SC": 138375,
         "ST": 14262
       },
       "cutoffTrends": [
@@ -6492,7 +6503,7 @@
       "cutoffs": {
         "General": 49630,
         "EWS": 3290,
-        "OBC": 2915,
+        "OBC": 15084,
         "SC": 10065,
         "ST": 10916
       },
@@ -6526,10 +6537,10 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 526412,
-        "EWS": 18852,
-        "OBC": 18869,
-        "SC": 18900,
+        "General": 530319,
+        "EWS": 374750,
+        "OBC": 541606,
+        "SC": 402359,
         "ST": 18466
       },
       "cutoffTrends": [
@@ -6547,7 +6558,7 @@
         "General": 132020,
         "EWS": 9599,
         "OBC": 6207,
-        "SC": 11657,
+        "SC": 136699,
         "ST": 14220
       },
       "cutoffTrends": [
@@ -6564,7 +6575,7 @@
       "cutoffs": {
         "General": 109831,
         "EWS": 6987,
-        "OBC": 7035,
+        "OBC": 27118,
         "SC": 12705,
         "ST": 13602
       },
@@ -6598,7 +6609,7 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 114568,
+        "General": 26970,
         "EWS": 7348,
         "OBC": 6498,
         "SC": 12434,
@@ -6637,7 +6648,7 @@
         "General": 139038,
         "EWS": 6458,
         "OBC": 5806,
-        "SC": 11182,
+        "SC": 138752,
         "ST": 13400
       },
       "cutoffTrends": [
@@ -6654,7 +6665,7 @@
       "cutoffs": {
         "General": 114515,
         "EWS": 7508,
-        "OBC": 6574,
+        "OBC": 23861,
         "SC": 12711,
         "ST": 12867
       },
@@ -6704,10 +6715,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 89243,
+        "General": 15360,
         "EWS": 4817,
-        "OBC": 4540,
-        "SC": 10990,
+        "OBC": 17692,
+        "SC": 112478,
         "ST": 11992
       },
       "cutoffTrends": [
@@ -6724,7 +6735,7 @@
       "cutoffs": {
         "General": 107096,
         "EWS": 5998,
-        "OBC": 6001,
+        "OBC": 26707,
         "SC": 12055,
         "ST": 12725
       },
@@ -6740,10 +6751,10 @@
       "quota": "AIQ",
       "state": "Rajasthan",
       "cutoffs": {
-        "General": 44219,
+        "General": 7815,
         "EWS": 3649,
         "OBC": 3148,
-        "SC": 10049,
+        "SC": 103148,
         "ST": 10953
       },
       "cutoffTrends": [
@@ -6758,9 +6769,9 @@
       "quota": "AIQ",
       "state": "Gujarat",
       "cutoffs": {
-        "General": 704085,
-        "EWS": 24544,
-        "OBC": 24354,
+        "General": 624449,
+        "EWS": 843680,
+        "OBC": 616413,
         "SC": 18836
       },
       "cutoffTrends": [
@@ -6775,9 +6786,9 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 217863,
+        "General": 304648,
         "EWS": 15765,
-        "OBC": 15827,
+        "OBC": 735111,
         "SC": 15637
       },
       "cutoffTrends": [
@@ -6793,7 +6804,7 @@
       "state": "Maharashtra",
       "cutoffs": {
         "General": 85260,
-        "EWS": 3468,
+        "EWS": 27899,
         "OBC": 2787,
         "SC": 7058,
         "ST": 11314
@@ -6812,7 +6823,7 @@
       "cutoffs": {
         "General": 867744,
         "EWS": 7897,
-        "OBC": 7675,
+        "OBC": 27131,
         "SC": 12828,
         "ST": 13752
       },
@@ -6828,9 +6839,9 @@
       "quota": "AIQ",
       "state": "Jharkhand",
       "cutoffs": {
-        "General": 20884,
+        "General": 26961,
         "EWS": 7322,
-        "OBC": 7078,
+        "OBC": 27066,
         "SC": 12663,
         "ST": 13632
       },
@@ -6846,7 +6857,8 @@
       "quota": "AIQ",
       "state": "Meghalaya",
       "cutoffs": {
-        "General": 1102815
+        "General": 1102815,
+        "OBC": 27270
       },
       "cutoffTrends": []
     },
@@ -6891,10 +6903,10 @@
       "quota": "AIQ",
       "state": "Haryana",
       "cutoffs": {
-        "General": 95309,
-        "EWS": 6086,
+        "General": 20319,
+        "EWS": 30639,
         "OBC": 5878,
-        "SC": 11162,
+        "SC": 127722,
         "ST": 12439
       },
       "cutoffTrends": [
@@ -6965,8 +6977,8 @@
       "cutoffs": {
         "General": 90864,
         "EWS": 6113,
-        "OBC": 5267,
-        "SC": 11695,
+        "OBC": 26176,
+        "SC": 123020,
         "ST": 12536
       },
       "cutoffTrends": [
@@ -6984,7 +6996,7 @@
         "General": 92831,
         "EWS": 6877,
         "OBC": 6931,
-        "SC": 12360,
+        "SC": 130301,
         "ST": 11286
       },
       "cutoffTrends": [
@@ -7017,10 +7029,10 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 122242,
-        "EWS": 7083,
+        "General": 26356,
+        "EWS": 30491,
         "OBC": 7342,
-        "SC": 12471,
+        "SC": 137197,
         "ST": 13208
       },
       "cutoffTrends": [
@@ -7038,7 +7050,7 @@
         "General": 110205,
         "EWS": 6528,
         "OBC": 6338,
-        "SC": 12393,
+        "SC": 134139,
         "ST": 13388
       },
       "cutoffTrends": [
@@ -7053,9 +7065,9 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 701594,
+        "General": 728421,
         "EWS": 22441,
-        "OBC": 22560,
+        "OBC": 732623,
         "SC": 22263,
         "ST": 22462
       },
@@ -7091,7 +7103,7 @@
         "General": 150701,
         "EWS": 9210,
         "OBC": 7418,
-        "SC": 12353,
+        "SC": 136927,
         "ST": 14076
       },
       "cutoffTrends": [
@@ -7108,7 +7120,7 @@
       "cutoffs": {
         "General": 122369,
         "EWS": 8090,
-        "OBC": 7388,
+        "OBC": 22360,
         "SC": 12862,
         "ST": 13638
       },
@@ -7124,11 +7136,11 @@
       "quota": "AIQ",
       "state": "West Bengal",
       "cutoffs": {
-        "General": 127811,
-        "EWS": 6066,
-        "OBC": 5865,
-        "SC": 11522,
-        "ST": 13448
+        "General": 26791,
+        "EWS": 18947,
+        "OBC": 19252,
+        "SC": 137168,
+        "ST": 165708
       },
       "cutoffTrends": [
         {
@@ -7142,7 +7154,7 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 24138,
+        "General": 24710,
         "EWS": 9178,
         "OBC": 8526,
         "SC": 12145,
@@ -7160,9 +7172,9 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 588923,
-        "EWS": 22346,
-        "OBC": 22646,
+        "General": 632652,
+        "EWS": 618024,
+        "OBC": 629927,
         "SC": 22505
       },
       "cutoffTrends": [
@@ -7179,7 +7191,7 @@
       "cutoffs": {
         "General": 23387,
         "EWS": 8877,
-        "OBC": 8914,
+        "OBC": 27307,
         "SC": 12710,
         "ST": 14241
       },
@@ -7195,7 +7207,7 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 509812,
+        "General": 729250,
         "OBC": 21534,
         "SC": 21134
       },
@@ -7214,7 +7226,7 @@
         "General": 19694,
         "EWS": 6351,
         "OBC": 6273,
-        "SC": 12160,
+        "SC": 134200,
         "ST": 12811
       },
       "cutoffTrends": [
@@ -7229,10 +7241,10 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 702132,
-        "EWS": 5153,
-        "OBC": 4452,
-        "SC": 10317,
+        "General": 13111,
+        "EWS": 30524,
+        "OBC": 14519,
+        "SC": 131769,
         "ST": 10904
       },
       "cutoffTrends": [
@@ -7247,11 +7259,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 811496,
-        "EWS": 24344,
-        "OBC": 24557,
-        "SC": 24438,
-        "ST": 24068
+        "General": 783709,
+        "EWS": 819762,
+        "OBC": 556668,
+        "SC": 695797,
+        "ST": 527718
       },
       "cutoffTrends": []
     },
@@ -7260,10 +7272,10 @@
       "quota": "AIQ",
       "state": "Andhra Pradesh",
       "cutoffs": {
-        "General": 137271,
+        "General": 26852,
         "EWS": 7152,
         "OBC": 7156,
-        "SC": 10562,
+        "SC": 135292,
         "ST": 13031
       },
       "cutoffTrends": [
@@ -7278,11 +7290,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 819763,
+        "General": 777698,
         "EWS": 24840,
-        "OBC": 25306,
+        "OBC": 791775,
         "SC": 25097,
-        "ST": 25186
+        "ST": 475290
       },
       "cutoffTrends": [
         {
@@ -7296,10 +7308,10 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 83692,
+        "General": 23183,
         "EWS": 7484,
-        "OBC": 6758,
-        "SC": 11740,
+        "OBC": 25204,
+        "SC": 138159,
         "ST": 13106
       },
       "cutoffTrends": [
@@ -7314,11 +7326,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 811714,
-        "EWS": 25386,
-        "OBC": 25551,
-        "SC": 25553,
-        "ST": 25476
+        "General": 905495,
+        "EWS": 731798,
+        "OBC": 665827,
+        "SC": 888372,
+        "ST": 551773
       },
       "cutoffTrends": [
         {
@@ -7332,8 +7344,8 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 333238,
-        "OBC": 17851,
+        "General": 237048,
+        "OBC": 173902,
         "SC": 17847
       },
       "cutoffTrends": [
@@ -7348,11 +7360,11 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 510662,
+        "General": 511799,
         "EWS": 17722,
-        "OBC": 17664,
-        "SC": 17709,
-        "ST": 17610
+        "OBC": 204545,
+        "SC": 392899,
+        "ST": 276779
       },
       "cutoffTrends": [
         {
@@ -7366,9 +7378,9 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 402063,
+        "General": 247596,
         "EWS": 16649,
-        "OBC": 16807,
+        "OBC": 109642,
         "SC": 16405
       },
       "cutoffTrends": [
@@ -7438,7 +7450,7 @@
       "state": "Tamil Nadu",
       "cutoffs": {
         "General": 26199,
-        "EWS": 8971,
+        "EWS": 27846,
         "OBC": 3954,
         "SC": 9720,
         "ST": 13666
@@ -7457,7 +7469,7 @@
       "cutoffs": {
         "General": 14826,
         "EWS": 9543,
-        "OBC": 4875,
+        "OBC": 20670,
         "SC": 10934,
         "ST": 14113
       },
@@ -7491,9 +7503,9 @@
       "quota": "AIQ",
       "state": "Maharashtra",
       "cutoffs": {
-        "General": 106595,
+        "General": 10744,
         "EWS": 4525,
-        "OBC": 4272,
+        "OBC": 14536,
         "SC": 10729,
         "ST": 12429
       },
@@ -7527,7 +7539,7 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 19808,
+        "General": 26474,
         "EWS": 9504,
         "OBC": 6016,
         "SC": 10982,
@@ -7547,9 +7559,9 @@
       "cutoffs": {
         "General": 27130,
         "EWS": 9637,
-        "OBC": 9360,
+        "OBC": 25002,
         "SC": 13672,
-        "ST": 12446
+        "ST": 167635
       },
       "cutoffTrends": [
         {
@@ -7583,7 +7595,7 @@
         "General": 10904,
         "EWS": 5437,
         "OBC": 5599,
-        "SC": 11850,
+        "SC": 129129,
         "ST": 12971
       },
       "cutoffTrends": [
@@ -7601,8 +7613,8 @@
         "General": 14605,
         "EWS": 4797,
         "OBC": 5350,
-        "SC": 11997,
-        "ST": 15276
+        "SC": 89467,
+        "ST": 193440
       },
       "cutoffTrends": [
         {
@@ -7616,10 +7628,10 @@
       "quota": "AIQ",
       "state": "Uttar Pradesh",
       "cutoffs": {
-        "General": 89842,
+        "General": 15633,
         "EWS": 5968,
-        "OBC": 5559,
-        "SC": 11675,
+        "OBC": 18675,
+        "SC": 125688,
         "ST": 12884
       },
       "cutoffTrends": [
@@ -7634,7 +7646,7 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "General": 143763,
+        "General": 26533,
         "EWS": 5391,
         "OBC": 6128,
         "SC": 11252,
@@ -7653,8 +7665,8 @@
       "state": "Bihar",
       "cutoffs": {
         "General": 117034,
-        "EWS": 6228,
-        "OBC": 5847,
+        "EWS": 25831,
+        "OBC": 27360,
         "SC": 12256,
         "ST": 12537
       },
@@ -7670,9 +7682,9 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 603600,
-        "EWS": 20680,
-        "OBC": 21367,
+        "General": 638517,
+        "EWS": 529550,
+        "OBC": 616724,
         "SC": 21396
       },
       "cutoffTrends": [
@@ -7689,7 +7701,7 @@
       "cutoffs": {
         "General": 115750,
         "EWS": 8126,
-        "OBC": 7070,
+        "OBC": 27049,
         "SC": 12354,
         "ST": 13103
       },
@@ -7707,8 +7719,9 @@
       "cutoffs": {
         "General": 656654,
         "EWS": 23072,
-        "OBC": 23323,
-        "SC": 23090
+        "OBC": 735083,
+        "SC": 417182,
+        "ST": 281923
       },
       "cutoffTrends": [
         {
@@ -7740,11 +7753,11 @@
       "quota": "AIQ",
       "state": "Uttarakhand",
       "cutoffs": {
-        "General": 101978,
+        "General": 19188,
         "EWS": 6894,
-        "OBC": 6836,
+        "OBC": 26697,
         "SC": 11475,
-        "ST": 13076
+        "ST": 160265
       },
       "cutoffTrends": [
         {
@@ -7758,10 +7771,11 @@
       "quota": "AIQ",
       "state": "Puducherry",
       "cutoffs": {
-        "General": 693547,
+        "General": 641231,
         "EWS": 22388,
-        "OBC": 22524,
-        "SC": 22321
+        "OBC": 733018,
+        "SC": 730304,
+        "ST": 628998
       },
       "cutoffTrends": [
         {
@@ -7777,7 +7791,7 @@
       "cutoffs": {
         "General": 108149,
         "EWS": 7874,
-        "OBC": 7876,
+        "OBC": 26778,
         "SC": 12754,
         "ST": 13427
       },
@@ -7795,7 +7809,7 @@
       "cutoffs": {
         "General": 24321,
         "EWS": 9155,
-        "OBC": 8415,
+        "OBC": 27190,
         "SC": 13428,
         "ST": 14351
       },
@@ -7811,7 +7825,7 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "General": 404110,
+        "General": 548572,
         "EWS": 17827,
         "OBC": 19256,
         "SC": 17020,
@@ -7866,8 +7880,9 @@
       "state": "Kerala",
       "cutoffs": {
         "EWS": 16791,
-        "General": 17273,
-        "OBC": 17140
+        "General": 199924,
+        "OBC": 185389,
+        "SC": 154390
       },
       "cutoffTrends": [
         {
@@ -7881,10 +7896,10 @@
       "quota": "AIQ",
       "state": "Odisha",
       "cutoffs": {
-        "EWS": 9160,
+        "EWS": 25321,
         "General": 6806,
         "OBC": 8047,
-        "SC": 11760,
+        "SC": 138639,
         "ST": 14350
       },
       "cutoffTrends": [
@@ -7900,10 +7915,10 @@
       "state": "Assam",
       "cutoffs": {
         "EWS": 9476,
-        "General": 26595,
-        "OBC": 9222,
+        "General": 26862,
+        "OBC": 26267,
         "SC": 13529,
-        "ST": 14405
+        "ST": 163863
       },
       "cutoffTrends": [
         {
@@ -7936,9 +7951,9 @@
       "state": "Andhra Pradesh",
       "cutoffs": {
         "EWS": 9590,
-        "General": 8755,
-        "OBC": 9102,
-        "SC": 13034,
+        "General": 26934,
+        "OBC": 24826,
+        "SC": 138659,
         "ST": 14099
       },
       "cutoffTrends": [
@@ -7953,7 +7968,7 @@
       "quota": "AIQ",
       "state": null,
       "cutoffs": {
-        "General": 26579
+        "General": 1156037
       },
       "cutoffTrends": [
         {
@@ -7969,7 +7984,7 @@
       "cutoffs": {
         "EWS": 9487,
         "General": 7505,
-        "OBC": 9057,
+        "OBC": 24993,
         "SC": 13556
       },
       "cutoffTrends": [
@@ -7986,7 +8001,7 @@
       "cutoffs": {
         "EWS": 7101,
         "General": 6534,
-        "OBC": 7045,
+        "OBC": 25212,
         "SC": 11860,
         "ST": 14676
       },
@@ -8002,10 +8017,11 @@
       "quota": "AIQ",
       "state": "Tamil Nadu",
       "cutoffs": {
-        "General": 25549,
-        "OBC": 25561,
-        "SC": 25523,
-        "ST": 25103
+        "General": 849446,
+        "OBC": 918801,
+        "SC": 916817,
+        "ST": 25103,
+        "EWS": 739911
       },
       "cutoffTrends": [
         {
@@ -8019,9 +8035,9 @@
       "quota": "AIQ",
       "state": "Karnataka",
       "cutoffs": {
-        "EWS": 16332,
-        "General": 16368,
-        "OBC": 16340,
+        "EWS": 179582,
+        "General": 143045,
+        "OBC": 185270,
         "SC": 15729
       },
       "cutoffTrends": [
@@ -8038,7 +8054,7 @@
       "cutoffs": {
         "EWS": 8316,
         "General": 25169,
-        "OBC": 7750,
+        "OBC": 21362,
         "SC": 13105,
         "ST": 13859
       },
@@ -8055,8 +8071,8 @@
       "state": "Jharkhand",
       "cutoffs": {
         "EWS": 11858,
-        "General": 11849,
-        "OBC": 11836
+        "General": 30915,
+        "OBC": 28524
       },
       "cutoffTrends": [
         {
@@ -8070,11 +8086,11 @@
       "quota": "AIQ",
       "state": "Nagaland",
       "cutoffs": {
-        "EWS": 9680,
-        "General": 9318,
+        "EWS": 28836,
+        "General": 27332,
         "OBC": 9353,
         "SC": 13768,
-        "ST": 14573
+        "ST": 168372
       },
       "cutoffTrends": [
         {
@@ -8124,7 +8140,7 @@
       "state": "Tamil Nadu",
       "cutoffs": {
         "General": 18653,
-        "OBC": 18605,
+        "OBC": 112218,
         "SC": 18613
       },
       "cutoffTrends": [
@@ -8140,7 +8156,7 @@
       "state": "Maharashtra",
       "cutoffs": {
         "EWS": 11170,
-        "General": 11193,
+        "General": 63334,
         "OBC": 11164
       },
       "cutoffTrends": [
@@ -8156,9 +8172,9 @@
       "state": "Odisha",
       "cutoffs": {
         "EWS": 9112,
-        "General": 26012,
+        "General": 24714,
         "OBC": 8895,
-        "SC": 12789,
+        "SC": 135918,
         "ST": 14564
       },
       "cutoffTrends": [
@@ -8176,7 +8192,7 @@
         "EWS": 9332,
         "General": 8762,
         "OBC": 8981,
-        "SC": 13444,
+        "SC": 138851,
         "ST": 14500
       },
       "cutoffTrends": [
@@ -16112,6 +16128,378 @@
       "totalSeats": 200,
       "category": "Private",
       "cutoffTrends": []
+    },
+    {
+      "name": "AGARTALA GOVT. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tripura",
+      "cutoffs": {
+        "OBC": 25019,
+        "ST": 164648,
+        "General": 27001
+      }
+    },
+    {
+      "name": "AIIMS, Deogarh",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 9475,
+        "EWS": 19161
+      }
+    },
+    {
+      "name": "AIIMS, Madurai",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "EWS": 19825,
+        "General": 1069943,
+        "OBC": 26016,
+        "SC": 138065,
+        "ST": 163006
+      }
+    },
+    {
+      "name": "AIIMS, Raipur",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "OBC": 5074,
+        "SC": 96012
+      }
+    },
+    {
+      "name": "AIIMS, Rishikesh",
+      "quota": "AIQ",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "OBC": 880
+      }
+    },
+    {
+      "name": "ASSAM MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "OBC": 24984,
+        "SC": 138173
+      }
+    },
+    {
+      "name": "Andaman and Nicobar Islands Institute of Medical S",
+      "quota": "AIQ",
+      "state": "Andaman and Nicobar Islands",
+      "cutoffs": {
+        "General": 22814,
+        "OBC": 25220,
+        "SC": 137759,
+        "EWS": 30455
+      }
+    },
+    {
+      "name": "Andhra Medical College",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 16749,
+        "OBC": 22351
+      }
+    },
+    {
+      "name": "CALCUTTA NATIONAL MED COLL",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "OBC": 27406,
+        "SC": 132079,
+        "ST": 120992,
+        "General": 21457
+      }
+    },
+    {
+      "name": "Dr. DY Patil Medical College and Hospt.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "EWS": 376018,
+        "General": 660786,
+        "OBC": 1214759,
+        "SC": 576423,
+        "ST": 311280
+      }
+    },
+    {
+      "name": "GMC, Rajamahendravaram",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "SC": 138386
+      }
+    },
+    {
+      "name": "GMC, Shahjhanpur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "OBC": 22098
+      }
+    },
+    {
+      "name": "GOA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Goa",
+      "cutoffs": {
+        "General": 23562,
+        "EWS": 29942
+      }
+    },
+    {
+      "name": "Government Medical College Khaleelwadi",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 23892
+      }
+    },
+    {
+      "name": "Government Medical College and ESIC Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "EWS": 23675
+      }
+    },
+    {
+      "name": "Hamdard Inst of Med Sciences and Research",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 68155
+      }
+    },
+    {
+      "name": "INDIRA GANDHI MEDICAL COLL.",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": {
+        "EWS": 23461,
+        "OBC": 15819,
+        "SC": 115582
+      }
+    },
+    {
+      "name": "JIPMER PUDUCHERRY",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "OBC": 87672
+      }
+    },
+    {
+      "name": "JLN IMS, IMPHAL",
+      "quota": "AIQ",
+      "state": "Manipur",
+      "cutoffs": {
+        "EWS": 25967,
+        "OBC": 27326
+      }
+    },
+    {
+      "name": "KGMC, LUCKNOW",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "OBC": 5268,
+        "SC": 102100
+      }
+    },
+    {
+      "name": "Lady Hardinge Medical College",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "OBC": 16611
+      }
+    },
+    {
+      "name": "NETAJI SUBHASH CHANDRA BOSE MC",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "EWS": 19739,
+        "General": 25947,
+        "OBC": 26605
+      }
+    },
+    {
+      "name": "PT. B.D. SHARMA PGIMS",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "OBC": 17849
+      }
+    },
+    {
+      "name": "REGIONAL INST OF MEDICAL SCI",
+      "quota": "AIQ",
+      "state": "Manipur",
+      "cutoffs": {
+        "OBC": 25001
+      }
+    },
+    {
+      "name": "RIMS, Ongole",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "SC": 136463
+      }
+    },
+    {
+      "name": "STANLEY MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "OBC": 19763,
+        "SC": 134168,
+        "EWS": 30921
+      }
+    },
+    {
+      "name": "ZORAM MEDICAL COLLEGE Falkawn",
+      "quota": "AIQ",
+      "state": "Mizoram",
+      "cutoffs": {
+        "EWS": 28776,
+        "OBC": 25058,
+        "ST": 168640
+      }
+    },
+    {
+      "name": "Institute of Medical Sciences and SUM Host.",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "SC": 323611,
+        "OBC": 298163
+      }
+    },
+    {
+      "name": "AIIMS, Gorakhpur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 1227396
+      }
+    },
+    {
+      "name": "AIIMS, Jodhpur",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 1043176
+      }
+    },
+    {
+      "name": "AIIMS, Kalyani",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "ST": 156724
+      }
+    },
+    {
+      "name": "AIIMS, Patna",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "EWS": 4952,
+        "ST": 111319
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 2463 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 582344
+      }
+    },
+    {
+      "name": "Allotted( NRI Priority : 1 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1284136
+      }
+    },
+    {
+      "name": "Allotted( NRI Priority : 2 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 1143895
+      }
+    },
+    {
+      "name": "B.J. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "OBC": 12234
+      }
+    },
+    {
+      "name": "GMC, Azamgarh",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "EWS": 30021,
+        "General": 26768,
+        "ST": 163135
+      }
+    },
+    {
+      "name": "GMC, Manjeri",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": {
+        "OBC": 14628
+      }
+    },
+    {
+      "name": "PATNA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 12398
+      }
+    },
+    {
+      "name": "SHKM GMC, Nalhar",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 21408
+      }
+    },
+    {
+      "name": "Tomo Riba Institute Health and Medical Sciences",
+      "quota": "AIQ",
+      "state": "Arunachal Pradesh",
+      "cutoffs": {
+        "General": 27208,
+        "OBC": 27233
+      }
+    },
+    {
+      "name": "Allotted( CW Rank : 24092 )",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 465497
+      }
     }
   ]
 }
