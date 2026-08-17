@@ -83,7 +83,7 @@ export default function CollegeDetails() {
                 {college.cutoffTrends.map((t) => (
                   <tr key={t.year}>
                     <td className="py-2.5 text-on-surface-variant">{t.year}</td>
-                    <td className="py-2.5 font-semibold text-on-surface tabular-nums">{fmt(t.round1)}</td>
+                    <td className="py-2.5 font-semibold text-on-surface tabular-nums">{t.round1 ? fmt(t.round1) : "–"}</td>
                     <td className="py-2.5 font-semibold text-on-surface tabular-nums">{t.round2 ? fmt(t.round2) : "–"}</td>
                   </tr>
                 ))}
