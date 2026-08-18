@@ -65,7 +65,7 @@ export function fmt(n) {
 }
 
 // Leftover counselling-status strings that got scraped in as if they were colleges.
-const JUNK_NAME_PATTERN = /^(did not|not allotted|no upgradation|upgraded\s*\(|fresh allotted)/i;
+const JUNK_NAME_PATTERN = /^(did not|not allotted|no upgradation|upgraded\s*\(|fresh allotted|allotted\s*\(|general pwd$)/i;
 
 export function cleanColleges(colleges) {
   return colleges.filter((c) => !JUNK_NAME_PATTERN.test(c.name.trim()));
