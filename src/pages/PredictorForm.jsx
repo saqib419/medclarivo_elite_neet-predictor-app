@@ -2,11 +2,11 @@ import { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import { Calculator, Lock, ChevronDown } from "lucide-react";
 import { CATEGORIES, STATES } from "../lib/predictor.js";
-import { predict } from "../lib/api.js";
+import { predict, submitLead } from "../lib/api.js";
 import { addRecentSearch, setLastPrediction } from "../lib/storage.js";
 
 const QUOTAS = ["Both", "All India Quota", "State Quota"];
-const STEPS = 3;
+const STEPS = 4;
 
 function ProgressBar({ step }) {
   return (
@@ -30,6 +30,8 @@ function Field({ label, children }) {
 const inputCls =
   "w-full rounded border border-outline-variant bg-surface-container-lowest px-3.5 py-3 text-[15px] text-on-surface placeholder:text-outline focus:outline-none focus:border-primary focus:ring-2 focus:ring-primary/20 transition";
 
+const EMAIL_RE = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
 export default function PredictorForm() {
   const navigate = useNavigate();
   const [step, setStep] = useState(0);
@@ -37,6 +39,10 @@ export default function PredictorForm() {
   const [category, setCategory] = useState("");
   const [quota, setQuota] = useState("");
   const [stateSel, setStateSel] = useState("");
+  const [name, setName] = useState("");
+  const [phone, setPhone] = useState("");
+  const [email, setEmail] = useState("");
+  const [city, setCity] = useState("");
   const [error, setError] = useState("");
   const [submitting, setSubmitting] = useState(false);
 
@@ -52,19 +58,55 @@ export default function PredictorForm() {
       setError("Select both a category and a quota.");
       return;
     }
+    if (step === 2 && !stateSel) {
+      setError("Select your home state.");
+      return;
+    }
     setError("");
     setStep((s) => Math.min(s + 1, STEPS - 1));
   }
 
   async function handleSubmit(e) {
     e.preventDefault();
-    if (!stateSel) {
-      setError("Select your home state.");
+
+    if (!name.trim()) {
+      setError("Enter your name.");
       return;
     }
+    const phoneDigits = phone.replace(/\D/g, "").slice(-10);
+    if (!/^[6-9]\d{9}$/.test(phoneDigits)) {
+      setError("Enter a valid 10-digit phone number.");
+      return;
+    }
+    if (!EMAIL_RE.test(email)) {
+      setError("Enter a valid email address.");
+      return;
+    }
+    if (!city.trim()) {
+      setError("Enter your city.");
+      return;
+    }
+
+    setError("");
     setSubmitting(true);
+
     const result = await predict({ score: Number(score), category, state: stateSel, quota });
     const entry = { score: Number(score), category, state: stateSel, quota, rank: result.rank, rankRange: result.rankRange };
+
+    // Fire the lead off in the background — a webhook hiccup should never
+    // block a student from seeing their result.
+    submitLead({
+      name: name.trim(),
+      phone: phoneDigits,
+      email: email.trim(),
+      city: city.trim(),
+      score: Number(score),
+      category,
+      quota,
+      state: stateSel,
+      rank: result.rank,
+    });
+
     setLastPrediction(entry);
     addRecentSearch(entry);
     setSubmitting(false);
@@ -126,6 +168,38 @@ export default function PredictorForm() {
               <ChevronDown size={16} className="absolute right-3.5 top-1/2 -translate-y-1/2 text-on-surface-variant pointer-events-none" />
             </div>
           </Field>
+        )}
+
+        {step === 3 && (
+          <>
+            <p className="text-[13px] text-on-surface-variant -mt-1 mb-4">
+              One last step — enter your details to see your predicted rank and matching colleges.
+            </p>
+            <Field label="Full Name">
+              <input
+                type="text" placeholder="e.g. Aisha Khan"
+                value={name} onChange={(e) => setName(e.target.value)} autoFocus className={inputCls}
+              />
+            </Field>
+            <Field label="Phone Number">
+              <input
+                type="tel" inputMode="numeric" placeholder="e.g. 98765 43210"
+                value={phone} onChange={(e) => setPhone(e.target.value)} className={inputCls}
+              />
+            </Field>
+            <Field label="Email Address">
+              <input
+                type="email" placeholder="e.g. aisha@example.com"
+                value={email} onChange={(e) => setEmail(e.target.value)} className={inputCls}
+              />
+            </Field>
+            <Field label="City">
+              <input
+                type="text" placeholder="e.g. Srinagar"
+                value={city} onChange={(e) => setCity(e.target.value)} className={inputCls}
+              />
+            </Field>
+          </>
         )}
 
         {error && <p className="text-error text-[13px] font-medium mb-3">{error}</p>}
