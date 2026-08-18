@@ -95,3 +95,24 @@ export async function submitLead(payload) {
     return { ok: false };
   }
 }
+
+export async function register({ name, email, mobile, password }) {
+  // NOTE: posts directly to the Render/MongoDB backend, not this repo's
+  // own /api routes (those only serve college/predict data from
+  // public/data.json). Confirm the exact endpoint path with Saqib —
+  // this assumes POST /api/auth/register exists on that backend.
+  try {
+    const res = await fetch("https://med-clarivo.onrender.com/api/auth/register", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ name, email, mobile, password }),
+    });
+    const data = await res.json().catch(() => null);
+    if (!res.ok) {
+      return { success: false, message: (data && data.message) || "Registration failed. Please try again." };
+    }
+    return { success: true, ...data };
+  } catch {
+    return { success: false, message: "Could not reach the server. Check your connection and try again." };
+  }
+}

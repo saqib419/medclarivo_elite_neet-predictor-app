@@ -1,0 +1,2243 @@
+[
+  {
+    "app_name": "Maulana Azad Medical College, Delhi",
+    "official_name": "Maulana Azad Medical College, New Delhi",
+    "score": 0.944,
+    "old_total": 191,
+    "new_total": 250,
+    "state": "Delhi",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Lady Hardinge Medical College, Delhi",
+    "official_name": "Lady Hardinge Medical College, New Delhi",
+    "score": 0.946,
+    "old_total": 175,
+    "new_total": 240,
+    "state": "Delhi",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "King George's Medical University, Lucknow",
+    "official_name": "King George Medical University, Lucknow",
+    "score": 0.974,
+    "old_total": 222,
+    "new_total": 250,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College, Kozhikode",
+    "official_name": "Government Medical College, Kozhikode, Calicut",
+    "score": 0.9,
+    "old_total": 158,
+    "new_total": 250,
+    "state": "Kerala",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Stanley Medical College, Chennai",
+    "official_name": "Stanley Medical College, Chennai",
+    "score": 1.0,
+    "old_total": 195,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College, Patiala",
+    "official_name": "Government Medical College, Patiala",
+    "score": 1.0,
+    "old_total": 243,
+    "new_total": 250,
+    "state": "Punjab",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Netaji Subhash Chandra Bose Medical College, Jabalpur",
+    "official_name": "Netaji Subhash Chandra Bose Medical College, Jabalpur",
+    "score": 1.0,
+    "old_total": 249,
+    "new_total": 250,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Andhra Medical College, Visakhapatnam",
+    "official_name": "Andhra Medical College, Visakhapatnam",
+    "score": 1.0,
+    "old_total": 114,
+    "new_total": 250,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Tomo Riba Institute of Health & Medical Sciences, Naharlagun",
+    "official_name": "Tomo Riba Institute of Health & Medical Sciences, Naharlagun",
+    "score": 1.0,
+    "old_total": 209,
+    "new_total": 100,
+    "state": "Arunachal Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Assam Medical College, Dibrugarh",
+    "official_name": "Assam Medial College, Dibrugarh",
+    "score": 0.984,
+    "old_total": 158,
+    "new_total": 250,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Patna Medical College, Patna",
+    "official_name": "Patna Medical College, Patna",
+    "score": 1.0,
+    "old_total": 158,
+    "new_total": 250,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Goa Medical College, Panaji",
+    "official_name": "Goa Medical College, Panaji",
+    "score": 1.0,
+    "old_total": 198,
+    "new_total": 250,
+    "state": "Goa",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "B.J. Medical College, Ahmedabad",
+    "official_name": "B J Medical College, Ahmedabad",
+    "score": 1.0,
+    "old_total": 192,
+    "new_total": 250,
+    "state": "Gujarat",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Indira Gandhi Medical College, Shimla",
+    "official_name": "Indira Gandhi Medical College, Shimla",
+    "score": 1.0,
+    "old_total": 122,
+    "new_total": 120,
+    "state": "Himachal Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Rajendra Institute of Medical Sciences, Ranchi",
+    "official_name": "Rajendra Institute of Medical Sciences, Ranchi",
+    "score": 1.0,
+    "old_total": 201,
+    "new_total": 250,
+    "state": "Jharkhand",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Regional Institute of Medical Sciences, Imphal",
+    "official_name": "Regional Institute of Medical Sciences, Imphal",
+    "score": 1.0,
+    "old_total": 103,
+    "new_total": 150,
+    "state": "Manipur",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences, Shillong",
+    "official_name": "North Eastern Indira Gandhi Regional Instt. of Health and Medical Sciences, Shillong",
+    "score": 0.951,
+    "old_total": 113,
+    "new_total": 50,
+    "state": "Meghalaya",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Nagaland Institute of Medical Sciences and Research, Kohima",
+    "official_name": "Nagaland Institute of Medical Sciences & Research",
+    "score": 0.895,
+    "old_total": 187,
+    "new_total": 100,
+    "state": "Nagaland",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SCB Medical College, Cuttack",
+    "official_name": "SCB Medical College, Cuttack",
+    "score": 1.0,
+    "old_total": 112,
+    "new_total": 250,
+    "state": "Odisha",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Sikkim Manipal Institute of Medical Sciences, Gangtok",
+    "official_name": "Sikkim Manipal Institute of Medical Sciences, Gangtok",
+    "score": 1.0,
+    "old_total": 160,
+    "new_total": 100,
+    "state": "Sikkim",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Osmania Medical College, Hyderabad",
+    "official_name": "Osmania Medical College, Hyderabad",
+    "score": 1.0,
+    "old_total": 137,
+    "new_total": 250,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Agartala Government Medical College",
+    "official_name": "Agartala Government Medical College,Agartala",
+    "score": 0.9,
+    "old_total": 244,
+    "new_total": 200,
+    "state": "Tripura",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Calcutta National Medical College, Kolkata",
+    "official_name": "Calcutta National Medical College, Kolkata",
+    "score": 1.0,
+    "old_total": 209,
+    "new_total": 250,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College and Hospital, Chandigarh",
+    "official_name": "Government Medical College & Hospital (Renamed as Bhima Bhoi Medical College & Hospital), Balangir",
+    "score": 0.851,
+    "old_total": 170,
+    "new_total": 100,
+    "state": "Odisha",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College, Srinagar",
+    "official_name": "Government Medical College, Srinagar",
+    "score": 1.0,
+    "old_total": 118,
+    "new_total": 250,
+    "state": "Jammu and Kashmir",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ACS Medical College and Hospital",
+    "official_name": "Arya Medical College and Hospital",
+    "score": 0.923,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Rajasthan",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "ACSR Govt Medical College",
+    "official_name": "ACSR Government Medical College",
+    "score": 0.893,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ANUGRAH NARAYAN MAGADH MEDICAL COLLEGE",
+    "official_name": "Anugrah Narayan Magadh Medical College, Gaya",
+    "score": 0.938,
+    "old_total": null,
+    "new_total": 120,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE",
+    "official_name": "Shri Atal Bihari Vajpayee Government Medical College, Faridabad",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Haryana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Amrita School of Medicine Faridabad",
+    "official_name": "Amrita School of Medicine",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Haryana",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Atal Bihari Vajpayee Institute of Medical Sciences & DR RML HOSPITAL",
+    "official_name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi",
+    "score": 0.904,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Delhi",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Autonomous State Medical Collage",
+    "official_name": "Autonomous state medical college Amethi",
+    "score": 0.873,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Autonomous State Medical College",
+    "official_name": "Autonomous state medical college Amethi",
+    "score": 0.901,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Autonomous State Medical College Society",
+    "official_name": "Autonomous State Medical College Society, Hardoi",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Autonomous State Medical college Society Hardoi",
+    "official_name": "Autonomous State Medical College Society, Hardoi",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "B.J. Government Medical College",
+    "official_name": "ACSR Government Medical College",
+    "score": 0.885,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "BHAARATH MEDICAL COLLEGE AND HOSPITAL",
+    "official_name": "Bhaarat Medical College & Hospital",
+    "score": 0.928,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "BIDAR INSTITUTE OF MEDICAL SCI.",
+    "official_name": "Bidar Institute of Medical Sciences, Bidar",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "BUNDELKHAND MEDICAL COLLEGE",
+    "official_name": "Bundelkhand Medical College, Sagar",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "BURDWAN MEDICAL COLLEGE",
+    "official_name": "Burdwan Medical College, Burdwan",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Bangalore Medical College and Research Institute",
+    "official_name": "Bangalore Medical College and Research Institute, Bangalore",
+    "score": 0.906,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Barasat Government Medical College & Hospital",
+    "official_name": "Barasat Government Medical College & Hospital",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "C. Institute of Medical Sciences",
+    "official_name": "CMR Institute of Medical Science",
+    "score": 0.952,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Telangana",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "CHENGALPATTU MEDICAL COLL",
+    "official_name": "Chengalpattu Medical College, Chengalpattu",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES",
+    "official_name": "Chhattisgarh Institute of Medical Sciences, Bilaspur",
+    "score": 0.903,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Chhattisgarh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "COIMBATORE MEDICAL COLLEGE",
+    "official_name": "Coimbatore Medical College, Coimbatore",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "COLLEGE OF MEDICINE and JNM HOSPITAL",
+    "official_name": "College of Medicine and JNM Hospital, Kalyani, Nadia",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Chhindwara Institute of Medical Sciences",
+    "official_name": "CMR Institute of Medical Science",
+    "score": 0.861,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Telangana",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Chikkamagaluru Institute of Medical Sciences",
+    "official_name": "Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Chitradurga Medical College and Research Institute",
+    "official_name": "Chitradurga Medical College and Research Institute",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "College Government Medical College Alwar",
+    "official_name": "Government Medical College, Alwar",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "DY Patil University School of Medicine",
+    "official_name": "DY Patil University, School of Medicine",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Maharashtra",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Darbhanga Medical College",
+    "official_name": "Darbhanga Medical College, Lehriasarai",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Deben Mahata Government Medical College & Hospital",
+    "official_name": "Barasat Government Medical College & Hospital",
+    "score": 0.879,
+    "old_total": null,
+    "new_total": 100,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Dr. B.R. Ambedkar State Institute of Medical Sciences",
+    "official_name": "Dr B R Ambedkar State Institute of Medical Sciences, SAS Nagar , Mohali",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Punjab",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Dr.Radhakrishnan Government Medical College",
+    "official_name": "Dr. Radhakrishnan Government Medical College, Hamirpur, H.P",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 120,
+    "state": "Himachal Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ESIC MEDICAL COLLEGE & HOSPITAL",
+    "official_name": "VELS Medical College & Hospital",
+    "score": 0.931,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "ESIC MEDICAL COLLEGE AND HOSPITAL",
+    "official_name": "ESIC MEDICAL COLLEGE AND HOSPITAL, NOIDA",
+    "score": 0.917,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ESIC MEDICAL COLLEGE NARODA",
+    "official_name": "ESIC MEDICAL COLLEGE NARODA BAPUNAGAR, AHMEDABAD",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Gujarat",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ESIC Medical College",
+    "official_name": "ESIC Medical College & Hospital, Basaidarapur, New Delhi",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Delhi",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ESIC Medical College and Hospital Varanasi",
+    "official_name": "ESIC Medical College and Hospital, VARANASI",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Employees State Insurance Corporation Medical College",
+    "official_name": "Employees State Insurance Corporation Medical College, Patna",
+    "score": 0.946,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Fakhruddin Ali Ahmed Medical College",
+    "official_name": "Fakhruddin Ali Ahmed Medical College, Barpeta, Assam",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 125,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GAJRA RAJA MEDICAL COLLEGE",
+    "official_name": "Gajra Raja Medical College, Gwalior",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GANDHI MEDICAL COLLEGE",
+    "official_name": "Gandhi Medical College, Bhopal",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GMERS Medical College",
+    "official_name": "GMERS Medical College, Dharpur Patan",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Gujarat",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMENT MEDICAL COLLEGE",
+    "official_name": "ACSR Government Medical College",
+    "score": 0.912,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMENT MEDICAL COLLEGE Karimnagar Telangana",
+    "official_name": "Government Medical College, Vikarabad, Telangana",
+    "score": 0.903,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM",
+    "official_name": "Government Medical College, Machilipatnam",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMENT MEDICAL COLLEGE NANDYAL",
+    "official_name": "Government Medical College, Nandyal",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMENT MEDICAL COLLEGE PURNEA",
+    "official_name": "Government Medical College, Purnea",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVT MEDICAL COLLEGE",
+    "official_name": "B. J. Govt. Medical College, Pune",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVT. MEDICAL COLLEGE",
+    "official_name": "B. J. Govt. Medical College, Pune",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVT.MEDICAL COLLEGE",
+    "official_name": "B. J. Govt. Medical College, Pune",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GUNTUR MEDICAL COLLEGE",
+    "official_name": "Guntur Medical College, Guntur",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Gadag Institute of Medical Sciences",
+    "official_name": "RVS INSTITUTE OF MEDICAL SCIENCES",
+    "score": 0.882,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Andhra Pradesh",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Gandhi Medical College Musheerabad Secunderabad",
+    "official_name": "Gandhi Medical College, Secunderabad",
+    "score": 0.854,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Goverment Medical College",
+    "official_name": "GOVERMENT MEDICAL COLLEGE, SHEOPUR",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Goverment Medical College And Hospital Jalgaon",
+    "official_name": "Government Medical College & Hospital (Renamed as Fakir Mohan Medical College & Hospital), Balasore",
+    "score": 0.867,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Odisha",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Goverment Medical College Sheopur",
+    "official_name": "GOVERMENT MEDICAL COLLEGE, SHEOPUR",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medcial College",
+    "official_name": "ACSR Government Medical College",
+    "score": 0.877,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College & Hospital",
+    "official_name": "Government Medical College, Kota",
+    "score": 0.909,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College Chittorgarh",
+    "official_name": "Government Medical College, Chittorgarh",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College Mahasamund Chhattisgarh",
+    "official_name": "Government Medical College, Mahasamund",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 125,
+    "state": "Chhattisgarh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College Nirmal",
+    "official_name": "Government Medical College, Nirmal",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College Satna",
+    "official_name": "Government Medical College, Satna",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College Siddipet",
+    "official_name": "Government Medical College, Siddipet",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College Suryapet",
+    "official_name": "Government Medical College, Suryapet",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College and Hospital",
+    "official_name": "Diamond Harbour Government Medical College and Hospital, West Bengal",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt Medical College Basti",
+    "official_name": "Govt. Medical College, Kolkata",
+    "score": 0.852,
+    "old_total": null,
+    "new_total": 250,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt Medical College Faizabad",
+    "official_name": "Government Medical College, Faizabad",
+    "score": 0.906,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt Medical College Firozabad",
+    "official_name": "Government Medical College, Firozabad",
+    "score": 0.909,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt Medical College Kannur",
+    "official_name": "GSVM Medical College, Kanpur",
+    "score": 0.889,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt Medical College Nalgonda",
+    "official_name": "Government Medical College, Nalgonda",
+    "score": 0.906,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt Medical College Ratlam",
+    "official_name": "Govt. Medical College, Kolkata",
+    "score": 0.873,
+    "old_total": null,
+    "new_total": 250,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt Medical College Shahdol",
+    "official_name": "Government Medical College, Shahdol, MP",
+    "score": 0.862,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt Medical college Shivpuri",
+    "official_name": "Government Medical College, Shivpuri, MP",
+    "score": 0.866,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt institute of Medcial Sciences",
+    "official_name": "RVS INSTITUTE OF MEDICAL SCIENCES",
+    "score": 0.896,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Andhra Pradesh",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Govt. Medical College Jayashankar Bhupalpally",
+    "official_name": "Government Medical College, Jayashankar Bhupalpally",
+    "score": 0.936,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt. Medical College Karur",
+    "official_name": "Government Medical College, Karur",
+    "score": 0.897,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt. Medical College Rajanna Sircilla",
+    "official_name": "Government Medical College, Rajanna Sircilla",
+    "score": 0.925,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Govt. Medical College and Hospital",
+    "official_name": "JIET Medical College and Hospital",
+    "score": 0.909,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Rajasthan",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Graphic Era Institute Of Medical Science",
+    "official_name": "Graphic Era Institute of Medical Sciences Dehradun, Uttrakhand",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Uttarakhand",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Gulbarga Institute of Medical Sciences",
+    "official_name": "Gulbarga Institute of Medical Sciences, Gulbarga",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Haveri Institute of Medical Sciences",
+    "official_name": "Haveri Institute of Medical Sciences, Haveri",
+    "score": 0.911,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Indira Gandhi Institute of Medical Sciences",
+    "official_name": "Indira Gandhi Institute of Medical Sciences, Sheikhpura, Patna",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Indira Gandhi Medical College & RI",
+    "official_name": "Indira Gandhi Medical College, Shimla",
+    "score": 0.912,
+    "old_total": null,
+    "new_total": 120,
+    "state": "Himachal Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Institute of Medical Sciences & SUM Hospital",
+    "official_name": "Institute of Medical Sciences & SUM Hospital, Bhubaneswar",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Odisha",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "JHALAWAR MEDICAL COLLEGE",
+    "official_name": "Jhalawar Medical College, Jhalawar",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "JLN Medical College",
+    "official_name": "Kiran Medical College",
+    "score": 0.85,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Gujarat",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "JSS Medical College",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.947,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Jawahar Lal Nehru Medical College",
+    "official_name": "Jawaharlal Nehru Medical College, Ajmer",
+    "score": 0.901,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Jawaharlal Nehru Medical College",
+    "official_name": "Jawaharlal Nehru Medical College, Ajmer",
+    "score": 0.914,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Jhargram Government Medical College and Hospital",
+    "official_name": "Jhargram Government Medical College & Hospital, Jhargram",
+    "score": 0.871,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Jorhat Medical College and Hospital",
+    "official_name": "Arya Medical College and Hospital",
+    "score": 0.912,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Rajasthan",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "K.S Hegde Medical Academy",
+    "official_name": "K S Hegde Medical Academy, Mangalore",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Karnataka",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "KURNOOL MEDICAL COLLEGE",
+    "official_name": "Kurnool Medical College, Kurnool",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Kakatiya Medical College Warangal",
+    "official_name": "Kakatiya Medical College, Warangal",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Kalinga Institute of Medical Sciences",
+    "official_name": "Kalinga Institute of Medical Sciences, Bhubaneswar",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Odisha",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Kalyan Singh Government Medical College",
+    "official_name": "Kalyan Singh Government Medical College",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Karwar Institute of Medical Sciences",
+    "official_name": "Karwar Institute of Medical Sciences, Karwar",
+    "score": 0.911,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Kasturba Medical College",
+    "official_name": "Kasturba Medical College, Mangalore",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Karnataka",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Kodagu Institute of Medical Sciences",
+    "official_name": "Kodagu Institute of Medical Sciences, Kodagu",
+    "score": 0.911,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Kokrajhar Medical College & Hospital Rangalikhata",
+    "official_name": "Kokrajhar Medical College",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Koppal Institute of Medical Sciences",
+    "official_name": "Koppal Institute of Medical Sciences, Koppal",
+    "score": 0.911,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Lakhimpur Medical College",
+    "official_name": "Lakhimpur Medical College",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "M.G.M. MEDICAL COLLEGE",
+    "official_name": "M G M Medical College, Indore",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "MADRAS MEDICAL COLLEGE",
+    "official_name": "Madras Medical College, Chennai",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "MADURAI MEDICAL COLLEGE",
+    "official_name": "Madurai Medical College, Madurai",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "MAHARANI LAXMI BAI MEDICAL COLL",
+    "official_name": "Maharani Laxmi Bai Medical College, Jhansi",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "MAHARSHI DEVRAHA BABA AUTONOMOUS STATE. MEDICAL COLLEGE",
+    "official_name": "Maharshi Devraha Baba Autonomous State Medical College, Deoria",
+    "score": 0.939,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "MEDICAL COLLEGE",
+    "official_name": "Aarupadai Veedu Medical College, Pondicherry",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Puducherry",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "MIDNAPORE MEDICAL COLLEGE",
+    "official_name": "Midnapore Medical College, Midnapore",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "MOTI LAL NEHRU MEDICAL COLL",
+    "official_name": "Moti Lal Nehru Medical College, Allahabad",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Maharishi Chyawan Medical College",
+    "official_name": "Maharishi Chyawan Medical College, Koriawas",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Haryana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Mahatma Gandhi Medical College",
+    "official_name": "Mahatma Gandhi Medical College & Research Institute, Pondicherry",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Puducherry",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Mahatma Gandhi Mission Medical College",
+    "official_name": "Mahatma Gandhi Mission Medical College, Vashi",
+    "score": 0.927,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Maharashtra",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Mahatma Gandhi Missions Medical College",
+    "official_name": "Mahatma Gandhi Missions Medical College, Panvel",
+    "score": 0.918,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Maharashtra",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Mahatma Vidur Autonomous State Medical College",
+    "official_name": "Mahatma Vidur Autonomous State Medical College",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Malla Reddy Institute of Medical Sciences",
+    "official_name": "Malla Reddy Institute of Medical Sciences, Hyderabad",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Telangana",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Malla Reddy Medical College for Women",
+    "official_name": "Mallareddy Medical College for Women, Hyderabad",
+    "score": 0.867,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Telangana",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Meenakshi Medical College Hospital and Research Institute",
+    "official_name": "APS MEDICAL COLLEGE HOSPITAL AND RESEARCH INSTITUTE",
+    "score": 0.926,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Tamil Nadu",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "NALANDA MEDICAL COLLEGE",
+    "official_name": "Nalanda Medical College, Patna",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "NILRATAN SIRKAR MEDICAL COLLEGE",
+    "official_name": "Nilratan Sircar Medical College, Kolkata",
+    "score": 0.857,
+    "old_total": null,
+    "new_total": 250,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "PABITRA MOHAN PRADHAN MEDICAL COLLEGE & HOSPITAL",
+    "official_name": "PABITRA MOHAN PRADHAN MEDICAL COLLEGE, TALCHER",
+    "score": 0.901,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Odisha",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "PRAGJYOTISHPUR MEDICAL COLLEGE",
+    "official_name": "Pragjyotishpur Medical College",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Prafulla Chandra Sen Government Medical College & Hospital",
+    "official_name": "Prafulla Chandra Sen Government Medical College & Hospital",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Pt. J N M MEDICAL COLLEGE",
+    "official_name": "Pt. J N M Medical College, Raipur",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Chhattisgarh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "R.N.T. MEDICAL COLLEGE",
+    "official_name": "R N T Medical College, Udaipur",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "RAJIV GANDHI INSTITUTE OF MEDICAL SCIENCES",
+    "official_name": "Rajiv Gandhi Institute of Medical Sciences, adilabad",
+    "score": 0.903,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "RAJIV GANDHI MEDICAL COLLEGE",
+    "official_name": "Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "RUHS College of Medical Sciences",
+    "official_name": "RUHS College of Medical Sciences, Jaipur",
+    "score": 0.901,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Raiganj Government Medical College",
+    "official_name": "Raiganj Government Medical College & Hospital, Raiganj",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Rajarshee Chhatrapati Shahu Maharaj Government Medical College Kolhapur",
+    "official_name": "Rajashree Chatrapati Shahu Maharaj Government Medical College, Kolhapur",
+    "score": 0.979,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Rajiv Gandhi Institute Medical Sce of Adilabad",
+    "official_name": "Rajiv Gandhi Institute of Medical Sciences, adilabad",
+    "score": 0.887,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Rajkiya Medical College",
+    "official_name": "Rajkiya Medical College Jalaun, Orai, Uttar Pradesh",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Rangaraya Medical College",
+    "official_name": "Rangaraya Medical College, Kakinada",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Rural Medical College and PIMS",
+    "official_name": "Rural Medical College, Loni",
+    "score": 0.857,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Maharashtra",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "S.M.S. MEDICAL COLLEGE",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "S.N. MEDICAL COLLEGE",
+    "official_name": "S N Medical College, Agra",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "S.S. MEDICAL COLLEGE",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.947,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "SARDAR PATEL MEDICAL COLLEGE",
+    "official_name": "Sardar Patel Medical College, Bikaner",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SDU Medical College",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.895,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "SETH G.S. MEDICAL COLLEGE",
+    "official_name": "Seth GS Medical College, Mumbai",
+    "score": 0.852,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SHILONG MEDICAL COLLEGE",
+    "official_name": "Shillong Medical College",
+    "score": 0.979,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Meghalaya",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SHRI ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE",
+    "official_name": "Shri Atal Bihari Vajpayee Government Medical College, Faridabad",
+    "score": 0.912,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Haryana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SHRI KALYAN GOVT MEDICAL COLLEGE SIKAR",
+    "official_name": "Shri Kalyan Govt. Medical College, Sikar, Rajasthan",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SILCHAR MEDICAL COLLEGE",
+    "official_name": "Silchar Medical College, Silchar",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SJP Medical College",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.895,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "SKIMS Medical College",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.95,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "SOBAN SINGH JEENA GOVERNMENT INSTITUTE OF MEDICAL SCIENCE & RESEARCH",
+    "official_name": "Soban Singh jeena Government institute of Medical science & Research, Almora",
+    "score": 0.95,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttarakhand",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SRM Medical College and Hospital",
+    "official_name": "RIMT Medical College and Hospital",
+    "score": 0.954,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Punjab",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "SVIMS - Sri Padmavathi Medical College for Women",
+    "official_name": "SVIMS - Sri Padmavathi Medical College for Women, Alipiri Road, Tirupati",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 175,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Sagar Dutta Medical College & Hospital",
+    "official_name": "Bhaarat Medical College & Hospital",
+    "score": 0.853,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Santosh Medical College and Hospital",
+    "official_name": "Sido Kanhu Medical College and Hospital",
+    "score": 0.88,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Jharkhand",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Sarat Chandra Chattopadhyay Govt. Medical College & Hospital",
+    "official_name": "Sarat Chandra Chattopadhyay Government Medical College & Hospital,",
+    "score": 0.95,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Saveetha Medical College",
+    "official_name": "Saveetha Medical College and Hospital, Kanchipuram",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Shaheed Nirmal Mahto Medical College & Hospital",
+    "official_name": "Shaheed Nirmal Mahto Medical College & Hospital, Dhanbad (formely known as Patliputra Medical College, Dhanbad)",
+    "score": 0.918,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Jharkhand",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Shri Atal Bihari Vajpayee Medical College & Research Institute",
+    "official_name": "Shri Atal Bihari Vajapayee Medical College and Research Institute, Bengaluru,",
+    "score": 0.889,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Shri Sathya Sai Medical College and Research Institute",
+    "official_name": "Shri Sathya Sai Medical College and Research Institute, Kancheepuram",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Sree Balaji Medical College and Hospital",
+    "official_name": "Sree Balaji Medical College and Hospital, Chennai",
+    "score": 0.909,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Sri Jagannath Medical College & Hospital",
+    "official_name": "Sri Jagannath Medical College & Hospital, Puri",
+    "score": 0.938,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Odisha",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Sri Siddhartha Medical College DU",
+    "official_name": "Sri Siddhartha Medical College, Tumkur",
+    "score": 0.914,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Karnataka",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Sundarlal patwa Govt medical College mandsaur",
+    "official_name": "Sundarlal Patwa Govt. Medical College",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "T.D. MEDICAL COLLEGE",
+    "official_name": "T D Medical College, Alleppey (Allappuzha)",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 175,
+    "state": "Kerala",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "THANJAVUR MEDICAL COLL.",
+    "official_name": "Thanjavur Medical College, Thanjavur",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "THOOTHUKUDI MEDICAL COLLEGE",
+    "official_name": "Thoothukudi Medical College, Thoothukudi",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "TOPIWALA NATIONAL MEDICAL COLLEGE",
+    "official_name": "Topiwala National Medical College, Mumbai",
+    "score": 0.904,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Tezpur Medical College",
+    "official_name": "Tezpur Medical College & Hospital, Tezpur",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 125,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Tinsukia Medical College & Hospital",
+    "official_name": "PKG Medical College & Hospital",
+    "score": 0.852,
+    "old_total": null,
+    "new_total": 100,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "University College of Medical Sciences",
+    "official_name": "University College of Medical Sciences & GTB Hospital, New Delhi",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 170,
+    "state": "Delhi",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Uttar Pradesh University of Medical Sciences",
+    "official_name": "Uttar Pradesh University of Medical Sciences, (Prev. UP Rural Inst.of Med.Sc&R) Etawah",
+    "score": 0.926,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "V.S.S. MEDICAL COLLEGE",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "VARDHMAN INSTITUTE OF MEDICAL SCIENCES",
+    "official_name": "VIRAAT RAMAYAN INSTITUTE OF MEDICAL SCIENCES",
+    "score": 0.878,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Bihar",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "VELS MEDICAL COLLEGE & HOSPITAL",
+    "official_name": "VELS Medical College & Hospital",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "VMKV Medical College and Hospital",
+    "official_name": "RIMT Medical College and Hospital",
+    "score": 0.909,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Punjab",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi",
+    "official_name": "Vardhman Mahavir Medical College & Safdarjung Hospital, Delhi",
+    "score": 0.935,
+    "old_total": null,
+    "new_total": 170,
+    "state": "Delhi",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Virendra Kumar Sakhlecha Government Medical College",
+    "official_name": "Virendra Kumar Sakhlecha Government Medical College",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "YADGIRI INSTITUTE OF MEDICAL SCIENCES",
+    "official_name": "Yadgiri Institute of Medical Sciences, Yadgiri",
+    "score": 0.902,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Karnataka",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Yenepoya Medical College",
+    "official_name": "Yenepoya Medical College, Mangalore",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Karnataka",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Amrita Institute of Medical Science",
+    "official_name": "CMR Institute of Medical Science",
+    "score": 0.925,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Telangana",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Bhima Bhoi Medical College and Hospital",
+    "official_name": "RIMT Medical College and Hospital",
+    "score": 0.861,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Punjab",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Dhubri Medical College",
+    "official_name": "Dhubri Medical College, Dhubri",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Diphu Medical College & Hospital",
+    "official_name": "Diphu Medical College & Hospital, Diphu, Assam",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVT MEDICAL COLLEGE VIZIANAGARAM",
+    "official_name": "Government medical college, vizianagaram",
+    "score": 0.917,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College Narsampet",
+    "official_name": "Government Medical College, Narsampet",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government of Medical College and Hospital",
+    "official_name": "RIMT Medical College and Hospital",
+    "score": 0.853,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Punjab",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "J R MEDICAL COLLEGE AND HOSPITAL",
+    "official_name": "Arya Medical College and Hospital",
+    "score": 0.923,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Rajasthan",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College",
+    "official_name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College JGMMMC",
+    "score": 0.948,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Karnataka",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Manipal Tata Medical College",
+    "official_name": "Manipal Tata Medical College,Baridih Jameshedpur",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Jharkhand",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "NAGALAND INSTITUTE OF MEDICAL SCIENCE AND RESEARCH PHIREBAGIE",
+    "official_name": "Nagaland Institute of Medical Sciences & Research",
+    "score": 0.852,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Nagaland",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Nagaon Medical college",
+    "official_name": "Nagaon Medical College",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Assam",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "S.C.B. MEDICAL COLLEGE",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.85,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE",
+    "official_name": "Symbiosis Medical College for Women, Pune",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Maharashtra",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Tamralipto Government Medical College & Hospital",
+    "official_name": "Tamralipto Government Medical College & Hospital",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College, Palakkad",
+    "official_name": "Government Medical College, Namakkal",
+    "score": 0.914,
+    "old_total": 100,
+    "new_total": 150,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College, Ratnagiri",
+    "official_name": "Government Medical College, Krishnagiri",
+    "score": 0.919,
+    "old_total": 100,
+    "new_total": 150,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College, Bhilwara",
+    "official_name": "Government Medical College, Alwar",
+    "score": 0.925,
+    "old_total": 150,
+    "new_total": 100,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College, Pali",
+    "official_name": "Government Medical College, Alibag",
+    "score": 0.938,
+    "old_total": 150,
+    "new_total": 100,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College & Hospital, Cuddalore",
+    "official_name": "Government Medical College & Hospital (Renamed as Fakir Mohan Medical College & Hospital), Balasore",
+    "score": 0.921,
+    "old_total": 150,
+    "new_total": 100,
+    "state": "Odisha",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College, Pudukottai",
+    "official_name": "Government Medical College, Kota",
+    "score": 0.912,
+    "old_total": 150,
+    "new_total": 250,
+    "state": "Rajasthan",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ASSAM MEDICAL COLLEGE",
+    "official_name": "SKS MEDICAL COLLEGE",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "Andhra Medical College",
+    "official_name": "Andhra Medical College, Visakhapatnam",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOA MEDICAL COLLEGE",
+    "official_name": "Goa Medical College, Panaji",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Goa",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Government Medical College Khaleelwadi",
+    "official_name": "Government Medical College (Prev.Uttarakhand Forest Hospital Trust Med.Col.), Haldwani",
+    "score": 0.904,
+    "old_total": null,
+    "new_total": 125,
+    "state": "Uttarakhand",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "INDIRA GANDHI MEDICAL COLL.",
+    "official_name": "Indira Gandhi Medical College & Hospital, Nagpur",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Maharashtra",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Lady Hardinge Medical College",
+    "official_name": "Lady Hardinge Medical College, New Delhi",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 240,
+    "state": "Delhi",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "STANLEY MEDICAL COLLEGE",
+    "official_name": "Stanley Medical College, Chennai",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Tamil Nadu",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "B.J. MEDICAL COLLEGE",
+    "official_name": "B J Medical College, Ahmedabad",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Gujarat",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "PATNA MEDICAL COLLEGE",
+    "official_name": "Patna Medical College, Patna",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Maulana Azad Medical College",
+    "official_name": "Maulana Azad Medical College, New Delhi",
+    "score": 0.9,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Delhi",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Jagadguru Gangadhar Mahaswamigalu Moor usavirmath Medical College",
+    "official_name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College JGMMMC",
+    "score": 0.941,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Karnataka",
+    "mgmt": "Private"
+  },
+  {
+    "app_name": "ATAL BIHARI VAJPAYEE GOVERNMEN T MEDICAL COLLEGE",
+    "official_name": "Shri Atal Bihari Vajpayee Government Medical College, Faridabad",
+    "score": 0.855,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Haryana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "BUNDELKHA ND MEDICAL COLLEGE",
+    "official_name": "Bundelkhand Medical College, Sagar",
+    "score": 0.885,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Madhya Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "CHHATTISGA RH INSTITUTE OF MEDICAL SCIENCES",
+    "official_name": "Chhattisgarh Institute of Medical Sciences, Bilaspur",
+    "score": 0.894,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Chhattisgarh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Dr.Radhakrish nan Government Medical College",
+    "official_name": "Dr. Radhakrishnan Government Medical College, Hamirpur, H.P",
+    "score": 0.86,
+    "old_total": null,
+    "new_total": 120,
+    "state": "Himachal Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMEN T MEDICAL COLLEGE",
+    "official_name": "ACSR Government Medical College",
+    "score": 0.897,
+    "old_total": null,
+    "new_total": 200,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMEN T MEDICAL COLLEGE Karimnagar Telangana",
+    "official_name": "Government Medical College, Vikarabad, Telangana",
+    "score": 0.894,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Telangana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMEN T MEDICAL COLLEGE MACHILIPAT NAM",
+    "official_name": "Government Medical College, Machilipatnam",
+    "score": 0.976,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMEN T MEDICAL COLLEGE NANDYAL",
+    "official_name": "Government Medical College, Nandyal",
+    "score": 0.986,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVERNMEN T MEDICAL COLLEGE PURNEA",
+    "official_name": "Government Medical College, Purnea",
+    "score": 0.985,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Bihar",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "GOVT MEDICAL COLLEGE VIZIANAGAR AM",
+    "official_name": "Government medical college, vizianagaram",
+    "score": 0.904,
+    "old_total": null,
+    "new_total": 150,
+    "state": "Andhra Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "MAHARSHI DEVRAHA BABA AUTONOMOU S STATE. MEDICAL COLLEGE",
+    "official_name": "Maharshi Devraha Baba Autonomous State Medical College, Deoria",
+    "score": 0.931,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SHRI ATAL BIHARI VAJPAYEE GOVERNMEN T MEDICAL COLLEGE",
+    "official_name": "Shri Atal Bihari Vajpayee Government Medical College, Faridabad",
+    "score": 0.904,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Haryana",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "SOBAN SINGH JEENA GOVERNMEN T INSTITUTE OF MEDICAL SCIENCE & RESEARCH",
+    "official_name": "Soban Singh jeena Government institute of Medical science & Research, Almora",
+    "score": 0.943,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttarakhand",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Sarat Chandra Chattopadhya y Govt. Medical College & Hospital",
+    "official_name": "Sarat Chandra Chattopadhyay Government Medical College & Hospital,",
+    "score": 0.942,
+    "old_total": null,
+    "new_total": 150,
+    "state": "West Bengal",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "MAHARSHI DEVRAHA BABA AUTONOMOUS STA TE. MEDICAL COLLEGE",
+    "official_name": "Maharshi Devraha Baba Autonomous State Medical College, Deoria",
+    "score": 0.931,
+    "old_total": null,
+    "new_total": 100,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "ESIC, Medical College and Hospital",
+    "official_name": "ESIC MEDICAL COLLEGE AND HOSPITAL, NOIDA",
+    "score": 0.917,
+    "old_total": null,
+    "new_total": 50,
+    "state": "Uttar Pradesh",
+    "mgmt": "Government"
+  },
+  {
+    "app_name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirma th Medical College",
+    "official_name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College JGMMMC",
+    "score": 0.941,
+    "old_total": null,
+    "new_total": 250,
+    "state": "Karnataka",
+    "mgmt": "Private"
+  }
+]

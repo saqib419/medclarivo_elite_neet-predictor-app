@@ -1,0 +1,7272 @@
+[
+  {
+    "college_obj": {
+      "name": "King George's Medical University, Lucknow",
+      "quota": "State",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 2500,
+        "EWS": 4200,
+        "OBC": 5800,
+        "SC": 22000,
+        "ST": 38000,
+        "PwD": 9000
+      },
+      "nirfRank": 8,
+      "annualFee": 35948,
+      "totalSeats": 222,
+      "establishedYear": 1935,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 90,
+        "OBC": 60,
+        "SC": 33,
+        "ST": 17,
+        "EWS": 22
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 2433,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 2618,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 2690,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "King George's Medical University, Lucknow",
+    "app_state": "Uttar Pradesh",
+    "official_name": "King George Medical University, Lucknow",
+    "official_state": "Uttar Pradesh",
+    "score": 0.619,
+    "old_total": 222,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Grant Government Medical College, Mumbai",
+      "quota": "State",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 1800,
+        "EWS": 3200,
+        "OBC": 4600,
+        "SC": 19000,
+        "ST": 33000,
+        "PwD": 7000
+      },
+      "nirfRank": 5,
+      "annualFee": 43381,
+      "totalSeats": 202,
+      "establishedYear": 1947,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 82,
+        "OBC": 55,
+        "SC": 30,
+        "ST": 15,
+        "EWS": 20
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 1751,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 1656,
+          "round2": 1981
+        },
+        {
+          "year": 2021,
+          "round1": 1699,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Grant Government Medical College, Mumbai",
+    "app_state": "Maharashtra",
+    "official_name": "Grant Medical College, Mumbai",
+    "official_state": "Maharashtra",
+    "score": 0.959,
+    "old_total": 202,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College, Kozhikode",
+      "quota": "State",
+      "state": "Kerala",
+      "cutoffs": {
+        "General": 2600,
+        "EWS": 4400,
+        "OBC": 6000,
+        "SC": 24000,
+        "ST": 40000,
+        "PwD": 9500
+      },
+      "nirfRank": 9,
+      "annualFee": 41120,
+      "totalSeats": 158,
+      "establishedYear": 1992,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 63,
+        "OBC": 43,
+        "SC": 24,
+        "ST": 12,
+        "EWS": 16
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 2436,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 2423,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 2802,
+          "round2": 3147
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Government Medical College, Kozhikode",
+    "app_state": "Kerala",
+    "official_name": "Government Medical College, Kozhikode, Calicut",
+    "official_state": "Kerala",
+    "score": 0.6,
+    "old_total": 158,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College, Patiala",
+      "quota": "State",
+      "state": "Punjab",
+      "cutoffs": {
+        "General": 3500,
+        "EWS": 5800,
+        "OBC": 8000,
+        "SC": 28000,
+        "ST": 45000,
+        "PwD": 11000
+      },
+      "nirfRank": 12,
+      "annualFee": 37544,
+      "totalSeats": 243,
+      "establishedYear": 1953,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 99,
+        "OBC": 66,
+        "SC": 36,
+        "ST": 18,
+        "EWS": 24
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 3538,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 3530,
+          "round2": 3584
+        },
+        {
+          "year": 2021,
+          "round1": 3228,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Government Medical College, Patiala",
+    "app_state": "Punjab",
+    "official_name": "Government Medical College, Patiala",
+    "official_state": "Punjab",
+    "score": 1.0,
+    "old_total": 243,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Andhra Medical College, Visakhapatnam",
+      "quota": "State",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 3800,
+        "EWS": 6200,
+        "OBC": 8600,
+        "SC": 29000,
+        "ST": 46000,
+        "PwD": 11800
+      },
+      "nirfRank": 14,
+      "annualFee": 50306,
+      "totalSeats": 114,
+      "establishedYear": 1985,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 46,
+        "OBC": 31,
+        "SC": 17,
+        "ST": 9,
+        "EWS": 11
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 3509,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 3757,
+          "round2": 4115
+        },
+        {
+          "year": 2021,
+          "round1": 4088,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Andhra Medical College, Visakhapatnam",
+    "app_state": "Andhra Pradesh",
+    "official_name": "Andhra Medical College, Visakhapatnam",
+    "official_state": "Andhra Pradesh",
+    "score": 1.0,
+    "old_total": 114,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Assam Medical College, Dibrugarh",
+      "quota": "State",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 6000,
+        "EWS": 9500,
+        "OBC": 13000,
+        "SC": 40000,
+        "ST": 55000,
+        "PwD": 16000
+      },
+      "nirfRank": 21,
+      "annualFee": 46171,
+      "totalSeats": 158,
+      "establishedYear": 1973,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 63,
+        "OBC": 43,
+        "SC": 24,
+        "ST": 12,
+        "EWS": 16
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 5617,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 5954,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 6352,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Assam Medical College, Dibrugarh",
+    "app_state": "Assam",
+    "official_name": "Assam Medial College, Dibrugarh",
+    "official_state": "Assam",
+    "score": 0.621,
+    "old_total": 158,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Goa Medical College, Panaji",
+      "quota": "State",
+      "state": "Goa",
+      "cutoffs": {
+        "General": 8500,
+        "EWS": 13000,
+        "OBC": 17500,
+        "SC": 46000,
+        "ST": 62000,
+        "PwD": 19000
+      },
+      "nirfRank": 26,
+      "annualFee": 21450,
+      "totalSeats": 198,
+      "establishedYear": 1940,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 80,
+        "OBC": 53,
+        "SC": 30,
+        "ST": 15,
+        "EWS": 20
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 8679,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 9136,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 9143,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Goa Medical College, Panaji",
+    "app_state": "Goa",
+    "official_name": "Goa Medical College, Panaji",
+    "official_state": "Goa",
+    "score": 1.0,
+    "old_total": 198,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Rajendra Institute of Medical Sciences, Ranchi",
+      "quota": "State",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 7200,
+        "EWS": 11500,
+        "OBC": 15800,
+        "SC": 43000,
+        "ST": 34000,
+        "PwD": 17500
+      },
+      "nirfRank": 24,
+      "annualFee": 30357,
+      "totalSeats": 201,
+      "establishedYear": 1943,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 82,
+        "OBC": 54,
+        "SC": 30,
+        "ST": 15,
+        "EWS": 20
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 7669,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 6696,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 7316,
+          "round2": 7508
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Rajendra Institute of Medical Sciences, Ranchi",
+    "app_state": "Jharkhand",
+    "official_name": "Rajendra Institute of Medical Sciences, Ranchi",
+    "official_state": "Jharkhand",
+    "score": 1.0,
+    "old_total": 201,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Regional Institute of Medical Sciences, Imphal",
+      "quota": "State",
+      "state": "Manipur",
+      "cutoffs": {
+        "General": 25000,
+        "EWS": 38000,
+        "OBC": 48000,
+        "SC": 80000,
+        "ST": 40000,
+        "PwD": 60000
+      },
+      "nirfRank": 30,
+      "annualFee": 63749,
+      "totalSeats": 103,
+      "establishedYear": 1944,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 42,
+        "OBC": 28,
+        "SC": 15,
+        "ST": 8,
+        "EWS": 10
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 24859,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 24395,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 23385,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Regional Institute of Medical Sciences, Imphal",
+    "app_state": "Manipur",
+    "official_name": "Regional Institute of Medical Sciences, Imphal",
+    "official_state": "Manipur",
+    "score": 1.0,
+    "old_total": 103,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences, Shillong",
+      "quota": "State",
+      "state": "Meghalaya",
+      "cutoffs": {
+        "General": 28000,
+        "EWS": 42000,
+        "OBC": 52000,
+        "SC": 85000,
+        "ST": 35000,
+        "PwD": 65000
+      },
+      "nirfRank": 32,
+      "annualFee": 63566,
+      "totalSeats": 113,
+      "establishedYear": 1941,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 46,
+        "OBC": 31,
+        "SC": 17,
+        "ST": 8,
+        "EWS": 11
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 27420,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 27751,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 28537,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "North Eastern Indira Gandhi Regional Institute of Health & Medical Sciences, Shillong",
+    "app_state": "Meghalaya",
+    "official_name": "North Eastern Indira Gandhi Regional Instt. of Health and Medical Sciences, Shillong",
+    "official_state": "Meghalaya",
+    "score": 0.988,
+    "old_total": 113,
+    "new_total": 50,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SCB Medical College, Cuttack",
+      "quota": "State",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 5500,
+        "EWS": 8800,
+        "OBC": 12000,
+        "SC": 37000,
+        "ST": 44000,
+        "PwD": 15000
+      },
+      "nirfRank": 20,
+      "annualFee": 92302,
+      "totalSeats": 112,
+      "establishedYear": 1943,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 46,
+        "OBC": 30,
+        "SC": 17,
+        "ST": 8,
+        "EWS": 11
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 5077,
+          "round2": 5230
+        },
+        {
+          "year": 2022,
+          "round1": 5184,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 5459,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "SCB Medical College, Cuttack",
+    "app_state": "Odisha",
+    "official_name": "SCB Medical College, Cuttack",
+    "official_state": "Odisha",
+    "score": 1.0,
+    "old_total": 112,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Doon Medical College, Dehradun",
+      "quota": "State",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "General": 7800,
+        "EWS": 12200,
+        "OBC": 16500,
+        "SC": 44500,
+        "ST": 53000,
+        "PwD": 18200
+      },
+      "nirfRank": 25,
+      "annualFee": 35049,
+      "totalSeats": 137,
+      "establishedYear": 1945,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 55,
+        "OBC": 37,
+        "SC": 21,
+        "ST": 10,
+        "EWS": 14
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 8231,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 8382,
+          "round2": 8628
+        },
+        {
+          "year": 2021,
+          "round1": 8252,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Government Doon Medical College, Dehradun",
+    "app_state": "Uttarakhand",
+    "official_name": "Doon Medical College, Dehradun, Uttarakhand",
+    "official_state": "Uttarakhand",
+    "score": 0.929,
+    "old_total": 137,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Calcutta National Medical College, Kolkata",
+      "quota": "State",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 4400,
+        "EWS": 7200,
+        "OBC": 9800,
+        "SC": 32000,
+        "ST": 49000,
+        "PwD": 13200
+      },
+      "nirfRank": 17,
+      "annualFee": 60294,
+      "totalSeats": 209,
+      "establishedYear": 1972,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 85,
+        "OBC": 56,
+        "SC": 31,
+        "ST": 16,
+        "EWS": 21
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 4410,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 4594,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 4238,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Calcutta National Medical College, Kolkata",
+    "app_state": "West Bengal",
+    "official_name": "Calcutta National Medical College, Kolkata",
+    "official_state": "West Bengal",
+    "score": 1.0,
+    "old_total": 209,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College, Srinagar",
+      "quota": "State",
+      "state": "Jammu and Kashmir",
+      "cutoffs": {
+        "General": 9000,
+        "EWS": 14000,
+        "OBC": 19000,
+        "SC": 47000,
+        "ST": 57000,
+        "PwD": 20000
+      },
+      "nirfRank": 27,
+      "annualFee": 88415,
+      "totalSeats": 118,
+      "establishedYear": 1951,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 47,
+        "OBC": 32,
+        "SC": 18,
+        "ST": 9,
+        "EWS": 12
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2023,
+          "round1": 8915,
+          "round2": null
+        },
+        {
+          "year": 2022,
+          "round1": 9154,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 8884,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
+        }
+      ]
+    },
+    "app_name": "Government Medical College, Srinagar",
+    "app_state": "Jammu and Kashmir",
+    "official_name": "Government Medical College, Srinagar",
+    "official_state": "Jammu and Kashmir",
+    "score": 1.0,
+    "old_total": 118,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "ACS Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 661803,
+        "EWS": 666150,
+        "OBC": 650671,
+        "SC": 726374,
+        "ST": 582374
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 661803,
+          "round2": 610404
+        },
+        {
+          "year": 2024,
+          "round1": 639272,
+          "round2": 1017390
+        }
+      ]
+    },
+    "app_name": "ACS Medical College and Hospital",
+    "app_state": "Tamil Nadu",
+    "official_name": "ACS Medical College and Hospital, Chennai",
+    "official_state": "Tamil Nadu",
+    "score": 0.597,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "ACSR Govt Medical College",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 1021236,
+        "EWS": 20208,
+        "OBC": 21614,
+        "SC": 113695,
+        "ST": 150681
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 1021236,
+          "round2": 19695
+        },
+        {
+          "year": 2024,
+          "round1": 17480,
+          "round2": 13322
+        }
+      ]
+    },
+    "app_name": "ACSR Govt Medical College",
+    "app_state": "Andhra Pradesh",
+    "official_name": "ACSR Government Medical College",
+    "official_state": "Andhra Pradesh",
+    "score": 0.973,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "ANUGRAH NARAYAN MAGADH MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 15963,
+        "EWS": 11156,
+        "OBC": 648874,
+        "SC": 104706,
+        "ST": 119132
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 10932,
+          "round2": 15963
+        },
+        {
+          "year": 2024,
+          "round1": 16642,
+          "round2": 10286
+        }
+      ]
+    },
+    "app_name": "ANUGRAH NARAYAN MAGADH MEDICAL COLLEGE",
+    "app_state": "Bihar",
+    "official_name": "Anugrah Narayan Magadh Medical College, Gaya",
+    "official_state": "Bihar",
+    "score": 0.797,
+    "old_total": null,
+    "new_total": 120,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Aarupadai Veedu Medical College and Hospt.",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 459305,
+        "EWS": 331078,
+        "OBC": 471952,
+        "SC": 673276,
+        "ST": 509096
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 459305,
+          "round2": 677103
+        },
+        {
+          "year": 2024,
+          "round1": 304558,
+          "round2": 1034896
+        }
+      ]
+    },
+    "app_name": "Aarupadai Veedu Medical College and Hospt.",
+    "app_state": "Puducherry",
+    "official_name": "Aarupadai Veedu Medical College, Pondicherry",
+    "official_state": "Puducherry",
+    "score": 0.708,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Amrita School of Medicine Faridabad",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 363996,
+        "OBC": 349700,
+        "SC": 308586,
+        "EWS": 136923,
+        "ST": 182127
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 363996,
+          "round2": 318826
+        },
+        {
+          "year": 2024,
+          "round1": 418267,
+          "round2": 1138051
+        }
+      ]
+    },
+    "app_name": "Amrita School of Medicine Faridabad",
+    "app_state": "Haryana",
+    "official_name": "Amrita School of Medicine",
+    "official_state": "Haryana",
+    "score": 0.771,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "B.J. Government Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 158479,
+        "EWS": 10540,
+        "OBC": 20548,
+        "SC": 45057,
+        "ST": 105614
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 158479
+        },
+        {
+          "year": 2024,
+          "round1": 7737,
+          "round2": 2379
+        }
+      ]
+    },
+    "app_name": "B.J. Government Medical College",
+    "app_state": "Maharashtra",
+    "official_name": "B. J. Govt. Medical College, Pune",
+    "official_state": "Maharashtra",
+    "score": 0.703,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "BANKURA SAMMILANI MED COLL",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 11895,
+        "EWS": 20080,
+        "OBC": 22143,
+        "SC": 136970,
+        "ST": 140230
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 11895
+        },
+        {
+          "year": 2024,
+          "round1": 18299,
+          "round2": 10552
+        }
+      ]
+    },
+    "app_name": "BANKURA SAMMILANI MED COLL",
+    "app_state": "West Bengal",
+    "official_name": "Bankura Sammilani Medical College, Bankura",
+    "official_state": "West Bengal",
+    "score": 0.569,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "BIDAR INSTITUTE OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 20924,
+        "EWS": 18770,
+        "OBC": 26959,
+        "SC": 119669,
+        "ST": 138880
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20924,
+          "round2": 18834
+        },
+        {
+          "year": 2024,
+          "round1": 20140,
+          "round2": 559326
+        }
+      ]
+    },
+    "app_name": "BIDAR INSTITUTE OF MEDICAL SCI.",
+    "app_state": "Karnataka",
+    "official_name": "Bidar Institute of Medical Sciences, Bidar",
+    "official_state": "Karnataka",
+    "score": 0.586,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "BURDWAN MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 18519,
+        "EWS": 19347,
+        "OBC": 999414,
+        "SC": 110836,
+        "ST": 103156
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 18519,
+          "round2": 15052
+        },
+        {
+          "year": 2024,
+          "round1": 15399,
+          "round2": 588038
+        }
+      ]
+    },
+    "app_name": "BURDWAN MEDICAL COLLEGE",
+    "app_state": "West Bengal",
+    "official_name": "Burdwan Medical College, Burdwan",
+    "official_state": "West Bengal",
+    "score": 0.963,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Baba Kinaram Autonomous State Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 20847,
+        "EWS": 22654,
+        "OBC": 21303,
+        "SC": 114454,
+        "ST": 121111
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20847,
+          "round2": 19000
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        }
+      ]
+    },
+    "app_name": "Baba Kinaram Autonomous State Medical College",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Baba Kina Ram Autonomous State Medical College and Hospital Chandauli",
+    "official_state": "Uttar Pradesh",
+    "score": 0.447,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Bangalore Medical College and Research Institute",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 1549,
+        "EWS": 30335,
+        "OBC": 15715,
+        "SC": 42980,
+        "ST": 39918
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 1549,
+          "round2": 345
+        },
+        {
+          "year": 2024,
+          "round1": 17984,
+          "round2": 160552
+        }
+      ]
+    },
+    "app_name": "Bangalore Medical College and Research Institute",
+    "app_state": "Karnataka",
+    "official_name": "Bangalore Medical College and Research Institute, Bangalore",
+    "official_state": "Karnataka",
+    "score": 0.976,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Barasat Government Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 19805,
+        "EWS": 20938,
+        "OBC": 27192,
+        "SC": 122842,
+        "ST": 116504
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 19805,
+          "round2": 16381
+        },
+        {
+          "year": 2024,
+          "round1": 19403,
+          "round2": 509938
+        }
+      ]
+    },
+    "app_name": "Barasat Government Medical College & Hospital",
+    "app_state": "West Bengal",
+    "official_name": "Barasat Government Medical College & Hospital",
+    "official_state": "West Bengal",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Bharati Vidyapeeth DU Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 716192,
+        "EWS": 311016,
+        "OBC": 706689,
+        "SC": 331285
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 716192,
+          "round2": 509628
+        },
+        {
+          "year": 2024,
+          "round1": 969130,
+          "round2": 941191
+        }
+      ]
+    },
+    "app_name": "Bharati Vidyapeeth DU Medical College",
+    "app_state": "Maharashtra",
+    "official_name": "Bharati Vidyapeeth University Medical College, Pune",
+    "official_state": "Maharashtra",
+    "score": 0.582,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "CHENGALPATTU MEDICAL COLL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 23328,
+        "EWS": 27052,
+        "OBC": 26649,
+        "SC": 20765,
+        "ST": 145518
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 23328,
+          "round2": 11225
+        },
+        {
+          "year": 2024,
+          "round1": 10270,
+          "round2": 603910
+        }
+      ]
+    },
+    "app_name": "CHENGALPATTU MEDICAL COLL",
+    "app_state": "Tamil Nadu",
+    "official_name": "Chengalpattu Medical College, Chengalpattu",
+    "official_state": "Tamil Nadu",
+    "score": 0.564,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "CHIKKABALLAPURA INSTITUTE OF MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 724237,
+        "EWS": 22113,
+        "OBC": 21938,
+        "SC": 130768,
+        "ST": 111163
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 724237
+        },
+        {
+          "year": 2024,
+          "round1": 24169,
+          "round2": 13668
+        }
+      ]
+    },
+    "app_name": "CHIKKABALLAPURA INSTITUTE OF MEDICAL SCIENCES",
+    "app_state": "Karnataka",
+    "official_name": "Nandi Medical College and Research Institute Chikkaballapura (Chikkaballapura Institute of Medical Sciences Chikkaballapura )",
+    "official_state": "Karnataka",
+    "score": 0.446,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "COIMBATORE MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 10916,
+        "EWS": 15747,
+        "OBC": 19990,
+        "SC": 58982,
+        "ST": 142895
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 3237,
+          "round2": 10916
+        },
+        {
+          "year": 2024,
+          "round1": 8388,
+          "round2": 3536
+        }
+      ]
+    },
+    "app_name": "COIMBATORE MEDICAL COLLEGE",
+    "app_state": "Tamil Nadu",
+    "official_name": "Coimbatore Medical College, Coimbatore",
+    "official_state": "Tamil Nadu",
+    "score": 0.956,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "COLLEGE OF MEDICINE and JNM HOSPITAL",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 20065,
+        "EWS": 18433,
+        "OBC": 20681,
+        "SC": 135863,
+        "ST": 129596
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 10895,
+          "round2": 20065
+        },
+        {
+          "year": 2024,
+          "round1": 17092,
+          "round2": 9588
+        }
+      ]
+    },
+    "app_name": "COLLEGE OF MEDICINE and JNM HOSPITAL",
+    "app_state": "West Bengal",
+    "official_name": "College of Medicine and JNM Hospital, Kalyani, Nadia",
+    "official_state": "West Bengal",
+    "score": 0.584,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Chandulal Chandrakar Memorial Government Medical College",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 22431,
+        "EWS": 19738,
+        "OBC": 22745,
+        "SC": 115932,
+        "ST": 138082
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15699,
+          "round2": 22431
+        },
+        {
+          "year": 2024,
+          "round1": 21387,
+          "round2": 14674
+        }
+      ]
+    },
+    "app_name": "Chandulal Chandrakar Memorial Government Medical College",
+    "app_state": "Chhattisgarh",
+    "official_name": "Chandulal Chandrakar Memorial Medical College, Durg",
+    "official_state": "Chhattisgarh",
+    "score": 0.775,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Chhindwara Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 17558,
+        "EWS": 20692,
+        "OBC": 19268,
+        "SC": 102516,
+        "ST": 116688
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 13087,
+          "round2": 17558
+        },
+        {
+          "year": 2024,
+          "round1": 22785,
+          "round2": 12368
+        }
+      ]
+    },
+    "app_name": "Chhindwara Institute of Medical Sciences",
+    "app_state": "Madhya Pradesh",
+    "official_name": "Government Medical College, Chhindwara, MP",
+    "official_state": "Madhya Pradesh",
+    "score": 0.45,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Chikkamagaluru Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 22381,
+        "EWS": 27456,
+        "OBC": 23021,
+        "SC": 99928,
+        "ST": 150485
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 22381,
+          "round2": 20543
+        },
+        {
+          "year": 2024,
+          "round1": 25793,
+          "round2": 792508
+        }
+      ]
+    },
+    "app_name": "Chikkamagaluru Institute of Medical Sciences",
+    "app_state": "Karnataka",
+    "official_name": "Chikkamagaluru Institute of Medical Sciences, Chikkamagaluru",
+    "official_state": "Karnataka",
+    "score": 0.964,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Chitradurga Medical College and Research Institute",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 26816,
+        "EWS": 22578,
+        "OBC": 26974,
+        "SC": 102160,
+        "ST": 123716
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26816,
+          "round2": 24472
+        },
+        {
+          "year": 2024,
+          "round1": 22117,
+          "round2": 16451
+        }
+      ]
+    },
+    "app_name": "Chitradurga Medical College and Research Institute",
+    "app_state": "Karnataka",
+    "official_name": "Chitradurga Medical College and Research Institute",
+    "official_state": "Karnataka",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "College Government Medical College Alwar",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 7064,
+        "EWS": 9325,
+        "OBC": 12809,
+        "SC": 91240,
+        "ST": 71707
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 7064
+        },
+        {
+          "year": 2024,
+          "round1": 10536,
+          "round2": 7963
+        }
+      ]
+    },
+    "app_name": "College Government Medical College Alwar",
+    "app_state": "Rajasthan",
+    "official_name": "Government Medical College, Alwar",
+    "official_state": "Rajasthan",
+    "score": 0.972,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 506739,
+        "EWS": 610352,
+        "OBC": 516772,
+        "SC": 450886,
+        "ST": 312160
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 506739,
+          "round2": 491925
+        },
+        {
+          "year": 2024,
+          "round1": 243106,
+          "round2": 992516
+        }
+      ]
+    },
+    "app_name": "DATTA MEGHE MEDICAL COLLEGE WANADONGRI HINGNA NAGPUR",
+    "app_state": "Maharashtra",
+    "official_name": "Datta Meghe Medical College, Nagpur",
+    "official_state": "Maharashtra",
+    "score": 0.648,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "DR.S.N. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 3286,
+        "EWS": 708263,
+        "OBC": 6102,
+        "SC": 58837,
+        "ST": 74989
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 3286
+        },
+        {
+          "year": 2024,
+          "round1": 4844,
+          "round2": 3362
+        }
+      ]
+    },
+    "app_name": "DR.S.N. MEDICAL COLLEGE",
+    "app_state": "Rajasthan",
+    "official_name": "Dr S S Tantia Medical College Hospital & Research Centre",
+    "official_state": "Rajasthan",
+    "score": 0.52,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "DY Patil University School of Medicine",
+      "quota": "AIQ",
+      "state": null,
+      "cutoffs": {
+        "General": 688741,
+        "OBC": 527570,
+        "EWS": 457685
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 688741,
+          "round2": 661567
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        }
+      ]
+    },
+    "app_name": "DY Patil University School of Medicine",
+    "app_state": null,
+    "official_name": "DY Patil University, School of Medicine",
+    "official_state": "Maharashtra",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Private",
+    "used_fallback": true,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Darbhanga Medical College",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 10119,
+        "EWS": 11898,
+        "OBC": 8947,
+        "SC": 64358,
+        "ST": 119066
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 419431,
+          "round2": 10119
+        },
+        {
+          "year": 2024,
+          "round1": 10871,
+          "round2": 7470
+        }
+      ]
+    },
+    "app_name": "Darbhanga Medical College",
+    "app_state": "Bihar",
+    "official_name": "Darbhanga Medical College, Lehriasarai",
+    "official_state": "Bihar",
+    "score": 0.577,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Diamond Harbour Govt Medical College",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 21828,
+        "EWS": 22829,
+        "OBC": 494413,
+        "SC": 137886,
+        "ST": 139466
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 10909,
+          "round2": 21828
+        },
+        {
+          "year": 2024,
+          "round1": 17176,
+          "round2": 11809
+        }
+      ]
+    },
+    "app_name": "Diamond Harbour Govt Medical College",
+    "app_state": "West Bengal",
+    "official_name": "Diamond Harbour Government Medical College and Hospital, West Bengal",
+    "official_state": "West Bengal",
+    "score": 0.925,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Dr Ram Manohar Lohia Inst. of Med. Sce.",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 5259,
+        "EWS": 4640,
+        "OBC": 6787,
+        "SC": 42380,
+        "ST": 56960
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 5259,
+          "round2": 3824
+        },
+        {
+          "year": 2024,
+          "round1": 3956,
+          "round2": 206722
+        }
+      ]
+    },
+    "app_name": "Dr Ram Manohar Lohia Inst. of Med. Sce.",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Dr. Ram Manohar Lohia Institute of Medical Sciences,Lucknow",
+    "official_state": "Uttar Pradesh",
+    "score": 0.566,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Dr. B.R. Ambedkar State Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Punjab",
+      "cutoffs": {
+        "General": 19679,
+        "EWS": 17802,
+        "OBC": 15210,
+        "SC": 52619,
+        "ST": 154775
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 19679,
+          "round2": 11267
+        },
+        {
+          "year": 2024,
+          "round1": 14883,
+          "round2": 3596
+        }
+      ]
+    },
+    "app_name": "Dr. B.R. Ambedkar State Institute of Medical Sciences",
+    "app_state": "Punjab",
+    "official_name": "Dr B R Ambedkar State Institute of Medical Sciences, SAS Nagar , Mohali",
+    "official_state": "Punjab",
+    "score": 0.714,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Dr.Radhakrishnan Government Medical College",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": {
+        "General": 22005,
+        "EWS": 13899,
+        "OBC": 15996,
+        "SC": 87369,
+        "ST": 59565
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 22005,
+          "round2": 10010
+        },
+        {
+          "year": 2024,
+          "round1": 4998,
+          "round2": 7806
+        }
+      ]
+    },
+    "app_name": "Dr.Radhakrishnan Government Medical College",
+    "app_state": "Himachal Pradesh",
+    "official_name": "Dr. Radhakrishnan Government Medical College, Hamirpur, H.P",
+    "official_state": "Himachal Pradesh",
+    "score": 0.517,
+    "old_total": null,
+    "new_total": 120,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "ESIC MEDICAL COLLEGE AND HOSPITAL",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 25862,
+        "OBC": 27419,
+        "SC": 135201,
+        "EWS": 39060,
+        "ST": 451088
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 25862,
+          "round2": 686197
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        }
+      ]
+    },
+    "app_name": "ESIC MEDICAL COLLEGE AND HOSPITAL",
+    "app_state": "Delhi",
+    "official_name": "ESIC Medical College & Hospital, Basaidarapur, New Delhi",
+    "official_state": "Delhi",
+    "score": 0.546,
+    "old_total": null,
+    "new_total": 50,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "ESIC Medical College AND PGIMSR",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 25667,
+        "EWS": 30145,
+        "OBC": 17335,
+        "SC": 201923,
+        "ST": 478438
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 25667,
+          "round2": 30741
+        },
+        {
+          "year": 2024,
+          "round1": 14349,
+          "round2": 29230
+        }
+      ]
+    },
+    "app_name": "ESIC Medical College AND PGIMSR",
+    "app_state": "Tamil Nadu",
+    "official_name": "ESIC Medical College & PGIMSR, K.K Nagar, Chennai",
+    "official_state": "Tamil Nadu",
+    "score": 0.553,
+    "old_total": null,
+    "new_total": 149,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Employees State Insurance Corporation Medical College",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 19046,
+        "EWS": 18825,
+        "OBC": 25742,
+        "SC": 107694,
+        "ST": 84031
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 19046,
+          "round2": 7702
+        },
+        {
+          "year": 2024,
+          "round1": 9253,
+          "round2": 500903
+        }
+      ]
+    },
+    "app_name": "Employees State Insurance Corporation Medical College",
+    "app_state": "Rajasthan",
+    "official_name": "Employees State Insurance Corporation Medical College,Alwar",
+    "official_state": "Rajasthan",
+    "score": 0.799,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Fakhruddin Ali Ahmed Medical College",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 24225,
+        "EWS": 25558,
+        "OBC": 24960,
+        "SC": 104412,
+        "ST": 105467
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 351903,
+          "round2": 24225
+        },
+        {
+          "year": 2024,
+          "round1": 22882,
+          "round2": 17216
+        }
+      ]
+    },
+    "app_name": "Fakhruddin Ali Ahmed Medical College",
+    "app_state": "Assam",
+    "official_name": "Fakhruddin Ali Ahmed Medical College, Barpeta, Assam",
+    "official_state": "Assam",
+    "score": 0.772,
+    "old_total": null,
+    "new_total": 125,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GAJRA RAJA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 18351,
+        "EWS": 11730,
+        "OBC": 10545,
+        "SC": 84131,
+        "ST": 66728
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 18351,
+          "round2": 8737
+        },
+        {
+          "year": 2024,
+          "round1": 9629,
+          "round2": 513671
+        }
+      ]
+    },
+    "app_name": "GAJRA RAJA MEDICAL COLLEGE",
+    "app_state": "Madhya Pradesh",
+    "official_name": "Gajra Raja Medical College, Gwalior",
+    "official_state": "Madhya Pradesh",
+    "score": 0.717,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GMC DAUSA RAJASTHAN",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 561097,
+        "EWS": 9592,
+        "OBC": 26219,
+        "SC": 91995,
+        "ST": 81530
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 561097
+        },
+        {
+          "year": 2024,
+          "round1": 14035,
+          "round2": 9096
+        }
+      ]
+    },
+    "app_name": "GMC DAUSA RAJASTHAN",
+    "app_state": "Rajasthan",
+    "official_name": "Government Medical College, Dausa",
+    "official_state": "Rajasthan",
+    "score": 0.463,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GMC Jangaon",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 17116,
+        "EWS": 28126,
+        "OBC": 23796,
+        "SC": 100443,
+        "ST": 151942
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17116
+        },
+        {
+          "year": 2024,
+          "round1": 24633,
+          "round2": 737003
+        }
+      ]
+    },
+    "app_name": "GMC Jangaon",
+    "app_state": "Telangana",
+    "official_name": "GOVERNMENT MEDICAL COLLEGE JANGAON",
+    "official_state": "Telangana",
+    "score": 0.497,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GMC KARAULI",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 15821,
+        "EWS": 15802,
+        "OBC": 16711,
+        "SC": 98597,
+        "ST": 104061
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 11290,
+          "round2": 15821
+        },
+        {
+          "year": 2024,
+          "round1": 1010932,
+          "round2": 461302
+        }
+      ]
+    },
+    "app_name": "GMC KARAULI",
+    "app_state": "Rajasthan",
+    "official_name": "Government Medical College, Karauli",
+    "official_state": "Rajasthan",
+    "score": 0.497,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GMC Kamareddy",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 19972,
+        "EWS": 26296,
+        "OBC": 24486,
+        "SC": 104069,
+        "ST": 112712
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 19972
+        },
+        {
+          "year": 2024,
+          "round1": 22529,
+          "round2": 18539
+        }
+      ]
+    },
+    "app_name": "GMC Kamareddy",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Kamareddy",
+    "official_state": "Telangana",
+    "score": 0.508,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GMERS Medical College",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": {
+        "General": 26540,
+        "EWS": 30862,
+        "OBC": 27023,
+        "SC": 137679,
+        "ST": 151013
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26540,
+          "round2": 21764
+        },
+        {
+          "year": 2024,
+          "round1": 24795,
+          "round2": 777291
+        }
+      ]
+    },
+    "app_name": "GMERS Medical College",
+    "app_state": "Gujarat",
+    "official_name": "GMERS Medical College, Valsad",
+    "official_state": "Gujarat",
+    "score": 0.589,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GOVERMENT MEDICAL COLLEGE NANDURBAR MAHARARASTRA",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 15066,
+        "EWS": 24908,
+        "OBC": 21986,
+        "SC": 114763,
+        "ST": 114517
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15066
+        },
+        {
+          "year": 2024,
+          "round1": 7128,
+          "round2": 13638
+        }
+      ]
+    },
+    "app_name": "GOVERMENT MEDICAL COLLEGE NANDURBAR MAHARARASTRA",
+    "app_state": "Maharashtra",
+    "official_name": "Government Medical College, Nandurbar",
+    "official_state": "Maharashtra",
+    "score": 0.458,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 24868,
+        "EWS": 24249,
+        "OBC": 774189,
+        "SC": 86954,
+        "ST": 136153
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 18990,
+          "round2": 24868
+        },
+        {
+          "year": 2024,
+          "round1": 24681,
+          "round2": 17942
+        }
+      ]
+    },
+    "app_name": "GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM",
+    "app_state": "Andhra Pradesh",
+    "official_name": "Government Medical College, Machilipatnam",
+    "official_state": "Andhra Pradesh",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GOVERNMENT MEDICAL COLLEGE NANDYAL",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 24016,
+        "EWS": 28822,
+        "OBC": 24366,
+        "SC": 128615,
+        "ST": 120014
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 868093,
+          "round2": 24016
+        },
+        {
+          "year": 2024,
+          "round1": 25825,
+          "round2": 863726
+        }
+      ]
+    },
+    "app_name": "GOVERNMENT MEDICAL COLLEGE NANDYAL",
+    "app_state": "Andhra Pradesh",
+    "official_name": "Government Medical College, Nandyal",
+    "official_state": "Andhra Pradesh",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GOVT. KILPAUK MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 16372,
+        "EWS": 25599,
+        "OBC": 1182598,
+        "SC": 18270,
+        "ST": 119660
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 16372,
+          "round2": 8815
+        },
+        {
+          "year": 2024,
+          "round1": 10663,
+          "round2": 2810
+        }
+      ]
+    },
+    "app_name": "GOVT. KILPAUK MEDICAL COLLEGE",
+    "app_state": "Tamil Nadu",
+    "official_name": "Kilpauk Medical College, Chennai",
+    "official_state": "Tamil Nadu",
+    "score": 0.57,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GOVT. MOHAN KUMARAMANGALAM M.C.",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 25884,
+        "EWS": 21479,
+        "OBC": 755145,
+        "SC": 29781,
+        "ST": 108842
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 25884,
+          "round2": 13573
+        },
+        {
+          "year": 2024,
+          "round1": 26024,
+          "round2": 5968
+        }
+      ]
+    },
+    "app_name": "GOVT. MOHAN KUMARAMANGALAM M.C.",
+    "app_state": "Tamil Nadu",
+    "official_name": "Govt. Mohan Kumaramangalam Medical College, Salem",
+    "official_state": "Tamil Nadu",
+    "score": 0.491,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GOVT. VELLORE MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 15159,
+        "EWS": 25925,
+        "OBC": 26659,
+        "SC": 32595,
+        "ST": 92580
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 4451,
+          "round2": 15159
+        },
+        {
+          "year": 2024,
+          "round1": 12379,
+          "round2": 5096
+        }
+      ]
+    },
+    "app_name": "GOVT. VELLORE MEDICAL COLLEGE",
+    "app_state": "Tamil Nadu",
+    "official_name": "Government Vellore Medical College, Vellore",
+    "official_state": "Tamil Nadu",
+    "score": 0.95,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GUNTUR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 12681,
+        "EWS": 22094,
+        "OBC": 27169,
+        "SC": 43238,
+        "ST": 163502
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 12681,
+          "round2": 5356
+        },
+        {
+          "year": 2024,
+          "round1": 22516,
+          "round2": 351587
+        }
+      ]
+    },
+    "app_name": "GUNTUR MEDICAL COLLEGE",
+    "app_state": "Andhra Pradesh",
+    "official_name": "Guntur Medical College, Guntur",
+    "official_state": "Andhra Pradesh",
+    "score": 0.966,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GURU GOVIND SINGH MED COLL",
+      "quota": "AIQ",
+      "state": "Punjab",
+      "cutoffs": {
+        "General": 26024,
+        "EWS": 30372,
+        "OBC": 26587,
+        "SC": 133637,
+        "ST": 96892
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26024,
+          "round2": 736249
+        },
+        {
+          "year": 2024,
+          "round1": 16056,
+          "round2": 6049
+        }
+      ]
+    },
+    "app_name": "GURU GOVIND SINGH MED COLL",
+    "app_state": "Punjab",
+    "official_name": "Guru Govind Singh Medical College, Faridkot",
+    "official_state": "Punjab",
+    "score": 0.566,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GUWAHATI MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 12093,
+        "EWS": 30385,
+        "OBC": 26996,
+        "SC": 88005,
+        "ST": 61091
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 12093,
+          "round2": 8173
+        },
+        {
+          "year": 2024,
+          "round1": 8139,
+          "round2": 692842
+        }
+      ]
+    },
+    "app_name": "GUWAHATI MEDICAL COLLEGE",
+    "app_state": "Assam",
+    "official_name": "Gauhati Medical College, Guwahati",
+    "official_state": "Assam",
+    "score": 0.571,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Gandhi Medical College Musheerabad Secunderabad",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 2909,
+        "EWS": 7253,
+        "OBC": 5920,
+        "SC": 34060,
+        "ST": 49216
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 2909,
+          "round2": 1960
+        },
+        {
+          "year": 2024,
+          "round1": 3544,
+          "round2": 2588
+        }
+      ]
+    },
+    "app_name": "Gandhi Medical College Musheerabad Secunderabad",
+    "app_state": "Telangana",
+    "official_name": "Gandhi Medical College, Secunderabad",
+    "official_state": "Telangana",
+    "score": 0.713,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Goverment Medical College And Hospital Jalgaon",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 19238,
+        "EWS": 23014,
+        "OBC": 20364,
+        "SC": 91995,
+        "ST": 114432
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 14842,
+          "round2": 19238
+        },
+        {
+          "year": 2024,
+          "round1": 7070,
+          "round2": 13468
+        }
+      ]
+    },
+    "app_name": "Goverment Medical College And Hospital Jalgaon",
+    "app_state": "Maharashtra",
+    "official_name": "Government Medical College, Jalgaon",
+    "official_state": "Maharashtra",
+    "score": 0.581,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College Chittorgarh",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 9008,
+        "EWS": 16282,
+        "OBC": 13285,
+        "SC": 133796,
+        "ST": 82664
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 9008
+        },
+        {
+          "year": 2024,
+          "round1": 5506,
+          "round2": 9160
+        }
+      ]
+    },
+    "app_name": "Government Medical College Chittorgarh",
+    "app_state": "Rajasthan",
+    "official_name": "Government Medical College, Chittorgarh",
+    "official_state": "Rajasthan",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College Mahasamund Chhattisgarh",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 16897,
+        "EWS": 26872,
+        "OBC": 24565,
+        "SC": 120890,
+        "ST": 145338
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 16897
+        },
+        {
+          "year": 2024,
+          "round1": 26099,
+          "round2": 16700
+        }
+      ]
+    },
+    "app_name": "Government Medical College Mahasamund Chhattisgarh",
+    "app_state": "Chhattisgarh",
+    "official_name": "Government Medical College, Mahasamund",
+    "official_state": "Chhattisgarh",
+    "score": 0.963,
+    "old_total": null,
+    "new_total": 125,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College Nirmal",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 20114,
+        "EWS": 28202,
+        "OBC": 20895,
+        "SC": 95860,
+        "ST": 108496
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20114
+        },
+        {
+          "year": 2024,
+          "round1": 23948,
+          "round2": 856015
+        }
+      ]
+    },
+    "app_name": "Government Medical College Nirmal",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Nirmal",
+    "official_state": "Telangana",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College Satna",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 513297,
+        "EWS": 20808,
+        "OBC": 26896,
+        "SC": 1114323,
+        "ST": 121022
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 513297
+        },
+        {
+          "year": 2024,
+          "round1": 17842,
+          "round2": 687475
+        }
+      ]
+    },
+    "app_name": "Government Medical College Satna",
+    "app_state": "Madhya Pradesh",
+    "official_name": "Government Medical College, Satna",
+    "official_state": "Madhya Pradesh",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College Siddipet",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 21709,
+        "EWS": 20415,
+        "OBC": 23219,
+        "SC": 92458,
+        "ST": 143103
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17078,
+          "round2": 21709
+        },
+        {
+          "year": 2024,
+          "round1": 20618,
+          "round2": 437901
+        }
+      ]
+    },
+    "app_name": "Government Medical College Siddipet",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Siddipet",
+    "official_state": "Telangana",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College Suryapet",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 22254,
+        "EWS": 22645,
+        "OBC": 26994,
+        "SC": 123668,
+        "ST": 111793
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17662,
+          "round2": 22254
+        },
+        {
+          "year": 2024,
+          "round1": 8161,
+          "round2": 17106
+        }
+      ]
+    },
+    "app_name": "Government Medical College Suryapet",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Suryapet",
+    "official_state": "Telangana",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Baramati",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 26497,
+        "EWS": 10774,
+        "OBC": 27005,
+        "SC": 95419,
+        "ST": 120996
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26497,
+          "round2": 11859
+        },
+        {
+          "year": 2024,
+          "round1": 11503,
+          "round2": 592806
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Baramati",
+    "app_state": "Maharashtra",
+    "official_name": "Government Medical College & Hospital, Baramati",
+    "official_state": "Maharashtra",
+    "score": 0.949,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Barmer Rajasthan",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 13586,
+        "EWS": 13411,
+        "OBC": 26323,
+        "SC": 90279,
+        "ST": 100855
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 13586,
+          "round2": 11548
+        },
+        {
+          "year": 2024,
+          "round1": 5355,
+          "round2": 8786
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Barmer Rajasthan",
+    "app_state": "Rajasthan",
+    "official_name": "Government Medical College, Barmer",
+    "official_state": "Rajasthan",
+    "score": 0.943,
+    "old_total": null,
+    "new_total": 130,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Basti",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 26867,
+        "EWS": 19273,
+        "OBC": 18806,
+        "SC": 107020,
+        "ST": 116051
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26867,
+          "round2": 17915
+        },
+        {
+          "year": 2024,
+          "round1": 23587,
+          "round2": 11715
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Basti",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Government Medical College, Rampur, Basti",
+    "official_state": "Uttar Pradesh",
+    "score": 0.575,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Faizabad",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 26917,
+        "EWS": 18605,
+        "OBC": 26742,
+        "SC": 80008,
+        "ST": 107947
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26917,
+          "round2": 12947
+        },
+        {
+          "year": 2024,
+          "round1": 20313,
+          "round2": 10030
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Faizabad",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Government Medical College, Faizabad",
+    "official_state": "Uttar Pradesh",
+    "score": 0.977,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Firozabad",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 26148,
+        "EWS": 16479,
+        "OBC": 16833,
+        "SC": 78543,
+        "ST": 112116
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26148,
+          "round2": 13065
+        },
+        {
+          "year": 2024,
+          "round1": 10892,
+          "round2": 10201
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Firozabad",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Government Medical College, Firozabad",
+    "official_state": "Uttar Pradesh",
+    "score": 0.977,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Kannur",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": {
+        "General": 11271,
+        "EWS": 28738,
+        "OBC": 4799,
+        "SC": 67550,
+        "ST": 137232
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 11271,
+          "round2": 9984
+        },
+        {
+          "year": 2024,
+          "round1": 9412,
+          "round2": 4758
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Kannur",
+    "app_state": "Kerala",
+    "official_name": "Govt. Medical College,Pariyaram, Kannur (Prev. Known as Academy of Medical Sciences)",
+    "official_state": "Kerala",
+    "score": 0.586,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Nalgonda",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 22637,
+        "EWS": 25118,
+        "OBC": 23202,
+        "SC": 121043,
+        "ST": 112609
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 617644,
+          "round2": 22637
+        },
+        {
+          "year": 2024,
+          "round1": 21257,
+          "round2": 644945
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Nalgonda",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Nalgonda",
+    "official_state": "Telangana",
+    "score": 0.977,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Shahdol",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 26460,
+        "EWS": 19899,
+        "OBC": 19478,
+        "SC": 110702,
+        "ST": 99339
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26460,
+          "round2": 19132
+        },
+        {
+          "year": 2024,
+          "round1": 1263663,
+          "round2": 732762
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Shahdol",
+    "app_state": "Madhya Pradesh",
+    "official_name": "Government Medical College, Shahdol, MP",
+    "official_state": "Madhya Pradesh",
+    "score": 0.59,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical College Vikarabad",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 24102,
+        "EWS": 28771,
+        "OBC": 27198,
+        "SC": 108627,
+        "ST": 126434
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20225,
+          "round2": 24102
+        },
+        {
+          "year": 2024,
+          "round1": 8654,
+          "round2": 870494
+        }
+      ]
+    },
+    "app_name": "Govt Medical College Vikarabad",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Vikarabad, Telangana",
+    "official_state": "Telangana",
+    "score": 0.947,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt Medical college Shivpuri",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 15446,
+        "EWS": 30471,
+        "OBC": 16978,
+        "SC": 95974,
+        "ST": 111337
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15446,
+          "round2": 13336
+        },
+        {
+          "year": 2024,
+          "round1": 18129,
+          "round2": 10169
+        }
+      ]
+    },
+    "app_name": "Govt Medical college Shivpuri",
+    "app_state": "Madhya Pradesh",
+    "official_name": "Government Medical College, Shivpuri, MP",
+    "official_state": "Madhya Pradesh",
+    "score": 0.591,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt. Medical College Jayashankar Bhupalpally",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 20614,
+        "EWS": 24587,
+        "OBC": 18629,
+        "SC": 132267,
+        "ST": 138176
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20614
+        },
+        {
+          "year": 2024,
+          "round1": 24940,
+          "round2": 19403
+        }
+      ]
+    },
+    "app_name": "Govt. Medical College Jayashankar Bhupalpally",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Jayashankar Bhupalpally",
+    "official_state": "Telangana",
+    "score": 0.984,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt. Medical College Karur",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 15955,
+        "EWS": 25254,
+        "OBC": 16740,
+        "SC": 63512,
+        "ST": 137328
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15955,
+          "round2": 15509
+        },
+        {
+          "year": 2024,
+          "round1": 14468,
+          "round2": 571787
+        }
+      ]
+    },
+    "app_name": "Govt. Medical College Karur",
+    "app_state": "Tamil Nadu",
+    "official_name": "Government Medical College, Karur",
+    "official_state": "Tamil Nadu",
+    "score": 0.974,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Govt. Medical College Rajanna Sircilla",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 26728,
+        "EWS": 28079,
+        "OBC": 24318,
+        "SC": 98635,
+        "ST": 63398
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 16695,
+          "round2": 26728
+        },
+        {
+          "year": 2024,
+          "round1": 25124,
+          "round2": 16102
+        }
+      ]
+    },
+    "app_name": "Govt. Medical College Rajanna Sircilla",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Rajanna Sircilla",
+    "official_state": "Telangana",
+    "score": 0.981,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Graphic Era Institute Of Medical Science",
+      "quota": "AIQ",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "General": 639106,
+        "OBC": 652939,
+        "ST": 439364,
+        "SC": 445133,
+        "EWS": 531490
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 639106,
+          "round2": 476306
+        },
+        {
+          "year": 2024,
+          "round1": 363419,
+          "round2": 564745
+        }
+      ]
+    },
+    "app_name": "Graphic Era Institute Of Medical Science",
+    "app_state": "Uttarakhand",
+    "official_name": "Graphic Era Institute of Medical Sciences Dehradun, Uttrakhand",
+    "official_state": "Uttarakhand",
+    "score": 0.573,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Gulbarga Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 19803,
+        "EWS": 25427,
+        "OBC": 20050,
+        "SC": 117722,
+        "ST": 129845
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 10554,
+          "round2": 19803
+        },
+        {
+          "year": 2024,
+          "round1": 17999,
+          "round2": 10807
+        }
+      ]
+    },
+    "app_name": "Gulbarga Institute of Medical Sciences",
+    "app_state": "Karnataka",
+    "official_name": "Gulbarga Institute of Medical Sciences, Gulbarga",
+    "official_state": "Karnataka",
+    "score": 0.974,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "HASSAN INST. MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 18762,
+        "EWS": 24903,
+        "OBC": 20234,
+        "SC": 118540,
+        "ST": 133599
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 18762,
+          "round2": 14779
+        },
+        {
+          "year": 2024,
+          "round1": 16412,
+          "round2": 361148
+        }
+      ]
+    },
+    "app_name": "HASSAN INST. MEDICAL SCIENCES",
+    "app_state": "Karnataka",
+    "official_name": "Hassan Institute of Medical Sciences, Hassan",
+    "official_state": "Karnataka",
+    "score": 0.572,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Haveri Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 23733,
+        "EWS": 22656,
+        "OBC": 23839,
+        "SC": 100011,
+        "ST": 152565
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15509,
+          "round2": 23733
+        },
+        {
+          "year": 2024,
+          "round1": 24692,
+          "round2": 15946
+        }
+      ]
+    },
+    "app_name": "Haveri Institute of Medical Sciences",
+    "app_state": "Karnataka",
+    "official_name": "Haveri Institute of Medical Sciences, Haveri",
+    "official_state": "Karnataka",
+    "score": 0.978,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Indira Gandhi Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 4482,
+        "EWS": 5477,
+        "OBC": 8353,
+        "SC": 96049,
+        "ST": 79981
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 4482
+        },
+        {
+          "year": 2024,
+          "round1": 6675,
+          "round2": 4070
+        }
+      ]
+    },
+    "app_name": "Indira Gandhi Institute of Medical Sciences",
+    "app_state": "Bihar",
+    "official_name": "Indira Gandhi Institute of Medical Sciences, Sheikhpura, Patna",
+    "official_state": "Bihar",
+    "score": 0.584,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Indira Gandhi Medical College & RI",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 26475,
+        "EWS": 22869,
+        "OBC": 18356,
+        "SC": 139123,
+        "ST": 164804
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26475,
+          "round2": 14360
+        },
+        {
+          "year": 2024,
+          "round1": 22670,
+          "round2": 8929
+        }
+      ]
+    },
+    "app_name": "Indira Gandhi Medical College & RI",
+    "app_state": "Puducherry",
+    "official_name": "Indira Gandhi Medical College & Research Institute, Puducherry",
+    "official_state": "Puducherry",
+    "score": 0.676,
+    "old_total": null,
+    "new_total": 180,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "JHALAWAR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 19935,
+        "EWS": 7948,
+        "OBC": 10582,
+        "SC": 114643,
+        "ST": 59107
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 19935,
+          "round2": 9438
+        },
+        {
+          "year": 2024,
+          "round1": 25766,
+          "round2": 5886
+        }
+      ]
+    },
+    "app_name": "JHALAWAR MEDICAL COLLEGE",
+    "app_state": "Rajasthan",
+    "official_name": "Jhalawar Medical College, Jhalawar",
+    "official_state": "Rajasthan",
+    "score": 0.961,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "JSS Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 167972,
+        "OBC": 160323,
+        "SC": 843057
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 167972,
+          "round2": 161369
+        },
+        {
+          "year": 2024,
+          "round1": 63111,
+          "round2": 870311
+        }
+      ]
+    },
+    "app_name": "JSS Medical College",
+    "app_state": "Karnataka",
+    "official_name": "JSS Medical College, Mysore",
+    "official_state": "Karnataka",
+    "score": 0.586,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Jawaharlal Nehru Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 12762,
+        "EWS": 5387,
+        "OBC": 8082,
+        "SC": 111142,
+        "ST": 163064
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 12762,
+          "round2": 14068
+        },
+        {
+          "year": 2024,
+          "round1": 339420,
+          "round2": 395088
+        }
+      ]
+    },
+    "app_name": "Jawaharlal Nehru Medical College",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Jawaharlal Nehru Medical College, Aligarh",
+    "official_state": "Uttar Pradesh",
+    "score": 0.722,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Jhargram Government Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 23975,
+        "EWS": 20542,
+        "OBC": 27296,
+        "SC": 91235,
+        "ST": 149018
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 19281,
+          "round2": 23975
+        },
+        {
+          "year": 2024,
+          "round1": 1010932,
+          "round2": 731206
+        }
+      ]
+    },
+    "app_name": "Jhargram Government Medical College and Hospital",
+    "app_state": "West Bengal",
+    "official_name": "Jhargram Government Medical College & Hospital, Jhargram",
+    "official_state": "West Bengal",
+    "score": 0.968,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Jorhat Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 22850,
+        "EWS": 25511,
+        "OBC": 23880,
+        "SC": 131902,
+        "ST": 89396
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 16465,
+          "round2": 22850
+        },
+        {
+          "year": 2024,
+          "round1": 22963,
+          "round2": 16562
+        }
+      ]
+    },
+    "app_name": "Jorhat Medical College and Hospital",
+    "app_state": "Assam",
+    "official_name": "Jorhat Medical College & Hospital , Jorhat",
+    "official_state": "Assam",
+    "score": 0.962,
+    "old_total": null,
+    "new_total": 125,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "K.S Hegde Medical Academy",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 139006,
+        "EWS": 105741,
+        "OBC": 85179,
+        "SC": 99910
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 139006,
+          "round2": 134833
+        },
+        {
+          "year": 2024,
+          "round1": 151666,
+          "round2": 927470
+        }
+      ]
+    },
+    "app_name": "K.S Hegde Medical Academy",
+    "app_state": "Karnataka",
+    "official_name": "K S Hegde Medical Academy, Mangalore",
+    "official_state": "Karnataka",
+    "score": 0.808,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "KURNOOL MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 14065,
+        "EWS": 22480,
+        "OBC": 10283,
+        "SC": 955901,
+        "ST": 83520
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 14065,
+          "round2": 8815
+        },
+        {
+          "year": 2024,
+          "round1": 18231,
+          "round2": 9951
+        }
+      ]
+    },
+    "app_name": "KURNOOL MEDICAL COLLEGE",
+    "app_state": "Andhra Pradesh",
+    "official_name": "Kurnool Medical College, Kurnool",
+    "official_state": "Andhra Pradesh",
+    "score": 0.963,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Kakatiya Medical College Warangal",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 17616,
+        "EWS": 22983,
+        "OBC": 1018550,
+        "SC": 91903,
+        "ST": 51696
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17616,
+          "round2": 14899
+        },
+        {
+          "year": 2024,
+          "round1": 15270,
+          "round2": 212464
+        }
+      ]
+    },
+    "app_name": "Kakatiya Medical College Warangal",
+    "app_state": "Telangana",
+    "official_name": "Kakatiya Medical College, Warangal",
+    "official_state": "Telangana",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Kalinga Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 119802,
+        "EWS": 136459,
+        "OBC": 179690,
+        "SC": 675564
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 119802,
+          "round2": 174334
+        },
+        {
+          "year": 2024,
+          "round1": 160896,
+          "round2": 1063742
+        }
+      ]
+    },
+    "app_name": "Kalinga Institute of Medical Sciences",
+    "app_state": "Odisha",
+    "official_name": "Kalinga Institute of Medical Sciences, Bhubaneswar",
+    "official_state": "Odisha",
+    "score": 0.59,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Kalyan Singh Government Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 13610,
+        "EWS": 14734,
+        "OBC": 12671,
+        "SC": 87904,
+        "ST": 104956
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 13610,
+          "round2": 13228
+        },
+        {
+          "year": 2024,
+          "round1": 10816,
+          "round2": 11906
+        }
+      ]
+    },
+    "app_name": "Kalyan Singh Government Medical College",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Kalyan Singh Government Medical College",
+    "official_state": "Uttar Pradesh",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Karwar Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 20543,
+        "EWS": 26369,
+        "OBC": 21967,
+        "SC": 126484,
+        "ST": 122194
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20543,
+          "round2": 18990
+        },
+        {
+          "year": 2024,
+          "round1": 17753,
+          "round2": 13569
+        }
+      ]
+    },
+    "app_name": "Karwar Institute of Medical Sciences",
+    "app_state": "Karnataka",
+    "official_name": "Karwar Institute of Medical Sciences, Karwar",
+    "official_state": "Karnataka",
+    "score": 0.978,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Kasturba Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 55611,
+        "EWS": 51076,
+        "OBC": 41533
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 52360,
+          "round2": 55611
+        },
+        {
+          "year": 2024,
+          "round1": 37269,
+          "round2": 466519
+        }
+      ]
+    },
+    "app_name": "Kasturba Medical College",
+    "app_state": "Karnataka",
+    "official_name": "Kasturba Medical College, Manipal",
+    "official_state": "Karnataka",
+    "score": 0.589,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Kodagu Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 20211,
+        "EWS": 20632,
+        "OBC": 26844,
+        "SC": 130367,
+        "ST": 151878
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20211,
+          "round2": 19257
+        },
+        {
+          "year": 2024,
+          "round1": 17820,
+          "round2": 12594
+        }
+      ]
+    },
+    "app_name": "Kodagu Institute of Medical Sciences",
+    "app_state": "Karnataka",
+    "official_name": "Kodagu Institute of Medical Sciences, Kodagu",
+    "official_state": "Karnataka",
+    "score": 0.978,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Kokrajhar Medical College & Hospital Rangalikhata",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 24347,
+        "EWS": 24869,
+        "OBC": 21330,
+        "SC": 105691,
+        "ST": 125887
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20679,
+          "round2": 24347
+        },
+        {
+          "year": 2024,
+          "round1": 8638,
+          "round2": 18970
+        }
+      ]
+    },
+    "app_name": "Kokrajhar Medical College & Hospital Rangalikhata",
+    "app_state": "Assam",
+    "official_name": "Kokrajhar Medical College",
+    "official_state": "Assam",
+    "score": 0.549,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Koppal Institute of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 23360,
+        "EWS": 27861,
+        "OBC": 23421,
+        "SC": 128737,
+        "ST": 149775
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15274,
+          "round2": 23360
+        },
+        {
+          "year": 2024,
+          "round1": 20870,
+          "round2": 609109
+        }
+      ]
+    },
+    "app_name": "Koppal Institute of Medical Sciences",
+    "app_state": "Karnataka",
+    "official_name": "Koppal Institute of Medical Sciences, Koppal",
+    "official_state": "Karnataka",
+    "score": 0.978,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "LOKMANYA TILAK MUNICIPAL M C",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 4095,
+        "EWS": 12570,
+        "OBC": 11384,
+        "SC": 116579,
+        "ST": 109648
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 1887,
+          "round2": 4095
+        },
+        {
+          "year": 2024,
+          "round1": 7167,
+          "round2": 2857
+        }
+      ]
+    },
+    "app_name": "LOKMANYA TILAK MUNICIPAL M C",
+    "app_state": "Maharashtra",
+    "official_name": "Lokmanya Tilak Municipal Medical College, Sion, Mumbai",
+    "official_state": "Maharashtra",
+    "score": 0.496,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Lakhimpur Medical College",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 20090,
+        "EWS": 18627,
+        "OBC": 27078,
+        "SC": 109291,
+        "ST": 154315
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20090
+        },
+        {
+          "year": 2024,
+          "round1": 8468,
+          "round2": 18283
+        }
+      ]
+    },
+    "app_name": "Lakhimpur Medical College",
+    "app_state": "Assam",
+    "official_name": "Lakhimpur Medical College",
+    "official_state": "Assam",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "M.G.M. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 27095,
+        "EWS": 18086,
+        "OBC": 17917,
+        "SC": 102267,
+        "ST": 112712
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 27095,
+          "round2": 4666
+        },
+        {
+          "year": 2024,
+          "round1": 16493,
+          "round2": 6891
+        }
+      ]
+    },
+    "app_name": "M.G.M. MEDICAL COLLEGE",
+    "app_state": "Jharkhand",
+    "official_name": "M G M Medical College, Jamshedpur",
+    "official_state": "Jharkhand",
+    "score": 0.698,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "MADRAS MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 1155,
+        "EWS": 6861,
+        "OBC": 920,
+        "SC": 6518,
+        "ST": 50544
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 293085,
+          "round2": 1155
+        },
+        {
+          "year": 2024,
+          "round1": 2048,
+          "round2": 944
+        }
+      ]
+    },
+    "app_name": "MADRAS MEDICAL COLLEGE",
+    "app_state": "Tamil Nadu",
+    "official_name": "Madras Medical College, Chennai",
+    "official_state": "Tamil Nadu",
+    "score": 0.587,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "MADURAI MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 11769,
+        "EWS": 21479,
+        "OBC": 25889,
+        "SC": 18462,
+        "ST": 123915
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 2508,
+          "round2": 11769
+        },
+        {
+          "year": 2024,
+          "round1": 10467,
+          "round2": 4456
+        }
+      ]
+    },
+    "app_name": "MADURAI MEDICAL COLLEGE",
+    "app_state": "Tamil Nadu",
+    "official_name": "Madurai Medical College, Madurai",
+    "official_state": "Tamil Nadu",
+    "score": 0.963,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "MAHARANI LAXMI BAI MEDICAL COLL",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 10664,
+        "EWS": 12795,
+        "OBC": 11011,
+        "SC": 61250,
+        "ST": 95992
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 6180,
+          "round2": 10664
+        },
+        {
+          "year": 2024,
+          "round1": 15060,
+          "round2": 423415
+        }
+      ]
+    },
+    "app_name": "MAHARANI LAXMI BAI MEDICAL COLL",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Maharani Laxmi Bai Medical College, Jhansi",
+    "official_state": "Uttar Pradesh",
+    "score": 0.665,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "MALDA MED. COLLEGE",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 22483,
+        "EWS": 22783,
+        "OBC": 23295,
+        "SC": 90126,
+        "ST": 123538
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 14398,
+          "round2": 22483
+        },
+        {
+          "year": 2024,
+          "round1": 22779,
+          "round2": 13703
+        }
+      ]
+    },
+    "app_name": "MALDA MED. COLLEGE",
+    "app_state": "West Bengal",
+    "official_name": "Malda Medical College & Hospital, Malda",
+    "official_state": "West Bengal",
+    "score": 0.535,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "MANDYA INST. OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 26836,
+        "EWS": 21375,
+        "OBC": 18141,
+        "SC": 111130,
+        "ST": 82535
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26836,
+          "round2": 12096
+        },
+        {
+          "year": 2024,
+          "round1": 15250,
+          "round2": 8042
+        }
+      ]
+    },
+    "app_name": "MANDYA INST. OF MEDICAL SCI.",
+    "app_state": "Karnataka",
+    "official_name": "Mandya Institute of Medical Sciences, Mandya",
+    "official_state": "Karnataka",
+    "score": 0.438,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "MIDNAPORE MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 21971,
+        "EWS": 22513,
+        "OBC": 22530,
+        "SC": 122611,
+        "ST": 125396
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 13585,
+          "round2": 21971
+        },
+        {
+          "year": 2024,
+          "round1": 23116,
+          "round2": 12197
+        }
+      ]
+    },
+    "app_name": "MIDNAPORE MEDICAL COLLEGE",
+    "app_state": "West Bengal",
+    "official_name": "Midnapore Medical College, Midnapore",
+    "official_state": "West Bengal",
+    "score": 0.958,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "MOTI LAL NEHRU MEDICAL COLL",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 17785,
+        "EWS": 30810,
+        "OBC": 11302,
+        "SC": 111463,
+        "ST": 72549
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17785,
+          "round2": 7463
+        },
+        {
+          "year": 2024,
+          "round1": 18259,
+          "round2": 4648
+        }
+      ]
+    },
+    "app_name": "MOTI LAL NEHRU MEDICAL COLL",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Moti Lal Nehru Medical College, Allahabad",
+    "official_state": "Uttar Pradesh",
+    "score": 0.651,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "MYSORE MED.& RESEARCH INST. MYSORE",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 23306,
+        "EWS": 15375,
+        "OBC": 26610,
+        "SC": 136854,
+        "ST": 29293
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 23306,
+          "round2": 6516
+        },
+        {
+          "year": 2024,
+          "round1": 15709,
+          "round2": 3627
+        }
+      ]
+    },
+    "app_name": "MYSORE MED.& RESEARCH INST. MYSORE",
+    "app_state": "Karnataka",
+    "official_name": "Mysore Medical College and Research Instt. (Prev.name Government Medical College), Mysore",
+    "official_state": "Karnataka",
+    "score": 0.446,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Maharishi Chyawan Medical College",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": {
+        "General": 25252,
+        "SC": 136602,
+        "OBC": 1039159
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 16702,
+          "round2": 25252
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        }
+      ]
+    },
+    "app_name": "Maharishi Chyawan Medical College",
+    "app_state": "Haryana",
+    "official_name": "Maharishi Chyawan Medical College, Koriawas",
+    "official_state": "Haryana",
+    "score": 0.72,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Mahatma Gandhi Medical College",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 832060,
+        "EWS": 504214,
+        "OBC": 676251,
+        "SC": 413737,
+        "ST": 557965
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 832060,
+          "round2": 716353
+        },
+        {
+          "year": 2024,
+          "round1": 1113836,
+          "round2": 987631
+        }
+      ]
+    },
+    "app_name": "Mahatma Gandhi Medical College",
+    "app_state": "Puducherry",
+    "official_name": "Mahatma Gandhi Medical College & Research Institute, Pondicherry",
+    "official_state": "Puducherry",
+    "score": 0.915,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Mahatma Gandhi Mission Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 148116,
+        "EWS": 240493,
+        "OBC": 373553,
+        "SC": 256462
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 148116,
+          "round2": 303365
+        },
+        {
+          "year": 2024,
+          "round1": 83508,
+          "round2": 758346
+        }
+      ]
+    },
+    "app_name": "Mahatma Gandhi Mission Medical College",
+    "app_state": "Maharashtra",
+    "official_name": "Mahatma Gandhi Mission Medical College, Vashi",
+    "official_state": "Maharashtra",
+    "score": 0.794,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Mahatma Vidur Autonomous State Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 26775,
+        "EWS": 18487,
+        "OBC": 19056,
+        "SC": 102420,
+        "ST": 114632
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26775,
+          "round2": 18359
+        },
+        {
+          "year": 2024,
+          "round1": 20504,
+          "round2": 13222
+        }
+      ]
+    },
+    "app_name": "Mahatma Vidur Autonomous State Medical College",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Mahatma Vidur Autonomous State Medical College",
+    "official_state": "Uttar Pradesh",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Meenakshi Medical College Hospital and Research Institute",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 708126,
+        "EWS": 450525,
+        "OBC": 624797,
+        "SC": 657379,
+        "ST": 540378
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 708126,
+          "round2": 588923
+        },
+        {
+          "year": 2024,
+          "round1": 645032,
+          "round2": 899112
+        }
+      ]
+    },
+    "app_name": "Meenakshi Medical College Hospital and Research Institute",
+    "app_state": "Tamil Nadu",
+    "official_name": "Meenakshi Medical College and Research Institute, Enathur",
+    "official_state": "Tamil Nadu",
+    "score": 0.587,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "NALANDA MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "General": 9827,
+        "EWS": 22629,
+        "OBC": 9737,
+        "SC": 76906,
+        "ST": 160161
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 6106,
+          "round2": 9827
+        },
+        {
+          "year": 2024,
+          "round1": 11894,
+          "round2": 6015
+        }
+      ]
+    },
+    "app_name": "NALANDA MEDICAL COLLEGE",
+    "app_state": "Bihar",
+    "official_name": "Nalanda Medical College, Patna",
+    "official_state": "Bihar",
+    "score": 0.596,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Nalbari Medical College & Hospital Dakhingaon",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 27316,
+        "EWS": 24577,
+        "OBC": 25960,
+        "SC": 93101,
+        "ST": 123013
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 27316,
+          "round2": 24671
+        },
+        {
+          "year": 2024,
+          "round1": 23378,
+          "round2": 873477
+        }
+      ]
+    },
+    "app_name": "Nalbari Medical College & Hospital Dakhingaon",
+    "app_state": "Assam",
+    "official_name": "Nalbari Medical College, Nalbari",
+    "official_state": "Assam",
+    "score": 0.564,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "PABITRA MOHAN PRADHAN MEDICAL COLLEGE & HOSPITAL",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 27610,
+        "EWS": 27610
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": null,
+          "round2": null
+        }
+      ]
+    },
+    "app_name": "PABITRA MOHAN PRADHAN MEDICAL COLLEGE & HOSPITAL",
+    "app_state": "Odisha",
+    "official_name": "PABITRA MOHAN PRADHAN MEDICAL COLLEGE, TALCHER",
+    "official_state": "Odisha",
+    "score": 0.788,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Prafulla Chandra Sen Government Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 719780,
+        "EWS": 20938,
+        "OBC": 23090,
+        "SC": 93574,
+        "ST": 109833
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 473110,
+          "round2": 719780
+        },
+        {
+          "year": 2024,
+          "round1": 22430,
+          "round2": 16642
+        }
+      ]
+    },
+    "app_name": "Prafulla Chandra Sen Government Medical College & Hospital",
+    "app_state": "West Bengal",
+    "official_name": "Prafulla Chandra Sen Government Medical College & Hospital",
+    "official_state": "West Bengal",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Pt. J N M MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 25866,
+        "EWS": 13340,
+        "OBC": 26284,
+        "SC": 50910,
+        "ST": 90844
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 25866,
+          "round2": 527692
+        },
+        {
+          "year": 2024,
+          "round1": 976904,
+          "round2": 600513
+        }
+      ]
+    },
+    "app_name": "Pt. J N M MEDICAL COLLEGE",
+    "app_state": "Chhattisgarh",
+    "official_name": "Pt. J N M Medical College, Raipur",
+    "official_state": "Chhattisgarh",
+    "score": 0.818,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Pt. Jawahar Lal Nehru Govt. Med. College",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": {
+        "General": 899557,
+        "EWS": 18841,
+        "OBC": 15890,
+        "SC": 130397,
+        "ST": 113394
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 899557,
+          "round2": 15300
+        },
+        {
+          "year": 2024,
+          "round1": 15425,
+          "round2": 482841
+        }
+      ]
+    },
+    "app_name": "Pt. Jawahar Lal Nehru Govt. Med. College",
+    "app_state": "Himachal Pradesh",
+    "official_name": "Pt. Jawahar Lal Nehru Government Medical College, Chamba",
+    "official_state": "Himachal Pradesh",
+    "score": 0.703,
+    "old_total": null,
+    "new_total": 121,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Pt. Raghunath Murmu Med. College",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 848426,
+        "EWS": 15632,
+        "OBC": 27293,
+        "SC": 1010432,
+        "ST": 146965
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 736249,
+          "round2": 848426
+        },
+        {
+          "year": 2024,
+          "round1": 22616,
+          "round2": 14162
+        }
+      ]
+    },
+    "app_name": "Pt. Raghunath Murmu Med. College",
+    "app_state": "Odisha",
+    "official_name": "Pt. Raghunath Murmu Medical College and Hospital, Baripada, Odisha",
+    "official_state": "Odisha",
+    "score": 0.611,
+    "old_total": null,
+    "new_total": 125,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "R.N.T. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 3890,
+        "EWS": 5007,
+        "OBC": 7695,
+        "SC": 55836,
+        "ST": 45589
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 3890
+        },
+        {
+          "year": 2024,
+          "round1": 6060,
+          "round2": 15411
+        }
+      ]
+    },
+    "app_name": "R.N.T. MEDICAL COLLEGE",
+    "app_state": "Rajasthan",
+    "official_name": "R N T Medical College, Udaipur",
+    "official_state": "Rajasthan",
+    "score": 0.772,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "RAICHUR INST. OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 896492,
+        "EWS": 15144,
+        "OBC": 22976,
+        "SC": 117925,
+        "ST": 140586
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 896492,
+          "round2": 20134
+        },
+        {
+          "year": 2024,
+          "round1": 23962,
+          "round2": 13978
+        }
+      ]
+    },
+    "app_name": "RAICHUR INST. OF MEDICAL SCI.",
+    "app_state": "Karnataka",
+    "official_name": "Raichur Institute of Medical Sciences, Raichur",
+    "official_state": "Karnataka",
+    "score": 0.438,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "RAJIV GANDHI INSTITUTE OF MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 21569,
+        "EWS": 25980,
+        "OBC": 22476,
+        "SC": 84095,
+        "ST": 147831
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 14506,
+          "round2": 21569
+        },
+        {
+          "year": 2024,
+          "round1": 20475,
+          "round2": 16281
+        }
+      ]
+    },
+    "app_name": "RAJIV GANDHI INSTITUTE OF MEDICAL SCIENCES",
+    "app_state": "Andhra Pradesh",
+    "official_name": "Rajiv Gandhi Institute of Medical Sciences, Srikakulam",
+    "official_state": "Andhra Pradesh",
+    "score": 0.721,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "RAMPURHAT GOVT MEDICAL COLLEGE RAMPURHAT",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 22921,
+        "EWS": 23811,
+        "OBC": 26665,
+        "SC": 90561,
+        "ST": 122224
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17392,
+          "round2": 22921
+        },
+        {
+          "year": 2024,
+          "round1": 23931,
+          "round2": 799075
+        }
+      ]
+    },
+    "app_name": "RAMPURHAT GOVT MEDICAL COLLEGE RAMPURHAT",
+    "app_state": "West Bengal",
+    "official_name": "Rampurhat Government Medical College & Hospital, Rampurhat",
+    "official_state": "West Bengal",
+    "score": 0.961,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "RUHS College of Medical Sciences",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 557001,
+        "EWS": 5194,
+        "OBC": 15084,
+        "SC": 39192,
+        "ST": 49630
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 557001,
+          "round2": 3032
+        },
+        {
+          "year": 2024,
+          "round1": 20094,
+          "round2": 405839
+        }
+      ]
+    },
+    "app_name": "RUHS College of Medical Sciences",
+    "app_state": "Rajasthan",
+    "official_name": "RUHS College of Medical Sciences, Jaipur",
+    "official_state": "Rajasthan",
+    "score": 0.6,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Raiganj Government Medical College",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "General": 23373,
+        "EWS": 24993,
+        "OBC": 24104,
+        "SC": 127686,
+        "ST": 127876
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 617511,
+          "round2": 23373
+        },
+        {
+          "year": 2024,
+          "round1": 25108,
+          "round2": 15868
+        }
+      ]
+    },
+    "app_name": "Raiganj Government Medical College",
+    "app_state": "West Bengal",
+    "official_name": "Raiganj Government Medical College & Hospital, Raiganj",
+    "official_state": "West Bengal",
+    "score": 0.95,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Raja Rajeswari Medical College Bengaluru",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 530319,
+        "EWS": 374750,
+        "OBC": 541606,
+        "SC": 402359,
+        "ST": 327788
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 530319,
+          "round2": 379587
+        },
+        {
+          "year": 2024,
+          "round1": 668522,
+          "round2": 1097103
+        }
+      ]
+    },
+    "app_name": "Raja Rajeswari Medical College Bengaluru",
+    "app_state": "Karnataka",
+    "official_name": "Raja Rajeswari Medical College & Hospital, Bangalore",
+    "official_state": "Karnataka",
+    "score": 0.583,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Rajarshee Chhatrapati Shahu Maharaj Government Medical College Kolhapur",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 16659,
+        "EWS": 22134,
+        "OBC": 27118,
+        "SC": 109831,
+        "ST": 105614
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 11106,
+          "round2": 16659
+        },
+        {
+          "year": 2024,
+          "round1": 13958,
+          "round2": 10491
+        }
+      ]
+    },
+    "app_name": "Rajarshee Chhatrapati Shahu Maharaj Government Medical College Kolhapur",
+    "app_state": "Maharashtra",
+    "official_name": "Rajashree Chatrapati Shahu Maharaj Government Medical College, Kolhapur",
+    "official_state": "Maharashtra",
+    "score": 0.566,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Rajiv Gandhi Institute Medical Sce of Adilabad",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "General": 21702,
+        "EWS": 24523,
+        "OBC": 22103,
+        "SC": 121285,
+        "ST": 69858
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 21702,
+          "round2": 19586
+        },
+        {
+          "year": 2024,
+          "round1": 19959,
+          "round2": 12222
+        }
+      ]
+    },
+    "app_name": "Rajiv Gandhi Institute Medical Sce of Adilabad",
+    "app_state": "Telangana",
+    "official_name": "Rajiv Gandhi Institute of Medical Sciences, adilabad",
+    "official_state": "Telangana",
+    "score": 0.784,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Rajkiya Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 26970,
+        "EWS": 17316,
+        "OBC": 16785,
+        "SC": 95192,
+        "ST": 114568
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 11310,
+          "round2": 26970
+        },
+        {
+          "year": 2024,
+          "round1": 21747,
+          "round2": 10723
+        }
+      ]
+    },
+    "app_name": "Rajkiya Medical College",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Rajkiya Medical College Jalaun, Orai, Uttar Pradesh",
+    "official_state": "Uttar Pradesh",
+    "score": 0.41,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Rajmata shrimati devendra kumari singhdeo government medical college",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": {
+        "General": 17455,
+        "EWS": 25218,
+        "OBC": 23139,
+        "SC": 94867,
+        "ST": 121735
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17455
+        },
+        {
+          "year": 2024,
+          "round1": 20515,
+          "round2": 835824
+        }
+      ]
+    },
+    "app_name": "Rajmata shrimati devendra kumari singhdeo government medical college",
+    "app_state": "Chhattisgarh",
+    "official_name": "Rajmata Shrimata Devendra Kumari Singhdeo Government Medical College, Ambikapur (Surguja), Chhattisgarh",
+    "official_state": "Chhattisgarh",
+    "score": 0.639,
+    "old_total": null,
+    "new_total": 125,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "S.N. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 15360,
+        "EWS": 12381,
+        "OBC": 10008,
+        "SC": 112478,
+        "ST": 89243
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15360,
+          "round2": 7087
+        },
+        {
+          "year": 2024,
+          "round1": 7212,
+          "round2": 4354
+        }
+      ]
+    },
+    "app_name": "S.N. MEDICAL COLLEGE",
+    "app_state": "Uttar Pradesh",
+    "official_name": "S N Medical College, Agra",
+    "official_state": "Uttar Pradesh",
+    "score": 0.721,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SARDAR PATEL MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 3407,
+        "EWS": 6137,
+        "OBC": 6177,
+        "SC": 103148,
+        "ST": 43157
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 3048,
+          "round2": 3407
+        },
+        {
+          "year": 2024,
+          "round1": 7815,
+          "round2": 2585
+        }
+      ]
+    },
+    "app_name": "SARDAR PATEL MEDICAL COLLEGE",
+    "app_state": "Rajasthan",
+    "official_name": "Sardar Patel Medical College, Bikaner",
+    "official_state": "Rajasthan",
+    "score": 0.719,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SH VASANT RAO NAIK GOVT.M.C.",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 867744,
+        "EWS": 23608,
+        "OBC": 27131,
+        "SC": 772618,
+        "ST": 109913
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 14578,
+          "round2": 867744
+        },
+        {
+          "year": 2024,
+          "round1": 18811,
+          "round2": 13794
+        }
+      ]
+    },
+    "app_name": "SH VASANT RAO NAIK GOVT.M.C.",
+    "app_state": "Maharashtra",
+    "official_name": "Shri Vasant Rao Naik Govt. Medical College, Yavatmal",
+    "official_state": "Maharashtra",
+    "score": 0.457,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SHIMOGA INST. OF MEDICAL SCI.",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 18442,
+        "EWS": 24030,
+        "OBC": 20790,
+        "SC": 122634,
+        "ST": 86585
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 9413,
+          "round2": 18442
+        },
+        {
+          "year": 2024,
+          "round1": 16477,
+          "round2": 303007
+        }
+      ]
+    },
+    "app_name": "SHIMOGA INST. OF MEDICAL SCI.",
+    "app_state": "Karnataka",
+    "official_name": "Shimoga Institute of Medical Sciences, Shimoga",
+    "official_state": "Karnataka",
+    "score": 0.438,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SHRI KALYAN GOVT MEDICAL COLLEGE SIKAR",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": {
+        "General": 5479,
+        "EWS": 8660,
+        "OBC": 8238,
+        "SC": 72391,
+        "ST": 77081
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 5479
+        },
+        {
+          "year": 2024,
+          "round1": 21926,
+          "round2": 6167
+        }
+      ]
+    },
+    "app_name": "SHRI KALYAN GOVT MEDICAL COLLEGE SIKAR",
+    "app_state": "Rajasthan",
+    "official_name": "Shri Kalyan Govt. Medical College, Sikar, Rajasthan",
+    "official_state": "Rajasthan",
+    "score": 0.971,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SILCHAR MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 22235,
+        "EWS": 24156,
+        "OBC": 24771,
+        "SC": 124300,
+        "ST": 150604
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15335,
+          "round2": 22235
+        },
+        {
+          "year": 2024,
+          "round1": 22596,
+          "round2": 14334
+        }
+      ]
+    },
+    "app_name": "SILCHAR MEDICAL COLLEGE",
+    "app_state": "Assam",
+    "official_name": "Silchar Medical College, Silchar",
+    "official_state": "Assam",
+    "score": 0.963,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SRM Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 728421,
+        "EWS": 486611,
+        "OBC": 732623,
+        "SC": 640327,
+        "ST": 693730
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 728421,
+          "round2": 604765
+        },
+        {
+          "year": 2024,
+          "round1": 25301,
+          "round2": 1065799
+        }
+      ]
+    },
+    "app_name": "SRM Medical College and Hospital",
+    "app_state": "Tamil Nadu",
+    "official_name": "SRM Medical College Hospital & Research Centre, Kancheepuram",
+    "official_state": "Tamil Nadu",
+    "score": 0.532,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SUH Maulana Mahmood Hasan Medical College",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 11859,
+        "EWS": 10628,
+        "OBC": 12722,
+        "SC": 703861,
+        "ST": 111624
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 11859,
+          "round2": 10606
+        },
+        {
+          "year": 2024,
+          "round1": 4756,
+          "round2": 7160
+        }
+      ]
+    },
+    "app_name": "SUH Maulana Mahmood Hasan Medical College",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Shaikh-UL-Hind Maulana Mahmood Hasan Medical College, Saharanpur",
+    "official_state": "Uttar Pradesh",
+    "score": 0.478,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SVIMS - Sri Padmavathi Medical College for Women",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "General": 21329,
+        "EWS": 27194,
+        "OBC": 22115,
+        "SC": 136927,
+        "ST": 150701
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 21329,
+          "round2": 17108
+        },
+        {
+          "year": 2024,
+          "round1": 21114,
+          "round2": 622979
+        }
+      ]
+    },
+    "app_name": "SVIMS - Sri Padmavathi Medical College for Women",
+    "app_state": "Andhra Pradesh",
+    "official_name": "SVIMS - Sri Padmavathi Medical College for Women, Alipiri Road, Tirupati",
+    "official_state": "Andhra Pradesh",
+    "score": 0.63,
+    "old_total": null,
+    "new_total": 175,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Saheed Laxman Nayak Med. College and Hos.",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 744200,
+        "EWS": 20535,
+        "OBC": 24138,
+        "SC": 71174,
+        "ST": 128137
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 744200
+        },
+        {
+          "year": 2024,
+          "round1": 24710,
+          "round2": 16229
+        }
+      ]
+    },
+    "app_name": "Saheed Laxman Nayak Med. College and Hos.",
+    "app_state": "Odisha",
+    "official_name": "Saheed Laxman Nayak Medical College & Hospital, Koraput",
+    "official_state": "Odisha",
+    "score": 0.567,
+    "old_total": null,
+    "new_total": 125,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Santosh Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": {
+        "General": 632652,
+        "EWS": 618024,
+        "OBC": 629927,
+        "SC": 490854
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 632652,
+          "round2": 504206
+        },
+        {
+          "year": 2024,
+          "round1": 650209,
+          "round2": 1139801
+        }
+      ]
+    },
+    "app_name": "Santosh Medical College and Hospital",
+    "app_state": "Uttar Pradesh",
+    "official_name": "Santosh Medical College, Ghaziabad",
+    "official_state": "Uttar Pradesh",
+    "score": 0.563,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Saveetha Medical College",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 729250,
+        "OBC": 509812,
+        "SC": 360690
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 729250,
+          "round2": 525685
+        },
+        {
+          "year": 2024,
+          "round1": 335150,
+          "round2": 568054
+        }
+      ]
+    },
+    "app_name": "Saveetha Medical College",
+    "app_state": "Tamil Nadu",
+    "official_name": "Saveetha Medical College and Hospital, Kanchipuram",
+    "official_state": "Tamil Nadu",
+    "score": 0.539,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Shaheed Nirmal Mahto Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "General": 17903,
+        "EWS": 11135,
+        "OBC": 19694,
+        "SC": 71497,
+        "ST": 87089
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 9623,
+          "round2": 17903
+        },
+        {
+          "year": 2024,
+          "round1": 16279,
+          "round2": 9040
+        }
+      ]
+    },
+    "app_name": "Shaheed Nirmal Mahto Medical College & Hospital",
+    "app_state": "Jharkhand",
+    "official_name": "Shaheed Nirmal Mahto Medical College & Hospital, Dhanbad (formely known as Patliputra Medical College, Dhanbad)",
+    "official_state": "Jharkhand",
+    "score": 0.792,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Shri Atal Bihari Vajpayee Medical College & Research Institute",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 13111,
+        "EWS": 30524,
+        "OBC": 14053,
+        "SC": 97338,
+        "ST": 107916
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 13111,
+          "round2": 5818
+        },
+        {
+          "year": 2024,
+          "round1": 12566,
+          "round2": 3492
+        }
+      ]
+    },
+    "app_name": "Shri Atal Bihari Vajpayee Medical College & Research Institute",
+    "app_state": "Karnataka",
+    "official_name": "Shri Atal Bihari Vajapayee Medical College and Research Institute, Bengaluru,",
+    "official_state": "Karnataka",
+    "score": 0.597,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Sree Balaji Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 777698,
+        "EWS": 665194,
+        "OBC": 791775,
+        "SC": 775877,
+        "ST": 693730
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 777698,
+          "round2": 729555
+        },
+        {
+          "year": 2024,
+          "round1": 438863,
+          "round2": 1100567
+        }
+      ]
+    },
+    "app_name": "Sree Balaji Medical College and Hospital",
+    "app_state": "Tamil Nadu",
+    "official_name": "Sree Balaji Medical College and Hospital, Chennai",
+    "official_state": "Tamil Nadu",
+    "score": 0.727,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Sri Jagannath Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "General": 8718,
+        "EWS": 14447,
+        "OBC": 12264,
+        "SC": 138159,
+        "ST": 93818
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 8718
+        },
+        {
+          "year": 2024,
+          "round1": 23183,
+          "round2": 573424
+        }
+      ]
+    },
+    "app_name": "Sri Jagannath Medical College & Hospital",
+    "app_state": "Odisha",
+    "official_name": "Sri Jagannath Medical College & Hospital, Puri",
+    "official_state": "Odisha",
+    "score": 0.735,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Sri Lakshmi Narayana Inst. of Med. Scien.",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 905495,
+        "EWS": 731798,
+        "OBC": 665827,
+        "SC": 888372,
+        "ST": 554274
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 905495,
+          "round2": 804248
+        },
+        {
+          "year": 2024,
+          "round1": 560021,
+          "round2": 1219592
+        }
+      ]
+    },
+    "app_name": "Sri Lakshmi Narayana Inst. of Med. Scien.",
+    "app_state": "Puducherry",
+    "official_name": "Sri Lakshmi Narayana Institute of Medical Sciences, Pondicherry",
+    "official_state": "Puducherry",
+    "score": 0.565,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Sri Ramachandra Med. College and Res. Inst.",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 333238,
+        "OBC": 332101,
+        "SC": 306509
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 333238,
+          "round2": 308189
+        },
+        {
+          "year": 2024,
+          "round1": 237048,
+          "round2": 1146916
+        }
+      ]
+    },
+    "app_name": "Sri Ramachandra Med. College and Res. Inst.",
+    "app_state": "Tamil Nadu",
+    "official_name": "Sri Ramachandra Medical College & Research Institute, Chennai",
+    "official_state": "Tamil Nadu",
+    "score": 0.434,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "T.D. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": {
+        "General": 8770,
+        "EWS": 27979,
+        "OBC": 3940,
+        "SC": 51931,
+        "ST": 124805
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 3414,
+          "round2": 8770
+        },
+        {
+          "year": 2024,
+          "round1": 8349,
+          "round2": 317227
+        }
+      ]
+    },
+    "app_name": "T.D. MEDICAL COLLEGE",
+    "app_state": "Kerala",
+    "official_name": "T D Medical College, Alleppey (Allappuzha)",
+    "official_state": "Kerala",
+    "score": 0.702,
+    "old_total": null,
+    "new_total": 175,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "THANJAVUR MEDICAL COLL.",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 13437,
+        "EWS": 26199,
+        "OBC": 15009,
+        "SC": 25526,
+        "ST": 107213
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 13437,
+          "round2": 11521
+        },
+        {
+          "year": 2024,
+          "round1": 12188,
+          "round2": 576752
+        }
+      ]
+    },
+    "app_name": "THANJAVUR MEDICAL COLL.",
+    "app_state": "Tamil Nadu",
+    "official_name": "Thanjavur Medical College, Thanjavur",
+    "official_state": "Tamil Nadu",
+    "score": 0.568,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "THENI GOVT. MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 13384,
+        "EWS": 23572,
+        "OBC": 14826,
+        "SC": 42836,
+        "ST": 120723
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 6539,
+          "round2": 13384
+        },
+        {
+          "year": 2024,
+          "round1": 13356,
+          "round2": 8200
+        }
+      ]
+    },
+    "app_name": "THENI GOVT. MEDICAL COLLEGE",
+    "app_state": "Tamil Nadu",
+    "official_name": "Theni Government Medical College, Theni",
+    "official_state": "Tamil Nadu",
+    "score": 0.953,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "THOOTHUKUDI MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 16392,
+        "EWS": 24006,
+        "OBC": 17296,
+        "SC": 58560,
+        "ST": 129719
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 7663,
+          "round2": 16392
+        },
+        {
+          "year": 2024,
+          "round1": 12487,
+          "round2": 8588
+        }
+      ]
+    },
+    "app_name": "THOOTHUKUDI MEDICAL COLLEGE",
+    "app_state": "Tamil Nadu",
+    "official_name": "Thoothukudi Medical College, Thoothukudi",
+    "official_state": "Tamil Nadu",
+    "score": 0.955,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "TOPIWALA NATIONAL MEDICAL COLLEGE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "General": 7201,
+        "EWS": 13471,
+        "OBC": 11667,
+        "SC": 61161,
+        "ST": 106595
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 7201,
+          "round2": 5829
+        },
+        {
+          "year": 2024,
+          "round1": 10744,
+          "round2": 3022
+        }
+      ]
+    },
+    "app_name": "TOPIWALA NATIONAL MEDICAL COLLEGE",
+    "app_state": "Maharashtra",
+    "official_name": "Topiwala National Medical College, Mumbai",
+    "official_state": "Maharashtra",
+    "score": 0.601,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Tezpur Medical College",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 24646,
+        "EWS": 21375,
+        "OBC": 25090,
+        "SC": 105486,
+        "ST": 101313
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17344,
+          "round2": 24646
+        },
+        {
+          "year": 2024,
+          "round1": 8256,
+          "round2": 867011
+        }
+      ]
+    },
+    "app_name": "Tezpur Medical College",
+    "app_state": "Assam",
+    "official_name": "Tezpur Medical College & Hospital, Tezpur",
+    "official_state": "Assam",
+    "score": 0.933,
+    "old_total": null,
+    "new_total": 125,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Thiruvannamalai MC",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 26474,
+        "EWS": 23068,
+        "OBC": 19808,
+        "SC": 43797,
+        "ST": 130919
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26474,
+          "round2": 18701
+        },
+        {
+          "year": 2024,
+          "round1": 5803,
+          "round2": 9953
+        }
+      ]
+    },
+    "app_name": "Thiruvannamalai MC",
+    "app_state": "Tamil Nadu",
+    "official_name": "Government Thiruvannamalai Medical College, Thiruvannamalai",
+    "official_state": "Tamil Nadu",
+    "score": 0.493,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Tinsukia Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "General": 20728,
+        "EWS": 27130,
+        "OBC": 21452,
+        "SC": 107427,
+        "ST": 78349
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20728
+        },
+        {
+          "year": 2024,
+          "round1": 25819,
+          "round2": 19596
+        }
+      ]
+    },
+    "app_name": "Tinsukia Medical College & Hospital",
+    "app_state": "Assam",
+    "official_name": "Tinsukia Medical College - Assam Pin - 786146",
+    "official_state": "Assam",
+    "score": 0.439,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "VELS MEDICAL COLLEGE & HOSPITAL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 638517,
+        "EWS": 529550,
+        "OBC": 616724,
+        "SC": 459286,
+        "ST": 1058515
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 638517,
+          "round2": 485925
+        },
+        {
+          "year": 2024,
+          "round1": 25753,
+          "round2": 1163943
+        }
+      ]
+    },
+    "app_name": "VELS MEDICAL COLLEGE & HOSPITAL",
+    "app_state": "Tamil Nadu",
+    "official_name": "VELS Medical College & Hospital",
+    "official_state": "Tamil Nadu",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 170086,
+        "EWS": 3776,
+        "OBC": 756706,
+        "SC": 54765,
+        "ST": 116381
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 170086
+        },
+        {
+          "year": 2024,
+          "round1": 25896,
+          "round2": 66514
+        }
+      ]
+    },
+    "app_name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi",
+    "app_state": "Delhi",
+    "official_name": "Vardhman Mahavir Medical College & Safdarjung Hospital, Delhi",
+    "official_state": "Delhi",
+    "score": 0.984,
+    "old_total": null,
+    "new_total": 170,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Veer Chandra Singh Garhwali Govt. Institute of Medical Science & Research",
+      "quota": "AIQ",
+      "state": "Uttarakhand",
+      "cutoffs": {
+        "General": 15035,
+        "EWS": 12685,
+        "OBC": 26697,
+        "SC": 101978,
+        "ST": 93060
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 455179,
+          "round2": 15035
+        },
+        {
+          "year": 2024,
+          "round1": 19188,
+          "round2": 10007
+        }
+      ]
+    },
+    "app_name": "Veer Chandra Singh Garhwali Govt. Institute of Medical Science & Research",
+    "app_state": "Uttarakhand",
+    "official_name": "Veer Chandra Singh Garhwali Govt. Medical Sc. & Research Instt, Srinagar, Pauri Garhwal",
+    "official_state": "Uttarakhand",
+    "score": 0.547,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Vinayaka Missions Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Puducherry",
+      "cutoffs": {
+        "General": 641231,
+        "EWS": 483574,
+        "OBC": 733018,
+        "SC": 730304,
+        "ST": 628998
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 641231,
+          "round2": 543928
+        },
+        {
+          "year": 2024,
+          "round1": 24233,
+          "round2": 902941
+        }
+      ]
+    },
+    "app_name": "Vinayaka Missions Medical College and Hospital",
+    "app_state": "Puducherry",
+    "official_name": "Vinayaka Missions Medical College, Karaikal, Pondicherry",
+    "official_state": "Puducherry",
+    "score": 0.69,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Virendra Kumar Sakhlecha Government Medical College",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": {
+        "General": 17251,
+        "EWS": 19158,
+        "OBC": 26778,
+        "SC": 98104,
+        "ST": 108149
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 17251,
+          "round2": 15857
+        },
+        {
+          "year": 2024,
+          "round1": 17051,
+          "round2": 14277
+        }
+      ]
+    },
+    "app_name": "Virendra Kumar Sakhlecha Government Medical College",
+    "app_state": "Madhya Pradesh",
+    "official_name": "Virendra Kumar Sakhlecha Government Medical College",
+    "official_state": "Madhya Pradesh",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "YADGIRI INSTITUTE OF MEDICAL SCIENCES",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 23919,
+        "EWS": 20459,
+        "OBC": 27190,
+        "SC": 101608,
+        "ST": 127896
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 754480,
+          "round2": 23919
+        },
+        {
+          "year": 2024,
+          "round1": 8041,
+          "round2": 16689
+        }
+      ]
+    },
+    "app_name": "YADGIRI INSTITUTE OF MEDICAL SCIENCES",
+    "app_state": "Karnataka",
+    "official_name": "Yadgiri Institute of Medical Sciences, Yadgiri",
+    "official_state": "Karnataka",
+    "score": 0.976,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Yenepoya Medical College",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": {
+        "General": 380724,
+        "EWS": 258000,
+        "OBC": 404110,
+        "SC": 224820,
+        "ST": 265154
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 380724,
+          "round2": 373157
+        },
+        {
+          "year": 2024,
+          "round1": 548572,
+          "round2": 1070234
+        }
+      ]
+    },
+    "app_name": "Yenepoya Medical College",
+    "app_state": "Karnataka",
+    "official_name": "Yenepoya Medical College, Mangalore",
+    "official_state": "Karnataka",
+    "score": 0.582,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Dhubri Medical College",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "EWS": 25598,
+        "General": 26862,
+        "OBC": 26267,
+        "SC": 1256849,
+        "ST": 163863
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 19812,
+          "round2": 26862
+        },
+        {
+          "year": 2024,
+          "round1": 24917,
+          "round2": 839683
+        }
+      ]
+    },
+    "app_name": "Dhubri Medical College",
+    "app_state": "Assam",
+    "official_name": "Dhubri Medical College, Dhubri",
+    "official_state": "Assam",
+    "score": 0.966,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Diphu Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "EWS": 25511,
+        "General": 20448,
+        "OBC": 20668,
+        "SC": 100279,
+        "ST": 116747
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 20448
+        },
+        {
+          "year": 2024,
+          "round1": 22937,
+          "round2": 18429
+        }
+      ]
+    },
+    "app_name": "Diphu Medical College & Hospital",
+    "app_state": "Assam",
+    "official_name": "Diphu Medical College & Hospital, Diphu, Assam",
+    "official_state": "Assam",
+    "score": 0.958,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "GOVT MEDICAL COLLEGE VIZIANAGARAM",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": {
+        "EWS": 24086,
+        "General": 26934,
+        "OBC": 20200,
+        "SC": 138659,
+        "ST": 120297
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 18762,
+          "round2": 26934
+        },
+        {
+          "year": 2024,
+          "round1": 24744,
+          "round2": 18420
+        }
+      ]
+    },
+    "app_name": "GOVT MEDICAL COLLEGE VIZIANAGARAM",
+    "app_state": "Andhra Pradesh",
+    "official_name": "Government medical college, vizianagaram",
+    "official_state": "Andhra Pradesh",
+    "score": 0.979,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College Narsampet",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": {
+        "EWS": 22880,
+        "General": 645030,
+        "OBC": 19991,
+        "SC": 104706
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 645030
+        },
+        {
+          "year": 2024,
+          "round1": 8262,
+          "round2": 17457
+        }
+      ]
+    },
+    "app_name": "Government Medical College Narsampet",
+    "app_state": "Telangana",
+    "official_name": "Government Medical College, Narsampet",
+    "official_state": "Telangana",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 50,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "J R MEDICAL COLLEGE AND HOSPITAL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 849446,
+        "OBC": 918801,
+        "SC": 916817,
+        "ST": 686122,
+        "EWS": 739911
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 849446,
+          "round2": 810862
+        },
+        {
+          "year": 2024,
+          "round1": 239927,
+          "round2": 587824
+        }
+      ]
+    },
+    "app_name": "J R MEDICAL COLLEGE AND HOSPITAL",
+    "app_state": "Tamil Nadu",
+    "official_name": "J R Medical College and Hospital Villupuram District, Tamilnadu",
+    "official_state": "Tamil Nadu",
+    "score": 0.545,
+    "old_total": null,
+    "new_total": 200,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Jannayak Karpoori Thakur Medical college and Hospital",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": {
+        "EWS": 17199,
+        "General": 14249,
+        "OBC": 692794,
+        "SC": 93794,
+        "ST": 112881
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 14249
+        },
+        {
+          "year": 2024,
+          "round1": 6895,
+          "round2": 12983
+        }
+      ]
+    },
+    "app_name": "Jannayak Karpoori Thakur Medical college and Hospital",
+    "app_state": "Bihar",
+    "official_name": "Jannayak Karpoori Thakur Medical College & Hospital, Madhepura, Bihar",
+    "official_state": "Bihar",
+    "score": 0.77,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Manipal Tata Medical College",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": {
+        "EWS": 62699,
+        "General": 79731,
+        "OBC": 78297
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 62440,
+          "round2": 79731
+        },
+        {
+          "year": 2024,
+          "round1": 30915,
+          "round2": 786685
+        }
+      ]
+    },
+    "app_name": "Manipal Tata Medical College",
+    "app_state": "Jharkhand",
+    "official_name": "Manipal Tata Medical College,Baridih Jameshedpur",
+    "official_state": "Jharkhand",
+    "score": 0.559,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Nagaon Medical college",
+      "quota": "AIQ",
+      "state": "Assam",
+      "cutoffs": {
+        "EWS": 992270,
+        "General": 525812,
+        "OBC": 21404,
+        "SC": 1186582,
+        "ST": 136353
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 525812
+        },
+        {
+          "year": 2024,
+          "round1": 20302,
+          "round2": 19373
+        }
+      ]
+    },
+    "app_name": "Nagaon Medical college",
+    "app_state": "Assam",
+    "official_name": "Nagaon Medical College",
+    "official_state": "Assam",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SRI LALITHAMBIGAI MEDICAL COLLEGE & HOSPITAL",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "General": 163011,
+        "OBC": 322354,
+        "SC": 306754,
+        "EWS": 605560,
+        "ST": 589013
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 295429,
+          "round2": 163011
+        },
+        {
+          "year": 2024,
+          "round1": 21592,
+          "round2": 617590
+        }
+      ]
+    },
+    "app_name": "SRI LALITHAMBIGAI MEDICAL COLLEGE & HOSPITAL",
+    "app_state": "Tamil Nadu",
+    "official_name": "Faculty of Medicine , Sri Lalithambigai Medical College and Hospital",
+    "official_state": "Tamil Nadu",
+    "score": 0.569,
+    "old_total": null,
+    "new_total": 250,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": {
+        "EWS": 47248,
+        "General": 48658,
+        "OBC": 47112
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 47592,
+          "round2": 48658
+        },
+        {
+          "year": 2024,
+          "round1": 63334,
+          "round2": 664001
+        }
+      ]
+    },
+    "app_name": "SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE",
+    "app_state": "Maharashtra",
+    "official_name": "Symbiosis Medical College for Women, Pune",
+    "official_state": "Maharashtra",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Saheed Rendo Majhi Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": {
+        "EWS": 20237,
+        "General": 18070,
+        "OBC": 835024,
+        "SC": 86703,
+        "ST": 134635
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 18070
+        },
+        {
+          "year": 2024,
+          "round1": 24714,
+          "round2": 17313
+        }
+      ]
+    },
+    "app_name": "Saheed Rendo Majhi Medical College & Hospital",
+    "app_state": "Odisha",
+    "official_name": "Saheed Rendo Majhi Medical College and Hospital, Bhawanipatna, Kalahandi, Odisha (erstwhile Government Medical College, Bhawanipatna)",
+    "official_state": "Odisha",
+    "score": 0.629,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Tamralipto Government Medical College & Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": {
+        "EWS": 21290,
+        "General": 18793,
+        "OBC": 19665,
+        "SC": 102110,
+        "ST": 132634
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 18793
+        },
+        {
+          "year": 2024,
+          "round1": 8074,
+          "round2": 16824
+        }
+      ]
+    },
+    "app_name": "Tamralipto Government Medical College & Hospital",
+    "app_state": "West Bengal",
+    "official_name": "Tamralipto Government Medical College & Hospital",
+    "official_state": "West Bengal",
+    "score": 1.0,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Government Medical College and ESIC Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": {
+        "EWS": 27105,
+        "General": 1140730,
+        "OBC": 13417,
+        "SC": 95190,
+        "ST": 525616
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 1140730,
+          "round2": 12535
+        },
+        {
+          "year": 2024,
+          "round1": 502187,
+          "round2": 30396
+        }
+      ]
+    },
+    "app_name": "Government Medical College and ESIC Hospital",
+    "app_state": "Tamil Nadu",
+    "official_name": "Government Medical College & ESIC Hospital, Coimbatore, Tamil Nadu.",
+    "official_state": "Tamil Nadu",
+    "score": 0.564,
+    "old_total": null,
+    "new_total": 100,
+    "mgmt": "Government",
+    "used_fallback": false,
+    "reason": "normal"
+  },
+  {
+    "college_obj": {
+      "name": "Hamdard Inst of Med Sciences and Research",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": {
+        "General": 68155,
+        "EWS": 112923,
+        "OBC": 124307
+      },
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": null,
+          "round2": null
+        },
+        {
+          "year": 2024,
+          "round1": 68155,
+          "round2": 44217
+        }
+      ]
+    },
+    "app_name": "Hamdard Inst of Med Sciences and Research",
+    "app_state": "Delhi",
+    "official_name": "Hamdard Institute of Medical Sciences & Research, New Delhi",
+    "official_state": "Delhi",
+    "score": 0.441,
+    "old_total": null,
+    "new_total": 150,
+    "mgmt": "Private",
+    "used_fallback": false,
+    "reason": "normal"
+  }
+]

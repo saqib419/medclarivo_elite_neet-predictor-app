@@ -1,0 +1,926 @@
+[
+  {
+    "name": "Akash Institute of Medical Sciences & Research Centre, Devanhalli, Bangalore, Karnataka",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Alluri Sitaram Raju Academy of Medical Sciences, Eluru",
+    "state": "Andhra Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Amala Institute of Medical Sciences, Thrissur",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Army College of Medical Sciences, New Delhi",
+    "state": "Delhi",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi",
+    "state": "Delhi",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College and Hospital Gonda",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College and Hospital Kaushambi",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College and Hospital Lakhimpuri kheri",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College Kushinagar",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College Lalitpur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College Pilibhit",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College Pratapgarh",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College Society Ghazipur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College Society, Etah, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College Society, Fatehpur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College Sultanpur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College, Akbarpur, Kanpur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College, Siddharthnagar",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Medical College, Sonebhadra",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Autonomous State Society Medical College Mirzapur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "B.K.L. Walawalkar Rural Medical College, Ratnagiri",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Basaveswara Medical College and Hospital, Chitradurga",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "BGS Global Institute of Medical Sciences, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Bhagwan Mahavir Institute of Medical Sciences, Pawapuri (formerly Vardhman Institute of Medical Sciences, Pawapuri, Nalanda)",
+    "state": "Bihar",
+    "mgmt": "Government",
+    "totalSeats": 120
+  },
+  {
+    "name": "Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "BPS Government Medical College for Women, Sonepat",
+    "state": "Haryana",
+    "mgmt": "Government",
+    "totalSeats": 120
+  },
+  {
+    "name": "Chhattisgarh Institute of Medical Sciences, Bilaspur",
+    "state": "Chhattisgarh",
+    "mgmt": "Government",
+    "totalSeats": 150
+  },
+  {
+    "name": "Christian Medical College, Vellore",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Dhanalakshmi Srinivasan Medical College and Hospital, Perambalur",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Dr BR Ambedkar Medical College, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Dr S S Tantia Medical College Hospital & Research Centre",
+    "state": "Rajasthan",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Dr. B. S. Tomar Institute of Medical Sciences and Research",
+    "state": "Rajasthan",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Dr. D Y Patil Medical College, Hospital and Research Centre, Pimpri, Pune",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Dr. D Y Patil Medical College, Kolhapur",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Dr. Laxminarayan Pandey Government Medical College, Ratlam (M.P.)",
+    "state": "Madhya Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",
+    "state": "Gujarat",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Dr. Moopen Medical College Wayanad, Kerala",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Dr. Panjabrao Alias Bhausaheb Deshmukh Memorial Medical College, Amravati",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Dr. Rajendar Prasad Government Medical College, Tanda, H.P",
+    "state": "Himachal Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 120
+  },
+  {
+    "name": "Dr. Rajendra Gode Medical College, Amravati",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Dr. Ulhas Patil Medical College & Hospital, Jalgaon",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Dr. Vithalrao Vikhe Patil Foundations Medical College & Hospital, Ahmednagar",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "East Point College of Medical Sciences & Research Centre, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "East West Institute of Medical Sciences and Research, Burdwan",
+    "state": "West Bengal",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Employees State Insurance Corporation Medical College, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Government",
+    "totalSeats": 150
+  },
+  {
+    "name": "Employees State Insurance Corporation Medical College, Gulbarga",
+    "state": "Karnataka",
+    "mgmt": "Government",
+    "totalSeats": 150
+  },
+  {
+    "name": "Employees State Insurance Corporation Medical College, Patna",
+    "state": "Bihar",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Fathima Instt. of Medical Sciences, Kadapa",
+    "state": "Andhra Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Gandhi Medical College, Bhopal",
+    "state": "Madhya Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 250
+  },
+  {
+    "name": "Geetanjali Medical College & Hospital,Udaipur",
+    "state": "Rajasthan",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Gian Sagar Medical College & Hospital, Patiala",
+    "state": "Punjab",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "GMERS Medical College, Dharpur Patan",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "GMERS Medical College, Gandhinagar",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "GMERS Medical College, Gotri, Vadodara",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "GMERS Medical College, Hadiyol, Himmatnagar",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "GMERS Medical College, Junagadh",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "GMERS Medical College, Navsari",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "GMERS Medical College, Rajpipla",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "GMERS Medical College, Sola, Ahmedabad",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "GMERS Medical College, Vadnagar, Mehsana",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "Government Medical College & Hospital (Renamed as Bhima Bhoi Medical College & Hospital), Balangir",
+    "state": "Odisha",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Government Medical College & Hospital Cuddalore, Since- 09-05-2025 (erstwhile Rajah Muthiah Medical College, cuddalore, T.N)",
+    "state": "Tamil Nadu",
+    "mgmt": "Government",
+    "totalSeats": 150
+  },
+  {
+    "name": "Government Medical College, Chandigarh",
+    "state": "Chandigarh",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "Government Medical College, Jammu",
+    "state": "Jammu and Kashmir",
+    "mgmt": "Government",
+    "totalSeats": 250
+  },
+  {
+    "name": "Government Medical College, Nagpur",
+    "state": "Maharashtra",
+    "mgmt": "Government",
+    "totalSeats": 250
+  },
+  {
+    "name": "Govt. Medical College, Kolkata",
+    "state": "West Bengal",
+    "mgmt": "Government",
+    "totalSeats": 250
+  },
+  {
+    "name": "Himalaya Medical College and Hospital , Patna, Bihar",
+    "state": "Bihar",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Indian Institute of Medical Science & Research, Jalna",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Indira Medical College & Hospitals, Thiruvallur",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Institute Of Medical Sciences & SUM Hospital, Bhubaneswar",
+    "state": "Odisha",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "IQ-City Medical College, Burdwan",
+    "state": "West Bengal",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Jagannath Gupta Institute of Medical Sciences and Hospital",
+    "state": "West Bengal",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Jakir Hossain Medical College, Burdwan",
+    "state": "West Bengal",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Jubilee Mission Medical College & Research Institute, Thrissur",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "K.H. Patil Institute of Medical Sciences (previously Gadag Institute of Medical Sciences, Mallasamudra, Mulgund Road, Gadag)",
+    "state": "Karnataka",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "KanyaKumari Government Medical College, Asaripallam",
+    "state": "Tamil Nadu",
+    "mgmt": "Government",
+    "totalSeats": 150
+  },
+  {
+    "name": "Karpagam Faculty of Medical Sciences & Research, Coimbatore",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Karuna Medical College, Palakkad",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Kasturba Medical College, Mangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Katuri Medical College, Guntur",
+    "state": "Andhra Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Kempegowda Institute of Medical Sciences, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Khaja Bandanawaz University - Faculty of Medical Sciences, Gulbarga",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Kiran Medical College",
+    "state": "Gujarat",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "KMC Medical College & Hospital, Maharajganj, Uttar Pradesh",
+    "state": "Uttar Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "KMCH Institute of Health Sciences and Research, Coimbatore",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "KMCT Medical College, Kozhikode, Calicut",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Lord Buddha Koshi Medical College and Hospital, Saharsa",
+    "state": "Bihar",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "M S Ramaiah Medical College, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Mahadevappa Rampure Medical College, Kalaburagi, Gulbarga",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Mahamaya Rajkiya Allopathic Medical College, Ambedkarnagar",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Maharajah Institute of Medical Sciences, Vizianagaram",
+    "state": "Andhra Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Maharashtra Institute of Medical Sciences & Research, Latur",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Maharishi Markandeshwar Institute Of Medical Sciences & Research, Mullana, Ambala",
+    "state": "Haryana",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Mahatma Gandhi Missions Medical College, Aurangabad",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Mahatma Gandhi Missions Medical College, Kamothe, Navi Mumbai",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Mahatma Gandhi Missions Medical College, Nerul, Navi Mumbai",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 50
+  },
+  {
+    "name": "Mahatma Gandhi Missions Medical College, Panvel",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Mahavir Institute of Medical Sciences, Vikarabad, Telengana",
+    "state": "Telangana",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Maheshwara Medical College, Chitkul, Patancheru, Medak",
+    "state": "Telangana",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Malabar Medical College, Kozhikode, Calicut",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Mamata Medical College, Khammam",
+    "state": "Telangana",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Medical College, Thiruvananthapuram",
+    "state": "Kerala",
+    "mgmt": "Government",
+    "totalSeats": 250
+  },
+  {
+    "name": "MNR Medical College & Hospital, Sangareddy",
+    "state": "Telangana",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "MVJ Medical College and Research Hospital, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Nagaland Institute of Medical Sciences & Research",
+    "state": "Nagaland",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "NAMO Medical Education and Research Institute, Silvassa (Formerly known as Shri Vinoba Bhave Institute of Medical Sciences, (Govt. Medical College) Silvassa, U.T)",
+    "state": "Dadar & Nagar Haveli ND/001/G/1",
+    "mgmt": "Government",
+    "totalSeats": 177
+  },
+  {
+    "name": "National Institute of Medical Science & Research, Jaipur",
+    "state": "Rajasthan",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Netaji Subhas Medical College & Hospital, Amhara, Bihta, Patna",
+    "state": "Bihar",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "North Bengal Medical College, Darjeeling",
+    "state": "West Bengal",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "NRI Medical College, Guntur",
+    "state": "Andhra Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "P K Das Institute of Medical Sciences, Palakkad, Kerala",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",
+    "state": "Rajasthan",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Padmashree Dr. D.Y.Patil Medical College, Navi Mumbai",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Palakkad Institute of Medical Sciences, Palakkad",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Palamu Medical College, Palamu",
+    "state": "Jharkhand",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Parbhani Medical College",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "PES University Institute of Medical Sciences and Reseach Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "PSG Institute of Medical Sciences, Coimbatore",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Puducherry Institute of Medical Sciences & Research, Pondicherry",
+    "state": "Puducherry",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Punyashloka Lokmata Devi Ahilyabai Holkar Autonomous State Medical College, Auraiya (U.P.)",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "R.V.M. Institute of Medical Sciences and Research Centre, Siddipet",
+    "state": "Telangana",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane",
+    "state": "Maharashtra",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Rajkiya Allopathic Medical College, Bahraich, UP",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Rama Medical College Hospital and Research Centre, Hapur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "S. Nijalingappa Medical College & HSK Hospital & Research Centre, Bagalkot",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Santhiram Medical College, Nandyal",
+    "state": "Andhra Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Sapthagiri Institute of Medical Sciences & Research Centre, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "SBKS Medical Instt. & Research Centre, Vadodra",
+    "state": "Gujarat",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Sharda School of Medical Sciences & Research ( previously School of Medical Sciences & Research,Greater Noida)",
+    "state": "Uttar Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar",
+    "state": "Jammu and Kashmir",
+    "mgmt": "Government",
+    "totalSeats": 125
+  },
+  {
+    "name": "Shillong Medical College",
+    "state": "Meghalaya",
+    "mgmt": "Government",
+    "totalSeats": 50
+  },
+  {
+    "name": "Sikkim Government Medical College",
+    "state": "Sikkim",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Sikkim Manipal Institute of Medical Sciences, Gangtok",
+    "state": "Sikkim",
+    "mgmt": "Private",
+    "totalSeats": 100
+  },
+  {
+    "name": "Sindhudurg Shikshan Prasarak Mandal (SSPM) Medical College & Lifetime Hospital, Padave, Sindhudurg",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 149
+  },
+  {
+    "name": "SMBT Institute of Medical Sciences & Research Centre, Nandihills, Nashik",
+    "state": "Maharashtra",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Sree Narayana Instt. of Medical Sciences, Chalakka, Ernakulam",
+    "state": "Kerala",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Sri Guru Ram Das Institute of Medical Sciences and Research, Sri Amritsar",
+    "state": "Punjab",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Sri Venkateswaraa Medical College Hospital and Research Institute, Chennai",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Srinivasan Medical College and Hospital",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "St. Johns Medical College, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Sudha Medical College, Kota, Rajasthan",
+    "state": "Rajasthan",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Surabhi Institute of Medical Sciences, Siddipet, Telangana",
+    "state": "Telangana",
+    "mgmt": "Private",
+    "totalSeats": 200
+  },
+  {
+    "name": "Surat Municipal Institute of Medical Education & Research, Surat",
+    "state": "Gujarat",
+    "mgmt": "Government",
+    "totalSeats": 250
+  },
+  {
+    "name": "The Oxford Medical College, Hospital & Research Centre, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Trichy SRM Medical College Hospital & Research Centre, Trichy",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Tripura Medical College and Dr. B R A M Teaching Hospital, Agartala",
+    "state": "Tripura",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Uma Nath Singh Autonomous State Medical College Society Jaunpur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "University College of Medical Sciences & GTB Hospital, New Delhi",
+    "state": "Delhi",
+    "mgmt": "Government",
+    "totalSeats": 170
+  },
+  {
+    "name": "Uttar Pradesh University of Medical Sciences, (Prev. UP Rural Inst.of Med.Sc&R) Etawah",
+    "state": "Uttar Pradesh",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "Varun Arjun Medical College, Banthra, Shahjahanpur",
+    "state": "Uttar Pradesh",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Velammal Medical College Hospital and Research Institute, Madurai",
+    "state": "Tamil Nadu",
+    "mgmt": "Private",
+    "totalSeats": 150
+  },
+  {
+    "name": "Vydehi Institute Of Medical Sciences & Research Centre, Bangalore",
+    "state": "Karnataka",
+    "mgmt": "Private",
+    "totalSeats": 250
+  }
+]
