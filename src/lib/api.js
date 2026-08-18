@@ -78,3 +78,20 @@ export async function predict({ score, category, state, quota }) {
   const summary = computeChanceSummary(data.colleges, rank, category, state, quota);
   return { score: Number(score), category, state: state || null, quota: quota || null, rank, rankRange, ...summary };
 }
+
+// POST a captured lead (name/phone/email/city + prediction context) to /api/lead.
+// Never throws — returns { ok:false } on network failure so callers can decide
+// whether to still let the user proceed.
+export async function submitLead(payload) {
+  try {
+    const res = await fetch("/api/lead", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(payload),
+    });
+    const data = await res.json().catch(() => ({}));
+    return { ok: res.ok, ...data };
+  } catch {
+    return { ok: false };
+  }
+}
