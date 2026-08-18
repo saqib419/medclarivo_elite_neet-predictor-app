@@ -442,7 +442,7 @@
       "cutoffs": {
         "General": 9332,
         "EWS": 253,
-        "OBC": 999525,
+        "OBC": 31622,
         "SC": 644,
         "ST": 296155,
         "PwD": 1200
@@ -450,7 +450,7 @@
       "nirfRank": 1,
       "annualFee": 8461,
       "totalSeats": 169,
-      "establishedYear": 1940,
+      "establishedYear": 1956,
       "category": "Government",
       "seatMatrix": {
         "General (UR)": 68,
@@ -25599,6 +25599,4687 @@
           "round2": null
         }
       ]
+    },
+    {
+      "name": "Akash Institute of Medical Sciences & Research Centre, Devanhalli, Bangalore, Karnataka",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Alluri Sitaram Raju Academy of Medical Sciences, Eluru",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Amala Institute of Medical Sciences, Thrissur",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Army College of Medical Sciences, New Delhi",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College and Hospital Gonda",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College and Hospital Kaushambi",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College and Hospital Lakhimpuri kheri",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College Kushinagar",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College Lalitpur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College Pilibhit",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College Pratapgarh",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College Society Ghazipur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College Society, Etah, Uttar Pradesh",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College Society, Fatehpur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College Sultanpur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College, Akbarpur, Kanpur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College, Siddharthnagar",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Medical College, Sonebhadra",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Autonomous State Society Medical College Mirzapur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "B.K.L. Walawalkar Rural Medical College, Ratnagiri",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Basaveswara Medical College and Hospital, Chitradurga",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "BGS Global Institute of Medical Sciences, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Bhagwan Mahavir Institute of Medical Sciences, Pawapuri (formerly Vardhman Institute of Medical Sciences, Pawapuri, Nalanda)",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 120,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "BPS Government Medical College for Women, Sonepat",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 120,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Chhattisgarh Institute of Medical Sciences, Bilaspur",
+      "quota": "AIQ",
+      "state": "Chhattisgarh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Christian Medical College, Vellore",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dhanalakshmi Srinivasan Medical College and Hospital, Perambalur",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr BR Ambedkar Medical College, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. B. S. Tomar Institute of Medical Sciences and Research",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. D Y Patil Medical College, Hospital and Research Centre, Pimpri, Pune",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. D Y Patil Medical College, Kolhapur",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. Laxminarayan Pandey Government Medical College, Ratlam (M.P.)",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. M.K. Shah Medical College & Research Centre, Ahmedabad",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. Moopen Medical College Wayanad, Kerala",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. Panjabrao Alias Bhausaheb Deshmukh Memorial Medical College, Amravati",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. Rajendar Prasad Government Medical College, Tanda, H.P",
+      "quota": "AIQ",
+      "state": "Himachal Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 120,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. Rajendra Gode Medical College, Amravati",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. Ulhas Patil Medical College & Hospital, Jalgaon",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Dr. Vithalrao Vikhe Patil Foundations Medical College & Hospital, Ahmednagar",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "East Point College of Medical Sciences & Research Centre, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "East West Institute of Medical Sciences and Research, Burdwan",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Employees State Insurance Corporation Medical College, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Employees State Insurance Corporation Medical College, Gulbarga",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Employees State Insurance Corporation Medical College, Patna",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Fathima Instt. of Medical Sciences, Kadapa",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Gandhi Medical College, Bhopal",
+      "quota": "AIQ",
+      "state": "Madhya Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Geetanjali Medical College & Hospital,Udaipur",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Gian Sagar Medical College & Hospital, Patiala",
+      "quota": "AIQ",
+      "state": "Punjab",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Dharpur Patan",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Gandhinagar",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Gotri, Vadodara",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Hadiyol, Himmatnagar",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Junagadh",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Navsari",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Rajpipla",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Sola, Ahmedabad",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "GMERS Medical College, Vadnagar, Mehsana",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Government Medical College & Hospital (Renamed as Bhima Bhoi Medical College & Hospital), Balangir",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Government Medical College & Hospital Cuddalore, Since- 09-05-2025 (erstwhile Rajah Muthiah Medical College, cuddalore, T.N)",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Government Medical College, Chandigarh",
+      "quota": "AIQ",
+      "state": "Chandigarh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Government Medical College, Jammu",
+      "quota": "AIQ",
+      "state": "Jammu and Kashmir",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Government Medical College, Nagpur",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Govt. Medical College, Kolkata",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Himalaya Medical College and Hospital , Patna, Bihar",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Indian Institute of Medical Science & Research, Jalna",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Indira Medical College & Hospitals, Thiruvallur",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Institute Of Medical Sciences & SUM Hospital, Bhubaneswar",
+      "quota": "AIQ",
+      "state": "Odisha",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "IQ-City Medical College, Burdwan",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Jagannath Gupta Institute of Medical Sciences and Hospital",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Jakir Hossain Medical College, Burdwan",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Jubilee Mission Medical College & Research Institute, Thrissur",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "K.H. Patil Institute of Medical Sciences (previously Gadag Institute of Medical Sciences, Mallasamudra, Mulgund Road, Gadag)",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "KanyaKumari Government Medical College, Asaripallam",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Karpagam Faculty of Medical Sciences & Research, Coimbatore",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Karuna Medical College, Palakkad",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Kasturba Medical College, Mangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Katuri Medical College, Guntur",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Kempegowda Institute of Medical Sciences, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Khaja Bandanawaz University - Faculty of Medical Sciences, Gulbarga",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Kiran Medical College",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "KMC Medical College & Hospital, Maharajganj, Uttar Pradesh",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "KMCH Institute of Health Sciences and Research, Coimbatore",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "KMCT Medical College, Kozhikode, Calicut",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Lord Buddha Koshi Medical College and Hospital, Saharsa",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "M S Ramaiah Medical College, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mahadevappa Rampure Medical College, Kalaburagi, Gulbarga",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mahamaya Rajkiya Allopathic Medical College, Ambedkarnagar",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Maharajah Institute of Medical Sciences, Vizianagaram",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Maharashtra Institute of Medical Sciences & Research, Latur",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Maharishi Markandeshwar Institute Of Medical Sciences & Research, Mullana, Ambala",
+      "quota": "AIQ",
+      "state": "Haryana",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mahatma Gandhi Institute of Medical Sciences, Sevagram, Wardha",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mahatma Gandhi Missions Medical College, Aurangabad",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mahatma Gandhi Missions Medical College, Kamothe, Navi Mumbai",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mahatma Gandhi Missions Medical College, Nerul, Navi Mumbai",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 50,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mahatma Gandhi Missions Medical College, Panvel",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mahavir Institute of Medical Sciences, Vikarabad, Telengana",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Maheshwara Medical College, Chitkul, Patancheru, Medak",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Malabar Medical College, Kozhikode, Calicut",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Mamata Medical College, Khammam",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Medical College, Thiruvananthapuram",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "MNR Medical College & Hospital, Sangareddy",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "MVJ Medical College and Research Hospital, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Nagaland Institute of Medical Sciences & Research",
+      "quota": "AIQ",
+      "state": "Nagaland",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "NAMO Medical Education and Research Institute, Silvassa (Formerly known as Shri Vinoba Bhave Institute of Medical Sciences, (Govt. Medical College) Silvassa, U.T)",
+      "quota": "AIQ",
+      "state": "Dadar & Nagar Haveli ND/001/G/1",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 177,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "National Institute of Medical Science & Research, Jaipur",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Netaji Subhas Medical College & Hospital, Amhara, Bihta, Patna",
+      "quota": "AIQ",
+      "state": "Bihar",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "North Bengal Medical College, Darjeeling",
+      "quota": "AIQ",
+      "state": "West Bengal",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "NRI Medical College, Guntur",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "P K Das Institute of Medical Sciences, Palakkad, Kerala",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Pacific Medical College & Hospital, Bhilo Ka Bedla, Udaipur",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Padmashree Dr. D.Y.Patil Medical College, Navi Mumbai",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Palakkad Institute of Medical Sciences, Palakkad",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Palamu Medical College, Palamu",
+      "quota": "AIQ",
+      "state": "Jharkhand",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Parbhani Medical College",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "PES University Institute of Medical Sciences and Reseach Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "PSG Institute of Medical Sciences, Coimbatore",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Punyashloka Lokmata Devi Ahilyabai Holkar Autonomous State Medical College, Auraiya (U.P.)",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "R.V.M. Institute of Medical Sciences and Research Centre, Siddipet",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Rajkiya Allopathic Medical College, Bahraich, UP",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Rama Medical College Hospital and Research Centre, Hapur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "S. Nijalingappa Medical College & HSK Hospital & Research Centre, Bagalkot",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Santhiram Medical College, Nandyal",
+      "quota": "AIQ",
+      "state": "Andhra Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sapthagiri Institute of Medical Sciences & Research Centre, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "SBKS Medical Instt. & Research Centre, Vadodra",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sharda School of Medical Sciences & Research ( previously School of Medical Sciences & Research,Greater Noida)",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar",
+      "quota": "AIQ",
+      "state": "Jammu and Kashmir",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 125,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Shillong Medical College",
+      "quota": "AIQ",
+      "state": "Meghalaya",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 50,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sikkim Government Medical College",
+      "quota": "AIQ",
+      "state": "Sikkim",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sindhudurg Shikshan Prasarak Mandal (SSPM) Medical College & Lifetime Hospital, Padave, Sindhudurg",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 149,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "SMBT Institute of Medical Sciences & Research Centre, Nandihills, Nashik",
+      "quota": "AIQ",
+      "state": "Maharashtra",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sree Narayana Instt. of Medical Sciences, Chalakka, Ernakulam",
+      "quota": "AIQ",
+      "state": "Kerala",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sri Guru Ram Das Institute of Medical Sciences and Research, Sri Amritsar",
+      "quota": "AIQ",
+      "state": "Punjab",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sri Venkateswaraa Medical College Hospital and Research Institute, Chennai",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Srinivasan Medical College and Hospital",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "St. Johns Medical College, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sudha Medical College, Kota, Rajasthan",
+      "quota": "AIQ",
+      "state": "Rajasthan",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Surabhi Institute of Medical Sciences, Siddipet, Telangana",
+      "quota": "AIQ",
+      "state": "Telangana",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Surat Municipal Institute of Medical Education & Research, Surat",
+      "quota": "AIQ",
+      "state": "Gujarat",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "The Oxford Medical College, Hospital & Research Centre, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Trichy SRM Medical College Hospital & Research Centre, Trichy",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Tripura Medical College and Dr. B R A M Teaching Hospital, Agartala",
+      "quota": "AIQ",
+      "state": "Tripura",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Uma Nath Singh Autonomous State Medical College Society Jaunpur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 100,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "University College of Medical Sciences & GTB Hospital, New Delhi",
+      "quota": "AIQ",
+      "state": "Delhi",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 170,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Uttar Pradesh University of Medical Sciences, (Prev. UP Rural Inst.of Med.Sc&R) Etawah",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 200,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Varun Arjun Medical College, Banthra, Shahjahanpur",
+      "quota": "AIQ",
+      "state": "Uttar Pradesh",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Velammal Medical College Hospital and Research Institute, Madurai",
+      "quota": "AIQ",
+      "state": "Tamil Nadu",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 150,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Vydehi Institute Of Medical Sciences & Research Centre, Bangalore",
+      "quota": "AIQ",
+      "state": "Karnataka",
+      "cutoffs": null,
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 250,
+      "establishedYear": null,
+      "category": "Private",
+      "seatMatrix": null,
+      "cutoffTrends": [],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available — please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available — please verify with the college."
+        }
+      ],
+      "dataStatus": "seatsOnly"
     }
   ]
 }
