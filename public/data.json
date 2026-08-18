@@ -442,7 +442,7 @@
       "cutoffs": {
         "General": 9332,
         "EWS": 253,
-        "OBC": 31622,
+        "OBC": 999525,
         "SC": 644,
         "ST": 296155,
         "PwD": 1200
@@ -450,7 +450,7 @@
       "nirfRank": 1,
       "annualFee": 8461,
       "totalSeats": 169,
-      "establishedYear": 1956,
+      "establishedYear": 1940,
       "category": "Government",
       "seatMatrix": {
         "General (UR)": 68,
