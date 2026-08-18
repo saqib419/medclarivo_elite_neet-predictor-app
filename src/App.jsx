@@ -7,7 +7,6 @@ import MatchingColleges from "./pages/MatchingColleges.jsx";
 import CollegesBrowse from "./pages/CollegesBrowse.jsx";
 import CollegeDetails from "./pages/CollegeDetails.jsx";
 import Profile from "./pages/Profile.jsx";
-import Register from "./pages/Register.jsx";
 
 const TITLES = {
   "/": "MedPredict",
@@ -27,7 +26,6 @@ export default function App() {
         <Route path="/colleges" element={<><TopBar /><main className="flex-1"><CollegesBrowse /></main></>} />
         <Route path="/college/:slug" element={<><TopBar back /><main className="flex-1"><CollegeDetails /></main></>} />
         <Route path="/profile" element={<><TopBar /><main className="flex-1"><Profile /></main></>} />
-        <Route path="/register" element={<><TopBar back /><main className="flex-1"><Register /></main></>} />
       </Routes>
       <BottomNav />
     </div>

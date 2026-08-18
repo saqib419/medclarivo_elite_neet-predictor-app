@@ -1,6 +1,5 @@
 import { useEffect, useState } from "react";
 import { User, Info } from "lucide-react";
-import { Link } from "react-router-dom";
 import CollegeRow from "../components/CollegeRow.jsx";
 import { fetchColleges } from "../lib/api.js";
 import { getShortlist } from "../lib/storage.js";
@@ -30,10 +29,7 @@ export default function Profile() {
 
       <div className="flex items-start gap-2 bg-secondary-fixed/40 text-on-secondary-fixed rounded-lg p-3 mt-4 text-[12.5px]">
         <Info size={15} className="shrink-0 mt-0.5" />
-        <span>
-          Your shortlist and search history are currently saved locally in this browser only.{" "}
-          <Link to="/register" className="font-semibold underline">Create an account</Link> to save them permanently and sync across devices.
-        </span>
+        Accounts and sign-in aren't built yet — your shortlist and search history are saved locally in this browser only.
       </div>
 
       <h2 className="font-display font-semibold text-on-surface mt-6 mb-2.5">Shortlisted Colleges</h2>

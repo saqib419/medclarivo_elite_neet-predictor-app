@@ -1,5 +1,0 @@
-Andaman and Nicobar Islands Institute of Medical Sciences, Port Blair --> Andaman & Nicobar Islands Institute of Medical Sciences, Port Blair (score 0.992, no state match)
-DY Patil University School of Medicine --> DY Patil University, School of Medicine (score 1.000, no state match)
-ESIC Medical College and Hospital Varanasi --> ESIC Medical College and Hospital, VARANASI (score 1.000, no state match)
-Goverment Medical College Sheopur --> GOVERMENT MEDICAL COLLEGE, SHEOPUR (score 1.000, no state match)
-PRAGJYOTISHPUR MEDICAL COLLEGE --> Pragjyotishpur Medical College (score 1.000, no state match)
