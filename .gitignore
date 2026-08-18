@@ -1,2 +1,6 @@
 node_modules 
 dist 
+
+# Working artifacts from the AIQ cutoff-data pipeline (parse_cutoff_pdf.py output)
+aiq_*.csv
+flagged_*.csv
