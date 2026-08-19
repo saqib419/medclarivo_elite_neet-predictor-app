@@ -8633,29 +8633,6 @@
       ]
     },
     {
-      "name": "SKIMS Medical College",
-      "quota": "AIQ",
-      "state": "Jammu and Kashmir",
-      "cutoffs": {
-        "General": 7138,
-        "EWS": 17997,
-        "OBC": 17981,
-        "SC": 92831,
-        "ST": 49520
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 7138
-        },
-        {
-          "year": 2024,
-          "round1": 4480,
-          "round2": 6433
-        }
-      ]
-    },
-    {
       "name": "SLBS Govt. Medical College",
       "quota": "AIQ",
       "state": "Himachal Pradesh",
@@ -23953,37 +23930,6 @@
       "dataStatus": "seatsOnly"
     },
     {
-      "name": "Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar",
-      "quota": "State",
-      "state": "Jammu and Kashmir",
-      "cutoffs": null,
-      "nirfRank": null,
-      "annualFee": null,
-      "totalSeats": 125,
-      "establishedYear": null,
-      "category": "Government",
-      "seatMatrix": null,
-      "cutoffTrends": [],
-      "infrastructure": [
-        {
-          "icon": "building",
-          "title": "Hostel Facilities",
-          "desc": "Details not yet available \u2014 please verify with the college."
-        },
-        {
-          "icon": "library",
-          "title": "Library & Academic Resources",
-          "desc": "Details not yet available \u2014 please verify with the college."
-        },
-        {
-          "icon": "stethoscope",
-          "title": "Clinical Exposure",
-          "desc": "Details not yet available \u2014 please verify with the college."
-        }
-      ],
-      "dataStatus": "seatsOnly"
-    },
-    {
       "name": "Shillong Medical College",
       "quota": "State",
       "state": "Meghalaya",
@@ -24664,6 +24610,52 @@
         }
       ],
       "dataStatus": "seatsOnly"
+    },
+    {
+      "name": "Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar",
+      "quota": "State",
+      "state": "Jammu and Kashmir",
+      "cutoffs": {
+        "General": 7138,
+        "EWS": 17997,
+        "OBC": 17981,
+        "SC": 92831,
+        "ST": 49520
+      },
+      "nirfRank": null,
+      "annualFee": null,
+      "totalSeats": 125,
+      "establishedYear": null,
+      "category": "Government",
+      "seatMatrix": null,
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 7138
+        },
+        {
+          "year": 2024,
+          "round1": 4480,
+          "round2": 6433
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Details not yet available \u2014 please verify with the college."
+        },
+        {
+          "icon": "library",
+          "title": "Library & Academic Resources",
+          "desc": "Details not yet available \u2014 please verify with the college."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Details not yet available \u2014 please verify with the college."
+        }
+      ]
     }
   ]
 }
