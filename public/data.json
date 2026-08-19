@@ -3997,7 +3997,7 @@
     },
     {
       "name": "Employees State Insurance Corporation Medical College",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Rajasthan",
       "cutoffs": {
         "General": 19046,
@@ -21046,7 +21046,7 @@
     },
     {
       "name": "Employees State Insurance Corporation Medical College, Bangalore",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Karnataka",
       "cutoffs": null,
       "nirfRank": null,
@@ -21077,7 +21077,7 @@
     },
     {
       "name": "Employees State Insurance Corporation Medical College, Gulbarga",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Karnataka",
       "cutoffs": null,
       "nirfRank": null,
@@ -21108,7 +21108,7 @@
     },
     {
       "name": "Employees State Insurance Corporation Medical College, Patna",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Bihar",
       "cutoffs": null,
       "nirfRank": null,
