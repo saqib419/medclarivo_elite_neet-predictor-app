@@ -504,7 +504,7 @@
     },
     {
       "name": "Maulana Azad Medical College, Delhi",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Delhi",
       "cutoffs": {
         "General": 150,
@@ -563,7 +563,7 @@
     },
     {
       "name": "Lady Hardinge Medical College, Delhi",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Delhi",
       "cutoffs": {
         "General": 500,
@@ -20110,7 +20110,7 @@
     },
     {
       "name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Delhi",
       "cutoffs": null,
       "nirfRank": null,
@@ -20141,7 +20141,7 @@
     },
     {
       "name": "Autonomous State Medical College and Hospital Gonda",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20172,7 +20172,7 @@
     },
     {
       "name": "Autonomous State Medical College and Hospital Kaushambi",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20203,7 +20203,7 @@
     },
     {
       "name": "Autonomous State Medical College and Hospital Lakhimpuri kheri",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20234,7 +20234,7 @@
     },
     {
       "name": "Autonomous State Medical College Kushinagar",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20265,7 +20265,7 @@
     },
     {
       "name": "Autonomous State Medical College Lalitpur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20296,7 +20296,7 @@
     },
     {
       "name": "Autonomous State Medical College Pilibhit",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20327,7 +20327,7 @@
     },
     {
       "name": "Autonomous State Medical College Pratapgarh",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20358,7 +20358,7 @@
     },
     {
       "name": "Autonomous State Medical College Society Ghazipur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20389,7 +20389,7 @@
     },
     {
       "name": "Autonomous State Medical College Society, Etah, Uttar Pradesh",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20420,7 +20420,7 @@
     },
     {
       "name": "Autonomous State Medical College Society, Fatehpur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20451,7 +20451,7 @@
     },
     {
       "name": "Autonomous State Medical College Sultanpur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20482,7 +20482,7 @@
     },
     {
       "name": "Autonomous State Medical College, Akbarpur, Kanpur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20513,7 +20513,7 @@
     },
     {
       "name": "Autonomous State Medical College, Siddharthnagar",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20544,7 +20544,7 @@
     },
     {
       "name": "Autonomous State Medical College, Sonebhadra",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20575,7 +20575,7 @@
     },
     {
       "name": "Autonomous State Society Medical College Mirzapur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -20699,7 +20699,7 @@
     },
     {
       "name": "Bhagwan Mahavir Institute of Medical Sciences, Pawapuri (formerly Vardhman Institute of Medical Sciences, Pawapuri, Nalanda)",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Bihar",
       "cutoffs": null,
       "nirfRank": null,
@@ -20761,7 +20761,7 @@
     },
     {
       "name": "BPS Government Medical College for Women, Sonepat",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Haryana",
       "cutoffs": null,
       "nirfRank": null,
@@ -20792,7 +20792,7 @@
     },
     {
       "name": "Chhattisgarh Institute of Medical Sciences, Bilaspur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Chhattisgarh",
       "cutoffs": null,
       "nirfRank": null,
@@ -21009,7 +21009,7 @@
     },
     {
       "name": "Dr. Laxminarayan Pandey Government Medical College, Ratlam (M.P.)",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Madhya Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -21133,7 +21133,7 @@
     },
     {
       "name": "Dr. Rajendar Prasad Government Medical College, Tanda, H.P",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Himachal Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -21443,7 +21443,7 @@
     },
     {
       "name": "Gandhi Medical College, Bhopal",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Madhya Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -21536,7 +21536,7 @@
     },
     {
       "name": "GMERS Medical College, Dharpur Patan",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21567,7 +21567,7 @@
     },
     {
       "name": "GMERS Medical College, Gandhinagar",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21598,7 +21598,7 @@
     },
     {
       "name": "GMERS Medical College, Gotri, Vadodara",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21629,7 +21629,7 @@
     },
     {
       "name": "GMERS Medical College, Hadiyol, Himmatnagar",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21660,7 +21660,7 @@
     },
     {
       "name": "GMERS Medical College, Junagadh",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21691,7 +21691,7 @@
     },
     {
       "name": "GMERS Medical College, Navsari",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21722,7 +21722,7 @@
     },
     {
       "name": "GMERS Medical College, Rajpipla",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21753,7 +21753,7 @@
     },
     {
       "name": "GMERS Medical College, Sola, Ahmedabad",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21784,7 +21784,7 @@
     },
     {
       "name": "GMERS Medical College, Vadnagar, Mehsana",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -21815,7 +21815,7 @@
     },
     {
       "name": "Government Medical College & Hospital (Renamed as Bhima Bhoi Medical College & Hospital), Balangir",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Odisha",
       "cutoffs": null,
       "nirfRank": null,
@@ -21846,7 +21846,7 @@
     },
     {
       "name": "Government Medical College & Hospital Cuddalore, Since- 09-05-2025 (erstwhile Rajah Muthiah Medical College, cuddalore, T.N)",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Tamil Nadu",
       "cutoffs": null,
       "nirfRank": null,
@@ -21877,7 +21877,7 @@
     },
     {
       "name": "Government Medical College, Chandigarh",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Chandigarh",
       "cutoffs": null,
       "nirfRank": null,
@@ -21908,7 +21908,7 @@
     },
     {
       "name": "Government Medical College, Jammu",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Jammu and Kashmir",
       "cutoffs": null,
       "nirfRank": null,
@@ -21939,7 +21939,7 @@
     },
     {
       "name": "Government Medical College, Nagpur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Maharashtra",
       "cutoffs": null,
       "nirfRank": null,
@@ -21970,7 +21970,7 @@
     },
     {
       "name": "Govt. Medical College, Kolkata",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "West Bengal",
       "cutoffs": null,
       "nirfRank": null,
@@ -22249,7 +22249,7 @@
     },
     {
       "name": "K.H. Patil Institute of Medical Sciences (previously Gadag Institute of Medical Sciences, Mallasamudra, Mulgund Road, Gadag)",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Karnataka",
       "cutoffs": null,
       "nirfRank": null,
@@ -22280,7 +22280,7 @@
     },
     {
       "name": "KanyaKumari Government Medical College, Asaripallam",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Tamil Nadu",
       "cutoffs": null,
       "nirfRank": null,
@@ -22714,7 +22714,7 @@
     },
     {
       "name": "Mahamaya Rajkiya Allopathic Medical College, Ambedkarnagar",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -23117,7 +23117,7 @@
     },
     {
       "name": "Medical College, Thiruvananthapuram",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Kerala",
       "cutoffs": null,
       "nirfRank": null,
@@ -23210,7 +23210,7 @@
     },
     {
       "name": "Nagaland Institute of Medical Sciences & Research",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Nagaland",
       "cutoffs": null,
       "nirfRank": null,
@@ -23241,7 +23241,7 @@
     },
     {
       "name": "NAMO Medical Education and Research Institute, Silvassa (Formerly known as Shri Vinoba Bhave Institute of Medical Sciences, (Govt. Medical College) Silvassa, U.T)",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Dadar & Nagar Haveli ND/001/G/1",
       "cutoffs": null,
       "nirfRank": null,
@@ -23334,7 +23334,7 @@
     },
     {
       "name": "North Bengal Medical College, Darjeeling",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "West Bengal",
       "cutoffs": null,
       "nirfRank": null,
@@ -23520,7 +23520,7 @@
     },
     {
       "name": "Palamu Medical College, Palamu",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Jharkhand",
       "cutoffs": null,
       "nirfRank": null,
@@ -23644,7 +23644,7 @@
     },
     {
       "name": "Punyashloka Lokmata Devi Ahilyabai Holkar Autonomous State Medical College, Auraiya (U.P.)",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -23706,7 +23706,7 @@
     },
     {
       "name": "Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Maharashtra",
       "cutoffs": null,
       "nirfRank": null,
@@ -23737,7 +23737,7 @@
     },
     {
       "name": "Rajkiya Allopathic Medical College, Bahraich, UP",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -23954,7 +23954,7 @@
     },
     {
       "name": "Sher-I-Kashmir Instt. Of Medical Sciences, Srinagar",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Jammu and Kashmir",
       "cutoffs": null,
       "nirfRank": null,
@@ -23985,7 +23985,7 @@
     },
     {
       "name": "Shillong Medical College",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Meghalaya",
       "cutoffs": null,
       "nirfRank": null,
@@ -24016,7 +24016,7 @@
     },
     {
       "name": "Sikkim Government Medical College",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Sikkim",
       "cutoffs": null,
       "nirfRank": null,
@@ -24357,7 +24357,7 @@
     },
     {
       "name": "Surat Municipal Institute of Medical Education & Research, Surat",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Gujarat",
       "cutoffs": null,
       "nirfRank": null,
@@ -24481,7 +24481,7 @@
     },
     {
       "name": "Uma Nath Singh Autonomous State Medical College Society Jaunpur",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
@@ -24512,7 +24512,7 @@
     },
     {
       "name": "University College of Medical Sciences & GTB Hospital, New Delhi",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Delhi",
       "cutoffs": null,
       "nirfRank": null,
@@ -24543,7 +24543,7 @@
     },
     {
       "name": "Uttar Pradesh University of Medical Sciences, (Prev. UP Rural Inst.of Med.Sc&R) Etawah",
-      "quota": "AIQ",
+      "quota": "State",
       "state": "Uttar Pradesh",
       "cutoffs": null,
       "nirfRank": null,
