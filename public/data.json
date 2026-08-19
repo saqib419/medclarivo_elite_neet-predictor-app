@@ -2913,30 +2913,6 @@
       ]
     },
     {
-      "name": "B.Sc. Nursing",
-      "quota": "AIQ",
-      "state": null,
-      "cutoffs": {
-        "General": 227264,
-        "EWS": 112882,
-        "OBC": 254329,
-        "SC": 461616,
-        "ST": 967787
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 227264,
-          "round2": 110524
-        },
-        {
-          "year": 2024,
-          "round1": 613958,
-          "round2": 149670
-        }
-      ]
-    },
-    {
       "name": "BANKURA SAMMILANI MED COLL",
       "quota": "AIQ",
       "state": "West Bengal",
@@ -19459,21 +19435,6 @@
       ]
     },
     {
-      "name": "Chikkamagalu ru Institute of Medical Sciences",
-      "quota": "AIQ",
-      "state": "Karnataka",
-      "cutoffs": {
-        "General": 20466,
-        "OBC": 21891
-      },
-      "cutoffTrends": [
-        {
-          "year": 2024,
-          "round1": 20466
-        }
-      ]
-    },
-    {
       "name": "DR. VAISHAMPAY AM MEMORIAL M.C.",
       "quota": "AIQ",
       "state": "Maharashtra",
@@ -19498,22 +19459,6 @@
         "OBC": 9306
       },
       "cutoffTrends": []
-    },
-    {
-      "name": "Dr.Radhakrish nan Government Medical College",
-      "quota": "AIQ",
-      "state": null,
-      "cutoffs": {
-        "General": 11440,
-        "OBC": 13114,
-        "SC": 69348
-      },
-      "cutoffTrends": [
-        {
-          "year": 2024,
-          "round1": 11440
-        }
-      ]
     },
     {
       "name": "ESI- MC&PGIMS& R",
@@ -19809,20 +19754,6 @@
       ]
     },
     {
-      "name": "No Upgradati on",
-      "quota": "AIQ",
-      "state": null,
-      "cutoffs": {
-        "General": 1368091
-      },
-      "cutoffTrends": [
-        {
-          "year": 2024,
-          "round1": 1368091
-        }
-      ]
-    },
-    {
       "name": "SHRI ATAL BIHARI VAJPAYEE GOVERNMEN T MEDICAL COLLEGE",
       "quota": "AIQ",
       "state": "Haryana",
@@ -19887,21 +19818,6 @@
       ]
     },
     {
-      "name": "Thiruvannamal ai MC",
-      "quota": "AIQ",
-      "state": null,
-      "cutoffs": {
-        "General": 17726,
-        "OBC": 17270
-      },
-      "cutoffTrends": [
-        {
-          "year": 2024,
-          "round1": 17726
-        }
-      ]
-    },
-    {
       "name": "UNS AUTONOMOU S STATE MEDICAL COLLEGES",
       "quota": "AIQ",
       "state": null,
@@ -19936,24 +19852,6 @@
         }
       ],
       "totalSeats": 100
-    },
-    {
-      "name": "ESIC, Medical College and Hospital",
-      "quota": "AIQ",
-      "state": null,
-      "cutoffs": {
-        "EWS": 32700,
-        "General": 28264,
-        "OBC": 34201,
-        "SC": 220144,
-        "ST": 430839
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 28264
-        }
-      ]
     },
     {
       "name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirma th Medical College",
