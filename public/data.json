@@ -2995,7 +2995,9 @@
           "round1": 9292,
           "round2": 386312
         }
-      ]
+      ],
+      "totalSeats": 120,
+      "category": "Government"
     },
     {
       "name": "BUNDELKHAND MEDICAL COLLEGE",
@@ -3335,7 +3337,9 @@
           "round1": 416394,
           "round2": 825168
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Private"
     },
     {
       "name": "Chhindwara Institute of Medical Sciences",
@@ -3483,7 +3487,9 @@
           "round1": 13733,
           "round2": 9477
         }
-      ]
+      ],
+      "totalSeats": 200,
+      "category": "Government"
     },
     {
       "name": "DR.RAJENDRA PRASAD MC",
@@ -3506,7 +3512,9 @@
           "round1": 3533,
           "round2": 299580
         }
-      ]
+      ],
+      "totalSeats": 120,
+      "category": "Government"
     },
     {
       "name": "DR.S.C.GOVT MEDICAL COLLEGE",
@@ -3530,7 +3538,9 @@
           "round1": 15943,
           "round2": 477287
         }
-      ]
+      ],
+      "totalSeats": 150,
+      "category": "Government"
     },
     {
       "name": "DR.S.N. MEDICAL COLLEGE",
@@ -3553,7 +3563,9 @@
           "round1": 4844,
           "round2": 3362
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Government"
     },
     {
       "name": "DY Patil University School of Medicine",
@@ -4116,7 +4128,9 @@
           "round1": 858988,
           "round2": 874883
         }
-      ]
+      ],
+      "totalSeats": 150,
+      "category": "Private"
     },
     {
       "name": "GMC",
@@ -4357,7 +4371,9 @@
           "round1": 7848,
           "round2": 16020
         }
-      ]
+      ],
+      "totalSeats": 100,
+      "category": "Government"
     },
     {
       "name": "GOVERNMENT MEDICAL COLLEGE MACHILIPATNAM",
@@ -4430,7 +4446,9 @@
           "round1": 7321,
           "round2": 666481
         }
-      ]
+      ],
+      "totalSeats": 100,
+      "category": "Government"
     },
     {
       "name": "GOVT MEDICAL COLLEGE",
@@ -5293,7 +5311,9 @@
           "round1": 13440,
           "round2": 10113
         }
-      ]
+      ],
+      "totalSeats": 200,
+      "category": "Government"
     },
     {
       "name": "Govt Medical College Shahdol",
@@ -5760,7 +5780,9 @@
           "round1": 5415,
           "round2": 556512
         }
-      ]
+      ],
+      "totalSeats": 100,
+      "category": "Government"
     },
     {
       "name": "Indira Gandhi Institute of Medical Sciences",
@@ -5833,7 +5855,9 @@
           "round1": 9761,
           "round2": 4138
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Government"
     },
     {
       "name": "JHALAWAR MEDICAL COLLEGE",
@@ -5971,7 +5995,9 @@
           "round1": 89512,
           "round2": 869938
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Private"
     },
     {
       "name": "Jawaharlal Nehru Medical College",
@@ -6119,7 +6145,9 @@
           "round1": 11301,
           "round2": 696523
         }
-      ]
+      ],
+      "totalSeats": 150,
+      "category": "Government"
     },
     {
       "name": "KARNATAK INST. OF MEDICAL SC.",
@@ -6259,7 +6287,9 @@
           "round1": 8825,
           "round2": 6570
         }
-      ]
+      ],
+      "totalSeats": 120,
+      "category": "Government"
     },
     {
       "name": "Kalyan Singh Government Medical College",
@@ -6430,7 +6460,9 @@
           "round1": 716834,
           "round2": 1072449
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Private"
     },
     {
       "name": "L.L.R.M. MEDICAL COLLEGE",
@@ -6600,7 +6632,9 @@
           "round1": 15315,
           "round2": 5211
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Government"
     },
     {
       "name": "MADRAS MEDICAL COLLEGE",
@@ -6991,7 +7025,9 @@
           "round1": 18338,
           "round2": 732741
         }
-      ]
+      ],
+      "totalSeats": 150,
+      "category": "Government"
     },
     {
       "name": "Maharishi Chyawan Medical College",
@@ -7125,7 +7161,9 @@
           "round1": 107606,
           "round2": 231221
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Private"
     },
     {
       "name": "Malla Reddy Medical College for Women",
@@ -7149,7 +7187,9 @@
           "round1": 468690,
           "round2": 174451
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Private"
     },
     {
       "name": "Medinirai Medical College (previously Known as Palamu Medical College)",
@@ -7550,7 +7590,9 @@
           "round1": 15973,
           "round2": 333335
         }
-      ]
+      ],
+      "totalSeats": 250,
+      "category": "Government"
     },
     {
       "name": "R.N.T. MEDICAL COLLEGE",
@@ -7648,7 +7690,9 @@
           "round1": 24924,
           "round2": 5333
         }
-      ]
+      ],
+      "totalSeats": 100,
+      "category": "Government"
     },
     {
       "name": "RAMPURHAT GOVT MEDICAL COLLEGE RAMPURHAT",
@@ -7715,7 +7759,9 @@
           "round1": 21410,
           "round2": 16410
         }
-      ]
+      ],
+      "totalSeats": 200,
+      "category": "Government"
     },
     {
       "name": "RUHS College of Medical Sciences",
