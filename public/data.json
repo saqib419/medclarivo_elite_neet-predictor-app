@@ -5132,30 +5132,6 @@
       "totalSeats": 150
     },
     {
-      "name": "Government Medical College and District General Hospital",
-      "quota": "AIQ",
-      "state": "Maharashtra",
-      "cutoffs": {
-        "General": 21314,
-        "EWS": 17948,
-        "OBC": 21928,
-        "SC": 123553,
-        "ST": 120996
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 15483,
-          "round2": 21314
-        },
-        {
-          "year": 2024,
-          "round1": 7447,
-          "round2": 739417
-        }
-      ]
-    },
-    {
       "name": "Government Medical College and Hospital",
       "quota": "AIQ",
       "state": "Odisha",
@@ -19373,22 +19349,6 @@
         "OBC": 9306
       },
       "cutoffTrends": []
-    },
-    {
-      "name": "ESI- MC&PGIMS& R",
-      "quota": "AIQ",
-      "state": "Karnataka",
-      "cutoffs": {
-        "General": 39009,
-        "OBC": 42932,
-        "SC": 215039
-      },
-      "cutoffTrends": [
-        {
-          "year": 2024,
-          "round1": 39009
-        }
-      ]
     },
     {
       "name": "GMC, Rajamahendra varam",
