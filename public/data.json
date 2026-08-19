@@ -7342,30 +7342,6 @@
       ]
     },
     {
-      "name": "NILRATAN SIRKAR MEDICAL COLLEGE",
-      "quota": "AIQ",
-      "state": "West Bengal",
-      "cutoffs": {
-        "General": 10755,
-        "EWS": 9988,
-        "OBC": 11396,
-        "SC": 850483,
-        "ST": 1238539
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 10755,
-          "round2": 7264
-        },
-        {
-          "year": 2024,
-          "round1": 8013,
-          "round2": 43198
-        }
-      ]
-    },
-    {
       "name": "Nalbari Medical College & Hospital Dakhingaon",
       "quota": "AIQ",
       "state": "Assam",
@@ -7389,30 +7365,6 @@
         }
       ],
       "totalSeats": 100
-    },
-    {
-      "name": "Osmania Medical College Koti",
-      "quota": "AIQ",
-      "state": "Telangana",
-      "cutoffs": {
-        "General": 18913,
-        "EWS": 8757,
-        "OBC": 19040,
-        "SC": 1161052,
-        "ST": 747236
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 18913,
-          "round2": 2986
-        },
-        {
-          "year": 2024,
-          "round1": 5919,
-          "round2": 3517
-        }
-      ]
     },
     {
       "name": "PABITRA MOHAN PRADHAN MEDICAL COLLEGE & HOSPITAL",
@@ -8033,29 +7985,6 @@
           "year": 2024,
           "round1": 629293,
           "round2": 10359
-        }
-      ]
-    },
-    {
-      "name": "Rural Medical College and PIMS",
-      "quota": "AIQ",
-      "state": "Maharashtra",
-      "cutoffs": {
-        "General": 136298,
-        "EWS": 137516,
-        "OBC": 139826,
-        "SC": 1225817
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 124862,
-          "round2": 136298
-        },
-        {
-          "year": 2024,
-          "round1": 24360,
-          "round2": 921078
         }
       ]
     },
@@ -10124,7 +10053,18 @@
       "cutoffEstimated": true,
       "totalSeats": 150,
       "category": "Government",
-      "cutoffTrends": []
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 15574,
+          "round2": 22977
+        },
+        {
+          "year": 2024,
+          "round1": 21425,
+          "round2": 19169
+        }
+      ]
     },
     {
       "name": "Government Medical College, Paderu",
@@ -10175,7 +10115,17 @@
       "cutoffEstimated": true,
       "totalSeats": 150,
       "category": "Government",
-      "cutoffTrends": []
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 18442,
+          "round2": 23527
+        },
+        {
+          "year": 2024,
+          "round1": 17867
+        }
+      ]
     },
     {
       "name": "Government Siddhartha Medical College, Vijaywada",
@@ -12714,7 +12664,17 @@
       "cutoffEstimated": true,
       "totalSeats": 100,
       "category": "Government",
-      "cutoffTrends": []
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 803451,
+          "round2": 1098028
+        },
+        {
+          "year": 2024,
+          "round1": 9228
+        }
+      ]
     },
     {
       "name": "Thiruvarur Govt. Medical College, Thiruvarur",
@@ -12731,7 +12691,18 @@
       "cutoffEstimated": true,
       "totalSeats": 100,
       "category": "Government",
-      "cutoffTrends": []
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 10400,
+          "round2": 19584
+        },
+        {
+          "year": 2024,
+          "round1": 17164,
+          "round2": 14349
+        }
+      ]
     },
     {
       "name": "Tirunelveli Medical College, Tirunelveli",
@@ -13445,7 +13416,18 @@
       "cutoffEstimated": true,
       "totalSeats": 250,
       "category": "Government",
-      "cutoffTrends": []
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 10755,
+          "round2": 7264
+        },
+        {
+          "year": 2024,
+          "round1": 8013,
+          "round2": 43198
+        }
+      ]
     },
     {
       "name": "Purulia Government Medical College & Hospital",
@@ -15077,23 +15059,6 @@
       "cutoffEstimated": true,
       "totalSeats": 250,
       "category": "Private",
-      "cutoffTrends": []
-    },
-    {
-      "name": "Institute of Medical Sciences, BHU, Varansi",
-      "quota": "State",
-      "state": "Uttar Pradesh",
-      "cutoffs": {
-        "General": 3625,
-        "EWS": 5800,
-        "OBC": 7975,
-        "SC": 29000,
-        "ST": 47125,
-        "PwD": 58000
-      },
-      "cutoffEstimated": true,
-      "totalSeats": 100,
-      "category": "Government",
       "cutoffTrends": []
     },
     {
@@ -16743,7 +16708,18 @@
       "cutoffEstimated": true,
       "totalSeats": 200,
       "category": "Private",
-      "cutoffTrends": []
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 124862,
+          "round2": 136298
+        },
+        {
+          "year": 2024,
+          "round1": 24360,
+          "round2": 921078
+        }
+      ]
     },
     {
       "name": "Ruxmaniben Deepchand Gardi Medical College, Ujjain",
@@ -18218,29 +18194,6 @@
       ]
     },
     {
-      "name": "GMC, Rajamahendravaram",
-      "quota": "AIQ",
-      "state": "Andhra Pradesh",
-      "cutoffs": {
-        "SC": 138386,
-        "EWS": 899074,
-        "General": 23527,
-        "OBC": 24220,
-        "ST": 119779
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 18442,
-          "round2": 23527
-        },
-        {
-          "year": 2024,
-          "round1": 17867
-        }
-      ]
-    },
-    {
       "name": "GMC, Shahjhanpur",
       "quota": "AIQ",
       "state": "Uttar Pradesh",
@@ -18548,30 +18501,6 @@
           "year": 2024,
           "round1": 915338,
           "round2": 19411
-        }
-      ]
-    },
-    {
-      "name": "RIMS, Ongole",
-      "quota": "AIQ",
-      "state": "Andhra Pradesh",
-      "cutoffs": {
-        "SC": 77084,
-        "EWS": 27619,
-        "General": 22977,
-        "OBC": 23253,
-        "ST": 108820
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 15574,
-          "round2": 22977
-        },
-        {
-          "year": 2024,
-          "round1": 21425,
-          "round2": 19169
         }
       ]
     },
@@ -19005,53 +18934,6 @@
       }
     },
     {
-      "name": "GTMC, THIRUVARUR",
-      "quota": "AIQ",
-      "state": "Tamil Nadu",
-      "cutoffs": {
-        "EWS": 24639,
-        "General": 19584,
-        "OBC": 18504,
-        "SC": 87818,
-        "ST": 141327
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 10400,
-          "round2": 19584
-        },
-        {
-          "year": 2024,
-          "round1": 17164,
-          "round2": 14349
-        }
-      ]
-    },
-    {
-      "name": "GVMC, VILLUPURAM",
-      "quota": "AIQ",
-      "state": "Tamil Nadu",
-      "cutoffs": {
-        "EWS": 24071,
-        "General": 1098028,
-        "OBC": 17333,
-        "SC": 36171,
-        "ST": 104456
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 803451,
-          "round2": 1098028
-        },
-        {
-          "year": 2024,
-          "round1": 9228
-        }
-      ]
-    },
-    {
       "name": "Maulana Azad Medical College",
       "quota": "AIQ",
       "state": "Delhi",
@@ -19357,22 +19239,6 @@
       ]
     },
     {
-      "name": "GOVERNMEN T MEDICAL COLLEGE Karimnagar Telangana",
-      "quota": "AIQ",
-      "state": "Telangana",
-      "cutoffs": {
-        "General": 22228,
-        "OBC": 21376,
-        "SC": 120490
-      },
-      "cutoffTrends": [
-        {
-          "year": 2024,
-          "round1": 22228
-        }
-      ]
-    },
-    {
       "name": "GOVERNMEN T MEDICAL COLLEGE MACHILIPAT NAM",
       "quota": "AIQ",
       "state": null,
@@ -19395,15 +19261,6 @@
           "round1": 22479
         }
       ]
-    },
-    {
-      "name": "GOVERNMEN T MEDICAL COLLEGE PURNEA",
-      "quota": "AIQ",
-      "state": "Bihar",
-      "cutoffs": {
-        "OBC": 19689
-      },
-      "cutoffTrends": []
     },
     {
       "name": "GOVT MEDICAL COLLEGE VIZIANAGAR AM",
