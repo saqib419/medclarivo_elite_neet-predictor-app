@@ -449,15 +449,15 @@
       },
       "nirfRank": 1,
       "annualFee": 8461,
-      "totalSeats": 169,
+      "totalSeats": 132,
       "establishedYear": 1940,
       "category": "Government",
       "seatMatrix": {
-        "General (UR)": 68,
-        "OBC": 46,
-        "SC": 25,
-        "ST": 13,
-        "EWS": 17
+        "General": 57,
+        "OBC": 33,
+        "EWS": 13,
+        "SC": 19,
+        "ST": 10
       },
       "cutoffTrends": [
         {
@@ -2545,7 +2545,15 @@
           "round1": 1112,
           "round2": 203256
         }
-      ]
+      ],
+      "totalSeats": 125,
+      "seatMatrix": {
+        "OBC": 34,
+        "EWS": 13,
+        "General": 51,
+        "SC": 18,
+        "ST": 9
+      }
     },
     {
       "name": "AIIMS Guwahati",
@@ -2569,7 +2577,15 @@
           "round1": 3784,
           "round2": 28828
         }
-      ]
+      ],
+      "totalSeats": 100,
+      "seatMatrix": {
+        "OBC": 27,
+        "EWS": 10,
+        "General": 41,
+        "SC": 15,
+        "ST": 7
+      }
     },
     {
       "name": "AIIMS Jammu",
@@ -2593,7 +2609,15 @@
           "round1": 2804,
           "round2": 295188
         }
-      ]
+      ],
+      "totalSeats": 125,
+      "seatMatrix": {
+        "OBC": 34,
+        "EWS": 12,
+        "General": 50,
+        "SC": 19,
+        "ST": 10
+      }
     },
     {
       "name": "AIIMS Rajkot",
@@ -9825,7 +9849,15 @@
           "round1": 19211,
           "round2": 72310
         }
-      ]
+      ],
+      "totalSeats": 125,
+      "seatMatrix": {
+        "OBC": 34,
+        "EWS": 12,
+        "General": 51,
+        "SC": 19,
+        "ST": 9
+      }
     },
     {
       "name": "Amrita Institute of Medical Science",
@@ -18256,7 +18288,15 @@
           "round1": 18812,
           "round2": 6257
         }
-      ]
+      ],
+      "totalSeats": 50,
+      "seatMatrix": {
+        "OBC": 14,
+        "EWS": 5,
+        "General": 20,
+        "SC": 7,
+        "ST": 4
+      }
     },
     {
       "name": "AIIMS, Raipur",
@@ -18606,7 +18646,15 @@
           "round1": 107033,
           "round2": 28676
         }
-      ]
+      ],
+      "totalSeats": 182,
+      "seatMatrix": {
+        "OBC": 48,
+        "EWS": 17,
+        "General": 76,
+        "SC": 27,
+        "ST": 14
+      }
     },
     {
       "name": "JLN IMS, IMPHAL",
@@ -18893,7 +18941,15 @@
           "year": 2024,
           "round1": 33333
         }
-      ]
+      ],
+      "totalSeats": 150,
+      "seatMatrix": {
+        "OBC": 40,
+        "EWS": 15,
+        "General": 61,
+        "SC": 23,
+        "ST": 11
+      }
     },
     {
       "name": "AIIMS, Kalyani",
@@ -18941,7 +18997,15 @@
           "round1": 1476,
           "round2": 1389
         }
-      ]
+      ],
+      "totalSeats": 125,
+      "seatMatrix": {
+        "OBC": 34,
+        "EWS": 13,
+        "General": 50,
+        "SC": 18,
+        "ST": 10
+      }
     },
     {
       "name": "B.J. MEDICAL COLLEGE",
@@ -19107,7 +19171,15 @@
           "round1": 57704,
           "round2": 620
         }
-      ]
+      ],
+      "totalSeats": 125,
+      "seatMatrix": {
+        "OBC": 34,
+        "EWS": 12,
+        "General": 51,
+        "SC": 19,
+        "ST": 9
+      }
     },
     {
       "name": "AIIMS, Bibi Nagar",
@@ -19131,7 +19203,15 @@
           "round1": 2588,
           "round2": 2428
         }
-      ]
+      ],
+      "totalSeats": 100,
+      "seatMatrix": {
+        "OBC": 27,
+        "EWS": 10,
+        "General": 41,
+        "SC": 15,
+        "ST": 7
+      }
     },
     {
       "name": "AIIMS, Nagpur",
@@ -19155,7 +19235,15 @@
           "round1": 953,
           "round2": 635
         }
-      ]
+      ],
+      "totalSeats": 125,
+      "seatMatrix": {
+        "OBC": 34,
+        "EWS": 13,
+        "General": 50,
+        "SC": 18,
+        "ST": 10
+      }
     },
     {
       "name": "AIIMS, Rai Bareli",
@@ -19179,7 +19267,15 @@
           "round1": 2994,
           "round2": 2774
         }
-      ]
+      ],
+      "totalSeats": 125,
+      "seatMatrix": {
+        "OBC": 34,
+        "EWS": 13,
+        "General": 50,
+        "SC": 19,
+        "ST": 9
+      }
     },
     {
       "name": "GTMC, THIRUVARUR",
@@ -19341,7 +19437,15 @@
       "cutoffs": {
         "SC": 12010
       },
-      "cutoffTrends": []
+      "cutoffTrends": [],
+      "totalSeats": 125,
+      "seatMatrix": {
+        "OBC": 34,
+        "EWS": 12,
+        "General": 51,
+        "SC": 19,
+        "ST": 9
+      }
     },
     {
       "name": "ATAL BIHARI VAJPAYEE GOVERNMEN T MEDICAL COLLEGE",
@@ -19702,7 +19806,15 @@
         "OBC": 38734,
         "SC": 151839
       },
-      "cutoffTrends": []
+      "cutoffTrends": [],
+      "totalSeats": 182,
+      "seatMatrix": {
+        "OBC": 48,
+        "EWS": 17,
+        "General": 76,
+        "SC": 27,
+        "ST": 14
+      }
     },
     {
       "name": "K.A.P. VISWANATHA M Govt Medical College",
