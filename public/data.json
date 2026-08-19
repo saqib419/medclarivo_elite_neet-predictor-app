@@ -3274,30 +3274,6 @@
       "totalSeats": 100
     },
     {
-      "name": "CHHATTISGARH INSTITUTE OF MEDICAL SCIENCES",
-      "quota": "AIQ",
-      "state": "Chhattisgarh",
-      "cutoffs": {
-        "General": 16017,
-        "EWS": 11511,
-        "OBC": 17953,
-        "SC": 91700,
-        "ST": 99078
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 16017,
-          "round2": 13423
-        },
-        {
-          "year": 2024,
-          "round1": 14674,
-          "round2": 9020
-        }
-      ]
-    },
-    {
       "name": "CHIKKABALLAPURA INSTITUTE OF MEDICAL SCIENCES",
       "quota": "AIQ",
       "state": "Karnataka",
@@ -4176,30 +4152,6 @@
         }
       ],
       "totalSeats": 250
-    },
-    {
-      "name": "GANDHI MEDICAL COLLEGE",
-      "quota": "AIQ",
-      "state": "Madhya Pradesh",
-      "cutoffs": {
-        "General": 19356,
-        "EWS": 10806,
-        "OBC": 10298,
-        "SC": 80004,
-        "ST": 92870
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 19356,
-          "round2": 6945
-        },
-        {
-          "year": 2024,
-          "round1": 8687,
-          "round2": 559218
-        }
-      ]
     },
     {
       "name": "GITAM Institue of Med. Sce. and Res.",
@@ -5967,29 +5919,6 @@
       "totalSeats": 180
     },
     {
-      "name": "Institute of Medical Sciences & SUM Hospital",
-      "quota": "AIQ",
-      "state": "Odisha",
-      "cutoffs": {
-        "General": 205571,
-        "EWS": 214563,
-        "OBC": 244376,
-        "SC": 337816
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 205571,
-          "round2": 265248
-        },
-        {
-          "year": 2024,
-          "round1": 24240,
-          "round2": 904101
-        }
-      ]
-    },
-    {
       "name": "JAWAHAR LAL NEHRU MEDICAL",
       "quota": "AIQ",
       "state": "Rajasthan",
@@ -7516,30 +7445,6 @@
           "year": 2024,
           "round1": 8013,
           "round2": 43198
-        }
-      ]
-    },
-    {
-      "name": "NORTH BENGAL MED.COLL",
-      "quota": "AIQ",
-      "state": "West Bengal",
-      "cutoffs": {
-        "General": 26965,
-        "EWS": 14869,
-        "OBC": 20278,
-        "SC": 137174,
-        "ST": 163931
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 26965,
-          "round2": 19032
-        },
-        {
-          "year": 2024,
-          "round1": 13703,
-          "round2": 10476
         }
       ]
     },
@@ -9488,30 +9393,6 @@
       ]
     },
     {
-      "name": "Uttar Pradesh University of Medical Sciences",
-      "quota": "AIQ",
-      "state": "Uttar Pradesh",
-      "cutoffs": {
-        "General": 11173,
-        "EWS": 13711,
-        "OBC": 11388,
-        "SC": 89842,
-        "ST": 88813
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 11173,
-          "round2": 10078
-        },
-        {
-          "year": 2024,
-          "round1": 15633,
-          "round2": 6698
-        }
-      ]
-    },
-    {
       "name": "V.S.S. MEDICAL COLLEGE",
       "quota": "AIQ",
       "state": "Odisha",
@@ -10098,30 +9979,6 @@
         }
       ],
       "totalSeats": 250
-    },
-    {
-      "name": "NAGALAND INSTITUTE OF MEDICAL SCIENCE AND RESEARCH PHIREBAGIE",
-      "quota": "AIQ",
-      "state": "Nagaland",
-      "cutoffs": {
-        "EWS": 25011,
-        "General": 27332,
-        "OBC": 21406,
-        "SC": 110219,
-        "ST": 134837
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 21190,
-          "round2": 27332
-        },
-        {
-          "year": 2024,
-          "round1": 25032,
-          "round2": 968342
-        }
-      ]
     },
     {
       "name": "Nagaon Medical college",
@@ -18850,30 +18707,6 @@
       "totalSeats": 100
     },
     {
-      "name": "Institute of Medical Sciences and SUM Host.",
-      "quota": "AIQ",
-      "state": "Odisha",
-      "cutoffs": {
-        "SC": 328777,
-        "OBC": 298163,
-        "EWS": 228630,
-        "General": 398720,
-        "ST": 227336
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 398720,
-          "round2": 285309
-        },
-        {
-          "year": 2024,
-          "round1": 1144159,
-          "round2": 190566
-        }
-      ]
-    },
-    {
       "name": "AIIMS, Gorakhpur",
       "quota": "AIQ",
       "state": "Uttar Pradesh",
@@ -20771,14 +20604,31 @@
       "name": "Chhattisgarh Institute of Medical Sciences, Bilaspur",
       "quota": "State",
       "state": "Chhattisgarh",
-      "cutoffs": null,
+      "cutoffs": {
+        "General": 16017,
+        "EWS": 11511,
+        "OBC": 17953,
+        "SC": 91700,
+        "ST": 99078
+      },
       "nirfRank": null,
       "annualFee": null,
       "totalSeats": 150,
       "establishedYear": null,
       "category": "Government",
       "seatMatrix": null,
-      "cutoffTrends": [],
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 16017,
+          "round2": 13423
+        },
+        {
+          "year": 2024,
+          "round1": 14674,
+          "round2": 9020
+        }
+      ],
       "infrastructure": [
         {
           "icon": "building",
@@ -20795,8 +20645,7 @@
           "title": "Clinical Exposure",
           "desc": "Details not yet available \u2014 please verify with the college."
         }
-      ],
-      "dataStatus": "seatsOnly"
+      ]
     },
     {
       "name": "Christian Medical College, Vellore",
@@ -21422,14 +21271,31 @@
       "name": "Gandhi Medical College, Bhopal",
       "quota": "State",
       "state": "Madhya Pradesh",
-      "cutoffs": null,
+      "cutoffs": {
+        "General": 19356,
+        "EWS": 10806,
+        "OBC": 10298,
+        "SC": 80004,
+        "ST": 92870
+      },
       "nirfRank": null,
       "annualFee": null,
       "totalSeats": 250,
       "establishedYear": null,
       "category": "Government",
       "seatMatrix": null,
-      "cutoffTrends": [],
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 19356,
+          "round2": 6945
+        },
+        {
+          "year": 2024,
+          "round1": 8687,
+          "round2": 559218
+        }
+      ],
       "infrastructure": [
         {
           "icon": "building",
@@ -21446,8 +21312,7 @@
           "title": "Clinical Exposure",
           "desc": "Details not yet available \u2014 please verify with the college."
         }
-      ],
-      "dataStatus": "seatsOnly"
+      ]
     },
     {
       "name": "Geetanjali Medical College & Hospital,Udaipur",
@@ -22073,14 +21938,30 @@
       "name": "Institute Of Medical Sciences & SUM Hospital, Bhubaneswar",
       "quota": "AIQ",
       "state": "Odisha",
-      "cutoffs": null,
+      "cutoffs": {
+        "General": 205571,
+        "EWS": 214563,
+        "OBC": 244376,
+        "SC": 337816
+      },
       "nirfRank": null,
       "annualFee": null,
       "totalSeats": 250,
       "establishedYear": null,
       "category": "Private",
       "seatMatrix": null,
-      "cutoffTrends": [],
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 398720,
+          "round2": 285309
+        },
+        {
+          "year": 2024,
+          "round1": 1144159,
+          "round2": 190566
+        }
+      ],
       "infrastructure": [
         {
           "icon": "building",
@@ -22097,8 +21978,7 @@
           "title": "Clinical Exposure",
           "desc": "Details not yet available \u2014 please verify with the college."
         }
-      ],
-      "dataStatus": "seatsOnly"
+      ]
     },
     {
       "name": "IQ-City Medical College, Burdwan",
@@ -23189,14 +23069,31 @@
       "name": "Nagaland Institute of Medical Sciences & Research",
       "quota": "State",
       "state": "Nagaland",
-      "cutoffs": null,
+      "cutoffs": {
+        "EWS": 25011,
+        "General": 27332,
+        "OBC": 21406,
+        "SC": 110219,
+        "ST": 134837
+      },
       "nirfRank": null,
       "annualFee": null,
       "totalSeats": 100,
       "establishedYear": null,
       "category": "Government",
       "seatMatrix": null,
-      "cutoffTrends": [],
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 21190,
+          "round2": 27332
+        },
+        {
+          "year": 2024,
+          "round1": 25032,
+          "round2": 968342
+        }
+      ],
       "infrastructure": [
         {
           "icon": "building",
@@ -23213,8 +23110,7 @@
           "title": "Clinical Exposure",
           "desc": "Details not yet available \u2014 please verify with the college."
         }
-      ],
-      "dataStatus": "seatsOnly"
+      ]
     },
     {
       "name": "NAMO Medical Education and Research Institute, Silvassa (Formerly known as Shri Vinoba Bhave Institute of Medical Sciences, (Govt. Medical College) Silvassa, U.T)",
@@ -23313,14 +23209,31 @@
       "name": "North Bengal Medical College, Darjeeling",
       "quota": "State",
       "state": "West Bengal",
-      "cutoffs": null,
+      "cutoffs": {
+        "General": 26965,
+        "EWS": 14869,
+        "OBC": 20278,
+        "SC": 137174,
+        "ST": 163931
+      },
       "nirfRank": null,
       "annualFee": null,
       "totalSeats": 200,
       "establishedYear": null,
       "category": "Government",
       "seatMatrix": null,
-      "cutoffTrends": [],
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 26965,
+          "round2": 19032
+        },
+        {
+          "year": 2024,
+          "round1": 13703,
+          "round2": 10476
+        }
+      ],
       "infrastructure": [
         {
           "icon": "building",
@@ -23337,8 +23250,7 @@
           "title": "Clinical Exposure",
           "desc": "Details not yet available \u2014 please verify with the college."
         }
-      ],
-      "dataStatus": "seatsOnly"
+      ]
     },
     {
       "name": "NRI Medical College, Guntur",
@@ -24491,14 +24403,31 @@
       "name": "Uttar Pradesh University of Medical Sciences, (Prev. UP Rural Inst.of Med.Sc&R) Etawah",
       "quota": "State",
       "state": "Uttar Pradesh",
-      "cutoffs": null,
+      "cutoffs": {
+        "General": 11173,
+        "EWS": 13711,
+        "OBC": 11388,
+        "SC": 89842,
+        "ST": 88813
+      },
       "nirfRank": null,
       "annualFee": null,
       "totalSeats": 200,
       "establishedYear": null,
       "category": "Government",
       "seatMatrix": null,
-      "cutoffTrends": [],
+      "cutoffTrends": [
+        {
+          "year": 2025,
+          "round1": 11173,
+          "round2": 10078
+        },
+        {
+          "year": 2024,
+          "round1": 15633,
+          "round2": 6698
+        }
+      ],
       "infrastructure": [
         {
           "icon": "building",
@@ -24515,8 +24444,7 @@
           "title": "Clinical Exposure",
           "desc": "Details not yet available \u2014 please verify with the college."
         }
-      ],
-      "dataStatus": "seatsOnly"
+      ]
     },
     {
       "name": "Varun Arjun Medical College, Banthra, Shahjahanpur",
