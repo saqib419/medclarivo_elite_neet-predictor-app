@@ -2273,65 +2273,6 @@
       ]
     },
     {
-      "name": "Government Medical College and Hospital, Chandigarh",
-      "quota": "State",
-      "state": "Chandigarh",
-      "cutoffs": {
-        "General": 4600,
-        "EWS": 7400,
-        "OBC": 10200,
-        "SC": 33000,
-        "ST": 51000,
-        "PwD": 13800
-      },
-      "nirfRank": 18,
-      "annualFee": 58230,
-      "totalSeats": 170,
-      "establishedYear": 1961,
-      "category": "Government",
-      "seatMatrix": {
-        "General (UR)": 68,
-        "OBC": 46,
-        "SC": 26,
-        "ST": 13,
-        "EWS": 17
-      },
-      "cutoffTrends": [
-        {
-          "year": 2023,
-          "round1": 4904,
-          "round2": 5105
-        },
-        {
-          "year": 2022,
-          "round1": 4517,
-          "round2": null
-        },
-        {
-          "year": 2021,
-          "round1": 4453,
-          "round2": null
-        }
-      ],
-      "infrastructure": [
-        {
-          "icon": "building",
-          "title": "Hostel Facilities",
-          "desc": "Separate blocks for UG boys and girls with modern amenities."
-        },
-        {
-          "icon": "library",
-          "title": "Central Library",
-          "desc": "24/7 access, extensive collection of medical literature and journals."
-        },
-        {
-          "icon": "stethoscope",
-          "title": "Clinical Exposure",
-          "desc": "Attached to a major teaching hospital with high patient volume."
-        }
-      ]
-    },
-    {
       "name": "Government Medical College, Srinagar",
       "quota": "State",
       "state": "Jammu and Kashmir",
@@ -18029,7 +17970,7 @@
       "cutoffTrends": []
     },
     {
-      "name": "AGARTALA GOVT. MEDICAL COLLEGE",
+      "name": "Agartala Government Medical College",
       "quota": "AIQ",
       "state": "Tripura",
       "cutoffs": {
@@ -18660,7 +18601,7 @@
       "totalSeats": 250
     },
     {
-      "name": "ZORAM MEDICAL COLLEGE Falkawn",
+      "name": "Zoram Medical College, Falkawn",
       "quota": "AIQ",
       "state": "Mizoram",
       "cutoffs": {
@@ -18864,7 +18805,7 @@
       ]
     },
     {
-      "name": "PATNA MEDICAL COLLEGE",
+      "name": "Patna Medical College, Patna",
       "quota": "AIQ",
       "state": "Bihar",
       "cutoffs": {
@@ -21654,37 +21595,6 @@
       "nirfRank": null,
       "annualFee": null,
       "totalSeats": 150,
-      "establishedYear": null,
-      "category": "Government",
-      "seatMatrix": null,
-      "cutoffTrends": [],
-      "infrastructure": [
-        {
-          "icon": "building",
-          "title": "Hostel Facilities",
-          "desc": "Details not yet available \u2014 please verify with the college."
-        },
-        {
-          "icon": "library",
-          "title": "Library & Academic Resources",
-          "desc": "Details not yet available \u2014 please verify with the college."
-        },
-        {
-          "icon": "stethoscope",
-          "title": "Clinical Exposure",
-          "desc": "Details not yet available \u2014 please verify with the college."
-        }
-      ],
-      "dataStatus": "seatsOnly"
-    },
-    {
-      "name": "Government Medical College, Chandigarh",
-      "quota": "State",
-      "state": "Chandigarh",
-      "cutoffs": null,
-      "nirfRank": null,
-      "annualFee": null,
-      "totalSeats": 200,
       "establishedYear": null,
       "category": "Government",
       "seatMatrix": null,
@@ -24542,6 +24452,65 @@
           "icon": "stethoscope",
           "title": "Clinical Exposure",
           "desc": "Details not yet available \u2014 please verify with the college."
+        }
+      ]
+    },
+    {
+      "name": "Government Medical College and Hospital, Chandigarh",
+      "quota": "State",
+      "state": "Chandigarh",
+      "cutoffs": {
+        "General": 4600,
+        "EWS": 7400,
+        "OBC": 10200,
+        "SC": 33000,
+        "ST": 51000,
+        "PwD": 13800
+      },
+      "nirfRank": 18,
+      "annualFee": 58230,
+      "totalSeats": 200,
+      "establishedYear": 1961,
+      "category": "Government",
+      "seatMatrix": {
+        "General (UR)": 68,
+        "OBC": 46,
+        "SC": 26,
+        "ST": 13,
+        "EWS": 17
+      },
+      "cutoffTrends": [
+        {
+          "year": 2023,
+          "round1": 4904,
+          "round2": 5105
+        },
+        {
+          "year": 2022,
+          "round1": 4517,
+          "round2": null
+        },
+        {
+          "year": 2021,
+          "round1": 4453,
+          "round2": null
+        }
+      ],
+      "infrastructure": [
+        {
+          "icon": "building",
+          "title": "Hostel Facilities",
+          "desc": "Separate blocks for UG boys and girls with modern amenities."
+        },
+        {
+          "icon": "library",
+          "title": "Central Library",
+          "desc": "24/7 access, extensive collection of medical literature and journals."
+        },
+        {
+          "icon": "stethoscope",
+          "title": "Clinical Exposure",
+          "desc": "Attached to a major teaching hospital with high patient volume."
         }
       ]
     }
