@@ -15,9 +15,11 @@ export default function CollegesBrowse() {
 
   const [query, setQuery] = useState("");
   const [colleges, setColleges] = useState(null);
+  const [visibleCount, setVisibleCount] = useState(50);
 
   useEffect(() => {
     let cancelled = false;
+    setVisibleCount(50);
 
     if (isMatchMode) {
       fetchMatches({ score: qp.score, category: qp.category, state: qp.state, quota: qp.quota }).then((res) => {
@@ -38,6 +40,8 @@ export default function CollegesBrowse() {
       clearTimeout(timer);
     };
   }, [query, isMatchMode, qp.score, qp.category, qp.state, qp.quota]);
+
+  const visibleColleges = colleges?.slice(0, visibleCount);
 
   return (
     <div className="max-w-app mx-auto px-4 sm:px-gutter py-6">
@@ -63,7 +67,12 @@ export default function CollegesBrowse() {
       <div className="mt-4 space-y-2.5">
         {colleges === null && <p className="text-on-surface-variant text-sm">Loading…</p>}
         {colleges?.length === 0 && <p className="text-on-surface-variant text-sm">No colleges found.</p>}
-        {colleges?.map((c) => <CollegeRow key={c.slug} college={c} />)}
+        {visibleColleges?.map((c) => <CollegeRow key={c.slug} college={c} />)}
+        {colleges && visibleCount < colleges.length && (
+          <button onClick={() => setVisibleCount((count) => count + 50)} className="w-full py-3 mt-3 rounded-lg border border-outline-variant text-sm font-semibold text-on-surface hover:bg-surface-container-low transition">
+            Load More ({colleges.length - visibleCount} remaining)
+          </button>
+        )}
       </div>
     </div>
   );
