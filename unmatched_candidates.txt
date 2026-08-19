@@ -1,0 +1,531 @@
+
+[1] AIIMS Bathinda  (state: Punjab, category: None)
+    (no candidate above threshold)
+
+[2] AIIMS Rajkot  (state: Gujarat, category: None)
+    (no candidate above threshold)
+
+[3] ATAL BIHARI VAJPAYEE GOVERNMENT MEDICAL COLLEGE  (state: Madhya Pradesh, category: None)
+    (no candidate above threshold)
+
+[4] Atal Bihari Vajpayee Institute of Medical Sciences & DR RML HOSPITAL  (state: Bihar, category: None)
+    (no candidate above threshold)
+
+[5] B.L.D.E University  (state: Karnataka, category: None)
+    (no candidate above threshold)
+
+[6] B.R.D. MEDICAL COLLEGE  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[7] BELGAUM INST. OF MEDICAL SCI.  (state: Karnataka, category: None)
+    (no candidate above threshold)
+
+[8] BHAARATH MEDICAL COLLEGE AND HOSPITAL  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[9] BPS Govt. Med. College  (state: Haryana, category: None)
+    A (0.351): BPS Government Medical College for Women, Sonepat  -> totalSeats=120, mgmt=Government
+
+[10] BV Deemed Uni. Med. College and Hos.  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[11] C. Institute of Medical Sciences  (state: Karnataka, category: None)
+    (no candidate above threshold)
+
+[12] Chettinad Hos. and Res. Inst.  (state: Tamil Nadu, category: None)
+    A (0.324): Chettinad Hospital & Research Institute, Kanchipuram  -> totalSeats=250, mgmt=Private
+
+[13] DR. VAISHAMPAYAM MEMORIAL M.C.  (state: Maharashtra, category: None)
+    A (0.413): Dr Vaishampayan Memorial Medical College, Solapur  -> totalSeats=200, mgmt=Government
+
+[14] DR.RAJENDRA PRASAD MC  (state: Himachal Pradesh, category: None)
+    A (0.333): Dr. Rajendar Prasad Government Medical College, Tanda, H.P  -> totalSeats=120, mgmt=Government
+
+[15] DR.S.C.GOVT MEDICAL COLLEGE  (state: Maharashtra, category: None)
+    A (0.333): Dr. Shankarrao Chavan Govt. Medical College, Nanded  -> totalSeats=150, mgmt=Government
+    B (0.327): B.S.P. Medical College and Hospital  -> totalSeats=150, mgmt=Private
+    C (0.311): Dr. Rajendra Gode Medical College, Amravati  -> totalSeats=150, mgmt=Private
+
+[16] DR.S.N. MEDICAL COLLEGE  (state: Rajasthan, category: None)
+    A (0.524): Dr S S Tantia Medical College Hospital & Research Centre  -> totalSeats=250, mgmt=Private
+    B (0.420): Dr. B. S. Tomar Institute of Medical Sciences and Research  -> totalSeats=150, mgmt=Private
+    C (0.387): Dr SN Medical College, Jodhpur  -> totalSeats=250, mgmt=Government
+
+[17] Deben Mahata Government Medical College & Hospital  (state: West Bengal, category: None)
+    (no candidate above threshold)
+
+[18] Dr. B.S.A. Medical College  (state: Delhi, category: None)
+    (no candidate above threshold)
+
+[19] Dr. DY Patil Medical College  (state: Maharashtra, category: None)
+    A (0.488): DY Patil University, School of Medicine  -> totalSeats=100, mgmt=Private
+    B (0.486): Dr. D Y Patil Medical College, Kolhapur  -> totalSeats=200, mgmt=Private
+    C (0.483): Dr. Ulhas Patil Medical College & Hospital, Jalgaon  -> totalSeats=200, mgmt=Private
+
+[20] Dr. DYP Edu. Soc. Deemed Uni.  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[21] Dr. YS Parmar Govt. Medical College  (state: Himachal Pradesh, category: None)
+    (no candidate above threshold)
+
+[22] ESI-MC&PGIMS&R  (state: Karnataka, category: None)
+    (no candidate above threshold)
+
+[23] ESIC MEDICAL COLLEGE & HOSPITAL  (state: Bihar, category: None)
+    (no candidate above threshold)
+
+[24] ESIC MEDICAL COLLEGE NARODA  (state: None, category: None)
+    (no candidate above threshold)
+
+[25] ESIC Medical College  (state: Telangana, category: None)
+    (no candidate above threshold)
+
+[26] ESIC PGIMSR  (state: West Bengal, category: None)
+    (no candidate above threshold)
+
+[27] G.S.V.M. MEDICAL COLLEGE  (state: Uttar Pradesh, category: None)
+    A (0.423): G.S. Medical College & Hospital, Hapur, UP  -> totalSeats=250, mgmt=Private
+    B (0.346): S N Medical College, Agra  -> totalSeats=200, mgmt=Government
+
+[28] GITAM Institue of Med. Sce. and Res.  (state: Andhra Pradesh, category: None)
+    A (0.325): GITAM Institute of Medical Sciences and Research, Visakhapatnam  -> totalSeats=150, mgmt=Private
+
+[29] GMC  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[30] GOVERNMENT MEDICAL COLLEGE  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[31] GOVERNMENT MEDICAL COLLEGE AND GENERAL HOSPITAL  (state: Maharashtra, category: None)
+    A (0.357): Smt. Kashibai Navale Medical College and General Hospital, Pune  -> totalSeats=150, mgmt=Private
+
+[32] GOVERNMENT MEDICAL COLLEGE Karimnagar Telangana  (state: Telangana, category: None)
+    A (0.614): Government Medical College, Karimnagar  -> totalSeats=100, mgmt=Government
+    B (0.504): Government Medical College, Vikarabad, Telangana  -> totalSeats=100, mgmt=Government
+    C (0.383): Prathima Institute Of Medical Sciences, Karimnagar  -> totalSeats=250, mgmt=Private
+
+[33] GOVERNMENT MEDICAL COLLEGE PURNEA  (state: Bihar, category: None)
+    A (1.000): Government Medical College, Purnea  -> totalSeats=100, mgmt=Government
+
+[34] GOVT MEDICAL COLLEGE  (state: Telangana, category: None)
+    (no candidate above threshold)
+
+[35] GOVT. DHARAMAPURI MED COLL  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[36] GOVT. MEDICAL COLLEGE  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[37] GOVT.MEDICAL COLLEGE  (state: Rajasthan, category: None)
+    (no candidate above threshold)
+
+[38] GRANT MEDICAL COLL & SIR J.J.HOSP  (state: Maharashtra, category: None)
+    A (0.320): Grant Medical College, Mumbai  -> totalSeats=250, mgmt=Government
+
+[39] GTMC  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[40] GVMC  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[41] Gadag Institute of Medical Sciences  (state: Karnataka, category: None)
+    (no candidate above threshold)
+
+[42] Goverment Medical College  (state: Bihar, category: None)
+    (no candidate above threshold)
+
+[43] Government Doon Medcial College  (state: Uttarakhand, category: None)
+    A (0.333): Doon Medical College, Dehradun, Uttarakhand  -> totalSeats=150, mgmt=Government
+
+[44] Government Medcial College  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[45] Government Medical College & Hospital  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[46] Government Medical College and Hospital  (state: Odisha, category: None)
+    (no candidate above threshold)
+
+[47] Govt Medical College Badaun  (state: None, category: None)
+    (no candidate above threshold)
+
+[48] Govt Medical College Ratlam  (state: Madhya Pradesh, category: None)
+    A (0.370): Dr. Laxminarayan Pandey Government Medical College, Ratlam (M.P.)  -> totalSeats=200, mgmt=Government
+
+[49] Govt institute of Medcial Sciences  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[50] Govt. Medical College and Hospital  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[51] Govt. Pudukkottai Medical College Hopt.  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[52] Govt. Sivgangai M. C. Sivagangai  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[53] INST OF PG MED EDU & RESEARCH  (state: West Bengal, category: None)
+    (no candidate above threshold)
+
+[54] INST.OF MED.SCIENCES  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[55] IRT Perundurai Medical College  (state: Tamil Nadu, category: None)
+    A (0.394): Government Erode Medical College & Hospital, Perundurai (Formerly IRT Perundurai Medical College)  -> totalSeats=100, mgmt=Government
+
+[56] JAWAHAR LAL NEHRU MEDICAL  (state: Rajasthan, category: None)
+    A (0.369): Jawaharlal Nehru Medical College, Ajmer  -> totalSeats=250, mgmt=Government
+
+[57] JIPMER KARAIKAL  (state: Puducherry, category: None)
+    (no candidate above threshold)
+
+[58] JLN IMS  (state: Manipur, category: None)
+    (no candidate above threshold)
+
+[59] JLN Medical College  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[60] Jawahar Lal Nehru Medical College  (state: Karnataka, category: None)
+    A (0.403): Jawaharlal Nehru Medical College, Belgaum  -> totalSeats=250, mgmt=Private
+
+[61] KANYAKUMARI GOVT. MED. COLL.  (state: Tamil Nadu, category: None)
+    A (0.375): KanyaKumari Government Medical College, Asaripallam  -> totalSeats=150, mgmt=Government
+
+[62] KARNATAK INST. OF MEDICAL SC.  (state: Karnataka, category: None)
+    (no candidate above threshold)
+
+[63] KGMC  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[64] Kalpana Chawla Govt. Medical College  (state: Haryana, category: None)
+    A (0.384): Kalpana Chawala Govt. Medical College, Karnal, Haryana  -> totalSeats=120, mgmt=Government
+
+[65] Krishna Inst. of Med. Scie.  (state: Maharashtra, category: None)
+    A (0.355): Krishna Institute of Medical Sciences, Karad  -> totalSeats=250, mgmt=Private
+
+[66] L.L.R.M. MEDICAL COLLEGE  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[67] Lt. B R K Government Medical College  (state: Chhattisgarh, category: None)
+    (no candidate above threshold)
+
+[68] Lt. L A M Govt. Medical College  (state: Chhattisgarh, category: None)
+    (no candidate above threshold)
+
+[69] M.P. SHAH MEDICAL COLLEGE  (state: Gujarat, category: None)
+    A (0.413): Dr. M.K. Shah Medical College & Research Centre, Ahmedabad  -> totalSeats=250, mgmt=Private
+    B (0.386): MP Shah Medical College, Jamnagar  -> totalSeats=250, mgmt=Government
+    C (0.320): CU Shah Medical College, Surendra Nagar  -> totalSeats=150, mgmt=Private
+
+[70] MAHARAJA K.C. GAJAPATI M.C.  (state: Odisha, category: None)
+    (no candidate above threshold)
+
+[71] MEDICAL COLLEGE  (state: Gujarat, category: None)
+    (no candidate above threshold)
+
+[72] MG Inst. of Medical Sciences  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[73] MGM Medical College  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[74] MM Inst. Med. and Research  (state: Haryana, category: None)
+    (no candidate above threshold)
+
+[75] MRA MEDICAL COLLEGE AMBEDKAR NAGAR  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[76] Maharaja Jitendra Narayan Medical College and Hospital Coochbehar  (state: West Bengal, category: None)
+    A (0.342): Coochbehar Government Medical College & Hospital, Coochbehar, WB  -> totalSeats=150, mgmt=Government
+
+[77] Mahatma Gandhi Missions Medical College  (state: None, category: None)
+    (no candidate above threshold)
+
+[78] Malla Reddy Institute of Medical Sciences  (state: Telangana, category: None)
+    A (0.734): Malla Reddy Institute of Medical Sciences, Hyderabad  -> totalSeats=250, mgmt=Private
+
+[79] Malla Reddy Medical College for Women  (state: Telangana, category: None)
+    A (0.507): Malla Reddy Institute of Medical Sciences, Hyderabad  -> totalSeats=250, mgmt=Private
+    B (0.400): Mallareddy Medical College for Women, Hyderabad  -> totalSeats=250, mgmt=Private
+
+[80] Medinirai Medical College (previously Known as Palamu Medical College)  (state: Jharkhand, category: None)
+    (no candidate above threshold)
+
+[81] Mursidabad M C & Hospital  (state: West Bengal, category: None)
+    (no candidate above threshold)
+
+[82] NAMO Medical Education & Research Institute  (state: None, category: None)
+    (no candidate above threshold)
+
+[83] NDMC Medical College  (state: Delhi, category: None)
+    (no candidate above threshold)
+
+[84] NEIGRIHMS  (state: Meghalaya, category: None)
+    (no candidate above threshold)
+
+[85] PT NEKI RAM SHARMA GOVT MEDICAL COLLEGE  (state: None, category: None)
+    (no candidate above threshold)
+
+[86] Phulo Jhano Medical College  (state: Jharkhand, category: None)
+    (no candidate above threshold)
+
+[87] Pt. D.D.U MEDICAL COLLEGE  (state: Gujarat, category: None)
+    (no candidate above threshold)
+
+[88] R.G. KAR MEDICAL COLLEGE  (state: West Bengal, category: None)
+    A (0.389): RG Kar Medical College, Kolkata  -> totalSeats=250, mgmt=Government
+
+[89] RAJIV GANDHI MEDICAL COLLEGE  (state: Maharashtra, category: None)
+    A (0.396): Rajiv Gandhi Medical College and Chhatrapati Shivaji Maharaj Hospital, Thane  -> totalSeats=100, mgmt=Government
+    B (0.380): Indira Gandhi Medical College & Hospital, Nagpur  -> totalSeats=200, mgmt=Government
+    C (0.340): Mahatma Gandhi Mission Medical College, Vashi  -> totalSeats=100, mgmt=Private
+
+[90] RIMS  (state: Andhra Pradesh, category: None)
+    (no candidate above threshold)
+
+[91] RIMS Srikakulam  (state: Andhra Pradesh, category: None)
+    A (0.307): Rajiv Gandhi Institute of Medical Sciences, Srikakulam  -> totalSeats=200, mgmt=Government
+
+[92] Rajah Muthiah Medical College  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[93] Rani Durgavati Medical College  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[94] S.M.S. MEDICAL COLLEGE  (state: Rajasthan, category: None)
+    A (0.327): Dr S S Tantia Medical College Hospital & Research Centre  -> totalSeats=250, mgmt=Private
+
+[95] S.S. MEDICAL COLLEGE  (state: Madhya Pradesh, category: None)
+    (no candidate above threshold)
+
+[96] SBKS Med. Inst. and Res. Centre  (state: Gujarat, category: None)
+    A (0.346): SBKS Medical Instt. & Research Centre, Vadodra  -> totalSeats=250, mgmt=Private
+
+[97] SDU Medical College  (state: Karnataka, category: None)
+    (no candidate above threshold)
+
+[98] SETH G.S. MEDICAL COLLEGE  (state: Maharashtra, category: None)
+    A (0.396): Seth GS Medical College, Mumbai  -> totalSeats=250, mgmt=Government
+    B (0.326): B.S.P. Medical College and Hospital  -> totalSeats=150, mgmt=Private
+
+[99] SHEIKH BHIKHARI MEDICAL COLLEGE & HOSPITAL  (state: Jharkhand, category: None)
+    (no candidate above threshold)
+
+[100] SHILONG MEDICAL COLLEGE  (state: Meghalaya, category: None)
+    (no candidate above threshold)
+
+[101] SHKM GMC  (state: Haryana, category: None)
+    (no candidate above threshold)
+
+[102] SHRI BHAUSAHEB HIRE GOVT. M.C.  (state: Maharashtra, category: None)
+    A (0.405): Sri Bhausaheb Hire Government Medical College, Dhule  -> totalSeats=150, mgmt=Government
+
+[103] SJP Medical College  (state: Rajasthan, category: None)
+    (no candidate above threshold)
+
+[104] SLBS Govt. Medical College  (state: Himachal Pradesh, category: None)
+    (no candidate above threshold)
+
+[105] SRI KRISHNA MEDICAL COLLEGE  (state: Bihar, category: None)
+    A (0.417): Shri Krishna Medical College, Muzzafarpur  -> totalSeats=150, mgmt=Government
+
+[106] SWAMI RAMANAND TiRTH RURAL M.C  (state: Maharashtra, category: None)
+    (no candidate above threshold)
+
+[107] Sagar Dutta Medical College & Hospital  (state: West Bengal, category: None)
+    (no candidate above threshold)
+
+[108] Siddartha Medical College  (state: Andhra Pradesh, category: None)
+    (no candidate above threshold)
+
+[109] Sri Siddhartha Academy T Begur  (state: Karnataka, category: None)
+    A (0.430): Sri Siddhartha Medical College, Tumkur  -> totalSeats=250, mgmt=Private
+    B (0.371): Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore  -> totalSeats=250, mgmt=Private
+
+[110] Sri Siddhartha Medical College DU  (state: Karnataka, category: None)
+    A (0.624): Sri Siddhartha Medical College, Tumkur  -> totalSeats=250, mgmt=Private
+    B (0.507): Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore  -> totalSeats=250, mgmt=Private
+    C (0.333): Sri Chamundeshwari Medical College Hospital & Research Institute  -> totalSeats=200, mgmt=Private
+
+[111] Sri Venkateswara Medical College  (state: Andhra Pradesh, category: None)
+    (no candidate above threshold)
+
+[112] Sundarlal patwa Govt medical College mandsaur  (state: None, category: None)
+    (no candidate above threshold)
+
+[113] UNS AUTONOMOUS STATE MEDICAL COLLEGES  (state: None, category: None)
+    (no candidate above threshold)
+
+[114] UTTARANCHAL F HOSP TRUST MC  (state: Uttarakhand, category: None)
+    (no candidate above threshold)
+
+[115] University College of Medical Sciences  (state: Delhi, category: None)
+    (no candidate above threshold)
+
+[116] V.S.S. MEDICAL COLLEGE  (state: Odisha, category: None)
+    (no candidate above threshold)
+
+[117] VARDHMAN INSTITUTE OF MEDICAL SCIENCES  (state: Bihar, category: None)
+    (no candidate above threshold)
+
+[118] VIJAYNAGAR INST OF MED. SC  (state: Karnataka, category: None)
+    A (0.345): Vijaynagar Institute of Medical Sciences, Bellary  -> totalSeats=250, mgmt=Government
+
+[119] VMKV Medical College and Hospital  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[120] AIIMS Mangalagiri  (state: Andhra Pradesh, category: None)
+    (no candidate above threshold)
+
+[121] Amrita Institute of Medical Science  (state: Kerala, category: None)
+    A (0.343): Amrita School of Medicine, Elamkara, Kochi  -> totalSeats=149, mgmt=Private
+
+[122] Bhima Bhoi Medical College and Hospital  (state: Odisha, category: None)
+    (no candidate above threshold)
+
+[123] Government of Medical College and Hospital  (state: Odisha, category: None)
+    (no candidate above threshold)
+
+[124] S.C.B. MEDICAL COLLEGE  (state: Odisha, category: None)
+    (no candidate above threshold)
+
+[125] AIIMS, Deogarh  (state: Jharkhand, category: None)
+    (no candidate above threshold)
+
+[126] AIIMS, Raipur  (state: Chhattisgarh, category: None)
+    A (0.481): Raipur Institute of Medical Sciences (RIMS), Raipur  -> totalSeats=250, mgmt=Private
+
+[127] AIIMS, Rishikesh  (state: Uttarakhand, category: None)
+    (no candidate above threshold)
+
+[128] ASSAM MEDICAL COLLEGE  (state: Assam, category: None)
+    A (0.502): Diphu Medical College & Hospital, Diphu, Assam  -> totalSeats=100, mgmt=Government
+    B (0.469): Assam Medial College, Dibrugarh  -> totalSeats=250, mgmt=Government
+    C (0.340): Tinsukia Medical College - Assam Pin - 786146  -> totalSeats=100, mgmt=Government
+
+[129] Andaman and Nicobar Islands Institute of Medical S  (state: Andaman and Nicobar Islands, category: None)
+    (no candidate above threshold)
+
+[130] Andhra Medical College  (state: Andhra Pradesh, category: None)
+    A (0.578): Andhra Medical College, Visakhapatnam  -> totalSeats=250, mgmt=Government
+
+[131] CALCUTTA NATIONAL MED COLL  (state: West Bengal, category: None)
+    A (0.408): Calcutta National Medical College, Kolkata  -> totalSeats=250, mgmt=Government
+
+[132] Dr. DY Patil Medical College and Hospt.  (state: Maharashtra, category: None)
+    A (0.455): Dr. Ulhas Patil Medical College & Hospital, Jalgaon  -> totalSeats=200, mgmt=Private
+    B (0.443): Dr. D Y Patil Medical College, Kolhapur  -> totalSeats=200, mgmt=Private
+    C (0.400): DY Patil University, School of Medicine  -> totalSeats=100, mgmt=Private
+
+[133] GMC, Shahjhanpur  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[134] GOA MEDICAL COLLEGE  (state: Goa, category: None)
+    A (0.603): Goa Medical College, Panaji  -> totalSeats=250, mgmt=Government
+
+[135] Government Medical College Khaleelwadi  (state: Telangana, category: None)
+    (no candidate above threshold)
+
+[136] JLN IMS, IMPHAL  (state: Manipur, category: None)
+    A (0.355): Regional Institute of Medical Sciences, Imphal  -> totalSeats=150, mgmt=Government
+
+[137] KGMC, LUCKNOW  (state: Uttar Pradesh, category: None)
+    A (0.340): Prasad Institute of Medical Sciences, Lucknow  -> totalSeats=200, mgmt=Private
+    B (0.335): Era Lucknow Medical College , Lucknow  -> totalSeats=250, mgmt=Private
+    C (0.332): Integral Institute of Medical Sciences & Research, Lucknow  -> totalSeats=250, mgmt=Private
+
+[138] REGIONAL INST OF MEDICAL SCI  (state: Manipur, category: None)
+    (no candidate above threshold)
+
+[139] AIIMS, Gorakhpur  (state: Uttar Pradesh, category: None)
+    A (0.383): BRD Medical College, Gorakhpur  -> totalSeats=150, mgmt=Government
+
+[140] AIIMS, Kalyani  (state: West Bengal, category: None)
+    (no candidate above threshold)
+
+[141] GMC, Azamgarh  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[142] GMC, Manjeri  (state: Kerala, category: None)
+    A (0.343): Government Medical College, Manjeri, Malapuram Dist.  -> totalSeats=110, mgmt=Government
+
+[143] SHKM GMC, Nalhar  (state: Haryana, category: None)
+    (no candidate above threshold)
+
+[144] RAJENDRA INST. OF MED. SCI.  (state: Jharkhand, category: None)
+    A (0.349): Rajendra Institute of Medical Sciences, Ranchi  -> totalSeats=250, mgmt=Government
+
+[145] GOVT. MOHAN KUMARAMANGALA M M.C.  (state: Tamil Nadu, category: None)
+    A (0.343): Govt. Mohan Kumaramangalam Medical College, Salem  -> totalSeats=100, mgmt=Government
+
+[146] ATAL BIHARI VAJPAYEE GOVERNMEN T MEDICAL COLLEGE  (state: Bihar, category: None)
+    (no candidate above threshold)
+
+[147] BUNDELKHA ND MEDICAL COLLEGE  (state: None, category: None)
+    (no candidate above threshold)
+
+[148] CHENGALPA TTU MEDICAL COLL  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[149] CHHATTISGA RH INSTITUTE OF MEDICAL SCIENCES  (state: Chhattisgarh, category: None)
+    (no candidate above threshold)
+
+[150] CHIKKABALL APURA INSTITUTE OF MEDICAL SCIENCES  (state: Karnataka, category: None)
+    (no candidate above threshold)
+
+[151] COIMBATOR E MEDICAL COLLEGE  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[152] DR. VAISHAMPAY AM MEMORIAL M.C.  (state: Maharashtra, category: None)
+    A (0.385): Dr Vaishampayan Memorial Medical College, Solapur  -> totalSeats=200, mgmt=Government
+
+[153] DR.RAJENDR A PRASAD MC  (state: None, category: None)
+    (no candidate above threshold)
+
+[154] GMC, Rajamahendra varam  (state: None, category: None)
+    (no candidate above threshold)
+
+[155] GOVERMENT MEDICAL COLLEGE NANDURBAR MAHARARAS TRA  (state: Maharashtra, category: None)
+    A (0.422): Government Medical College, Nandurbar  -> totalSeats=100, mgmt=Government
+
+[156] GOVERNMEN T MEDICAL COLLEGE  (state: Gujarat, category: None)
+    (no candidate above threshold)
+
+[157] GOVERNMEN T MEDICAL COLLEGE AND GENERAL HOSPITAL  (state: Maharashtra, category: None)
+    A (0.315): Smt. Kashibai Navale Medical College and General Hospital, Pune  -> totalSeats=150, mgmt=Private
+
+[158] GOVERNMEN T MEDICAL COLLEGE MACHILIPAT NAM  (state: None, category: None)
+    (no candidate above threshold)
+
+[159] GOVERNMEN T MEDICAL COLLEGE NANDYAL  (state: None, category: None)
+    (no candidate above threshold)
+
+[160] GOVT MEDICAL COLLEGE VIZIANAGAR AM  (state: None, category: None)
+    (no candidate above threshold)
+
+[161] GOVT. DHARAMAPU RI MED COLL  (state: Tamil Nadu, category: None)
+    (no candidate above threshold)
+
+[162] GOVT. MOHAN KUMARAMAN GALAM M.C.  (state: Tamil Nadu, category: None)
+    A (0.326): Govt. Mohan Kumaramangalam Medical College, Salem  -> totalSeats=100, mgmt=Government
+
+[163] GOVT.MEDIC AL COLLEGE  (state: Kerala, category: None)
+    (no candidate above threshold)
+
+[164] INST.OF MED.SCIENC ES  (state: Uttar Pradesh, category: None)
+    (no candidate above threshold)
+
+[165] KANYAKUMA RI GOVT. MED. COLL.  (state: None, category: None)
+    (no candidate above threshold)
+
+[166] MAHARSHI DEVRAHA BABA AUTONOMOU S STATE. MEDICAL COLLEGE  (state: None, category: None)
+    (no candidate above threshold)
+
+[167] THOOTHUKU DI MEDICAL COLLEGE  (state: None, category: None)
+    (no candidate above threshold)
+
+[168] UNS AUTONOMOU S STATE MEDICAL COLLEGES  (state: None, category: None)
+    (no candidate above threshold)
+
+[169] UTTARANCH AL F HOSP TRUST MC  (state: Uttarakhand, category: None)
+    (no candidate above threshold)

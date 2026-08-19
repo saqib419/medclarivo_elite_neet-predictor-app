@@ -1,0 +1,1448 @@
+[
+  {
+    "app_name": "AIIMS, New Delhi",
+    "official_name": "AIIMS, New Delhi, ANSARI NAGAR EAST, AUROBINDO MARG, NEW DELHI 110029 (200502)",
+    "score": 0.92,
+    "old_total": 169,
+    "new_total": 132,
+    "old_matrix": {
+      "General (UR)": 68,
+      "OBC": 46,
+      "SC": 25,
+      "ST": 13,
+      "EWS": 17
+    },
+    "new_matrix": {
+      "General (UR)": 57,
+      "OBC": 33,
+      "SC": 19,
+      "ST": 10,
+      "EWS": 13
+    }
+  },
+  {
+    "app_name": "ACS Medical College and Hospital",
+    "official_name": "ACS Medical College and Hospital, Chennai, Periyar EVR High Raod, Velappanchavadi, Chennai-77 (200383)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "AIIMS Bathinda",
+    "official_name": "AIIMS Bathinda , Jodhpur Romana near Giani Zail Singh College Mandi Dabwali Road Bathinda (200511)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 18,
+      "ST": 9,
+      "EWS": 13
+    }
+  },
+  {
+    "app_name": "AIIMS Bilaspur Changar Palasiyan",
+    "official_name": "AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh, All India Institute of Medical Sciences AIIMS Bilaspur Kothipura BILASPUR Himachal Pradesh 174001 (200530)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 18,
+      "ST": 9,
+      "EWS": 13
+    }
+  },
+  {
+    "app_name": "AIIMS Guwahati",
+    "official_name": "AIIMS Guwahati, PO-CHANGSARI, DISTRICT-KAMRUP (200519)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 41,
+      "OBC": 27,
+      "SC": 15,
+      "ST": 7,
+      "EWS": 10
+    }
+  },
+  {
+    "app_name": "AIIMS Jammu",
+    "official_name": "AIIMS Jammu, AIIMS, Vijaypur, Jammu, Jammu and Kashmir (200518)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 50,
+      "OBC": 34,
+      "SC": 19,
+      "ST": 10,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "AIIMS Rajkot",
+    "official_name": "AIIMS Rajkot, Admission cell, Academic section, First floor, Academic block, Permanent Campus, AIIMS Rajkot, Khand (200520)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 75,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 31,
+      "OBC": 21,
+      "SC": 11,
+      "ST": 5,
+      "EWS": 7
+    }
+  },
+  {
+    "app_name": "DY Patil University School of Medicine",
+    "official_name": "DY Patil University, School of Medicine, Survey no 124&126, MIDC Road , Ambi, Taluka Maval, Dist Pune (904369)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 100,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Dr. DY Patil Medical College",
+    "official_name": "Padmashree Dr. DY. Patil Medical College, Navi Mumbai, Sector 5, Nerul, Navi Mumbai, (904758)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "ESIC MEDICAL COLLEGE AND HOSPITAL",
+    "official_name": "Employees State Insurance Corporation Medical College, Patna, ESIC Medical College and Hospital, Arrah Danapur Road, Sikandarpur, Bihta, Patna- 801103 (200573)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 22,
+      "OBC": 13,
+      "SC": 7,
+      "ST": 4,
+      "EWS": 4
+    }
+  },
+  {
+    "app_name": "ESIC Medical College",
+    "official_name": "Employees State Insurance Corporation Medical College, Patna, ESIC Medical College and Hospital, Arrah Danapur Road, Sikandarpur, Bihta, Patna- 801103 (200573)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 22,
+      "OBC": 13,
+      "SC": 7,
+      "ST": 4,
+      "EWS": 4
+    }
+  },
+  {
+    "app_name": "Employees State Insurance Corporation Medical College",
+    "official_name": "Employees State Insurance Corporation Medical College, Patna, ESIC Medical College and Hospital, Arrah Danapur Road, Sikandarpur, Bihta, Patna- 801103 (200573)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 22,
+      "OBC": 13,
+      "SC": 7,
+      "ST": 4,
+      "EWS": 4
+    }
+  },
+  {
+    "app_name": "GANDHI MEDICAL COLLEGE",
+    "official_name": "Mahatma Gandhi Medical College & Research Institute, Pondicherry, SBV Pondicherry Campus, Pillaiyarkuppam (200379)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "GOVERNMENT MEDICAL COLLEGE",
+    "official_name": "Shri Lal Bahadur Shastri Government Medical College, Mandi, HP, Mandi at Nerchowk PO Bhangrotu Tehsil Balh District Mandi (200410)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 54,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 21,
+      "OBC": 14,
+      "SC": 8,
+      "ST": 5,
+      "EWS": 6
+    }
+  },
+  {
+    "app_name": "Graphic Era Institute Of Medical Science",
+    "official_name": "Graphic Era Institute of Medical Sciences Dehradun, Uttrakhand, Graphic Era Institute of Medical Sciences 16th Milestone Chakrata Road Dehradun, Uttarakhand (902812)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 200,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 200,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Institute of Medical Sciences & SUM Hospital",
+    "official_name": "Institute of Medical Sciences & SUM Hospital, Campus-II, Phulnakhara Bhubaneswar, Odhisha, At-Nakhara, Po-Phulnakhara, Bhubaneswar, Khordha (902806)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "JIPMER KARAIKAL",
+    "official_name": "JIPMER KARAIKAL, JIPMER Academic Campus, FCI Link Road, Kovilpathu, Karaikal - 609602 (200522)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 61,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 22,
+      "OBC": 17,
+      "SC": 10,
+      "ST": 5,
+      "EWS": 7
+    }
+  },
+  {
+    "app_name": "JSS Medical College",
+    "official_name": "JSS Medical College, Mysore, The Principal JSS Medical College and Hospital Medical Institutions Campus S S Nagar Mysuru (200337)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 237,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 237,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Jawaharlal Nehru Medical College",
+    "official_name": "Jawaharlal Nehru Medical College, Belgaum, J.N. Medical College Campus, Nehru Nagar, Belagavi-590010. Karnataka, India. (200335)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 238,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 238,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "K.S Hegde Medical Academy",
+    "official_name": "K S Hegde Medical Academy, Mangalore, Deralakatte, Mangaluru, Dakshina Kannada Dist, Karnataka (200338)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 212,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 212,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Kalinga Institute of Medical Sciences",
+    "official_name": "Kalinga Institute of Medical Sciences, Bhubaneswar, CAMPUS-5 KUSHABHADRA CAMPUS P.O-KIIT BHUBANESWAR (200376)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Kasturba Medical College",
+    "official_name": "Kasturba Medical College, Mangalore, Light house Hill Road, Mangalore, India (200339)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 198,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 198,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "MEDICAL COLLEGE",
+    "official_name": "Employees State Insurance Corporation Medical College, Patna, ESIC Medical College and Hospital, Arrah Danapur Road, Sikandarpur, Bihta, Patna- 801103 (200573)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 22,
+      "OBC": 13,
+      "SC": 7,
+      "ST": 4,
+      "EWS": 4
+    }
+  },
+  {
+    "app_name": "MGM Medical College",
+    "official_name": "Mahatma Gandhi Missions Medical College, Navi Mumbai, MGM Medical College, Plot No. 1-2, Sector 1, Kamothe, Navi Mumbai - 410 209 (200368)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Mahatma Gandhi Medical College",
+    "official_name": "Mahatma Gandhi Medical College & Research Institute, Pondicherry, SBV Pondicherry Campus, Pillaiyarkuppam (200379)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Mahatma Gandhi Mission Medical College",
+    "official_name": "Mahatma Gandhi Mission Medical College, Vashi, Sector 30, Vashi, Navi Mumbai (200654)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 100,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Mahatma Gandhi Missions Medical College",
+    "official_name": "Mahatma Gandhi Missions Medical College, Aurangabad, N-6, Cidco, Chhatrapati Sambhajinagar -Aurangabad (200367)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Malla Reddy Institute of Medical Sciences",
+    "official_name": "Malla Reddy Institute of Medical Sciences, Hyderabad, Suraram X Roads Jeedimetla Hyderabad (902856)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Saveetha Medical College",
+    "official_name": "Saveetha Medical College and Hospital, Kanchipuram, Saveetha Nagar, Thandalam, Chennai (200389)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Shri Sathya Sai Medical College and Research Institute",
+    "official_name": "Shri Sathya Sai Medical College and Research Institute, Kancheepuram, SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai (200390)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Sree Balaji Medical College and Hospital",
+    "official_name": "Sree Balaji Medical College and Hospital, Chennai, NO 7 WORKS ROAD CHROMEPET CHENNAI (200393)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "University College of Medical Sciences",
+    "official_name": "University College of Medical Sciences & GTB Hospital, New Delhi, Dilshad Garden (200450)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 170,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 73,
+      "OBC": 46,
+      "SC": 26,
+      "ST": 13,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "VELS MEDICAL COLLEGE & HOSPITAL",
+    "official_name": "VELS Medical College & Hospital, 12-123, Velan Nagar, Manjankaranai Village, Periyapalayam Road, Uthukottai Taluk, Tiruvallur Dist. (200537)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Vardhman Mahavir Medical College and Safdarjung Hospital New Delhi",
+    "official_name": "Vardhman Mahavir Medical College & Safdarjung Hospital, Delhi, Vardhman Mahavir Medical College And Safdarjung Hospital, New Delhi, Delhi (NCT), 110029 (200495)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 164,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 66,
+      "OBC": 45,
+      "SC": 24,
+      "ST": 13,
+      "EWS": 16
+    }
+  },
+  {
+    "app_name": "Yenepoya Medical College",
+    "official_name": "Yenepoya Medical College, Mangalore, University Road Deralakatte Mangaluru (200351)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 213,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 213,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "AIIMS Mangalagiri",
+    "official_name": "AIIMS Mangalagiri , ALL INDIA INSTITUTE OF MEDICAL SCIENCES NEAR TADEPALLI MANGALAGIRI GUNTUR (Dt) ANDHRA PRADESH (200510)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 19,
+      "ST": 9,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "AIIMS-Bhopal",
+    "official_name": "AIIMS-Bhopal,, SAKET NAGAR BHOPAL (200503)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 19,
+      "ST": 9,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "Amrita Institute of Medical Science",
+    "official_name": "Amrita School of Dentistry, Kochi, Amrita School of Dentistry, Amrita Institute of Medical Sciences (AIMS), AIMS Ponekkara P.O, Kochi (200353)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 50,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "J R MEDICAL COLLEGE AND HOSPITAL",
+    "official_name": "J R Medical College and Hospital Villupuram District, Tamilnadu, Chennai-Trichy NH-45,Kiledaiyalam, Tindivanam Taluk,Villupuram District. (902804)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 200,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 200,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College",
+    "official_name": "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College JGMMMC, KLE Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College Gabbur Cross Hubballi (200536)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 213,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 213,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Manipal Tata Medical College",
+    "official_name": "Manipal Tata Medical College,Baridih Jameshedpur, Kadani Road, Baridih, Jamshedpur, East Singbhum District (200528)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 225,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 225,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "SYMBIOSIS MEDICAL COLLEGE FOR WOMEN PUNE",
+    "official_name": "Symbiosis Medical College for Women, Pune, Gram Lavale Tal Mulshi Pune (200527)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 150,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 150,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Employees State Insurance Corporation Medical College, Faridabad",
+    "official_name": "Employees State Insurance Corporation Medical College, Faridabad, NH 3 NIT FARIDABAD, Haryana, 121001 (200409)",
+    "score": 0.92,
+    "old_total": 150,
+    "new_total": 75,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 31,
+      "OBC": 19,
+      "SC": 11,
+      "ST": 6,
+      "EWS": 8
+    }
+  },
+  {
+    "app_name": "Shri Lal Bahadur Shastri Government Medical College, Mandi",
+    "official_name": "Shri Lal Bahadur Shastri Government Medical College, Mandi, HP, Mandi at Nerchowk PO Bhangrotu Tehsil Balh District Mandi (200410)",
+    "score": 0.92,
+    "old_total": 120,
+    "new_total": 54,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 21,
+      "OBC": 14,
+      "SC": 8,
+      "ST": 5,
+      "EWS": 6
+    }
+  },
+  {
+    "app_name": "Employees State Insurance Coporation Medical College, Sanath Nagar, Hyderabad",
+    "official_name": "Employees State Insurance Coporation Medical College, Sanath Nagar, Hyderabad, Sanathnagar, Hyderabad (200418)",
+    "score": 0.92,
+    "old_total": 150,
+    "new_total": 75,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 30,
+      "OBC": 21,
+      "SC": 12,
+      "ST": 6,
+      "EWS": 6
+    }
+  },
+  {
+    "app_name": "Employees State Insurance Corporation Medical College, Joka, Kolkata",
+    "official_name": "Employees State Insurance Corporation Medical College, Joka, Kolkata, DIAMOND HARBOUR ROAD POST OFFICE JOKA KOLKATA 700104 (200313)",
+    "score": 0.92,
+    "old_total": 150,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 43,
+      "OBC": 27,
+      "SC": 14,
+      "ST": 7,
+      "EWS": 9
+    }
+  },
+  {
+    "app_name": "Amrita School of Medicine, Elamkara, Kochi",
+    "official_name": "Amrita School of Medicine, Elamkara, Kochi, Amrita School of Medicine, Amrita Institute of Medical Sciences AIMS Ponekkara P.O Kochi 682041 (200352)",
+    "score": 0.92,
+    "old_total": 149,
+    "new_total": 149,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 149,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Bhaarat Medical College & Hospital",
+    "official_name": "Bhaarat Medical College & Hospital, 173, AGARAM MAIN ROAD , SELAIYUR, TAMBARAM CHENNAI - 600073 (200532)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Chettinad Hospital & Research Institute, Kanchipuram",
+    "official_name": "Chettinad Hospital & Research Institute, Kanchipuram, Rajiv Gandhi Salai, Kelambakkam, Chengalpattu District (200384)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Chettinad Institute of Medical Education and Research",
+    "official_name": "Chettinad Institute of Medical Education and Research, D.K Plantation, BEML Nagar, Kolar Gold Fields \u2013 Kolar (904743)",
+    "score": 0.92,
+    "old_total": 100,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 100,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Dhanalakshmi Srinivasan Institute of Medical Sciences and Hospital - Thuraiyur Road, Perambalur",
+    "official_name": "Dhanalakshmi Srinivasan Institute of Medical Sciences and Hospital - Thuraiyur Road, Perambalur, 274C, THURAIYUR ROAD, PERAMBALUR ,PERAMBALUR DISTRICT (904745)",
+    "score": 0.92,
+    "old_total": 200,
+    "new_total": 200,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 200,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "GITAM Institute of Medical Sciences and Research, Visakhapatnam",
+    "official_name": "GITAM Institute of Medical Sciences and Research, Visakhapatnam, Gandhi Institute of Technology and Management (GITAM), Rushikonda, Visakhapatnam (200324)",
+    "score": 0.92,
+    "old_total": 150,
+    "new_total": 150,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 150,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Institute of Medical Sciences, BHU, Varansi",
+    "official_name": "Institute of Medical Sciences, BHU, Varansi, Institute of Medical Sciences, Banaras Hindu University (200405)",
+    "score": 0.92,
+    "old_total": 100,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 40,
+      "OBC": 27,
+      "SC": 15,
+      "ST": 8,
+      "EWS": 10
+    }
+  },
+  {
+    "app_name": "Jawaharlal Nehru Medical College, Belgaum",
+    "official_name": "Jawaharlal Nehru Medical College, Belgaum, J.N. Medical College Campus, Nehru Nagar, Belagavi-590010. Karnataka, India. (200335)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 238,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 238,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Jawaharlal Nehru Medical College, Sawangi (Meghe), Wardha",
+    "official_name": "Jawaharlal Nehru Medical College, Sawangi (Meghe), Wardha, Sawangi (Meghe), Wardha, Maharashtra State, India (200364)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Krishna Institute of Medical Sciences, Karad",
+    "official_name": "Krishna Institute of Medical Sciences, Karad, KARAD, DIST. SATARA (MAHARASHTRA STATE). (200365)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Mallareddy Medical College for Women, Hyderabad",
+    "official_name": "Mallareddy Medical College for Women, Hyderabad, Suraram X Roads Jeedimetla Hyderabad (902855)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Rural Medical College, Loni",
+    "official_name": "Rural Medical College, Loni, Dr. Balasheb Vikhe Patil Rural Medical College At Loni BK Tal Rahata Dist. Ahilyanagar Maha (200370)",
+    "score": 0.92,
+    "old_total": 200,
+    "new_total": 200,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 200,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Shri B M Patil Medical College, Hospital & Research Centre, Vijayapura (Bijapur",
+    "official_name": "Shri B M Patil Medical College, Hospital & Research Centre, Vijayapura (Bijapur, SMT BANGARAMMA SAJJAN CAMPUS B M PATIL ROAD (SOLAPUR ROAD) VIJAYAPURA KARNATAKA (200346)",
+    "score": 0.9,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Sri Devaraj URS Medical College, Kolar",
+    "official_name": "Sri Devaraj URS Medical College, Kolar, Post box No.7, SRI DEVARAJ URS MEDICAL COLLEGE, TAMAKA, KOLAR (200347)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "ST Peters Medical College, Hospital & Research Institute",
+    "official_name": "ST Peters Medical College, Hospital & Research Institute, Dr MGR Nagar, Near AERI Campus, Opp SIPCOT \u2013II, Hosur, Krishnagiri District (904746)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Vinayaka Missions Kirupananda Variyar Medical College, Salem",
+    "official_name": "Vinayaka Missions Kirupananda Variyar Medical College, Salem, Sankari Main Road, (NH-47), Seeragapadi, Salem (200401)",
+    "score": 0.92,
+    "old_total": 200,
+    "new_total": 200,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 200,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "AIIMS, Deogarh",
+    "official_name": "AIIMS, Deogarh , AIIMS Deoghar Devipur, Jharkhand India, PIN - 814152 (200512)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 33,
+      "SC": 19,
+      "ST": 9,
+      "EWS": 13
+    }
+  },
+  {
+    "app_name": "AIIMS, Madurai",
+    "official_name": "AIIMS, Madurai, AIIMS MADURAI (200580)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 20,
+      "OBC": 14,
+      "SC": 7,
+      "ST": 4,
+      "EWS": 5
+    }
+  },
+  {
+    "app_name": "AIIMS, Raipur",
+    "official_name": "AIIMS, Raipur, Tatibandh, G E Road, Raipur Chhattisgarh, Pin - 492099 (200506)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 19,
+      "ST": 9,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "AIIMS, Rishikesh",
+    "official_name": "AIIMS, Rishikesh , ALL INDIA INSTITUTE OF MEDICAL SCIENCES, RISHIKESH Uttarakhand - 249203 (200507)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 19,
+      "ST": 9,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "JIPMER PUDUCHERRY",
+    "official_name": "JIPMER PUDUCHERRY, Dhanvantari Nagar Gorimedu Puducherry (200521)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 182,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 76,
+      "OBC": 48,
+      "SC": 27,
+      "ST": 14,
+      "EWS": 17
+    }
+  },
+  {
+    "app_name": "Lady Hardinge Medical College",
+    "official_name": "Lady Hardinge Medical College, New Delhi, Lady Hardinge Medical College, Shaheed Bhagat Singh Marg, New Delhi (200448)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 225,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 92,
+      "OBC": 61,
+      "SC": 34,
+      "ST": 17,
+      "EWS": 21
+    }
+  },
+  {
+    "app_name": "AIIMS, Gorakhpur",
+    "official_name": "AIIMS, Gorakhpur , AIIMS Gorakhpur, Medical College Building, Kunraghat, Gorakhpur (200513)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 33,
+      "SC": 19,
+      "ST": 10,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "AIIMS, Jodhpur",
+    "official_name": "AIIMS, Jodhpur, BASNI PHASE - II, JODHPUR-342005 (200505)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 150,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 61,
+      "OBC": 40,
+      "SC": 23,
+      "ST": 11,
+      "EWS": 15
+    }
+  },
+  {
+    "app_name": "AIIMS, Kalyani",
+    "official_name": "AIIMS, Kalyani, NH-34 Connector, Basantapur, Saguna, Kalyani, 741245, West Bengal, India (200514)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 18,
+      "ST": 9,
+      "EWS": 13
+    }
+  },
+  {
+    "app_name": "AIIMS, Patna",
+    "official_name": "AIIMS, Patna, Phulwarisharif, Patna, Bihar-801507 (200508)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 50,
+      "OBC": 34,
+      "SC": 18,
+      "ST": 10,
+      "EWS": 13
+    }
+  },
+  {
+    "app_name": "AIIMS, Bhubaneswar",
+    "official_name": "AIIMS, Bhubaneswar, AT - Sijua, POST - DUMUDUMA, BHUBANESWAR-751019 (200504)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 19,
+      "ST": 9,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "AIIMS, Bibi Nagar",
+    "official_name": "AIIMS, Bibi Nagar, Hyderabad, AIIMS Bibinagar (Hyderabad Metropolitan Region) Telangana 508126 (200517)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 41,
+      "OBC": 27,
+      "SC": 15,
+      "ST": 7,
+      "EWS": 10
+    }
+  },
+  {
+    "app_name": "AIIMS, Nagpur",
+    "official_name": "AIIMS, Nagpur, PLOT NO 2 SECTOR 20 MIHAN NAGPUR (200509)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 50,
+      "OBC": 34,
+      "SC": 18,
+      "ST": 10,
+      "EWS": 13
+    }
+  },
+  {
+    "app_name": "AIIMS, Rai Bareli",
+    "official_name": "AIIMS, Rai Bareli , All India Institute of Medical Sciences Raebareli (200516)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 50,
+      "OBC": 34,
+      "SC": 19,
+      "ST": 9,
+      "EWS": 13
+    }
+  },
+  {
+    "app_name": "Maulana Azad Medical College",
+    "official_name": "Maulana Azad Medical College, New Delhi, 2 Bahadur Shah Zafar Marg New Delhi (200449)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 244,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 119,
+      "OBC": 66,
+      "SC": 36,
+      "ST": 19,
+      "EWS": 4
+    }
+  },
+  {
+    "app_name": "AIIMS- Bhopal",
+    "official_name": "AIIMS-Bhopal,, SAKET NAGAR BHOPAL (200503)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 125,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 51,
+      "OBC": 34,
+      "SC": 19,
+      "ST": 9,
+      "EWS": 12
+    }
+  },
+  {
+    "app_name": "ESIC, Medical College and Hospital",
+    "official_name": "Employees State Insurance Corporation Medical College, Patna, ESIC Medical College and Hospital, Arrah Danapur Road, Sikandarpur, Bihta, Patna- 801103 (200573)",
+    "score": 0.92,
+    "old_total": null,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 22,
+      "OBC": 13,
+      "SC": 7,
+      "ST": 4,
+      "EWS": 4
+    }
+  },
+  {
+    "app_name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi",
+    "official_name": "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi, ABVIMS, Dr. RML Hospital, B.K.S. Marg, New Delhi (200498)",
+    "score": 0.92,
+    "old_total": 100,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 41,
+      "OBC": 27,
+      "SC": 15,
+      "ST": 7,
+      "EWS": 10
+    }
+  },
+  {
+    "app_name": "Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli",
+    "official_name": "Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli, Sangli Miraj Road Wanlesswadi Sangli Maharashtra (200355)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Dr. D Y Patil Medical College, Hospital and Research Centre, Pimpri, Pune",
+    "official_name": "Dr. D Y Patil Medical College, Hospital and Research Centre, Pimpri, Pune, Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune. (200361)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Dr. D Y Patil Medical College, Kolhapur",
+    "official_name": "Dr. D Y Patil Medical College, Kolhapur, 869, E Ward, D. Y. Patil Vidyanagar, Kasaba Bavada, Kolhapur 416006 (200363)",
+    "score": 0.92,
+    "old_total": 200,
+    "new_total": 200,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 200,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Employees State Insurance Corporation Medical College, Bangalore",
+    "official_name": "Employees State Insurance Corporation Medical College, Bangalore, ESIC Medical College and Hospital, Rajajinagar, Bengaluru-560010 (200165)",
+    "score": 0.92,
+    "old_total": 150,
+    "new_total": 90,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 37,
+      "OBC": 24,
+      "SC": 14,
+      "ST": 7,
+      "EWS": 8
+    }
+  },
+  {
+    "app_name": "Employees State Insurance Corporation Medical College, Gulbarga",
+    "official_name": "Employees State Insurance Corporation Medical College, Gulbarga, ESIC Medical College and Hospital, Sedam Road Gulbarga-585106 Karnataka (200413)",
+    "score": 0.92,
+    "old_total": 150,
+    "new_total": 90,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 37,
+      "OBC": 25,
+      "SC": 13,
+      "ST": 6,
+      "EWS": 9
+    }
+  },
+  {
+    "app_name": "Employees State Insurance Corporation Medical College, Patna",
+    "official_name": "Employees State Insurance Corporation Medical College, Patna, ESIC Medical College and Hospital, Arrah Danapur Road, Sikandarpur, Bihta, Patna- 801103 (200573)",
+    "score": 0.92,
+    "old_total": 100,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 22,
+      "OBC": 13,
+      "SC": 7,
+      "ST": 4,
+      "EWS": 4
+    }
+  },
+  {
+    "app_name": "Kasturba Medical College, Mangalore",
+    "official_name": "Kasturba Medical College, Mangalore, Light house Hill Road, Mangalore, India (200339)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 198,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 198,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Maharishi Markandeshwar Institute Of Medical Sciences & Research, Mullana, Ambala",
+    "official_name": "Maharishi Markandeshwar Institute Of Medical Sciences & Research, Mullana, Ambala, M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA. (200332)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Mahatma Gandhi Missions Medical College, Aurangabad",
+    "official_name": "Mahatma Gandhi Missions Medical College, Aurangabad, N-6, Cidco, Chhatrapati Sambhajinagar -Aurangabad (200367)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Mahatma Gandhi Missions Medical College, Kamothe, Navi Mumbai",
+    "official_name": "Mahatma Gandhi Mission Medical College, Vashi, Sector 30, Vashi, Navi Mumbai (200654)",
+    "score": 0.82,
+    "old_total": 250,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 100,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Mahatma Gandhi Missions Medical College, Nerul, Navi Mumbai",
+    "official_name": "Mahatma Gandhi Missions Medical College, Nerul, Navi Mumbai, Sector-8, Nerul West Navi Mumbai (902807)",
+    "score": 0.92,
+    "old_total": 50,
+    "new_total": 50,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 50,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Mahatma Gandhi Missions Medical College, Panvel",
+    "official_name": "Mahatma Gandhi Missions Medical College, Panvel, Gate No. 2, MGM Education Campus, Near Kalamboli Circle, Panvel, Raigad (904553)",
+    "score": 0.92,
+    "old_total": 100,
+    "new_total": 100,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 100,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "SBKS Medical Instt. & Research Centre, Vadodra",
+    "official_name": "SBKS Medical Instt. & Research Centre, Vadodra, Sumandeep Vidyapeeth Deemed to be University Campus, At. Po.Piparia, Tal.Waghodia, Dist.Vadodara (200330)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore",
+    "official_name": "Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore, SRI SIDDHARTHA INSTITUTE OF MEDICAL SCIENCES AND RESEARCH CENTRE T BEGUR NELAMANGALA TALUK BANGALOR (200472)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "Srinivasan Medical College and Hospital",
+    "official_name": "Srinivasan Medical College and Hospital, NH-45, TRICHY - CHENNAI TRUNK ROAD, NEAR TOLL PLAZA, SAMAYAPURAM, TIRUCHIRAPPALLI - 621 112. (904747)",
+    "score": 0.92,
+    "old_total": 250,
+    "new_total": 250,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 250,
+      "OBC": 0,
+      "SC": 0,
+      "ST": 0,
+      "EWS": 0
+    }
+  },
+  {
+    "app_name": "University College of Medical Sciences & GTB Hospital, New Delhi",
+    "official_name": "University College of Medical Sciences & GTB Hospital, New Delhi, Dilshad Garden (200450)",
+    "score": 0.92,
+    "old_total": 170,
+    "new_total": 170,
+    "old_matrix": null,
+    "new_matrix": {
+      "General (UR)": 73,
+      "OBC": 46,
+      "SC": 26,
+      "ST": 13,
+      "EWS": 12
+    }
+  }
+]

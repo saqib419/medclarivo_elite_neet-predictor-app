@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Dr S S Tantia Medical College Hospital & Research Centre",
+    "state": "Rajasthan",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Government Medical College, Chandigarh",
+    "state": "Chandigarh",
+    "mgmt": "Government",
+    "totalSeats": 200
+  },
+  {
+    "name": "Government Medical College, Jammu",
+    "state": "Jammu and Kashmir",
+    "mgmt": "Government",
+    "totalSeats": 250
+  },
+  {
+    "name": "Institute Of Medical Sciences & SUM Hospital, Bhubaneswar",
+    "state": "Odisha",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Nagaland Institute of Medical Sciences & Research",
+    "state": "Nagaland",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Puducherry Institute of Medical Sciences & Research, Pondicherry",
+    "state": "Puducherry",
+    "mgmt": "Private",
+    "totalSeats": 250
+  },
+  {
+    "name": "Sikkim Government Medical College",
+    "state": "Sikkim",
+    "mgmt": "Government",
+    "totalSeats": 100
+  },
+  {
+    "name": "Sikkim Manipal Institute of Medical Sciences, Gangtok",
+    "state": "Sikkim",
+    "mgmt": "Private",
+    "totalSeats": 100
+  }
+]

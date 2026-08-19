@@ -4855,30 +4855,6 @@
       "totalSeats": 100
     },
     {
-      "name": "Government Doon Medcial College",
-      "quota": "AIQ",
-      "state": "Uttarakhand",
-      "cutoffs": {
-        "General": 14543,
-        "EWS": 10772,
-        "OBC": 875148,
-        "SC": 82017,
-        "ST": 159643
-      },
-      "cutoffTrends": [
-        {
-          "year": 2025,
-          "round1": 14543,
-          "round2": 9655
-        },
-        {
-          "year": 2024,
-          "round1": 7865,
-          "round2": 435519
-        }
-      ]
-    },
-    {
       "name": "Government Medcial College",
       "quota": "AIQ",
       "state": "Maharashtra",

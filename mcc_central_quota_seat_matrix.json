@@ -1,0 +1,1177 @@
+{
+  "AIIMS Mangalagiri , ALL INDIA INSTITUTE OF MEDICAL SCIENCES NEAR TADEPALLI MANGALAGIRI GUNTUR (Dt) ANDHRA PRADESH (200510)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 12,
+      "General": 51,
+      "SC": 19,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "GITAM Institute of Medical Sciences and Research, Visakhapatnam, Gandhi Institute of Technology and Management (GITAM), Rushikonda, Visakhapatnam (200324)": {
+    "seatMatrix": {
+      "General": 150
+    },
+    "totalSeats": 150,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS Guwahati, PO-CHANGSARI, DISTRICT-KAMRUP (200519)": {
+    "seatMatrix": {
+      "OBC": 27,
+      "EWS": 10,
+      "General": 41,
+      "SC": 15,
+      "ST": 7
+    },
+    "totalSeats": 100,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "AIIMS, Patna, Phulwarisharif, Patna, Bihar-801507 (200508)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 13,
+      "General": 50,
+      "SC": 18,
+      "ST": 10
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Employees State Insurance Corporation Medical College, Patna, ESIC Medical College and Hospital, Arrah Danapur Road, Sikandarpur, Bihta, Patna- 801103 (200573)": {
+    "seatMatrix": {
+      "OBC": 13,
+      "EWS": 4,
+      "General": 22,
+      "SC": 7,
+      "ST": 4
+    },
+    "totalSeats": 50,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "AIIMS, Raipur, Tatibandh, G E Road, Raipur Chhattisgarh, Pin - 492099 (200506)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 12,
+      "General": 51,
+      "SC": 19,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "AIIMS, New Delhi, ANSARI NAGAR EAST, AUROBINDO MARG, NEW DELHI 110029 (200502)": {
+    "seatMatrix": {
+      "General": 57,
+      "OBC": 33,
+      "EWS": 13,
+      "SC": 19,
+      "ST": 10
+    },
+    "totalSeats": 132,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Atal Bihari Vajpayee Institute of Medical Sciences and Dr. RML Hospital, New Delhi, ABVIMS, Dr. RML Hospital, B.K.S. Marg, New Delhi (200498)": {
+    "seatMatrix": {
+      "OBC": 27,
+      "EWS": 10,
+      "General": 41,
+      "SC": 15,
+      "ST": 7
+    },
+    "totalSeats": 100,
+    "instituteType": "Central University"
+  },
+  "ESIC Dental College and Hospital, ESIC Hospital, Sector 15, Rohini (200496)": {
+    "seatMatrix": {
+      "OBC": 16,
+      "EWS": 7,
+      "General": 25,
+      "SC": 9,
+      "ST": 5
+    },
+    "totalSeats": 62,
+    "instituteType": "Central University"
+  },
+  "Faculty of Dentistry, Jamia Millia Islamia, New Delhi, Faculty of Dentistry Jamia Millia Islamia A Central University Maulana Mohammad Ali Jauhar Marg (200325)": {
+    "seatMatrix": {
+      "General": 45,
+      "OBC": 4,
+      "ST": 1
+    },
+    "totalSeats": 50,
+    "instituteType": "Central University"
+  },
+  "Hamdard Institute of Medical Sciences & Research, New Delhi, HIMSR, Guru Ravidas Marg, Hamdard Nagar, New Delhi (200326)": {
+    "seatMatrix": {
+      "General": 150
+    },
+    "totalSeats": 150,
+    "instituteType": "Deemed University"
+  },
+  "Lady Hardinge Medical College, New Delhi, Lady Hardinge Medical College, Shaheed Bhagat Singh Marg, New Delhi (200448)": {
+    "seatMatrix": {
+      "OBC": 61,
+      "EWS": 21,
+      "General": 92,
+      "SC": 34,
+      "ST": 17
+    },
+    "totalSeats": 225,
+    "instituteType": "Central University"
+  },
+  "Maulana Azad Institute of Dental Sciences, New Delhi, MAMC Complex, B.S. Zafar Marg, New Delhi (200451)": {
+    "seatMatrix": {
+      "OBC": 13,
+      "EWS": 5,
+      "General": 21,
+      "SC": 7,
+      "ST": 4
+    },
+    "totalSeats": 50,
+    "instituteType": "Central University"
+  },
+  "Maulana Azad Medical College, New Delhi, 2 Bahadur Shah Zafar Marg New Delhi (200449)": {
+    "seatMatrix": {
+      "OBC": 66,
+      "EWS": 4,
+      "General": 119,
+      "SC": 36,
+      "ST": 19
+    },
+    "totalSeats": 244,
+    "instituteType": "Central University"
+  },
+  "University College of Medical Sciences & GTB Hospital, New Delhi, Dilshad Garden (200450)": {
+    "seatMatrix": {
+      "OBC": 46,
+      "EWS": 12,
+      "General": 73,
+      "SC": 26,
+      "ST": 13
+    },
+    "totalSeats": 170,
+    "instituteType": "Central University"
+  },
+  "Vardhman Mahavir Medical College & Safdarjung Hospital, Delhi, Vardhman Mahavir Medical College And Safdarjung Hospital, New Delhi, Delhi (NCT), 110029 (200495)": {
+    "seatMatrix": {
+      "OBC": 45,
+      "EWS": 16,
+      "General": 66,
+      "SC": 24,
+      "ST": 13
+    },
+    "totalSeats": 164,
+    "instituteType": "Central University"
+  },
+  "AIIMS Rajkot, Admission cell, Academic section, First floor, Academic block, Permanent Campus, AIIMS Rajkot, Khand (200520)": {
+    "seatMatrix": {
+      "OBC": 21,
+      "EWS": 7,
+      "General": 31,
+      "SC": 11,
+      "ST": 5
+    },
+    "totalSeats": 75,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "K M Shah Dental Collegel, SumanDeep Vidyapeeth Vadodara, Sumandeep Vidyapeeth Piparia Waghodia Vadodara Gujarat (200329)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "SBKS Medical Instt. & Research Centre, Vadodra, Sumandeep Vidyapeeth Deemed to be University Campus, At. Po.Piparia, Tal.Waghodia, Dist.Vadodara (200330)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "All India Institute of Medical Sciences, Rewari, Director Office, AIIMS Rewari (Majra M. Bhalkhi) , Haryana , 123102 , India (904759)": {
+    "seatMatrix": {
+      "OBC": 13,
+      "EWS": 5,
+      "General": 20,
+      "SC": 8,
+      "ST": 4
+    },
+    "totalSeats": 50,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Amrita School of Medicine, Mata Amritanandmayi Marg, Sector- 88, Faridabad (200646)": {
+    "seatMatrix": {
+      "General": 150
+    },
+    "totalSeats": 150,
+    "instituteType": "Deemed University"
+  },
+  "Employees State Insurance Corporation Medical College, Faridabad, NH 3 NIT FARIDABAD, Haryana, 121001 (200409)": {
+    "seatMatrix": {
+      "OBC": 19,
+      "EWS": 8,
+      "General": 31,
+      "SC": 11,
+      "ST": 6
+    },
+    "totalSeats": 75,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "Maharishi Markandeshwar Institute Of Medical Sciences & Research, Mullana, Ambala, M.M. INSTITUTE OF MEDICAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA. (200332)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "MANAV RACHNA DENTAL COLLEGE FARIDABAD, SECTOR - 43, DELHI SURAJKUND ROAD FARIDABAD (200487)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "MM College of Dental Scie. and Res., Mullana, M.M. COLLEGE OF DENTAL SCIENCES AND RESEARCH, MULLANA, AMBALA, HARYANA (200331)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS Bilaspur Changar Palasiyan, Himachal Pradesh, All India Institute of Medical Sciences AIIMS Bilaspur Kothipura BILASPUR Himachal Pradesh 174001 (200530)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 13,
+      "General": 51,
+      "SC": 18,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Shri Lal Bahadur Shastri Government Medical College, Mandi, HP, Mandi at Nerchowk PO Bhangrotu Tehsil Balh District Mandi (200410)": {
+    "seatMatrix": {
+      "OBC": 14,
+      "EWS": 6,
+      "General": 21,
+      "SC": 8,
+      "ST": 5
+    },
+    "totalSeats": 54,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "AIIMS Jammu, AIIMS, Vijaypur, Jammu, Jammu and Kashmir (200518)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 12,
+      "General": 50,
+      "SC": 19,
+      "ST": 10
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "AIIMS, Deogarh , AIIMS Deoghar Devipur, Jharkhand India, PIN - 814152 (200512)": {
+    "seatMatrix": {
+      "OBC": 33,
+      "EWS": 13,
+      "General": 51,
+      "SC": 19,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Manipal Tata Medical College,Baridih Jameshedpur, Kadani Road, Baridih, Jamshedpur, East Singbhum District (200528)": {
+    "seatMatrix": {
+      "General": 225
+    },
+    "totalSeats": 225,
+    "instituteType": "Deemed University"
+  },
+  "AB Shetty Memorial Inst. of Dental Sce., Mangaluru, Dakshina Kannada District , Post Deralakatte, Mangaluru (200333)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Chettinad Institute of Medical Education and Research, D.K Plantation, BEML Nagar, Kolar Gold Fields \u2013 Kolar (904743)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Employees State Insurance Corporation Medical College, Bangalore, ESIC Medical College and Hospital, Rajajinagar, Bengaluru-560010 (200165)": {
+    "seatMatrix": {
+      "OBC": 24,
+      "EWS": 8,
+      "General": 37,
+      "SC": 14,
+      "ST": 7
+    },
+    "totalSeats": 90,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "Employees State Insurance Corporation Medical College, Gulbarga, ESIC Medical College and Hospital, Sedam Road Gulbarga-585106 Karnataka (200413)": {
+    "seatMatrix": {
+      "OBC": 25,
+      "EWS": 9,
+      "General": 37,
+      "SC": 13,
+      "ST": 6
+    },
+    "totalSeats": 90,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "ESIC Dental College, Gulbarga, O/O the Dean, ESIC Dental College & Hospital, Sedam Road,Kalaburagi, Karnataka-585106 (200411)": {
+    "seatMatrix": {
+      "OBC": 9,
+      "EWS": 6,
+      "General": 14,
+      "SC": 6,
+      "ST": 2
+    },
+    "totalSeats": 37,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College JGMMMC, KLE Jagadguru Gangadhar Mahaswamigalu Moorusavirmath Medical College Gabbur Cross Hubballi (200536)": {
+    "seatMatrix": {
+      "General": 213
+    },
+    "totalSeats": 213,
+    "instituteType": "Deemed University"
+  },
+  "Jawaharlal Nehru Medical College, Belgaum, J.N. Medical College Campus, Nehru Nagar, Belagavi-590010. Karnataka, India. (200335)": {
+    "seatMatrix": {
+      "General": 238
+    },
+    "totalSeats": 238,
+    "instituteType": "Deemed University"
+  },
+  "JSS Dental College, Mysuru, The Principal JSS Dental College and Hospital Medical Institutions Campus Bannimantap S S Nagar Mysu (200336)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "JSS Medical College, Mysore, The Principal JSS Medical College and Hospital Medical Institutions Campus S S Nagar Mysuru (200337)": {
+    "seatMatrix": {
+      "General": 237
+    },
+    "totalSeats": 237,
+    "instituteType": "Deemed University"
+  },
+  "K S Hegde Medical Academy, Mangalore, Deralakatte, Mangaluru, Dakshina Kannada Dist, Karnataka (200338)": {
+    "seatMatrix": {
+      "General": 212
+    },
+    "totalSeats": 212,
+    "instituteType": "Deemed University"
+  },
+  "Kasturba Medical College, Mangalore, Light house Hill Road, Mangalore, India (200339)": {
+    "seatMatrix": {
+      "General": 198
+    },
+    "totalSeats": 198,
+    "instituteType": "Deemed University"
+  },
+  "Kasturba Medical College, Manipal, Madhav Nagar, Manipal, Karnataka State India (200340)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "KLE VK Inst. of Dental Scie. Belagavi, KLE V.K. Institute of Dental Sciences, J.N. Medical College Campus, Nehru Nagar,Belagavi- 590010.Karn (200341)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Manipal College of Dental Sce., Manipal, Madhav Nagar, Manipal India (200344)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Manipal College of Dental Science, Mangalore, Light House Hill Road, Mangalore India (200345)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Raja Rajeswari Medical College & Hospital, Bangalore, 202, Kambipura, Bengaluru Mysuru High Way,Kengeri Hobli, Bangalore, Karnataka (200469)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Shri B M Patil Medical College, Hospital & Research Centre, Vijayapura (Bijapur, SMT BANGARAMMA SAJJAN CAMPUS B M PATIL ROAD (SOLAPUR ROAD) VIJAYAPURA KARNATAKA (200346)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Sri Devaraj URS Medical College, Kolar, Post box No.7, SRI DEVARAJ URS MEDICAL COLLEGE, TAMAKA, KOLAR (200347)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Sri Siddhartha DentalCollege, Tumkur, AGALAKOTE B H ROAD TUMKUR (200348)": {
+    "seatMatrix": {
+      "General": 40
+    },
+    "totalSeats": 40,
+    "instituteType": "Deemed University"
+  },
+  "Sri siddhartha Institute of Medical Sciences & Research Centre, Bangalore, SRI SIDDHARTHA INSTITUTE OF MEDICAL SCIENCES AND RESEARCH CENTRE T BEGUR NELAMANGALA TALUK BANGALOR (200472)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Sri Siddhartha Medical College, Tumkur, SRI SIDDHARTHA MEDICAL COLLEGE B.H. ROAD, AGALAKOTE TUMKUR (200349)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Yenepoya Dental College, Yenepoya, University Road Deralakatte Mangaluru (200350)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Yenepoya Medical College, Mangalore, University Road Deralakatte Mangaluru (200351)": {
+    "seatMatrix": {
+      "General": 213
+    },
+    "totalSeats": 213,
+    "instituteType": "Deemed University"
+  },
+  "Amrita School of Dentistry, Kochi, Amrita School of Dentistry, Amrita Institute of Medical Sciences (AIMS), AIMS Ponekkara P.O, Kochi (200353)": {
+    "seatMatrix": {
+      "General": 50
+    },
+    "totalSeats": 50,
+    "instituteType": "Deemed University"
+  },
+  "Amrita School of Medicine, Elamkara, Kochi, Amrita School of Medicine, Amrita Institute of Medical Sciences AIMS Ponekkara P.O Kochi 682041 (200352)": {
+    "seatMatrix": {
+      "General": 149
+    },
+    "totalSeats": 149,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS-Bhopal,, SAKET NAGAR BHOPAL (200503)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 12,
+      "General": 51,
+      "SC": 19,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "AIIMS, Nagpur, PLOT NO 2 SECTOR 20 MIHAN NAGPUR (200509)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 13,
+      "General": 50,
+      "SC": 18,
+      "ST": 10
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Bharati Vidyapeeth Deemed University Medical College & Hospital, Sangli, Sangli Miraj Road Wanlesswadi Sangli Maharashtra (200355)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Bharati Vidyapeeth DU Dental College and Hospt., Pune, Bharati Vidyapeeth (Deemed to be University) Dental College and Hospital Pune (200354)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Bharati Vidyapeeth University Medical College, Pune, Dhankawadi, Pune-Satara Road, Pune (200356)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "BVDU Dental College and Hospital, Navi Mumbai, Bharati Vidyapeeth Dental College and Hospital, Sec.7, Belapur Navi Mumbai. (200357)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "BVDU Dental College and Hospital, Sangli, Sangli-Miraj Road, Wanlesswadi Sangli. (200358)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Datta Meghe Medical College, Nagpur, Hingna Road Wanadongri Nagpur Maharashtra India (200525)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Dr. D Y Patil Medical College, Hospital and Research Centre, Pimpri, Pune, Dr. D. Y. Patil Medical College, Hospital and Research Centre, Sant Tukaram Nagar, Pimpri, Pune. (200361)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Dr. D Y Patil Medical College, Kolhapur, 869, E Ward, D. Y. Patil Vidyanagar, Kasaba Bavada, Kolhapur 416006 (200363)": {
+    "seatMatrix": {
+      "General": 200
+    },
+    "totalSeats": 200,
+    "instituteType": "Deemed University"
+  },
+  "Dr. DY Patil Dental College and Hosp. Navi Mumbai, Dr. D. Y. Patil Vidyanagar, Sector 7, Nerul, Navi Mumbai (200359)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Dr. DY Patil Dental College and Hosp. Pune, Sant Tukaram Nagar, Pimpri, Pune - 411018 (200360)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "DY Patil University, School of Medicine, Survey no 124&126, MIDC Road , Ambi, Taluka Maval, Dist Pune (904369)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Jawaharlal Nehru Medical College, Sawangi (Meghe), Wardha, Sawangi (Meghe), Wardha, Maharashtra State, India (200364)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Krishna Institute of Medical Sciences, Karad, KARAD, DIST. SATARA (MAHARASHTRA STATE). (200365)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Mahatma Gandhi Mission Medical College, Vashi, Sector 30, Vashi, Navi Mumbai (200654)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Mahatma Gandhi Missions Medical College, Aurangabad, N-6, Cidco, Chhatrapati Sambhajinagar -Aurangabad (200367)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Mahatma Gandhi Missions Medical College, Navi Mumbai, MGM Medical College, Plot No. 1-2, Sector 1, Kamothe, Navi Mumbai - 410 209 (200368)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Mahatma Gandhi Missions Medical College, Nerul, Navi Mumbai, Sector-8, Nerul West Navi Mumbai (902807)": {
+    "seatMatrix": {
+      "General": 50
+    },
+    "totalSeats": 50,
+    "instituteType": "Deemed University"
+  },
+  "Mahatma Gandhi Missions Medical College, Panvel, Gate No. 2, MGM Education Campus, Near Kalamboli Circle, Panvel, Raigad (904553)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Padmashree Dr. DY. Patil Medical College, Navi Mumbai, Sector 5, Nerul, Navi Mumbai, (904758)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Rural Dental College, Loni, At - Loni Tal - Rahata Dist - Ahilyanagar Maharashtra State, India PIN-413736 (Near Shirdi) (200369)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Rural Medical College, Loni, Dr. Balasheb Vikhe Patil Rural Medical College At Loni BK Tal Rahata Dist. Ahilyanagar Maha (200370)": {
+    "seatMatrix": {
+      "General": 200
+    },
+    "totalSeats": 200,
+    "instituteType": "Deemed University"
+  },
+  "School of Dental Sciences and KIMSDU, Karad, KARAD, DIST SATARA (MAHARASHTRA STATE) - 415110 (200371)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Sharad Pawar Dental College and Hospital, Wardha, Sawangi (Meghe), Wardha, Maharashtra State, INDIA (200372)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Symbiosis Medical College for Women, Pune, Gram Lavale Tal Mulshi Pune (200527)": {
+    "seatMatrix": {
+      "General": 150
+    },
+    "totalSeats": 150,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS, Bhubaneswar, AT - Sijua, POST - DUMUDUMA, BHUBANESWAR-751019 (200504)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 12,
+      "General": 51,
+      "SC": 19,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Institute of Dental Sciences, Bhubaneswar, K8, Kalinga Nagar, PO- Mahalaxmi Vihar, Bhubaneswar (200373)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Institute of Medical Sciences & SUM Hospital, Campus-II, Phulnakhara Bhubaneswar, Odhisha, At-Nakhara, Po-Phulnakhara, Bhubaneswar, Khordha (902806)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Instt. Of Medical Sciences & SUM Hospital, Bhubaneswar, K 8 Kalinga Nagar Po Mahalaxmi Vihar Bhubaneswar (200374)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Kalinga Institute of Dental Sciences, Bhubaneswar, CAMPUS-5 KUSHABHADRA CAMPUS P.O-KIIT BHUBANESWAR ODISHA (200375)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Kalinga Institute of Medical Sciences, Bhubaneswar, CAMPUS-5 KUSHABHADRA CAMPUS P.O-KIIT BHUBANESWAR (200376)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Aarupadai Veedu Medical College, Pondicherry, PONDY - CUDDALORE MAIN ROAD, KIRUMAMPAKKAM, PUDUCHERRY (200377)": {
+    "seatMatrix": {
+      "General": 150
+    },
+    "totalSeats": 150,
+    "instituteType": "Deemed University"
+  },
+  "Indira Gandhi Institute of Dental Sciences, Pondicherry, SBV Pondicherry Campus, Pillaiyarkuppam, (200378)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "JIPMER KARAIKAL, JIPMER Academic Campus, FCI Link Road, Kovilpathu, Karaikal - 609602 (200522)": {
+    "seatMatrix": {
+      "OBC": 17,
+      "EWS": 7,
+      "General": 22,
+      "SC": 10,
+      "ST": 5
+    },
+    "totalSeats": 61,
+    "instituteType": "Jawaharlal Institute of Postgraduate Medical Education and Research"
+  },
+  "JIPMER PUDUCHERRY, Dhanvantari Nagar Gorimedu Puducherry (200521)": {
+    "seatMatrix": {
+      "OBC": 48,
+      "EWS": 17,
+      "General": 76,
+      "SC": 27,
+      "ST": 14
+    },
+    "totalSeats": 182,
+    "instituteType": "Jawaharlal Institute of Postgraduate Medical Education and Research"
+  },
+  "Mahatma Gandhi Medical College & Research Institute, Pondicherry, SBV Pondicherry Campus, Pillaiyarkuppam (200379)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Sri Lakshmi Narayana Institute of Medical Sciences, Pondicherry, OSUDU, AGARAM VILLAGE, KOODAPAKKAM POST, VILLIANUR COMMUNE, PUDUCHERRY (200380)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Vinayaka Missions Medical College, Karaikal, Pondicherry, KEEZHAKASAKUDIMEDU, KOTTUCHERRY(P.O), KARAIKAL - 609 609, U.T. OF PUDUCHERRY (200381)": {
+    "seatMatrix": {
+      "General": 200
+    },
+    "totalSeats": 200,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS Bathinda , Jodhpur Romana near Giani Zail Singh College Mandi Dabwali Road Bathinda (200511)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 13,
+      "General": 51,
+      "SC": 18,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "AIIMS, Jodhpur, BASNI PHASE - II, JODHPUR-342005 (200505)": {
+    "seatMatrix": {
+      "OBC": 40,
+      "EWS": 15,
+      "General": 61,
+      "SC": 23,
+      "ST": 11
+    },
+    "totalSeats": 150,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Employees State Insurance Corporation Medical College,Alwar, ESIC Medical College and Hospital Desula MIA Alwar Rajasthan India 301030 (200575)": {
+    "seatMatrix": {
+      "OBC": 13,
+      "EWS": 4,
+      "General": 21,
+      "SC": 8,
+      "ST": 4
+    },
+    "totalSeats": 50,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "ACS Medical College and Hospital, Chennai, Periyar EVR High Raod, Velappanchavadi, Chennai-77 (200383)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS, Madurai, AIIMS MADURAI (200580)": {
+    "seatMatrix": {
+      "OBC": 14,
+      "EWS": 5,
+      "General": 20,
+      "SC": 7,
+      "ST": 4
+    },
+    "totalSeats": 50,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Bhaarat Medical College & Hospital, 173, AGARAM MAIN ROAD , SELAIYUR, TAMBARAM CHENNAI - 600073 (200532)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Chettinad Hospital & Research Institute, Kanchipuram, Rajiv Gandhi Salai, Kelambakkam, Chengalpattu District (200384)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Dhanalakshmi Srinivasan Institute of Medical Sciences and Hospital - Thuraiyur Road, Perambalur, 274C, THURAIYUR ROAD, PERAMBALUR ,PERAMBALUR DISTRICT (904745)": {
+    "seatMatrix": {
+      "General": 200
+    },
+    "totalSeats": 200,
+    "instituteType": "Deemed University"
+  },
+  "ESIC Medical College & PGIMSR, K.K Nagar, Chennai, ASHOK PILLAR ROAD, KK NAGAR, CHENNAI (200415)": {
+    "seatMatrix": {
+      "OBC": 14,
+      "EWS": 5,
+      "General": 20,
+      "SC": 8,
+      "ST": 5
+    },
+    "totalSeats": 52,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "Faculty of Medicine , Sri Lalithambigai Medical College and Hospital, Faculty of Medicine - Sri Lalithambigai Medical College and Hospital, 1, Periyar EVR High Road, Ada (200540)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Government Medical College & ESIC Hospital, Coimbatore, TamilNadu, KAMARAJAR ROAD, VARADHARAJAPURAM, SINGANALLUR, COIMBATORE (200264)": {
+    "seatMatrix": {
+      "OBC": 9,
+      "EWS": 4,
+      "General": 15,
+      "SC": 5,
+      "ST": 2
+    },
+    "totalSeats": 35,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "J R Medical College and Hospital Villupuram District, Tamilnadu, Chennai-Trichy NH-45,Kiledaiyalam, Tindivanam Taluk,Villupuram District. (902804)": {
+    "seatMatrix": {
+      "General": 200
+    },
+    "totalSeats": 200,
+    "instituteType": "Deemed University"
+  },
+  "Meenakshi Ammal Dental College and Host., Chennai1, ALAPAKKAM MAIN ROAD MADURAVOYAL CHENNAI (200385)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Meenakshi Medical College and Research Institute, Enathur, Enathur, Karaipettai Post, Kanchipuram (200386)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "SATHYABAMA UNIV. Dental College and Hospt. Chennai, JEPPIAAR NAGAR RAJIV GANDHI SALAI, CHENNAI (200387)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Saveetha Dental College, Chennai, Saveetha Dental College and Hospitals,162, Poonamallee high road, Velapanchavadi, Chennai (200388)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Saveetha Medical College and Hospital, Kanchipuram, Saveetha Nagar, Thandalam, Chennai (200389)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Shri Sathya Sai Medical College and Research Institute, Kancheepuram, SBV Chennai Campus, Shri Sathya Sai Nagar, Ammapettai, Chennai (200390)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Sree Balaji Dental College and Hospital, Chennai, Velachery Main Road, Narayanapuram, Pallikaranai, Chennai - 600 100 (200392)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Sree Balaji Medical College and Hospital, Chennai, NO 7 WORKS ROAD CHROMEPET CHENNAI (200393)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Sri Ramachandra Dental and Hospt., Chennai, No. 1 Ramachandra Nagar, Porur, Chennai., Tamil Nadu, 600116 (200395)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Sri Ramachandra Medical College & Research Institute, Chennai, No. One Ramachandra Nagar, Porur, Chennai., Tamil Nadu, 600116 (200396)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Srinivasan Medical College and Hospital, NH-45, TRICHY - CHENNAI TRUNK ROAD, NEAR TOLL PLAZA, SAMAYAPURAM, TIRUCHIRAPPALLI - 621 112. (904747)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "SRM Dental College, Chennai, SRM DENTAL COLLEGE, BHARATHI SALAI, RAMAPURAM, CHENNAI - 89 (200397)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "SRM Katt. Dental College and Hospt. Chennai, SRM NAGAR POTHERI KATTANKULATHUR KANCHIPURAM (200398)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "SRM Medical College Hospital & Research Centre, Kancheepuram, SRM MEDICAL COLLEGE HOSPITAL AND RESEARCH CENTRE, POTHERI, KATTANKULATHUR 603203, CHENGALPATTU DIST. (200399)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "ST Peters Medical College, Hospital & Research Institute, Dr MGR Nagar, Near AERI Campus, Opp SIPCOT \u2013II, Hosur, Krishnagiri District (904746)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Thaimoogambigai Dental College and Hsopt. Chennai, Golden George Nagar, Mogappair, Chennai 600 107 (200400)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "VELS Medical College & Hospital, 12-123, Velan Nagar, Manjankaranai Village, Periyapalayam Road, Uthukottai Taluk, Tiruvallur Dist. (200537)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Vinayaka Missions Kirupananda Variyar Medical College, Salem, Sankari Main Road, (NH-47), Seeragapadi, Salem (200401)": {
+    "seatMatrix": {
+      "General": 200
+    },
+    "totalSeats": 200,
+    "instituteType": "Deemed University"
+  },
+  "VMS Dental College, Salem, Sankari Main Road (NH-47), Ariyanoor, Salem-636308 Tamil Nadu (200402)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS, Bibi Nagar, Hyderabad, AIIMS Bibinagar (Hyderabad Metropolitan Region) Telangana 508126 (200517)": {
+    "seatMatrix": {
+      "OBC": 27,
+      "EWS": 10,
+      "General": 41,
+      "SC": 15,
+      "ST": 7
+    },
+    "totalSeats": 100,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Employees State Insurance Coporation Medical College, Sanath Nagar, Hyderabad, Sanathnagar, Hyderabad (200418)": {
+    "seatMatrix": {
+      "OBC": 21,
+      "EWS": 6,
+      "General": 30,
+      "SC": 12,
+      "ST": 6
+    },
+    "totalSeats": 75,
+    "instituteType": "Employees State Insurance Scheme"
+  },
+  "Malla Reddy Dental College For Women, Hyderabad, Suraram X Roads Jeedimetla Hyderabad (902854)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Malla Reddy Institute of Dental Sciences, Hyderabad, Suraram X Roads Jeedimetla Hyderabad (902853)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Malla Reddy Institute of Medical Sciences, Hyderabad, Suraram X Roads Jeedimetla Hyderabad (902856)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "Mallareddy Medical College for Women, Hyderabad, Suraram X Roads Jeedimetla Hyderabad (902855)": {
+    "seatMatrix": {
+      "General": 250
+    },
+    "totalSeats": 250,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS, Gorakhpur , AIIMS Gorakhpur, Medical College Building, Kunraghat, Gorakhpur (200513)": {
+    "seatMatrix": {
+      "OBC": 33,
+      "EWS": 12,
+      "General": 51,
+      "SC": 19,
+      "ST": 10
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "AIIMS, Rai Bareli , All India Institute of Medical Sciences Raebareli (200516)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 13,
+      "General": 50,
+      "SC": 19,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Dr. Ziauddin Ahmed Dental College and Hospital,ALIGARH, ALIGARH MUSLIM UNIVERSITY, ALIGARH (200403)": {
+    "seatMatrix": {
+      "General": 50
+    },
+    "totalSeats": 50,
+    "instituteType": "Central University"
+  },
+  "IMS BHU Dental, Varanasi, Institute of Medical Sciences, Banaras Hindu University (200404)": {
+    "seatMatrix": {
+      "OBC": 17,
+      "EWS": 6,
+      "General": 25,
+      "SC": 10,
+      "ST": 5
+    },
+    "totalSeats": 63,
+    "instituteType": "Central University"
+  },
+  "Institute of Medical Sciences, BHU, Varansi, Institute of Medical Sciences, Banaras Hindu University (200405)": {
+    "seatMatrix": {
+      "OBC": 27,
+      "EWS": 10,
+      "General": 40,
+      "SC": 15,
+      "ST": 8
+    },
+    "totalSeats": 100,
+    "instituteType": "Central University"
+  },
+  "Jawaharlal Nehru Medical College, Aligarh, ALIGARH MUSLIM UNIVERSITY, ALIGARH (200406)": {
+    "seatMatrix": {
+      "General": 150
+    },
+    "totalSeats": 150,
+    "instituteType": "Central University"
+  },
+  "Santosh Dental College and Hospital, Ghaziabad, No.1, Santosh Nagar, Ghaziabad, Delhi NCR (200407)": {
+    "seatMatrix": {
+      "General": 100
+    },
+    "totalSeats": 100,
+    "instituteType": "Deemed University"
+  },
+  "Santosh Medical College, Ghaziabad, No.1, Santosh Nagar, Ghaziabad, Delhi NCR (200408)": {
+    "seatMatrix": {
+      "General": 150
+    },
+    "totalSeats": 150,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS, Rishikesh , ALL INDIA INSTITUTE OF MEDICAL SCIENCES, RISHIKESH Uttarakhand - 249203 (200507)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 12,
+      "General": 51,
+      "SC": 19,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Graphic Era Institute of Medical Sciences Dehradun, Uttrakhand, Graphic Era Institute of Medical Sciences 16th Milestone Chakrata Road Dehradun, Uttarakhand (902812)": {
+    "seatMatrix": {
+      "General": 200
+    },
+    "totalSeats": 200,
+    "instituteType": "Deemed University"
+  },
+  "AIIMS, Kalyani, NH-34 Connector, Basantapur, Saguna, Kalyani, 741245, West Bengal, India (200514)": {
+    "seatMatrix": {
+      "OBC": 34,
+      "EWS": 13,
+      "General": 51,
+      "SC": 18,
+      "ST": 9
+    },
+    "totalSeats": 125,
+    "instituteType": "All India Institute Of Medical Science(AIIMS)"
+  },
+  "Employees State Insurance Corporation Medical College, Joka, Kolkata, DIAMOND HARBOUR ROAD POST OFFICE JOKA KOLKATA 700104 (200313)": {
+    "seatMatrix": {
+      "OBC": 27,
+      "EWS": 9,
+      "General": 43,
+      "SC": 14,
+      "ST": 7
+    },
+    "totalSeats": 100,
+    "instituteType": "Employees State Insurance Scheme"
+  }
+}
