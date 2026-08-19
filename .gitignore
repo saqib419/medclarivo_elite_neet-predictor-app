@@ -4,3 +4,24 @@ dist
 # Working artifacts from the AIQ cutoff-data pipeline (parse_cutoff_pdf.py output)
 aiq_*.csv
 flagged_*.csv
+
+# One-off data-cleanup / analysis scripts and scratch outputs
+merge_*.py
+find_duplicate_pairs.py
+review_unmatched.py
+inspect_remaining_pairs.py
+fix_state_quota_visibility.py
+cleanup_junk_entries.py
+reseed_aiims_ini*.py
+normalize_dual_quota_names.py
+unmatched_candidates.txt
+*_changes.json
+*_unmatched.txt
+*_duplicate_*.txt
+*_skipped_ini.txt
+*_missing_from_app.json
+v*_nmc_*
+nmc_*.json
+nmc_*.csv
+mcc_*.json
+mcc_*.csv
